@@ -1,3 +1,7 @@
+---
+permalink: /arteries/
+---
+
 ## Arteries, capillaries, and cells {#arteries}
 
 |---
