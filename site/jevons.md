@@ -1,5 +1,6 @@
 ---
 permalink: /jevons/
+layout: none
 ---
 
 ## Jevons paradox
