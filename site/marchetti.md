@@ -1,3 +1,7 @@
+---
+permalink: /marchetti/
+---
+
 ## Marchetti constant {#marchetti}
 
 People will commute 30 minutes each way.
@@ -9,4 +13,5 @@ People will commute 30 minutes each way.
 
 ---
 Yacov Zahavi  (1926 — )
+
 Cesare Marchetti  (1927 — )
