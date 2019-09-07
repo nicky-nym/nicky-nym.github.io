@@ -2,7 +2,7 @@
 permalink: /arteries/
 ---
 
-## Arteries, capillaries, and cells {#arteries}
+## Circulation {#circulation}
 
 |---
 | Arteries | Capillaries | Cells |
