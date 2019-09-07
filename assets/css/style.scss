@@ -7,16 +7,12 @@ h2 {
   color: #660000
 }
 
-header {width:270px;float:right;position:fixed;-webkit-font-smoothing:subpixel-antialiased}
-header li {width:89px;float:right;border-left:1px solid #e0e0e0;height:40px}
-section {width:500px;float:left;padding-bottom:50px}
-footer {width:270px;float:right;position:fixed;bottom:50px;-webkit-font-smoothing:subpixel-antialiased}
+// header {width:270px;float:right;position:fixed;-webkit-font-smoothing:subpixel-antialiased}
+// header li {width:89px;float:right;border-left:1px solid #e0e0e0;height:40px}
+// section {width:500px;float:left;padding-bottom:50px}
+// footer {width:270px;float:right;position:fixed;bottom:50px;-webkit-font-smoothing:subpixel-antialiased}
 
-header {
-  padding-left: 320px
-}
-
-@media print, screen and (max-width: 960px) {
+@media print, screen {
   div.wrapper {
     width:auto;margin:0
   }
