@@ -1,6 +1,6 @@
 # Hello World!
 
-[Jevin's paradox](jevins)
+[Jevons paradox](jevons)
 
 [Marchetti constant](marchetti)
 
