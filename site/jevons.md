@@ -4,7 +4,7 @@ permalink: /jevons/
 # title: Jevons Slide
 # description: Web presentation in Jekyll using Reveal.js
 # theme: league
-transition: fade
+# transition: fade
 ---
 
 ## Jevons paradox
