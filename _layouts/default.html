@@ -24,14 +24,6 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        {% if site.github.is_project_page %}
-        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
-        {% endif %}
-
-        {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        {% endif %}
-
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
@@ -47,10 +39,16 @@
       </section>
       <footer>
         {% if site.github.is_project_page %}
+        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
         <p><small>This work is licensed under the 
           <a href="https://raw.githubusercontent.com/nicky-nym/nicky-nym.github.io/master/LICENSE.txt">Creative Commons Zero v1.0 Universal</a> License/Waiver.</a></small></p>
+
+        {% if site.github.is_user_page %}
+        <p class="view"><small><a href="{{ site.github.owner_url }}">GitHub Profile for nicky-nym</a></small></p>
+        {% endif %}
+
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
