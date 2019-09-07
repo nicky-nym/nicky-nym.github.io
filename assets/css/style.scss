@@ -3,8 +3,12 @@
 
 @import "{{ site.theme }}";
 
+h1 a {
+  color: #697d00;
+}
+
 h2 {
-  color: #660000
+  color: #660000;
 }
 
 // header {width:270px;float:right;position:fixed;-webkit-font-smoothing:subpixel-antialiased}
