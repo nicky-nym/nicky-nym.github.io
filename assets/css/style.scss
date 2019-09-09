@@ -22,6 +22,10 @@ img.logo {
 }
 
 @media print, screen {
+  html {
+    margin:0;
+    padding:0;
+  }
   div.wrapper {
     width:auto;
     margin:0;
