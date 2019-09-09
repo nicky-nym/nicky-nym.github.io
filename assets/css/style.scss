@@ -8,7 +8,7 @@ h1 a {
 }
 
 h2 {
-  color: #660000;
+  color: #D2440C;
 }
 
 // header {width:270px;float:right;position:fixed;-webkit-font-smoothing:subpixel-antialiased}
@@ -23,13 +23,17 @@ img.logo {
 
 @media print, screen {
   div.wrapper {
-    width:auto;margin:0;
+    width:auto;
+    margin:0;
   }
   header,section,footer{
-    float:none;position:static;width:auto;
+    float:none;
+    position:static;
+    width:auto;
   }
   header {
-    padding-right:320px;
+    padding:0;
+    margin:0;
     background-color:#eeeeee;
   }
   section {
@@ -45,9 +49,6 @@ img.logo {
   
   body {
     word-wrap:break-word;
-  }
-  header {
-    padding:0;
   }
   header ul,header p.view {
     position:static;
