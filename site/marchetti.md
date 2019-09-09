@@ -2,7 +2,7 @@
 permalink: /marchetti/
 ---
 
-## Marchetti constant {#marchetti}
+# Marchetti constant
 
 People will commute 30 minutes each way.
 + Ancient Rome
