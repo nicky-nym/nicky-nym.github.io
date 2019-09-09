@@ -22,7 +22,7 @@ img.logo {
 }
 
 @media print, screen {
-  html {
+  html,body {
     margin:0;
     padding:0;
   }
@@ -40,35 +40,32 @@ img.logo {
     margin:0;
     background-color:#eeeeee;
   }
-  section {
-    border:1px solid #e5e5e5;border-width:1px 0;padding:20px 0;margin:0 0 20px;
-  }
   header a small {
     display:inline;
   }
   header ul {
-    position:absolute;right:50px;top:52px;
-  }
-
-  
-  body {
-    word-wrap:break-word;
+    width:99%;
+    position:absolute;
+    right:50px;
+    top:52px;
   }
   header ul,header p.view {
     position:static;
   }
-  pre,code {
-    word-wrap:normal;
-  }
-  body {
-    padding:15px;
-  }
-  header ul {
-    width:99%;
-  }
   header li,header ul li+li+li {
     width:33%;
   }
+  section {
+    border:1px solid #e5e5e5;
+    border-width:1px 0;
+    padding:20px 0;
+    margin:0 0 20px;
+  }
+
+  body,pre,code {
+    word-wrap:normal;
+  }
+
 }
 
 /*
