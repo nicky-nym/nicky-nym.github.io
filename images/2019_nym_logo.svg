@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="988px"
-	 height="540px" viewBox="0 0 988 540" enable-background="new 0 0 988 540" xml:space="preserve">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1008px"
+	 height="480px" viewBox="0 0 1008 480" enable-background="new 0 0 1008 480" xml:space="preserve">
 
 <rect fill="#FFFFFF" width="988" height="540"/>
 
-<g id="N" transform="translate(235, 0)">
+<g id="N" transform="translate(255, -60)">
   <!-- 247 wide -->
 	<g>
+		<polygon fill="#999" points="0,120 0,420 60,420 60,224 187,420 247,420 247,120 187,120 187,316 60,120 		"/>
+		<!--
 		<polygon fill="#999" points="0,60 0,420 60,420 60,184 187,420 247,420 247,60 187,60 187,296 60,60 		"/>
+		-->
 	</g>
 </g>
 
-<g id="y" transform="translate(462, 0)">
+<g id="y" transform="translate(482, -60)">
   <!-- 246 wide -->
 	<g>
 		<polygon fill="#999" points="0,240 90,420 156,420 66,240 		"/>
@@ -20,7 +23,7 @@
 	</g>
 </g>
 
-<g id="m" transform="translate(688, 0)">
+<g id="m" transform="translate(708, -60)">
   <!-- 300 wide -->
 	<g>
 		<polygon fill="#999" points="0,240 0,420 60,420 60,240 		"/>
@@ -44,7 +47,7 @@
 	</g>
 </g>
 
-<g id="Chevron" transform="scale(0.875)">
+<g id="Chevron" transform="scale(0.75)">
   <!-- 255 wide -->
 	<g>
 		<polygon fill="#D2440C" points="45,480 0,480 0,435 170.625,240 0,45 0,0 45,0 255,240 		"/>
