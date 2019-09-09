@@ -17,7 +17,7 @@ h1,h2,h3 {
 // footer {width:270px;float:right;position:fixed;bottom:50px;-webkit-font-smoothing:subpixel-antialiased}
 
 img.logo {
-  # float:right;
+  // float:right;
   max-height:40px;
 }
 
@@ -41,6 +41,7 @@ img.logo {
     // background-color:#eeeeee;
   }
   header a {
+    display: inline-block;
     padding:0;
     margin:0;
   }
