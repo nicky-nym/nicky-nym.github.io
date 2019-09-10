@@ -5,7 +5,7 @@ permalink: /density/
 # Density
 
 Floor space per square mile — Floor Area Ratio (FAR)
-* People per square foot
+x People per square foot
 = People per square mile
 
 ## Suburban vicious cycle
