@@ -19,3 +19,10 @@ permalink: /goals/
     - a weekly Burning Man art car workshop
     - a maker space with an Atomic Force Microscope
     - etc.
+
+## Best case scenario
+
++ maximize amount of usable floor area within 30 minutes of this floor area
++ minimize "basement" floor area without windows or daylight
++ maximize trees passed per day
+
