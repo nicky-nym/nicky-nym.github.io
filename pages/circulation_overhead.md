@@ -3,12 +3,14 @@ permalink: /circulation_overhead/
 ---
 # Circulation overhead
 
-New York
+```
+<------------------------------- Manhattan city block ---------------------------->
 
-Manhattan city block:            30% street   
-70% building
+<------------------- buildings ----------------------------><--   streets &     -->
+<--                                                      --><--   sidewalks     -->
+<--              70% of land area                        --><--  30% land area  -->
 
-Manhattan building:     30% circulation
-70% occupied
-
-70% of 70% = 49% occupied
+<-- rooms like offices and apartments  --><-- hallways   -->
+<--                                    --><-- stairs...  -->
+<--          70% of floor area         --><--    30%     -->
+```
