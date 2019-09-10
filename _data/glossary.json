@@ -1,0 +1,11 @@
+{ 
+  "glossary": {
+    "name": "Glossary",
+    "terms": [
+      {
+        "term": "foo",
+        "definition": "An example term."
+      }
+    ]
+  }
+}
