@@ -25,10 +25,10 @@ permalink: /goals/
 |---
 | **Goal** | **Design implications** | **Examples**
 |:-:|:-:|:-
-| affordability | keep construction costs down       | no elevators (at $100,000+ each) <br> use conventional construction techniques <br> strive for economies of scale
-|               | keep land costs low                | pick an inexpensive site
+| affordability | keep construction costs down       | use conventional construction techniques <br> no skyscrapers (expensive per square foot) <br> no elevators (at $100,000+ each) <br> strive for economies of scale 
+|               | keep land costs low                | pick an inexpensive site <br> maximize Floor Area Ratio (FAR), or floor space per square mile 
 |               | keep developer financing costs low | avoid big risks <br> produce revenue early on
-|               | keep transportation costs down     | no automobiles (at $20,000+ each) <br> no busses (at $500,000 each, or $8,000+ per passenger seat) <br> no subway cars (at $10,000+ per passenger seat) <br> no subway tunnels (at $100,000,000+ per mile) 
+|               | keep transportation costs down     | keep everything close <br> no automobiles (at $20,000+ each) <br> no busses (at $500,000 each, or $8,000+ per passenger seat) <br> no subway cars (at $10,000+ per passenger seat) <br> no subway tunnels (at $100,000,000+ per mile) 
 |               | keep HVAC costs down               | pick a mild climate to build in
 |               | keep lighting costs down           | design for good daylighting with careful window and skylight placement
 |               | prevent real estate speculation    | pick an unconventional city land ownership model 
@@ -37,13 +37,13 @@ permalink: /goals/
 | **Goal** | **Design implications** | **Examples**
 | everything within 30 minutes | keep everything close      | maximize the amount of usable floor area within 30 minutes of this floor area
 |                              | keep traffic flowing       | no stop lights <br> no multi-lane traffic circles
-|                              | don't squander land area   | no parking spaces <br> no private suburban lawns
-|                              | don't squander floor space | avoid redundant hallways, stairs, or elevators
+|                              | don't squander land area   | no single-story buildings <br> no parking spaces <br> no private suburban lawns
+|                              | don't squander floor space | avoid redundant hallways, stairs, or elevators <br> no empty rooftops
 |                              |  | 
 |---
 | **Goal** | **Design implications** | **Examples**
 | parks and trees | maximize "trees passed per day" | place trees along circulation paths <br> make living walls
-|                 | provide fresh air               | no diesel busses <br> no gasoline motorcycles <br> use windows that open <br> pick a mild climate to build in
+|                 | provide fresh air               | no diesel busses <br> no gas-powered motorcycles <br> use windows that open <br> pick a mild climate to build in
 |                 | provide daylight and sunshine   | design for daylighting <br> don't build too far north
 |---
 
