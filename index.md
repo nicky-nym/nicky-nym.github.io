@@ -1,9 +1,20 @@
-# Hello World!
+# Nym city recipe
 
-[Jevons paradox](jevons)
+A recipe for a new sort of city.
 
-[Marchetti constant](marchetti)
+## [Short summary](summary)
 
-[Circulation](circulation)
+## Details
 
-[Arteries](arteries)
+### [Demand](demand) 
+
+### [Goals](goals)
+
+### [Recipe](recipe)
+
+### [Reasoning](reasoning)
+
+* [Jevons paradox](jevons)
+* [Marchetti constant](marchetti)
+* [Circulation](circulation)
+* [Arteries](arteries)
