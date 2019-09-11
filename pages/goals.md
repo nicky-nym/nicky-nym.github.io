@@ -25,7 +25,7 @@ permalink: /goals/
 |---
 | **Goal** | **Design implications** | **Examples**
 |:-:|:-:|-:
-| affordability | keep construction costs down       | no elevators (at $100,000+ each)
+| affordability | keep construction costs down       | no elevators (at $100,000+ each) <br> use conventional construction techniques <br> strive for economies of scale
 |               | keep land costs low                | pick an inexpensive site
 |               | keep developer financing costs low | avoid big risks <br> produce revenue early on
 |               | keep transportation costs down     | no automobiles (at $20,000+ each) <br> no busses (at $500,000 each, or $8,000+ per passenger seat) <br> no subway cars (at $10,000+ per passenger seat) <br> no subway tunnels (at $100,000,000+ per mile) 
