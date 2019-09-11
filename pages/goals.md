@@ -23,7 +23,7 @@ permalink: /goals/
 ## Design implications
 
 |---
-| Goal | Design implications | Examples
+| **Goal** | **Design implications** | **Examples**
 |:-:|:-:|:-:
 | affordability | keep construction costs down       | no elevators (at $100,000+ each)
 |               | keep land costs low                | pick an inexpensive site
@@ -34,8 +34,7 @@ permalink: /goals/
 |               | prevent real estate speculation    | pick an unconventional city land ownership model 
 |               |  | 
 |---
-| Goal | Design implications | Examples
-|:-:|:-:|:-:
+| **Goal** | **Design implications** | **Examples**
 | everything within 30 minutes | keep everything close      | maximize the amount of usable floor area within 30 minutes of this floor area
 |                              | keep traffic flowing       | no stop lights
 |                              | don't squander land area   | no parking spaces, no private suburban lawns
@@ -43,7 +42,6 @@ permalink: /goals/
 |                              |  | 
 |---
 | **Goal** | **Design implications** | **Examples**
-|---
 | parks and trees | maximize "trees passed per day" | place trees along circulation paths, and make living walls
 |                 | provide fresh air               | use windows that open, and pick a mild climate to build in
 |                 | provide daylight and sunshine   | design for daylighting, and don't build too far north
