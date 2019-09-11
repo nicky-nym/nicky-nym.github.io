@@ -27,9 +27,9 @@ permalink: /goals/
 |:-:|:-:|:-
 | affordability | keep construction costs down       | use conventional construction techniques <br> no skyscrapers (expensive per square foot) <br> no elevators (at $100,000+ each) <br> strive for economies of scale 
 |               | keep land costs low                | pick an inexpensive site <br> maximize Floor Area Ratio (FAR), or floor space per square mile 
-|               | keep developer financing costs low | avoid big risks <br> produce revenue early on
+|               | keep developer financing costs low | use tight construction timelines <br> avoid planning and permitting delays <br> avoid big risks <br> minimize vacancy <br> produce revenue early on <br> do "just-in-time" production of square footage
 |               | keep transportation costs down     | keep everything close <br> no automobiles (at $20,000+ each) <br> no busses (at $500,000 each, or $8,000+ per passenger seat) <br> no subway cars (at $10,000+ per passenger seat) <br> no subway tunnels (at $100,000,000+ per mile) 
-|               | keep HVAC costs down               | pick a mild climate to build in
+|               | keep HVAC costs down               | pick a mild climate to build in <br> use windows that open <br> use ventilation chimneys
 |               | keep lighting costs down           | design for good daylighting with careful window and skylight placement
 |               | prevent real estate speculation    | pick an unconventional city land ownership model 
 |               |  | 
