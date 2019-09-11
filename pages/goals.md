@@ -43,7 +43,7 @@ permalink: /goals/
 |---
 | **Goal** | **Design implications** | **Examples**
 | parks and trees | maximize "trees passed per day" | place trees along circulation paths <br> make living walls
-|                 | provide fresh air               | use windows that open <br> pick a mild climate to build in
+|                 | provide fresh air               | no diesel busses <br> no gasoline motorcycles <br> use windows that open <br> pick a mild climate to build in
 |                 | provide daylight and sunshine   | design for daylighting <br> don't build too far north
 |---
 
