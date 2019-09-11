@@ -32,14 +32,15 @@ permalink: /goals/
 |               | keep HVAC costs down               | pick a mild climate to build in
 |               | keep lighting costs down           | design for good daylighting with careful window and skylight placement
 |               | prevent real estate speculation    | pick an unconventional city land ownership model 
+|               |  | 
 |---
 | Goal | Design implications | Examples
 |:-:|:-:|:-:
-| everything within 30 minutes | keep everything close      | no private suburban lawns
+| everything within 30 minutes | keep everything close      | maximize the amount of usable floor area within 30 minutes of this floor area
 |                              | keep traffic flowing       | no stop lights
-|                              | don't squander land area   | no parking spaces
+|                              | don't squander land area   | no parking spaces, no private suburban lawns
 |                              | don't squander floor space | avoid redundant hallways, stairs, or elevators
-|                              | maximize the amount of usable floor area within 30 minutes of this floor area | 
+|                              |  | 
 |---
 | **Goal** | **Design implications** | **Examples**
 |---
