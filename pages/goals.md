@@ -20,9 +20,28 @@ permalink: /goals/
     - a maker space with an Atomic Force Microscope
     - etc.
 
-## Best case scenario
+## Design implications
 
-+ maximize amount of usable floor area within 30 minutes of this floor area
-+ minimize "basement" floor area without windows or daylight
-+ maximize trees passed per day
+|---
+| Goals | Implications | Examples
+|:-:|:-:|:-:
+| affordability | keep construction costs down    | no elevators (at $100,000+ each)
+|               | keep land costs low          
+|               | keep developer financing costs low 
+|               | keep transportation costs down  | no subway trains, and no cars (at $20,000+ each)
+|               | keep HVAC costs down            | pick a mild climate to build in
+|               | keep lighting costs down        | design for good daylighting with careful window and skylight placement
+|               | prevent real estate speculation | pick an unconventional city land ownership model 
+| everything within 30 minutes | keep everything close      | no private suburban lawns
+|                              | keep traffic flowing       | no stop lights
+|                              | don't squander land area   | no parking spaces
+|                              | don't squander floor space | avoid redundant hallways, stairs, or elevators
+|                              | maximize the amount of usable floor area within 30 minutes of this floor area | 
+|                              |  | 
+| parks and trees | maximize "trees passed per day" | place trees along circulation paths, and make living walls
+|                 | provide fresh air               | use windows that open, and pick a mild climate to build in
+|                 | provide daylight and sunshine   | design for daylighting, and don't build too far north
+|---
+
+
 
