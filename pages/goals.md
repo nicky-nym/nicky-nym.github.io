@@ -37,7 +37,7 @@ permalink: /goals/
 | **Goal** | **Design implications** | **Examples**
 | everything within 30 minutes | keep everything close      | maximize the amount of usable floor area within 30 minutes of this floor area
 |                              | keep traffic flowing       | no stop lights <br> no multi-lane traffic circles
-|                              | don't squander land area   | no single-story buildings <br> no parking spaces <br> no private suburban lawns
+|                              | don't squander land area   | no single-story buildings <br> no parking spaces <br> no private suburban lawns <br> use 4 or 5 foot wide lanes, not 10 or 12 foot wide lines
 |                              | don't squander floor space | avoid redundant hallways, stairs, or elevators <br> no empty rooftops
 |                              |  | 
 |---
