@@ -34,7 +34,7 @@ permalink: /goals/
 |               | prevent real estate speculation    | pick an unconventional city land ownership model 
 |---
 | Goal | Design implications | Examples
-| --- | --- | --- 
+|:-:|:-:|:-:
 | everything within 30 minutes | keep everything close      | no private suburban lawns
 |                              | keep traffic flowing       | no stop lights
 |                              | don't squander land area   | no parking spaces
