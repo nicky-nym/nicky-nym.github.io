@@ -24,7 +24,7 @@ permalink: /goals/
 
 |---
 | **Goal** | **Design implications** | **Examples**
-|:-:|:-:|-:
+|:-:|:-:|:-
 | affordability | keep construction costs down       | no elevators (at $100,000+ each) <br> use conventional construction techniques <br> strive for economies of scale
 |               | keep land costs low                | pick an inexpensive site
 |               | keep developer financing costs low | avoid big risks <br> produce revenue early on
