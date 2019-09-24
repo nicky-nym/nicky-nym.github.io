@@ -23,6 +23,9 @@ permalink: /goals/
     - a weekly Burning Man art car workshop
     - a maker space with an Atomic Force Microscope
     - etc.
++ [equity](#equity) &mdash; 
+  - safe passage for everyone through all public space, with no "pink tax" for women [^1]
++ [accessibility](#accessibility) &mdash; wheelchair accessible routes in every building
 
 ## <a name="airiness"></a>airiness &mdash; sun, air, trees
 
@@ -58,5 +61,6 @@ permalink: /goals/
 |                              | don't squander floor space | avoid redundant hallways, stairs, or elevators <br> no empty rooftops
 
 
-
+## References
+[^1]: [Improving Urban Mobility for Women](https://newcities.org/the-big-picture-cities-foster-equity-by-improving-urban-mobility-for-women/)
 
