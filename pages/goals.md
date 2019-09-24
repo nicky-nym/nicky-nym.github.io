@@ -24,12 +24,17 @@ permalink: /goals/
     - a maker space with an Atomic Force Microscope
     - etc.
 + [equity](#equity)
-  - safe passage for everyone through all public space, with full mobility for women[^2] and no "pink tax" for women [^1]
+  - safe passage for everyone through all public space
+  - with full mobility for women [^2]
+  - no "pink tax" for women [^1]
+  - no "trip-range" tax for women [^3]
 + [accessibility](#accessibility)
   - stroller-friendly buildings and stroller-friendly transportation
   - wheelchair accessible routes in every building
   - predictable navigation for people with limited vision
+  - frequent pathside seating for elderly people
 + [safety](#safety)
+  - freedom from harassment
   - safe enough that parents can opt to have "free-range children" who explore the city on their own
   - no traffic accident deaths
   - no fire-related deaths
@@ -74,4 +79,4 @@ permalink: /goals/
 ## References
 [^1]: [Improving Urban Mobility for Women](https://newcities.org/the-big-picture-cities-foster-equity-by-improving-urban-mobility-for-women/)
 [^2]: "Even though women comprise nearly half of the population, it is surprising they account for less than one in five trips made in Indian cities." [Shreya Gadepalli: March 8, 2019](https://newcities.org/delhithe-big-picture-will-improve-women-get-move/)
-
+[^3]: "Evidence from Argentina shows that on average men and women’s commute time is roughly the same, but women travel at slower speeds and cover shorter distances." [Karla Dominguez Gonzalez: March 8, 2019](https://newcities.org/the-big-picture-transport-is-not-gender-neutral-womens-mobility-and-accessibility-for-better-economic-opportunities/)
