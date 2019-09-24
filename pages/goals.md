@@ -4,11 +4,14 @@ permalink: /goals/
 
 # Goals
 
-+ private homes
-+ spacious offices
 + [nearby parks and trees]
-+ readily available housing at [affordable market prices](#affordable-market-prices)
-+ everything within 30 minutes
++ [spaciousness]
+  - private homes
+  - spacious offices
++ [afforadablity]
+   - readily available housing
+   - affordabability at market prices, without subsidies or rent control
++ [propinquity](#propinquity) &mdash; everything within 30 minutes
   - school & work
   - friends & family
   - groceries & restaurants
@@ -21,7 +24,7 @@ permalink: /goals/
     - a maker space with an Atomic Force Microscope
     - etc.
 
-## affordable market prices
+## afforadablity
 
 |---
 |  | **Design implications** | **Examples**
@@ -35,7 +38,7 @@ permalink: /goals/
 |               | prevent real estate speculation    | pick an unconventional city land ownership model 
 |               |  | 
 
-## everything within 30 minutes
+## <a name="propinquity"></a>propinquity &mdash; everything within 30 minutes
 
 |---
 |  | **Design implications** | **Examples**
