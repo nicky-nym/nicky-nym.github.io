@@ -29,7 +29,12 @@ permalink: /goals/
   - stroller-friendly buildings and stroller-friendly transportation
   - wheelchair accessible routes in every building
   - predictable navigation for people with limited vision
-
++ [safety](#safety)
+  - no traffic accident deaths
+  - no fire-related deaths
+  - fast response to 911 calls
+  
+  
 ## <a name="airiness"></a>airiness &mdash; sun, air, trees
 
 |---
