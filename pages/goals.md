@@ -23,9 +23,12 @@ permalink: /goals/
     - a weekly Burning Man art car workshop
     - a maker space with an Atomic Force Microscope
     - etc.
-+ [equity](#equity) &mdash; 
++ [equity](#equity)
   - safe passage for everyone through all public space, with no "pink tax" for women [^1]
-+ [accessibility](#accessibility) &mdash; wheelchair accessible routes in every building
++ [accessibility](#accessibility)
+  - stroller-friendly buildings and stroller-friendly transportation
+  - wheelchair accessible routes in every building
+  - predictable navigation for people with limited vision
 
 ## <a name="airiness"></a>airiness &mdash; sun, air, trees
 
