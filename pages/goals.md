@@ -6,8 +6,8 @@ permalink: /goals/
 
 + private homes
 + spacious offices
-+ nearby parks and trees
-+ readily available housing at affordable market prices
++ [nearby parks and trees]
++ readily available housing at [affordable market prices](#affordable-market-prices)
 + everything within 30 minutes
   - school & work
   - friends & family
@@ -21,10 +21,10 @@ permalink: /goals/
     - a maker space with an Atomic Force Microscope
     - etc.
 
-## Goal: affordable market prices
+## affordable market prices
 
 |---
-| ** ** | **Design implications** | **Examples**
+|  | **Design implications** | **Examples**
 |:-:|:-:|:-
 |  | keep construction costs down       | use conventional construction techniques <br> no skyscrapers (expensive per square foot) <br> no elevators (at $100,000+ each) <br> strive for economies of scale 
 |               | keep land costs low                | pick an inexpensive site <br> maximize Floor Area Ratio (FAR), or floor space per square mile 
@@ -35,20 +35,22 @@ permalink: /goals/
 |               | prevent real estate speculation    | pick an unconventional city land ownership model 
 |               |  | 
 
-## Goal: everything within 30 minutes
+## everything within 30 minutes
 
 |---
-| ** ** | **Design implications** | **Examples**
+|  | **Design implications** | **Examples**
+|:-:|:-:|:-
 |  | keep everything close      | maximize the amount of usable floor area within 30 minutes of this floor area
 |                              | keep traffic flowing       | no stop lights <br> no multi-lane traffic circles
 |                              | don't squander land area   | no single-story buildings <br> no parking spaces <br> no private suburban lawns <br> use 4 or 5 foot wide lanes, not 10 or 12 foot wide lines
 |                              | don't squander floor space | avoid redundant hallways, stairs, or elevators <br> no empty rooftops
 |                              |  | 
 
-## Goal: nearby parks and trees
+## nearby parks and trees
 
 |---
-| **Goal** | **Design implications** | **Examples**
+|  | **Design implications** | **Examples**
+|:-:|:-:|:-
 |  | maximize "trees passed per day" | place trees along circulation paths <br> make living walls
 |                 | provide fresh air               | no diesel busses <br> no gas-powered motorcycles <br> use windows that open <br> pick a mild climate to build in
 |                 | provide daylight and sunshine   | design for daylighting <br> don't build too far north
