@@ -1,6 +1,4 @@
-# Nym city recipe
-
-A recipe for a new sort of city.
+# Nym City &mdash; an urban design recipe
 
 ## [Short summary](summary)
 
@@ -9,6 +7,9 @@ A recipe for a new sort of city.
 ### [Demand](demand) 
 
 ### [Goals](goals)
+
+ * [Affordability](goals#affordability)
+ * [Propinquity](goals#propinquity)
 
 ### [Recipe](recipe)
 
