@@ -6,7 +6,8 @@ permalink: /goals/
 
 + private homes
 + spacious offices
-+ parks and trees
++ nearby parks and trees
++ readily available housing at affordable market prices
 + everything within 30 minutes
   - school & work
   - friends & family
@@ -20,12 +21,12 @@ permalink: /goals/
     - a maker space with an Atomic Force Microscope
     - etc.
 
-## Design implications
+## Goal: affordable market prices
 
 |---
-| **Goal** | **Design implications** | **Examples**
+| ** ** | **Design implications** | **Examples**
 |:-:|:-:|:-
-| affordability | keep construction costs down       | use conventional construction techniques <br> no skyscrapers (expensive per square foot) <br> no elevators (at $100,000+ each) <br> strive for economies of scale 
+|  | keep construction costs down       | use conventional construction techniques <br> no skyscrapers (expensive per square foot) <br> no elevators (at $100,000+ each) <br> strive for economies of scale 
 |               | keep land costs low                | pick an inexpensive site <br> maximize Floor Area Ratio (FAR), or floor space per square mile 
 |               | keep developer financing costs low | use tight construction timelines <br> avoid planning and permitting delays <br> avoid big risks <br> minimize vacancy <br> produce revenue early on <br> do "just-in-time" production of square footage
 |               | keep transportation costs down     | keep everything close <br> no automobiles (at $20,000+ each) <br> no busses (at $500,000 each, or $8,000+ per passenger seat) <br> no subway cars (at $10,000+ per passenger seat) <br> no subway tunnels (at $100,000,000+ per mile) 
@@ -33,16 +34,22 @@ permalink: /goals/
 |               | keep lighting costs down           | design for good daylighting with careful window and skylight placement
 |               | prevent real estate speculation    | pick an unconventional city land ownership model 
 |               |  | 
+
+## Goal: everything within 30 minutes
+
 |---
-| **Goal** | **Design implications** | **Examples**
-| everything within 30 minutes | keep everything close      | maximize the amount of usable floor area within 30 minutes of this floor area
+| ** ** | **Design implications** | **Examples**
+|  | keep everything close      | maximize the amount of usable floor area within 30 minutes of this floor area
 |                              | keep traffic flowing       | no stop lights <br> no multi-lane traffic circles
 |                              | don't squander land area   | no single-story buildings <br> no parking spaces <br> no private suburban lawns <br> use 4 or 5 foot wide lanes, not 10 or 12 foot wide lines
 |                              | don't squander floor space | avoid redundant hallways, stairs, or elevators <br> no empty rooftops
 |                              |  | 
+
+## Goal: nearby parks and trees
+
 |---
 | **Goal** | **Design implications** | **Examples**
-| parks and trees | maximize "trees passed per day" | place trees along circulation paths <br> make living walls
+|  | maximize "trees passed per day" | place trees along circulation paths <br> make living walls
 |                 | provide fresh air               | no diesel busses <br> no gas-powered motorcycles <br> use windows that open <br> pick a mild climate to build in
 |                 | provide daylight and sunshine   | design for daylighting <br> don't build too far north
 |---
