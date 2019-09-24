@@ -1,4 +1,6 @@
-# Nym City &mdash; a recipe for designing propinquitous cities
+# Nym City
+
+<span style="font-size:24pt;">a recipe for designing propinquitous cities</span>
 
 ## [Short summary](summary)
 
