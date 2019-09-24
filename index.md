@@ -1,4 +1,4 @@
-# Nym City &mdash; an urban design recipe
+# Nym City &mdash; a recipe for designing propinquitous cities
 
 ## [Short summary](summary)
 
