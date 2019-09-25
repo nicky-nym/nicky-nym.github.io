@@ -1,6 +1,6 @@
-# Nym City
+# Pinq Cities
 
-<span style="font-size:24pt;">a recipe for designing propinquitous cities</span>
+<span style="font-size:24pt;">a recipe for designing <em>propinquitous<sup><a href="#propinquity">?</a></sup></em> cities</span>
 
 ---
 
@@ -65,3 +65,20 @@
 * [options](options)
 * [recipe](recipe)
 * [transportation](transportation)
+
+## Glossary
+
+Jevons paradox
+: (jevons)
+
+Marchetti constant
+: people will travel [Marchetti constant](marchetti)
+
+pinq
+: propinquitous
+
+<a name="propinquity"></a>propinquity
+: nearness in place or time
+: adjacency, closeness, immediacy, nearness, proximity, vicinity
+
+## References
