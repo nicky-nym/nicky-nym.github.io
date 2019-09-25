@@ -1,6 +1,6 @@
 # Pinq Cities
 
-<span style="font-size:24pt;">a recipe for designing <em>propinquitous<sup><a href="#propinquity">?</a></sup></em> cities</span>
+<span style="font-size:24pt;">a recipe for designing <em style="color:#DF4911;">propinquitous</em><sup style="font-size:12pt;"><a href="#propinquity">?</a></sup> cities</span>
 
 ---
 
@@ -27,6 +27,8 @@
    1. should be safer and more fun to live in
    1. should have a smaller carbon footprint per capita
    1. could be established as charter cities
+
+---
 
 ## Details
 
@@ -66,16 +68,21 @@
 * [recipe](recipe)
 * [transportation](transportation)
 
+---
+
 ## Glossary
 
 Jevons paradox
 : (jevons)
 
+
 Marchetti constant
 : people will travel [Marchetti constant](marchetti)
 
+
 pinq
 : propinquitous
+
 
 <a name="propinquity"></a>propinquity
 : nearness in place or time
