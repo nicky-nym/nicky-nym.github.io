@@ -13,11 +13,11 @@
 
 ## Propinquitous cities
  
- 1. Propinquitous cities are cities designed to maximize everyone's mobilty, and opporuntity, within the city.
+ 1. Propinquitous cities are cities designed to maximize everyone's **mobilty**, and opporuntity, within the city.
  1. The improved mobility is the result of a few sets of unconventional design choices
-    * choices about the size and shape of city features, such as building heights, block sizes, and street lane widths
-    * choices about stairs, elevators, and esclators vs. using simple wheelchair ramps for going up and down
-    * choices about what vehicles to use to move people and packages: cars and trucks vs. small low-power vehicles
+    * **transportation choices**: what vehicles to use to move people and packages &mdash; cars and trucks vs. small low-power vehicles
+    * **geometry choices**: the size and shape of city features &mdash; building heights, block sizes, and street lane widths
+    * **vertical access choices**: stairs, elevators, and esclators vs. flights of wheelchair ramps
 
 ## Benefits
 
