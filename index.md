@@ -1,6 +1,6 @@
 # Pinq Cities
 
-<span style="font-size:24pt;">a recipe for designing <em style="color:#DF4911;">propinquitous</em><sup style="font-size:12pt;"><a href="#propinquity">?</a></sup> cities</span>
+<span style="font-size:24pt;">a recipe for designing <span style="color:#DF4911;">propinquitous</span><sup style="font-size:12pt;"><a href="#propinquity">?</a></sup> cities</span>
 
 ---
 
@@ -73,20 +73,20 @@
 ## Glossary
 
 Induced demand
-: if you add lanes to a freeway, it leads to more trips, not faster trips
-
-
+: if you add lanes to a freeway, it leads to more trips, not faster trips[^induced_demand]
+  
+  
 Jevons paradox
 : as **X** gets faster (and cheaper), people use more **X**[^jevons]
-
+  
 
 Marchetti constant
 : people will commute about 30 minutes each way per day [Marchetti constant](marchetti)
-
+  
 
 pinq
 : propinquitous
-
+  
 
 <a name="propinquity"></a>propinquity
 : nearness in place or time
@@ -94,5 +94,6 @@ pinq
 
 ## References
 
+[^induced_demand]: ["Induced demand"](https://en.wikipedia.org/wiki/Induced_demand). _Wikipedia_
 [^jevons]: ["Jevons paradox"](https://en.wikipedia.org/wiki/Jevons_paradox). _Wikipedia_
 
