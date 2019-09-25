@@ -6,8 +6,9 @@
 
 ## Summary
 
- 1. The world **needs new cities**.
- 1. The world is **rapidly building new cities**.
+ 1. The world [needs new cities](#need).
+ 1. There is [money available](#money) for new cities.
+ 1. People are [rapidly building new cities](#precident).
  1. Building new cities is a **cost-effective** way to pull people out of poverty, bring economic growth, and meet basic needs.
  1. The cities we are building are not nearly as well designed as they could be, resulting in a **staggering opportunity cost**.
 
@@ -30,6 +31,24 @@
 
 ---
 
+## <a name="need"></a>The world needs new cities
+
+By 2050, it is estimated that
+* about 2.5 billion more people will live in cities[^growth]
+
+* about 200 million climate migrants will settle in new locations. (Forecasts vary from 25 million to 1 billion.)[^migrants] 
+ 
+## <a name="money"></a>There is money available for new cities
+
+In 2019, U.S. Presidential candidate Andrew Yang called for $40 billion in subsidies, grants, and loans for people in coastal communities who want to either move inland or elevate their homes.[^yang]
+
+## <a name="precident"></a>People are rapidly building new cities
+
+More than 120 new cities are currently being built in 40 nations around the world.[^growth]
+
+
+---
+
 ## Details
 
 ### [Demand](demand) 
@@ -49,6 +68,7 @@
 * [Arteries](arteries)
 
 ---
+
 ## TODO: work in progress
 
 * [15_percent](15_percent)
@@ -94,6 +114,12 @@ pinq
 
 ## References
 
-[^induced_demand]: ["Induced demand"](https://en.wikipedia.org/wiki/Induced_demand). _Wikipedia_
-[^jevons]: ["Jevons paradox"](https://en.wikipedia.org/wiki/Jevons_paradox). _Wikipedia_
+[^migrants]: ["Migration, Environment and Climate Change: Assessing the Evidence"](https://publications.iom.int/system/files/pdf/migration_and_environment.pdf). (PDF) _International Organization for Migration_. 2009.
 
+[^yang]: ["Andrew Yang’s plan to tackle climate change, explained"](https://www.vox.com/future-perfect/2019/8/26/20833263/andrew-yang-climate-plan). _Vox.com_. 26 August 2019.
+
+[^induced_demand]: ["Induced demand"](https://en.wikipedia.org/wiki/Induced_demand). _Wikipedia_.
+
+[^jevons]: ["Jevons paradox"](https://en.wikipedia.org/wiki/Jevons_paradox). _Wikipedia_.
+
+[^growth]: ["Should we build cities from scratch?"](https://www.theguardian.com/cities/2019/jul/10/should-we-build-cities-from-scratch). _The Guardian_. 10 July 2019.
