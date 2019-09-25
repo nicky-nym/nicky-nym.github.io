@@ -6,10 +6,10 @@
 
 ## Summary
 
- 1. The world needs new cities.
- 1. The world is rapidly building new cities.
- 1. Building new cities is a cost-effective way to pull people out of poverty, bring economic growth, and meet basic needs.
- 1. The cities we are building are not nearly as well designed as they could be, and the size of the opportunity cost is staggering.
+ 1. The world **needs new cities**.
+ 1. The world is **rapidly building new cities**.
+ 1. Building new cities is a **cost-effective** way to pull people out of poverty, bring economic growth, and meet basic needs.
+ 1. The cities we are building are not nearly as well designed as they could be, resulting in a **staggering opportunity cost**.
 
 ## Propinquitous cities
  
@@ -22,11 +22,11 @@
 ## Benefits
 
  * Propinquitous cities: 
-   1. should be more affordable to build than conventional cities
-   1. should have lower operating costs
-   1. should be safer and more fun to live in
-   1. should have a smaller carbon footprint per capita
-   1. could be established as charter cities
+   1. should be **more affordable** to build than conventional cities
+   1. should have **lower operating costs**
+   1. should be **safer** and more fun to live in
+   1. should have a **smaller carbon footprint** per capita
+   1. could be established as **charter cities**
 
 ---
 
@@ -72,12 +72,16 @@
 
 ## Glossary
 
+Induced demand
+: if you add lanes to a freeway, it leads to more trips, not faster trips
+
+
 Jevons paradox
-: (jevons)
+: as **X** gets faster (and cheaper), people use more **X**[^jevons]
 
 
 Marchetti constant
-: people will travel [Marchetti constant](marchetti)
+: people will commute about 30 minutes each way per day [Marchetti constant](marchetti)
 
 
 pinq
@@ -86,6 +90,9 @@ pinq
 
 <a name="propinquity"></a>propinquity
 : nearness in place or time
-: adjacency, closeness, immediacy, nearness, proximity, vicinity
+: _adjacency, closeness, immediacy, nearness, proximity, vicinity_
 
 ## References
+
+[^jevons]: ["Jevons paradox"](https://en.wikipedia.org/wiki/Jevons_paradox). _Wikipedia_
+
