@@ -42,7 +42,7 @@ Half of the urban area that will be needed by 2050 hasnt been built yet.[^growth
 
 > "we're going to develop more urban area in the next 100 years than currently exists on Earth"
 >
-> Paul Romer, Nobel prize-winning economist, New York University.
+> &mdash; Paul Romer, Nobel prize-winning economist, New York University.
 
 As of 2018, **70 million people** were currently displaced by war, persecution and conflict. Of the total, 51 million were Internally Displaced People (IDPs), and 26 million were refugees (including **13 million refugee children**). Most refugees live in towns and cities, not rural areas or refugee camps. Nearly 4 in every 5 refugees are in displacement situations that have lasted for at least five years.[^displaced]
 
@@ -56,7 +56,7 @@ As of 2018, **70 million people** were currently displaced by war, persecution a
 > more than 120 new cities around the world means a mountain of investment 
 > that can be measured in the **trillions of dollars**."[^growth]
 > 
-> Wade Shepard, author and columnist
+> &mdash; Wade Shepard, author and columnist
 
 11,000 new buildings are built every day.[^metabuild]
 
@@ -77,7 +77,7 @@ TODO:
 > "If we stick to business as usual most of it is going to be 
 > disorderly and less functional than the stuff we already have."[^growth]
 > 
-> Paul Romer, Nobel prize-winning economist, New York University.
+> &mdash; Paul Romer, Nobel prize-winning economist, New York University.
 
 > "If you build a new city you don't have to relocate or work 
 > around existing roads or rivers or factories or houses. 
@@ -85,7 +85,7 @@ TODO:
 > community groups, civic organisations ... or even existing 
 > regulations and rules."[^growth]
 > 
-> John Macomber, senior lecturer, Harvard Business School.
+> &mdash; John Macomber, senior lecturer, Harvard Business School.
 
 ---
 
