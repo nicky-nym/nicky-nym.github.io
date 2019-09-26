@@ -34,30 +34,31 @@
 ## <a name="need"></a>The world needs new cities
 
 By 2050, it is estimated that
-* 68% of the world’s population will be living in cities[^growth]
-* about 2.5 billion more people will live in cities, with 90% of the uptake in Asia and Africa[^growth]
-* about 200 million climate migrants will settle in new locations. (Forecasts vary from 25 million to 1 billion.)[^migrants] 
+* **68% of the world's population** will be living in cities[^growth]
+* about **2.5 billion more people** will live in cities, with 90% of the uptake in Asia and Africa[^growth]
+* about **200 million climate migrants** will settle in new locations. (Forecasts vary from 25 million to 1 billion.)[^migrants] 
 
 Half of the urban area that will be needed by 2050 hasnt been built yet.[^growth]
 
-> "we’re going to develop more urban area in the next 100 years than currently exists on Earth"
+> "we're going to develop more urban area in the next 100 years than currently exists on Earth"
 >
 > Paul Romer, Nobel prize-winning economist, New York University.
 
 ## <a name="money"></a>There is money available for new cities
 
 > "The money being thrown at new cities is staggering. 
-> Saudi Arabia's King Abdullah Economic City comes at a price tag of $100bn (£78bn), 
+> Saudi Arabia's King Abdullah Economic City comes at a price tag of **$100bn** (£78bn), 
 > while the country’s Neom megalopolis is slated to cost five times that. 
-> Malaysia's Forest City had its price initially pegged at $100bn, 
-> while Ordos Kangbashi cost a hulking $161bn. Adding up the costs of 
+> Malaysia's Forest City had its price initially pegged at **$100bn**, 
+> while Ordos Kangbashi cost a hulking **$161bn**. Adding up the costs of 
 > more than 120 new cities around the world means a mountain of investment 
-> that can be measured in the trillions of dollars."[^growth]
+> that can be measured in the **trillions of dollars**."[^growth]
 > 
 > Wade Shepard, author and columnist
 
+11,000 new buildings are built every day.[^metabuild]
 
-In 2019, U.S. Presidential candidate Andrew Yang called for $40 billion in subsidies, grants, and loans for people in coastal communities who want to either move inland or elevate their homes.[^yang]
+In 2019, U.S. Presidential candidate Andrew Yang called for **$40 billion** in subsidies, grants, and loans for people in coastal communities who want to either move inland or elevate their homes.[^yang]
 
 ## <a name="precident"></a>People are rapidly building new cities
 
@@ -158,6 +159,8 @@ pinq
 [^migrants]: ["Migration, Environment and Climate Change: Assessing the Evidence"](https://publications.iom.int/system/files/pdf/migration_and_environment.pdf). (PDF) _International Organization for Migration_. 2009.
 
 [^yang]: ["Andrew Yang’s plan to tackle climate change, explained"](https://www.vox.com/future-perfect/2019/8/26/20833263/andrew-yang-climate-plan). _Vox.com_. 26 August 2019.
+
+[^metabuild]: ["urbAIn – AI, Cities, and Climate Change"](https://www.metabuild.io/urbain-ai-cities-and-climate-change/). _Metabuild.io_. 15 June 2019.
 
 [^induced_demand]: ["Induced demand"](https://en.wikipedia.org/wiki/Induced_demand). _Wikipedia_.
 
