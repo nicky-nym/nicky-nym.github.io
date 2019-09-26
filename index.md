@@ -35,7 +35,7 @@
 
 By 2050, it is estimated that
 * **68% of the world's population** will be living in cities[^growth]
-* about **2.5 billion more people** will live in cities, with 90% of the uptake in Asia and Africa[^growth]
+* about **2.5 billion additional people** will live in cities (vs. 2019), with 90% of the uptake in Asia and Africa[^growth]
 * about **200 million climate migrants** will settle in new locations. (Forecasts vary from 25 million to 1 billion.)[^migrants] 
 
 Half of the urban area that will be needed by 2050 hasnt been built yet.[^growth]
