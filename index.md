@@ -20,7 +20,7 @@
     * **geometry choices**: the size and shape of city features &mdash; building heights, block sizes, and street lane widths
     * **vertical access choices**: stairs, elevators, and esclators vs. flights of wheelchair ramps
 
-## Benefits
+## Benefits of pinq cities
 
  * Propinquitous cities: 
    1. should be **more affordable** to build than conventional cities
