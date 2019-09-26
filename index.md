@@ -9,7 +9,7 @@
  1. The world [needs new cities](#need).
  1. There is [money available](#money) for new cities.
  1. People are [rapidly building new cities](#precident).
- 1. Building new cities is a **cost-effective** way to pull people out of poverty, bring economic growth, and meet basic needs.
+ 1. Building new cities is a [cost-effective](#cost-effective) way to pull people out of poverty, bring economic growth, and meet basic needs.
  1. The cities we are building are not nearly as well designed as they could be, resulting in a **staggering opportunity cost**.
 
 ## Propinquitous cities
@@ -34,10 +34,12 @@
 ## <a name="need"></a>The world needs new cities
 
 By 2050, it is estimated that
-* about 2.5 billion more people will live in cities[^growth]
-
+* 68% of the world’s population will be living in cities[^growth]
+* about 2.5 billion more people will live in cities, with 90% of the uptake in Asia and Africa[^growth]
 * about 200 million climate migrants will settle in new locations. (Forecasts vary from 25 million to 1 billion.)[^migrants] 
- 
+
+Half of the urban area that will be needed by 2050 hasnt been built yet.[^growth]
+
 ## <a name="money"></a>There is money available for new cities
 
 In 2019, U.S. Presidential candidate Andrew Yang called for $40 billion in subsidies, grants, and loans for people in coastal communities who want to either move inland or elevate their homes.[^yang]
@@ -46,6 +48,20 @@ In 2019, U.S. Presidential candidate Andrew Yang called for $40 billion in subsi
 
 More than 120 new cities are currently being built in 40 nations around the world.[^growth]
 
+
+
+## <a name="cost-effective"></a>Building new cities is cost-effective
+
+TODO:
+
+## The cities we are building are not nearly as well designed as they could be, resulting in a **staggering opportunity cost**.
+
+> "The sad thing is that we're going to develop more urban area 
+> in the next 100 years than currently exists on Earth. 
+> If we stick to business as usual most of it is going to be 
+> disorderly and less functional than the stuff we already have."
+> 
+> Paul Romer, Nobel prize-winning economist, New York University.
 
 ---
 
@@ -94,11 +110,13 @@ More than 120 new cities are currently being built in 40 nations around the worl
 
 Induced demand
 : if you add lanes to a freeway, it leads to more trips, not faster trips[^induced_demand]
-  
-  
+
+&nbsp;
+
 Jevons paradox
 : as **X** gets faster (and cheaper), people use more **X**[^jevons]
-  
+ 
+<span> </span>
 
 Marchetti constant
 : people will commute about 30 minutes each way per day [Marchetti constant](marchetti)
