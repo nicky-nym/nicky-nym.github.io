@@ -136,9 +136,12 @@ charter city
 : _typically built on greenfield sites to avoid the challenges of implementing such a wide array of reforms in an existing polity_
 : _typically privately finanaced_
 
-effective altruism
-: using empirical analysis to direct resources towards efforts that do the most possible good
-: see [GiveWell](https://www.givewell.org/)
+<span> </span>
+
+* effective altruism
+  * using empirical analysis to direct resources towards efforts that do the most possible good
+  * _anti-malaria efforts, deworming initiatives1, and direct cash transfer programs are among the interventions most widely credited with providing the most cost-effective improvement in welfare for the global poor than any other intervention_ 
+  * see [GiveWell](https://www.givewell.org/)
 
 <span> </span>
 
