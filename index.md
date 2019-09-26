@@ -58,14 +58,13 @@ As of 2018, **70 million people** were currently displaced by war, persecution a
 > 
 > &mdash; Wade Shepard, author and columnist
 
-11,000 new buildings are built every day.[^metabuild]
-
 In 2019, U.S. Presidential candidate Andrew Yang called for **$40 billion** in subsidies, grants, and loans for people in coastal communities who want to either move inland or elevate their homes.[^yang]
 
 ## <a name="precident"></a>People are rapidly building new cities
 
 More than 120 new cities are currently being built in 40 nations around the world.[^growth]
 
+11,000 new buildings are built every day.[^metabuild]
 
 
 ## <a name="cost-effective"></a>Building new cities is cost-effective
