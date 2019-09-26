@@ -131,7 +131,18 @@ TODO:
 
 ## Glossary
 
-Induced demand
+charter city
+: a special jurisdiction with a blank slate in commercial law, to allow for the adoption of new practices in areas such as a business registration, labor law, tax administration, and commercial dispute resolution
+: _typically built on greenfield sites to avoid the challenges of implementing such a wide array of reforms in an existing polity_
+: _typically privately finanaced_
+
+effective altruism
+: using empirical analysis to direct resources towards efforts that do the most possible good
+: see [GiveWell](https://www.givewell.org/)
+
+<span> </span>
+
+induced demand
 : if you add lanes to a freeway, it leads to more trips, not faster trips[^induced_demand]
 
 <span> </span>
