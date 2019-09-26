@@ -40,6 +40,10 @@ By 2050, it is estimated that
 
 Half of the urban area that will be needed by 2050 hasnt been built yet.[^growth]
 
+> "we’re going to develop more urban area in the next 100 years than currently exists on Earth"
+>
+> Paul Romer, Nobel prize-winning economist, New York University.
+
 ## <a name="money"></a>There is money available for new cities
 
 In 2019, U.S. Presidential candidate Andrew Yang called for $40 billion in subsidies, grants, and loans for people in coastal communities who want to either move inland or elevate their homes.[^yang]
@@ -56,12 +60,18 @@ TODO:
 
 ## The cities we are building are not nearly as well designed as they could be, resulting in a **staggering opportunity cost**.
 
-> "The sad thing is that we're going to develop more urban area 
-> in the next 100 years than currently exists on Earth. 
-> If we stick to business as usual most of it is going to be 
-> disorderly and less functional than the stuff we already have."
+> "If we stick to business as usual most of it is going to be 
+> disorderly and less functional than the stuff we already have."[^growth]
 > 
 > Paul Romer, Nobel prize-winning economist, New York University.
+
+> "If you build a new city you don't have to relocate or work 
+> around existing roads or rivers or factories or houses. 
+> You also don’t have to work around existing political processes, 
+> community groups, civic organisations ... or even existing 
+> regulations and rules."[^growth]
+> 
+> John Macomber, senior lecturer, Harvard Business School.
 
 ---
 
@@ -111,20 +121,22 @@ TODO:
 Induced demand
 : if you add lanes to a freeway, it leads to more trips, not faster trips[^induced_demand]
 
-&nbsp;
+<span> </span>
 
 Jevons paradox
 : as **X** gets faster (and cheaper), people use more **X**[^jevons]
- 
+
 <span> </span>
 
 Marchetti constant
 : people will commute about 30 minutes each way per day [Marchetti constant](marchetti)
-  
+
+<span> </span>
 
 pinq
-: propinquitous
-  
+: see [propinquitous](#propinquity)
+
+<span> </span>
 
 <a name="propinquity"></a>propinquity
 : nearness in place or time
