@@ -46,6 +46,17 @@ Half of the urban area that will be needed by 2050 hasnt been built yet.[^growth
 
 ## <a name="money"></a>There is money available for new cities
 
+> "The money being thrown at new cities is staggering. 
+> Saudi Arabia's King Abdullah Economic City comes at a price tag of $100bn (£78bn), 
+> while the country’s Neom megalopolis is slated to cost five times that. 
+> Malaysia's Forest City had its price initially pegged at $100bn, 
+> while Ordos Kangbashi cost a hulking $161bn. Adding up the costs of 
+> more than 120 new cities around the world means a mountain of investment 
+> that can be measured in the trillions of dollars."[^growth]
+> 
+> Wade Shepard, author and columnist
+
+
 In 2019, U.S. Presidential candidate Andrew Yang called for $40 billion in subsidies, grants, and loans for people in coastal communities who want to either move inland or elevate their homes.[^yang]
 
 ## <a name="precident"></a>People are rapidly building new cities
