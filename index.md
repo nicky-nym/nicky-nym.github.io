@@ -27,6 +27,7 @@
    1. should have **lower operating costs**
    1. should be **safer** and more fun to live in
    1. should have a **smaller carbon footprint** per capita
+   1. should [thrive economically](#economics) compared to conventional cities
    1. could be established as **charter cities**
 
 ---
@@ -86,26 +87,29 @@ TODO:
 > 
 > &mdash; John Macomber, senior lecturer, Harvard Business School.
 
----
+## <a name="economics"></a>Economic growth
 
-## Details
+> "Once one starts to think about (the causes of economic growth),
+> it is hard to think about anything else."
+>
+> &mdash; Robert Lucas, Nobel laureate in Economics 
 
-### [Demand](demand) 
-
-### [Goals](goals)
-
- * [Affordability](goals#affordability)
- * [Propinquity](goals#propinquity)
-
-### [Recipe](recipe)
-
-### [Reasoning](reasoning)
-
+* [15_percent](15_percent)
 * [Jevons paradox](jevons)
 * [Marchetti constant](marchetti)
 * [Circulation](circulation)
 * [Arteries](arteries)
 
+
+---
+
+## Details
+
+### [Goals](goals)
+
+ * [Affordability](goals#affordability)
+ * [Propinquity](goals#propinquity)
+ 
 ---
 
 ## TODO: work in progress
