@@ -62,22 +62,45 @@ As of 2018, **70 million people** were currently displaced by war, persecution a
 
 In 2019, U.S. Presidential candidate Andrew Yang called for **$40 billion** in subsidies, grants, and loans for people in coastal communities who want to either move inland or elevate their homes.[^yang]
 
+### Large private sector projects
+
+In recent decades we have begun to see the private sector take on very large scale projects, without government funding.
+
+City Center, in Las Vegas Nevada, is a good example
+  * 17 million square feet of mixed use space
+  * built in 4 years (2006 to 2010)
+  * 100% privately financed, at a cost of **$11 billion** <sup>[citation needed]</sup>
+
+Banks, real estate developers, and the construction industry are now operating at a level where they can coordinate the successful delivery of very large projects.
+
+In the 2020s and 2030s, is will not be crazy to propose a $20 billion privately funded construction project. The project just needs to pencil out well, be low risk, and meet the needs of customers.
+
 
 ## <a name="precident"></a>(3) People are rapidly building new cities
 
-More than 120 new cities are currently being built in 40 nations around the world.[^growth]
+More than **120 new cities** are currently being built in 40 nations around the world.[^growth]
 
-11,000 new buildings are built every day.[^metabuild]
+11,000 new buildings are built every day &mdash; **4 million new buildings a year** [^metabuild]
 
 
 ## <a name="cost-effective"></a>(4) Building new cities is cost-effective
 
-Building on a new empty, greenfield site is a lot less expensive than building in an existing city. Projects in existing cities can be staggerly expensive:
-  * $4.5 billion for the San Francisco Transbay Transit Center & Salesforce Tower
-  * $23 billion for the Riyadh Metro
-  * $32 billions to rebuild the World Trade Center in New York
-  
-TODO:
+Projects in existing cities can be staggerly expensive.
+  * $4.5 billion for the San Francisco Transbay Transit Center & Salesforce Tower <sup>[citation needed]</sup>
+  * $17 billion for the 2nd Avenue Subway project in New York <sup>[citation needed]</sup>
+  * $20 billion for the Hudson Yards project in New York <sup>[citation needed]</sup>
+  * $21 billion for the Big Dig in Boston <sup>[citation needed]</sup>
+  * $23 billion for the Riyadh Metro <sup>[citation needed]</sup>
+  * $32 billion to rebuild the World Trade Center in New York <sup>[citation needed]</sup>
+
+Building on a new empty, greenfield site is a lot less expensive than building in an existing city. 
+  * <TODO: examples>
+
+New cities provide more space at lower cost per capita.
+  * <TODO: examples>
+
+New cities create value, and demand.
+  * <TODO: examples>
 
 
 ## <a name="work-better"></a>(5) We can make cities that work far better
@@ -95,7 +118,10 @@ TODO:
 > 
 > &mdash; John Macomber, senior lecturer, Harvard Business School.
 
+
 ### <a name="economics"></a>Economic prosperity
+
+Cities should provide **economic prosperity** for the people who live in them and the people who have offices there.
 
 > "Once one starts to think about (the causes of economic growth),
 > it is hard to think about anything else."
@@ -110,13 +136,52 @@ TODO:
 
 ### <a name="economics"></a>Social prosperity
 
+Cities should provide **social prosperity** for the people who live there. It should be:
+  * easy to go see your friends
+  * easy to do an errand for your mom
+  * easy to go to weird new clubs and meetup groups to see who's there
+
+To make those things easy, the city needs to provide good **[mobility](#mobility)**:
+  * safe travel from anywhere to anywhere, by anyone
+  * fast travel times
+  * cheap travel costs
+
 ## <a name="mobility"></a>(6) Mobility
+
+To provide good **mobility** the city needs to ensure:
+  * safe travel from anywhere to anywhere, by anyone
+  * fast travel times
+  * cheap travel modes
+
+Improved mobility results from unconventional design choices:
+  * **[transportation choices](#transportation)**: what vehicles to use to move people and packages &mdash; cars and trucks vs. small low-power vehicles
+  * **[geometry choices](#geometry)**: the size and shape of city features &mdash; building heights, block sizes, and street lane widths
+  * **[elevator choices](#elevator)**: stairs, elevators, and escalators vs. flights of wheelchair ramps
 
 ## <a name="transportation"></a>(7) Transportation design choices
 
+The propinquitous city recipe calls for:
+  * no cars
+  * no trucks
+  * no taxis
+  * no ubers or lyfts
+  * no motorcycles
+  * no gas engines
+  * no open roads
+
+Instead, we have
+  * rain-sheltered pedestrian sidewalks
+  * rain-sheltered bike lanes for narrow, low-power, modest-speed vehicles
+    * segways
+    * mopeds (electric)
+    * bicycles
+    * cargo trikes
+    * scooters
+    * skateboards
+  
 ## <a name="geometry"></a>(8) Geometry design choices
 
-The propinquitous city design recipe calls for:
+The propinquitous city recipe calls for:
   * no single-story ranch houses and no other single-story buildings
   * no skyscrapers and no high rises
   * no suburban sprawl
