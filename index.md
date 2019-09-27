@@ -6,19 +6,19 @@
 
 ## Summary
 
- 1. The world [needs new cities](#need).
- 1. There is [money available](#money) for new cities.
- 1. People are [rapidly building new cities](#precident).
- 1. Building new cities is a [cost-effective](#cost-effective) way to pull people out of poverty, bring economic growth, and meet basic needs.
- 1. The cities we are building are not nearly as well designed as they could be, resulting in a **staggering opportunity cost**.
+ 1. The world **[needs new cities](#need)**.
+ 1. There is **[money available](#money)** for new cities.
+ 1. People are **[rapidly building new cities](#precident)**.
+ 1. Building new cities is a **[cost-effective](#cost-effective)** way to pull people out of poverty, bring economic growth, and meet basic needs.
+ 1. By making significantly better design choices, we could make new **[cities that work far better](#work-better)** for everyone.
 
 ## Propinquitous cities
  
- 1. Propinquitous cities are cities designed to maximize everyone's **mobilty**, and opporuntity, within the city.
+ 1. Propinquitous cities are cities designed to maximize everyone's **[mobilty](#mobility)**, and opportunity, within the city.
  1. The improved mobility results from unconventional design choices
-    * **transportation choices**: what vehicles to use to move people and packages &mdash; cars and trucks vs. small low-power vehicles
-    * **geometry choices**: the size and shape of city features &mdash; building heights, block sizes, and street lane widths
-    * **vertical access choices**: stairs, elevators, and esclators vs. flights of wheelchair ramps
+    * **[transportation choices](#transportation)**: what vehicles to use to move people and packages &mdash; cars and trucks vs. small low-power vehicles
+    * **[geometry choices](#geometry)**: the size and shape of city features &mdash; building heights, block sizes, and street lane widths
+    * **[elevator choices](#elevator)**: stairs, elevators, and escalators vs. flights of wheelchair ramps
 
 ## Benefits of pinq cities
 
@@ -32,7 +32,7 @@
 
 ---
 
-## <a name="need"></a>The world needs new cities
+## <a name="need"></a>(1) The world needs new cities
 
 By 2050, it is estimated that
 * **68% of the world's population** will be living in cities[^growth]
@@ -47,7 +47,8 @@ Half of the urban area that will be needed by 2050 hasnt been built yet.[^growth
 
 As of 2018, **70 million people** were currently displaced by war, persecution and conflict. Of the total, 51 million were Internally Displaced People (IDPs), and 26 million were refugees (including **13 million refugee children**). Most refugees live in towns and cities, not rural areas or refugee camps. Nearly 4 in every 5 refugees are in displacement situations that have lasted for at least five years.[^displaced]
 
-## <a name="money"></a>There is money available for new cities
+
+## <a name="money"></a>(2) There is money available for new cities
 
 > "The money being thrown at new cities is staggering. 
 > Saudi Arabia's King Abdullah Economic City comes at a price tag of **$100bn** (£78bn), 
@@ -61,18 +62,20 @@ As of 2018, **70 million people** were currently displaced by war, persecution a
 
 In 2019, U.S. Presidential candidate Andrew Yang called for **$40 billion** in subsidies, grants, and loans for people in coastal communities who want to either move inland or elevate their homes.[^yang]
 
-## <a name="precident"></a>People are rapidly building new cities
+
+## <a name="precident"></a>(3) People are rapidly building new cities
 
 More than 120 new cities are currently being built in 40 nations around the world.[^growth]
 
 11,000 new buildings are built every day.[^metabuild]
 
 
-## <a name="cost-effective"></a>Building new cities is cost-effective
+## <a name="cost-effective"></a>(4) Building new cities is cost-effective
 
 TODO:
 
-## The cities we are building are not nearly as well designed as they could be, resulting in a **staggering opportunity cost**.
+
+## <a name="work-better"></a>(5) We can make cities that work far better
 
 > "If we stick to business as usual most of it is going to be 
 > disorderly and less functional than the stuff we already have."[^growth]
@@ -87,7 +90,7 @@ TODO:
 > 
 > &mdash; John Macomber, senior lecturer, Harvard Business School.
 
-## <a name="economics"></a>Economic growth
+### <a name="economics"></a>Economic prosperity
 
 > "Once one starts to think about (the causes of economic growth),
 > it is hard to think about anything else."
@@ -99,6 +102,16 @@ TODO:
 * [Marchetti constant](marchetti)
 * [Circulation](circulation)
 * [Arteries](arteries)
+
+### <a name="economics"></a>Social prosperity
+
+## <a name="economics"></a>Economic growth
+
+ 1. Propinquitous cities are cities designed to maximize everyone's **[mobilty](#mobility)**, and opportunity, within the city.
+ 1. The improved mobility results from unconventional design choices
+    * **[transportation choices](#transportation)**: what vehicles to use to move people and packages &mdash; cars and trucks vs. small low-power vehicles
+    * **[geometry choices](#geometry)**: the size and shape of city features &mdash; building heights, block sizes, and street lane widths
+    * **[elevator choices](#elevator)**: stairs, elevators, and escalators vs. flights of wheelchair ramps
 
 
 ---
