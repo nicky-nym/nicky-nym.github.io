@@ -72,6 +72,11 @@ More than 120 new cities are currently being built in 40 nations around the worl
 
 ## <a name="cost-effective"></a>(4) Building new cities is cost-effective
 
+Building on a new empty, greenfield site is a lot less expensive than building in an existing city. Projects in existing cities can be staggerly expensive:
+  * $4.5 billion for the San Francisco Transbay Transit Center & Salesforce Tower
+  * $23 billion for the Riyadh Metro
+  * $32 billions to rebuild the World Trade Center in New York
+  
 TODO:
 
 
@@ -105,13 +110,45 @@ TODO:
 
 ### <a name="economics"></a>Social prosperity
 
-## <a name="economics"></a>Economic growth
+## <a name="mobility"></a>(6) Mobility
 
- 1. Propinquitous cities are cities designed to maximize everyone's **[mobilty](#mobility)**, and opportunity, within the city.
+## <a name="transportation"></a>(7) Transportation design choices
+
+## <a name="geometry"></a>(8) Geometry design choices
+
+The propinquitous city design recipe calls for:
+  * no single-story ranch houses and no other single-story buildings
+  * no skyscrapers and no high rises
+  * no suburban sprawl
+  * no highways
+  * no roads with lanes wide enough for cars and trucks
+
+Instead, we have: 
+  * mid-rise buildings of about six stories, similar to Paris
+  * roads with narrow lanes for narrow vehicles
+  * density of 
+
+## <a name="elevator"></a>(9) Elevator design choices
+
+The propinquitous city design recipe calls for:
+  * no elevators
+  * no stairs
+  * no escalators
+
+The only way to go "upstairs" or "downstairs" in a pinq city is by using
+  * sloped hallways
+  * sloped sidewalks
+  * sloped bike paths
+  * flights of wheelchair ramps
+
+This idea sounds crazy to most people when they first hear it, because it's so different from all the normal buildings and cities that we're used to.
+
+However, if you run the numbers, and run simulations, it turns out that getting rid of elevators and stairs works out just fine. Instead of making it harder to get places, having no elevators makes it **faster** to get between any two random locations. Plus this design is greener, works better after a natural disaster, can be built more quickly, is less expensive to build, and is less expensive to maintain.
+
+1. Propinquitous cities are cities designed to maximize everyone's **[mobilty](#mobility)**, and opportunity, within the city.
  1. The improved mobility results from unconventional design choices
     * **[transportation choices](#transportation)**: what vehicles to use to move people and packages &mdash; cars and trucks vs. small low-power vehicles
     * **[geometry choices](#geometry)**: the size and shape of city features &mdash; building heights, block sizes, and street lane widths
-    * **[elevator choices](#elevator)**: stairs, elevators, and escalators vs. flights of wheelchair ramps
 
 
 ---
