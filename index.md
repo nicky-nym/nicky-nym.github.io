@@ -12,7 +12,7 @@
  1. Building new cities is a **[cost-effective](#cost-effective)** way to pull people out of poverty, bring economic growth, and meet basic needs.
  1. By making significantly better design choices, we could make new **[cities that work far better](#work-better)** for everyone.
 
-## Propinquitous cities
+## What is a propinquitous city?
 
 "Propinquitous city" is a made-up name for a set of ideas about new ways to design cities. No one has yet built a propinquitous city.
 
@@ -22,10 +22,16 @@
     * **[geometry choices](#geometry)**: the size and shape of city features &mdash; building heights, block sizes, and street lane widths
     * **[elevator choices](#elevator)**: stairs, elevators, and escalators vs. flights of wheelchair ramps
 
-## Benefits of pinq cities
+## Could we build a propinquitous city?
+
+Yes. The Pinq city plans are designed with existing technology in mind, and with an eye toward simple, affordable technologies. It's about bicycles and water pipes, not about floating ocean domes and orbital towers.
+
+## Why build propinquitous cities?
 
  * Propinquitous cities: 
    1. should have **less traffic** congestion
+   1. should have **more commute destinations**
+   1. should **[thrive economically](#economics)** compared to similarly-sized normal cities
    1. should have **better air quality**
    1. should be **more affordable** to build than conventional cities
    1. should have **lower operating costs**
@@ -33,15 +39,10 @@
    1. should be **safer** and more fun to live in
    1. should have **better accessibility**
    1. should be more **kid-friendly**
-   1. should be more
+   1. should be more **elder-friendly**
    1. should have a **smaller carbon footprint** per capita
    1. should be **more resiliant** after a natural disaster or other emergency
-   1. should [thrive economically](#economics) compared to conventional cities
    1. could be established as **charter cities**
-
-shorter commutes
-
-more kid-friendly
 
 ---
 
