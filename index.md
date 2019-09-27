@@ -1,6 +1,6 @@
 # Pinq Cities
 
-<span style="font-size:24pt;">a recipe for designing <span style="color:#DF4911;">propinquitous</span><sup style="font-size:12pt;"><a href="#propinquity">?</a></sup> cities</span>
+<span style="font-size:24pt;">a 2019 recipe for designing <span style="color:#DF4911;">propinquitous</span><sup style="font-size:12pt;"><a href="#propinquity">?</a></sup> cities</span>
 
 ---
 
@@ -13,7 +13,9 @@
  1. By making significantly better design choices, we could make new **[cities that work far better](#work-better)** for everyone.
 
 ## Propinquitous cities
- 
+
+"Propinquitous city" is a made-up name for a set of ideas about new ways to design cities. No one has yet built a propinquitous city.
+
  1. Propinquitous cities are cities designed to maximize everyone's **[mobilty](#mobility)**, and opportunity, within the city.
  1. The improved mobility results from unconventional design choices
     * **[transportation choices](#transportation)**: what vehicles to use to move people and packages &mdash; cars and trucks vs. small low-power vehicles
@@ -23,12 +25,23 @@
 ## Benefits of pinq cities
 
  * Propinquitous cities: 
+   1. should have **less traffic** congestion
+   1. should have **better air quality**
    1. should be **more affordable** to build than conventional cities
    1. should have **lower operating costs**
+   1. should have **lower housing costs**, and potentially **no homelessness**
    1. should be **safer** and more fun to live in
+   1. should have **better accessibility**
+   1. should be more **kid-friendly**
+   1. should be more
    1. should have a **smaller carbon footprint** per capita
+   1. should be **more resiliant** after a natural disaster or other emergency
    1. should [thrive economically](#economics) compared to conventional cities
    1. could be established as **charter cities**
+
+shorter commutes
+
+more kid-friendly
 
 ---
 
@@ -285,6 +298,15 @@ pinq
 <a name="propinquity"></a>propinquity
 : nearness in place or time
 : _adjacency, closeness, immediacy, nearness, proximity, vicinity_
+
+
+## Naming
+
+We're still searching for a good name for this type of city design. If you've got suggestions, let us know. Or just vote up or vote down any of these:
+ * Leapfrog cities
+ * Pinq cities
+ * Propinquitous cities
+
 
 ## References
 
