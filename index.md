@@ -28,7 +28,9 @@ Yes. The Pinq city plans are designed with existing technology in mind, and with
 
 ## Why build propinquitous cities?
 
- * Propinquitous cities: 
+If you're starting from scratch, then with a few good design choices it should be possible to build a city that **works far better** than normal conventional cities
+
+* a propinquitous city: 
    1. should have **less traffic** congestion
    1. should have **more commute destinations**
    1. should **[thrive economically](#economics)** compared to similarly-sized normal cities
@@ -108,13 +110,13 @@ Projects in existing cities can be staggerly expensive.
   * $32 billion to rebuild the World Trade Center in New York <sup>[citation needed]</sup>
 
 Building on a new empty, greenfield site is a lot less expensive than building in an existing city. 
-  * <TODO: examples>
+  * [TODO: examples]
 
 New cities provide more space at lower cost per capita.
-  * <TODO: examples>
+  * [TODO: examples]
 
 New cities create value, and demand.
-  * <TODO: examples>
+  * [TODO: examples]
 
 
 ## <a name="work-better"></a>(5) We can make cities that work far better
