@@ -90,11 +90,13 @@ Each doubling of population correlates to a 15% increase in per-capita economic 
 ## <a name="need"></a>(1) The world needs new cities
 
 By 2050, it is estimated that
-* **68% of the world's population** will be living in cities (up from 55% in 2018)[^growth][^mason]
+* **68% of the world's population** will be living in cities (vs. 55% in 2018)[^growth][^mason]
 * about **2.5 billion additional people** will live in cities (vs. 2019), with 90% of the uptake in Asia and Africa[^growth]
 * about **200 million climate migrants** will settle in new locations. (Forecasts vary from 25 million to 1 billion.)[^migrants]
 * the population of Africa is expected to double from 1.3 billion today to over **2.5 billion** [^forbes]
-* in India alone, 400 million people will migrate to cities[^sharma]
+* **400 million people in India** will migrate to cities[^sharma]
+* it's estimated there will be at least **nine African "megacities" of 10 million people or more** (and more than two dozen African cities of 5 million or more, about the size of metropolitan Washington), but currently 60 percent of Africa’s city dwellers live in slums [^bloomberg]
+
 
 Half of the urban area that will be needed by 2050 hasn't been built yet.[^growth]
 
@@ -410,6 +412,8 @@ However, if you run the numbers, and run simulations, it turns out that getting 
 ## References
 
 [^mason]: ["The Case for Charter Cities Within the Effective Altruist Framework"](https://assets.website-files.com/5d253237e31f051057dc0a2b/5d88effe42420361c5e0c3c2_The%20Case%20for%20Charter%20Cities%20Within%20the%20Effective%20Altruist%20Framework.pdf). Jeffrey Mason, _Charter Cities Institute_. Sept 2019.
+
+[^bloomberg]: ["Africa’s Cities Are About to Boom – and Maybe Explode"](https://www.bloomberg.com/opinion/articles/2019-07-25/africa-s-cities-are-about-to-boom-and-maybe-explode). _Bloomberg_. 25 July 2019.
 
 [^sharma]: ["Greenfield Smart Cities Shaping the Future of India"](https://newcities.org/the-big-picture-greenfield-smart-cities-shaping-future-india/). _NewCities_. 23 July 2019.
 
