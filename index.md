@@ -24,7 +24,7 @@
 
 ## Could we build a propinquitous city?
 
-Yes. The Pinq city plans are designed with existing technology in mind, and with an eye toward simple, affordable technologies. It's about bicycles and water pipes, not about floating ocean domes and orbital towers.
+**Yes.** The Pinq city plans are designed with existing technology in mind, and with an eye toward simple, affordable technologies. It's about bicycles and water pipes, not about floating ocean domes and orbital towers.
 
 ## Why build propinquitous cities?
 
@@ -63,6 +63,10 @@ Rome wasn't built in a day. Building a propinquitous city would take a long time
 ## Could propinquitous ideas trickle down to existing cities? 
 
 **Yes.** Over time people in existing cities like New York and San Francisco could adopt some of the ideas in the propinquitous designs, and make their cities incrementally more propinquitous, even if they can't change the fundamental layouts.
+
+## Democracy and governance
+
+A propinquitous city could have a traditional city government structure, or it could experiment with less conventional structures. That's a big topic, and one for another author. Suffice it to say, the questions of governance are largely orthogonal to the ideas presented here about the physical layout of a city, the transportation choices, etc. An authoritarian government could build a propinquitous city, or a utopian libertarian collective could build a propinquitous city, and they would both be propinquitous cities.
 
 
 ## Superlinear Scaling 
