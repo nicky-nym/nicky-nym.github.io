@@ -118,7 +118,7 @@ As of 2018, **70 million people** were currently displaced by war, persecution a
 
 In 2019, U.S. Presidential candidate Andrew Yang called for **$40 billion** in subsidies, grants, and loans for people in coastal communities who want to either move inland or elevate their homes.[^yang]
 
-### Large private sector projects
+### (2.1) Large private sector projects
 
 In recent decades we have begun to see the private sector take on very large scale projects, without government funding.
 
@@ -187,6 +187,40 @@ New cities create value, and demand.
 > regulations and rules."[^growth]
 > 
 > &mdash; John Macomber, senior lecturer, Harvard Business School.
+
+
+```
+TODO:
+* a propinquitous city: 
+   1. should have **less traffic** congestion
+   1. should have **more commute destinations**
+   1. should **[thrive economically](#economics)** compared to similarly-sized normal cities
+   1. should have **better air quality**
+   1. should be **more affordable** to build than conventional cities
+   1. should have **lower operating costs**
+   1. should have **lower housing costs**, and potentially **no homelessness**
+   1. should be **safer** and more fun to live in
+   1. should have **better accessibility**
+   1. should be more **kid-friendly**
+   1. should be more **elder-friendly**
+   1. should have a **smaller carbon footprint** per capita
+   1. should be **more resiliant** after a natural disaster or other emergency
+   1. could be established as **charter cities**[^mason]
+ ```
+
+### <a name="resiliant"></a>(5.10) Resiliant 
+
+> "Resiliency is the ability to bounce back better, but also the ability to not have to bounce back as much." 
+> 
+> &mdash; Sylvester Wong, Vice President of AECOM[^new-clark]
+
+`TODO: `
+
+> "Because its location and design were deliberately chosen to withstand natural calamities, 
+> New Clark City will serve as the government’s continuity hub, disaster and risk recovery 
+> center – an alternative capital city in case a disaster strikes Manila"[^new-clark]
+
+
 
 
 ### <a name="economics"></a>Economic prosperity
@@ -357,19 +391,14 @@ However, if you run the numbers, and run simulations, it turns out that getting 
   * there have been SEZs since the 1950s, and there are now thousands of SEZs around the world[^mason]
 
 
-## Naming
-
-We're still searching for a good name for this type of city design. If you've got suggestions, let us know. Or just vote up or vote down any of these:
- * Leapfrog cities
- * Pinq cities
- * Propinquitous cities
-
 
 ## References
 
 [^mason]: ["The Case for Charter Cities Within the Effective Altruist Framework"](https://assets.website-files.com/5d253237e31f051057dc0a2b/5d88effe42420361c5e0c3c2_The%20Case%20for%20Charter%20Cities%20Within%20the%20Effective%20Altruist%20Framework.pdf). Jeffrey Mason, _Charter Cities Institute_. Sept 2019.
 
 [^forbes]: ["The Power Of Purpose: Unlocking Africa's $10 Trillion Opportunity In Housing"](https://www.forbes.com/sites/afdhelaziz/2019/09/12/the-power-of-purpose-unlocking-africas-10-trillion-opportunity-in-housing/#1e1fa3b714a0). _Forbes_. 12 September 2019.
+
+[^new-clark]: ["Resilient Growth: Building a Resilient City in the Philippines"](https://newcities.org/the-big-picture-resilient-growth-building-resilient-city-philippines/). _NewCities_. 2019.
 
 [^growth]: ["Should we build cities from scratch?"](https://www.theguardian.com/cities/2019/jul/10/should-we-build-cities-from-scratch). _The Guardian_. 10 July 2019.
 
