@@ -89,13 +89,13 @@ Each doubling of population correlates to a 15% increase in per-capita economic 
 
 ## <a name="need"></a>(1) The world needs new cities
 
-By 2050, it is estimated that
+It is estimated that **by 2050**:
 * **68% of the world's population** will be living in cities (vs. 55% in 2018)[^growth][^mason]
 * about **2.5 billion additional people** will live in cities (vs. 2019), with 90% of the uptake in Asia and Africa[^growth]
 * about **200 million climate migrants** will settle in new locations. (Forecasts vary from 25 million to 1 billion.)[^migrants]
-* the population of Africa is expected to double from 1.3 billion today to over **2.5 billion** [^forbes]
 * **400 million people in India** will migrate to cities[^sharma]
-* it's estimated there will be at least **nine African "megacities" of 10 million people or more** (and more than two dozen African cities of 5 million or more, about the size of metropolitan Washington), but currently 60 percent of Africa’s city dwellers live in slums [^bloomberg]
+* the **African population will double** from 1.3 billion today to over **2.5 billion** [^forbes]
+* there will be at least **nine African "megacities" of 10 million people or more** (and more than two dozen African cities of 5 million or more, about the size of metropolitan Washington), but currently 60 percent of Africa’s city dwellers live in slums [^bloomberg]
 
 
 Half of the urban area that will be needed by 2050 hasn't been built yet.[^growth]
