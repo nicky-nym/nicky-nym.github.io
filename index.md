@@ -337,8 +337,9 @@ However, if you run the numbers, and run simulations, it turns out that getting 
   * nearness in place or time
   * _adjacency, closeness, immediacy, nearness, proximity, vicinity_
 
-* **special economic zone**
+* **special economic zone (SEZ)**
   * a part of a country in which the business and trade laws are different from the rest of the country[^sez]
+  * there have been SEZs since the 1950s, and there are now thousands of SEZs around the world[^mason]
 
 
 ## Naming
