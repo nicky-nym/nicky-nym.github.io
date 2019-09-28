@@ -95,13 +95,27 @@ By 2050, it is estimated that
 * about **200 million climate migrants** will settle in new locations. (Forecasts vary from 25 million to 1 billion.)[^migrants]
 * the population of Africa is expected to double from 1.3 billion today to over **2.5 billion** [^forbes]
 
-Half of the urban area that will be needed by 2050 hasnt been built yet.[^growth]
+Half of the urban area that will be needed by 2050 hasn't been built yet.[^growth]
 
 > "we're going to develop more urban area in the next 100 years than currently exists on Earth"
 >
 > &mdash; Paul Romer, Nobel prize-winning economist, New York University.
 
 As of 2018, **70 million people** were currently displaced by war, persecution and conflict. Of the total, 51 million were Internally Displaced People (IDPs), and 26 million were refugees (including **13 million refugee children**). Most refugees live in towns and cities, not rural areas or refugee camps. Nearly 4 in every 5 refugees are in displacement situations that have lasted for at least five years.[^displaced]
+
+> "We are at the beginning of the next wave of urbanization — a period of 
+> rapid growth in both area and population... The next wave of urbanization 
+> will also be defined by its sheer size — a tripling of land cover in the 
+> first half of this century alone. While the carrying capacity of existing 
+> cities is under increasing strain, unsustainable urban growth threatens to 
+> outstrip any mitigation efforts in our urban cores. The result is a need 
+> for new sites of politics, housing, commerce, industry, and energy. One 
+> solution is the accelerating development of greenfield cities around the world. 
+> Building new cities from the ground up is a bold (and monumentally difficult) 
+> attempt to relieve the strain on our currently overloaded urban systems. It 
+> promises to build energy efficiency, sustainability, and resilience in to the core of a place."[^caspar]
+>
+> &mdash; Caspar Herzberg, Schneider Electric
 
 
 ## <a name="money"></a>(2) There is money available for new cities
@@ -401,6 +415,8 @@ However, if you run the numbers, and run simulations, it turns out that getting 
 [^new-clark]: ["Resilient Growth: Building a Resilient City in the Philippines"](https://newcities.org/the-big-picture-resilient-growth-building-resilient-city-philippines/). _NewCities_. 2019.
 
 [^growth]: ["Should we build cities from scratch?"](https://www.theguardian.com/cities/2019/jul/10/should-we-build-cities-from-scratch). _The Guardian_. 10 July 2019.
+
+[^caspar]: ["The Future of Greenfield Cities"](https://newcities.org/the-big-picture-the-future-of-greenfield-cities/). _NewCities_. 23 July 2019.
 
 [^displaced]: ["Worldwide displacement tops 70 million, UN Refugee Chief urges greater solidarity in response"](https://www.unhcr.org/uk/news/press/2019/6/5d03b22b4/worldwide-displacement-tops-70-million-un-refugee-chief-urges-greater-solidarity.html). _UNHCR: The UN Refugee Agency_. 19 June 2019.
 
