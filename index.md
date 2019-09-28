@@ -90,7 +90,7 @@ Each doubling of population correlates to a 15% increase in per-capita economic 
 ## <a name="need"></a>(1) The world needs new cities
 
 By 2050, it is estimated that
-* **68% of the world's population** will be living in cities[^growth]
+* **68% of the world's population** will be living in cities (up from 55% in 2018)[^growth][^mason]
 * about **2.5 billion additional people** will live in cities (vs. 2019), with 90% of the uptake in Asia and Africa[^growth]
 * about **200 million climate migrants** will settle in new locations. (Forecasts vary from 25 million to 1 billion.)[^migrants] 
 
@@ -134,6 +134,12 @@ In the 2020s and 2030s, is will not be crazy to propose a $20 billion privately 
 ## <a name="precident"></a>(3) People are rapidly building new cities
 
 More than **120 new cities** are currently being built in 40 nations around the world.[^growth]
+
+Examples:
+  * Nkwashi, in Zambia, being built by Thebe Investment Management, is expected to house up to 100,000 people.[^mason]
+  * Tatu City, in Kenya, being built by Rendeavour, is planned for 150,000 residents.[^mason]
+  * Forest City, in Malaysia (700,000 residents) 
+  * Enyimba Economic City, in Nigeria (1.5 million residents)
 
 11,000 new buildings are built every day &mdash; **4 million new buildings a year** [^metabuild]
 
