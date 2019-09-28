@@ -44,7 +44,7 @@ If you're starting from scratch, then with a few good design choices it should b
    1. should be more **elder-friendly**
    1. should have a **smaller carbon footprint** per capita
    1. should be **more resiliant** after a natural disaster or other emergency
-   1. could be established as **charter cities**
+   1. could be established as **charter cities**[^mason]
 
 ## What would it take to build a propinquitous city?
 
@@ -353,6 +353,8 @@ We're still searching for a good name for this type of city design. If you've go
 
 ## References
 
+[^mason]: ["The Case for Charter Cities Within the Effective Altruist Framework"](https://assets.website-files.com/5d253237e31f051057dc0a2b/5d88effe42420361c5e0c3c2_The%20Case%20for%20Charter%20Cities%20Within%20the%20Effective%20Altruist%20Framework.pdf). Jeffrey Mason, _Charter Cities Institute_. Sept 2019.
+ 
 [^growth]: ["Should we build cities from scratch?"](https://www.theguardian.com/cities/2019/jul/10/should-we-build-cities-from-scratch). _The Guardian_. 10 July 2019.
 
 [^displaced]: ["Worldwide displacement tops 70 million, UN Refugee Chief urges greater solidarity in response"](https://www.unhcr.org/uk/news/press/2019/6/5d03b22b4/worldwide-displacement-tops-70-million-un-refugee-chief-urges-greater-solidarity.html). _UNHCR: The UN Refugee Agency_. 19 June 2019.
