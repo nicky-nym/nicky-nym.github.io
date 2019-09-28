@@ -92,7 +92,8 @@ Each doubling of population correlates to a 15% increase in per-capita economic 
 By 2050, it is estimated that
 * **68% of the world's population** will be living in cities (up from 55% in 2018)[^growth][^mason]
 * about **2.5 billion additional people** will live in cities (vs. 2019), with 90% of the uptake in Asia and Africa[^growth]
-* about **200 million climate migrants** will settle in new locations. (Forecasts vary from 25 million to 1 billion.)[^migrants] 
+* about **200 million climate migrants** will settle in new locations. (Forecasts vary from 25 million to 1 billion.)[^migrants]
+* the population of Africa is expected to double from 1.3 billion today to over **2.5 billion** [^forbes]
 
 Half of the urban area that will be needed by 2050 hasnt been built yet.[^growth]
 
@@ -163,6 +164,14 @@ New cities provide more space at lower cost per capita.
 New cities create value, and demand.
   * [TODO: examples]
 
+> In Africa "we should be building 40 million new homes or 160 Atlantas every year. ... 
+> Africa has 54 countries. Altogether they do not build 1 million homes a year. 
+> The gap is the opportunity. 40 million modest homes require an investment of 
+> more than $1 trillion every year. The multiplier effects would add $10 trillion 
+> to annual GDP. That is 5 times current GDP. Closing Africa’s housing gap can 
+> generate 5 times current GDP!"
+> 
+> &mdash; Paul Musembwa, CEO of Warp Developments
 
 ## <a name="work-better"></a>(5) We can make cities that work far better
 
@@ -359,7 +368,9 @@ We're still searching for a good name for this type of city design. If you've go
 ## References
 
 [^mason]: ["The Case for Charter Cities Within the Effective Altruist Framework"](https://assets.website-files.com/5d253237e31f051057dc0a2b/5d88effe42420361c5e0c3c2_The%20Case%20for%20Charter%20Cities%20Within%20the%20Effective%20Altruist%20Framework.pdf). Jeffrey Mason, _Charter Cities Institute_. Sept 2019.
- 
+
+[^forbes]: ["The Power Of Purpose: Unlocking Africa's $10 Trillion Opportunity In Housing"](https://www.forbes.com/sites/afdhelaziz/2019/09/12/the-power-of-purpose-unlocking-africas-10-trillion-opportunity-in-housing/#1e1fa3b714a0). _Forbes_. 12 September 2019.
+
 [^growth]: ["Should we build cities from scratch?"](https://www.theguardian.com/cities/2019/jul/10/should-we-build-cities-from-scratch). _The Guardian_. 10 July 2019.
 
 [^displaced]: ["Worldwide displacement tops 70 million, UN Refugee Chief urges greater solidarity in response"](https://www.unhcr.org/uk/news/press/2019/6/5d03b22b4/worldwide-displacement-tops-70-million-un-refugee-chief-urges-greater-solidarity.html). _UNHCR: The UN Refugee Agency_. 19 June 2019.
