@@ -314,37 +314,31 @@ However, if you run the numbers, and run simulations, it turns out that getting 
   * a special jurisdiction with a blank slate in commercial law, to allow for the adoption of new practices in areas such as a business registration, labor law, tax administration, and commercial dispute resolution
   * _typically built on greenfield sites to avoid the challenges of implementing such a wide array of reforms in an existing polity_
   * _typically privately finanaced_
+  * see: special economic zone
 
 * **effective altruism**
   * using empirical analysis to direct resources towards efforts that do the most possible good
   * _anti-malaria efforts, deworming initiatives1, and direct cash transfer programs are among the interventions most widely credited with providing the most cost-effective improvement in welfare for the global poor than any other intervention_ 
   * see [GiveWell](https://www.givewell.org/)
 
-<span> </span>
+* **induced demand**
+  * if you add lanes to a freeway, it leads to more trips, not faster trips[^induced_demand]
 
-induced demand
-: if you add lanes to a freeway, it leads to more trips, not faster trips[^induced_demand]
+* **Jevons paradox**
+  * as **X** gets faster (and cheaper), people use more **X**[^jevons]
 
-<span> </span>
+* **Marchetti constant**
+  * people will commute about 30 minutes each way per day [Marchetti constant](marchetti)
 
-Jevons paradox
-: as **X** gets faster (and cheaper), people use more **X**[^jevons]
+* **pinq**
+  * see [propinquitous](#propinquity)
 
-<span> </span>
+* <a name="propinquity"></a>**propinquity**
+  * nearness in place or time
+  * _adjacency, closeness, immediacy, nearness, proximity, vicinity_
 
-Marchetti constant
-: people will commute about 30 minutes each way per day [Marchetti constant](marchetti)
-
-<span> </span>
-
-pinq
-: see [propinquitous](#propinquity)
-
-<span> </span>
-
-<a name="propinquity"></a>propinquity
-: nearness in place or time
-: _adjacency, closeness, immediacy, nearness, proximity, vicinity_
+* **special economic zone**
+  * a part of a country in which the business and trade laws are different from the rest of the country[^sez]
 
 
 ## Naming
@@ -375,3 +369,4 @@ We're still searching for a good name for this type of city design. If you've go
 
 [^jevons]: ["Jevons paradox"](https://en.wikipedia.org/wiki/Jevons_paradox). _Wikipedia_.
 
+[^sez]: ["Special economic zone"](https://en.wikipedia.org/wiki/Special_economic_zone). _Wikipedia_.
