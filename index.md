@@ -16,10 +16,10 @@
 
 "Propinquitous city" is a made-up name for a set of ideas about new ways to design cities. No one has yet built a propinquitous city.
 
- 1. Propinquitous cities are cities designed to maximize everyone's **[mobilty](#mobility)**, and opportunity, within the city.
+ 1. Propinquitous cities are cities designed to maximize everyone's **[mobility](#mobility)**, and opportunity, within the city.
  1. The improved mobility results from unconventional design choices
     * **[transportation choices](#transportation)**: what vehicles to use to move people and packages &mdash; cars and trucks vs. small low-power vehicles
-    * **[geometry choices](#geometry)**: the size and shape of city features &mdash; building heights, block sizes, and street lane widths
+    * **[layout choices](#layout)**: the size and shape of city features &mdash; building heights, block sizes, and street lane widths
     * **[elevator choices](#elevator)**: stairs, elevators, and escalators vs. flights of wheelchair ramps
 
 ## Could we build a propinquitous city?
@@ -45,6 +45,41 @@ If you're starting from scratch, then with a few good design choices it should b
    1. should have a **smaller carbon footprint** per capita
    1. should be **more resiliant** after a natural disaster or other emergency
    1. could be established as **charter cities**
+
+## What would it take to build a propinquitous city?
+
+Rome wasn't built in a day. Building a propinquitous city would take a long time and lot of resources:
+  * miles of empty land, clear of conservation restrictions and legal show-stoppers 
+  * local government support, and local popular support among the neighbors
+  * billions of dollars of start-up capital
+  * millions of pounds of steel and concrete, and hundreds of construction teams 
+  * a population of people willing to move into the new housing as it is completed
+  * a population of companies willing to move into new office space as it is completed
+
+## Could we turn London or Paris into propinquitous cities?
+
+**No.** Existing cities have a lot of physical infrastructure that's expensive to change. People can make incremental changes, like adding new roads or bridges, but it's not practical to change the fundamental layout of an existing city.
+
+## Could propinquitous ideas trickle down to existing cities? 
+
+**Yes.** Over time people in existing cities like New York and San Francisco could adopt some of the ideas in the propinquitous designs, and make their cities incrementally more propinquitous, even if they can't change the fundamental layouts.
+
+
+## Superlinear Scaling 
+
+Each doubling of population correlates to a 15% increase in per-capita economic output.[^west]
+
+
+
+## Industrial Agglomeration 
+
+[TODO:]
+
+
+## Improved Resiliency 
+
+[TODO:]
+
 
 ---
 
@@ -169,6 +204,10 @@ To provide good **mobility** the city needs to ensure:
   * fast travel times
   * cheap travel modes
 
+Good mobility is more important than it sounds. It's not just about making rush-hour traffic a little less tiresome. Good mobility actually has significant implications for:
+  * economic prosperity
+  * social prosperity
+
 Improved mobility results from unconventional design choices:
   * **[transportation choices](#transportation)**: what vehicles to use to move people and packages &mdash; cars and trucks vs. small low-power vehicles
   * **[geometry choices](#geometry)**: the size and shape of city features &mdash; building heights, block sizes, and street lane widths
@@ -177,10 +216,16 @@ Improved mobility results from unconventional design choices:
 ## <a name="transportation"></a>(7) Transportation design choices
 
 The propinquitous city recipe calls for:
+  * no subways
+  * no light rail
+  * no trollies or trams
+  * no mass transit
   * no cars
+  * no self-driving cars
+  * no busses
   * no trucks
   * no taxis
-  * no ubers or lyfts
+  * no ubers, lyfts, waymos
   * no motorcycles
   * no gas engines
   * no open roads
@@ -195,7 +240,7 @@ Instead, we have
     * scooters
     * skateboards
   
-## <a name="geometry"></a>(8) Geometry design choices
+## <a name="layout"></a>(8) Layout design choices
 
 The propinquitous city recipe calls for:
   * no single-story ranch houses and no other single-story buildings
@@ -225,11 +270,6 @@ The only way to go "upstairs" or "downstairs" in a pinq city is by using
 This idea sounds crazy to most people when they first hear it, because it's so different from all the normal buildings and cities that we're used to.
 
 However, if you run the numbers, and run simulations, it turns out that getting rid of elevators and stairs works out just fine. Instead of making it harder to get places, having no elevators makes it **faster** to get between any two random locations. Plus this design is greener, works better after a natural disaster, can be built more quickly, is less expensive to build, and is less expensive to maintain.
-
-1. Propinquitous cities are cities designed to maximize everyone's **[mobilty](#mobility)**, and opportunity, within the city.
- 1. The improved mobility results from unconventional design choices
-    * **[transportation choices](#transportation)**: what vehicles to use to move people and packages &mdash; cars and trucks vs. small low-power vehicles
-    * **[geometry choices](#geometry)**: the size and shape of city features &mdash; building heights, block sizes, and street lane widths
 
 
 ---
@@ -322,6 +362,8 @@ We're still searching for a good name for this type of city design. If you've go
 [^yang]: ["Andrew Yang’s plan to tackle climate change, explained"](https://www.vox.com/future-perfect/2019/8/26/20833263/andrew-yang-climate-plan). _Vox.com_. 26 August 2019.
 
 [^metabuild]: ["urbAIn – AI, Cities, and Climate Change"](https://www.metabuild.io/urbain-ai-cities-and-climate-change/). _Metabuild.io_. 15 June 2019.
+
+[^west]: ["The Origins of Scaling in Cities"](), by Luis Bettencourt & Geoffrey West at the Santa Fe Institute. _Science (volume 340, issue 6139, page 1438)_. 21 June 2013.
 
 [^induced_demand]: ["Induced demand"](https://en.wikipedia.org/wiki/Induced_demand). _Wikipedia_.
 
