@@ -191,6 +191,11 @@ from 1950 to 2015, the value of Manhattan land grew at an annual rate of 5.5 per
 
 "Corner lots are significantly more valuable than mid-block lots, according to the study, and lots in close proximity to Broadway, which runs the length of the island, also have higher values."[^manhattan]
 
+"At 305 square miles, New York City makes up only 0.008% of the total land area of the U.S., yet its $1.5tr of housing value is about 5% of the Nation-wide total. Only four states are worth more than New York City, one of which is New York State."[^metrocosm]
+
+"Manhattan‘s housing alone is worth about $733bn, which would make it the 14th most valuable state in the country. Manhattan measures only about 20 square miles, 7.5% of New York City."[^metrocosm]
+
+"What I found most striking of all was the value of some Manhattan neighborhoods. The Upper East Side, which occupies less than one square mile, has an astounding $96bn of housing value. That places it above Staten Island and the Bronx as well as above six states: New Hampshire, North Dakota, South Dakota, Vermont, Wyoming, and Alaska."[^metrocosm]
 
 > In Africa "we should be building 40 million new homes or 160 Atlantas every year. ... 
 > Africa has 54 countries. Altogether they do not build 1 million homes a year. 
@@ -425,6 +430,8 @@ However, if you run the numbers, and run simulations, it turns out that getting 
 [^mason]: ["The Case for Charter Cities Within the Effective Altruist Framework"](https://assets.website-files.com/5d253237e31f051057dc0a2b/5d88effe42420361c5e0c3c2_The%20Case%20for%20Charter%20Cities%20Within%20the%20Effective%20Altruist%20Framework.pdf). Jeffrey Mason, _Charter Cities Institute_. Sept 2019.
 
 [^bloomberg]: ["Africa’s Cities Are About to Boom – and Maybe Explode"](https://www.bloomberg.com/opinion/articles/2019-07-25/africa-s-cities-are-about-to-boom-and-maybe-explode). _Bloomberg_. 25 July 2019.
+
+[^metrocosm]: ["A Striking Perspective on New York City Property Values"](http://metrocosm.com/new-york-city-property-values-in-perspective/). _Metrocosm_. 24 June 2015.
 
 [^sharma]: ["Greenfield Smart Cities Shaping the Future of India"](https://newcities.org/the-big-picture-greenfield-smart-cities-shaping-future-india/). _NewCities_. 23 July 2019.
 
