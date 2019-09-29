@@ -183,6 +183,15 @@ New cities provide more space at lower cost per capita.
 New cities create value, and demand.
   * [TODO: examples]
 
+"Our biggest urban problems today—growing inequality, rampant gentrification, housing unaffordability, and increasing segregation—all have roots in the staggering cost of urban land."[^manhattan]
+
+"The developable land in Manhattan—excluding parks, roads, and highways—was worth between $1.54 and $1.95 trillion, for an average of $1.74 trillion"[^manhattan]
+
+from 1950 to 2015, the value of Manhattan land grew at an annual rate of 5.5 percent beyond inflation[^manhattan]
+
+"Corner lots are significantly more valuable than mid-block lots, according to the study, and lots in close proximity to Broadway, which runs the length of the island, also have higher values."[^manhattan]
+
+
 > In Africa "we should be building 40 million new homes or 160 Atlantas every year. ... 
 > Africa has 54 countries. Altogether they do not build 1 million homes a year. 
 > The gap is the opportunity. 40 million modest homes require an investment of 
@@ -422,6 +431,8 @@ However, if you run the numbers, and run simulations, it turns out that getting 
 [^forbes]: ["The Power Of Purpose: Unlocking Africa's $10 Trillion Opportunity In Housing"](https://www.forbes.com/sites/afdhelaziz/2019/09/12/the-power-of-purpose-unlocking-africas-10-trillion-opportunity-in-housing/#1e1fa3b714a0). _Forbes_. 12 September 2019.
 
 [^fast-company]: ["Floating cities once seemed like sci-fi. Now the UN is getting on board"](https://www.fastcompany.com/90329294/floating-cities-once-seemed-like-sci-fi-now-the-un-is-getting-on-board). _Fast Company_. 4 April 2019.
+
+[^manhattan]: ["What's Manhattan's Land Worth? Try 'Canada's Entire GDP'"](https://www.citylab.com/life/2018/04/what-manhattans-land-is-worth/558776/). _CityLab_. 24 April 2018.
 
 [^new-clark]: ["Resilient Growth: Building a Resilient City in the Philippines"](https://newcities.org/the-big-picture-resilient-growth-building-resilient-city-philippines/). _NewCities_. 2019.
 
