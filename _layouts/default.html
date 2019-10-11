@@ -19,6 +19,11 @@
           <a href="{{ "/" | absolute_url }}">
             <img class="logo" src="{{site.logo | relative_url}}" alt="Nym logo" />
           </a>
+        {% else %}
+          <a href="{{ "/" | absolute_url }}">
+            <span class="logo">Propinquity</span>
+          </a>
+
         {% endif %}
         
         {% if site.show_downloads %}
