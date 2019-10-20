@@ -12,10 +12,52 @@ permalink: /kinematic/
  1. The world **[needs new cities](#need)**.
  1. There is **[money available](#money)** for new cities.
  1. People are **[rapidly building new cities](#precident)**.
- 1. Building new cities is a **[cost-effective](#cost-effective)** way to pull people out of poverty, bring economic growth, and meet basic needs.
- 1. We could make new **[cities that work far better](#work-better)** for everyone, by making significantly better design choices
+ 1. Cities can be a **[cost-effective](#cost-effective)** way to pull people out of poverty, bring economic growth, and meet basic needs.
+ 1. We could make new **[cities that work far better](#work-better)** for everyone, by making significantly better design choices.
 
-## What is a kinematic city?
+### The proposal
+
+Build new cities from scratch that are specifically designed to maximize "kinematic range".
+
+### The problems
+
+Existing cities:
+  1. have too much traffic congestion
+  2. have housing costs that are too high
+  3. have transportation costs that are too high
+  4. are unsafe
+  5. are not resiliant after natural disasters and power failures
+  6. overly limit the mobility of kids, elders, and people with disabilities
+  7. are crazy expensive to make significant changes to (for things like replacing transportation networks)
+  8. take huge amounts of time to make significant changes to
+
+### The solution
+
+The problems above could be greatly ameliorated by just making a handful of different design choices in a new city project:
+    * **[transportation choices](#transportation)**: what vehicles to use to move people and packages &mdash; cars and trucks vs. small low-power vehicles
+    * **[layout choices](#layout)**: the size and shape of city features &mdash; building heights, block sizes, and street lane widths
+    * **[elevator choices](#elevator)**: stairs, elevators, and escalators vs. flights of wheelchair ramps
+
+### The market
+
+The current market size for new city construction is large:
+  * 120 new cities currently being built
+  * spending is somewhere between the high hundreds of billions of dollars, and the low trillions of dollars
+  * privately financed real estate developments projects are now being completed at the scale of over $10 billion for a single construction project
+  * in the next 30 years, another 2.5 billion people will live cities
+  * "We're going to develop more urban area in the next 100 years than currently exists on Earth" &mdash; Paul Romer
+
+---
+## FAQ: Frequently Asked Questions
+
+ * [What is a kinematic city?](#what-is)
+ * [Could we build a kinematic city?](#could-we-build)
+ * [Why build kinematic cities?](#why-build)
+ * [What would it take to build a kinematic city?](#what-would-it-take)
+ * [Could we turn London or Paris into kinematic cities?](#could-we-transform)
+ * [Could kinematic ideas trickle down to existing cities?](#could-ideas-trickle-down)
+
+### <a name="what-is"></a>What is a kinematic city?
 
 No one has yet built a kinematic city. "Kinematic city" is a new made-up name for a specific set of ideas about ways to design cities. A kinematic city design strives to maximize the "kinematic range" of everybody in the city, meaning the number of destinations that are in the daily range of travel for everybody.
 
@@ -25,11 +67,11 @@ No one has yet built a kinematic city. "Kinematic city" is a new made-up name fo
     * **[layout choices](#layout)**: the size and shape of city features &mdash; building heights, block sizes, and street lane widths
     * **[elevator choices](#elevator)**: stairs, elevators, and escalators vs. flights of wheelchair ramps
 
-## Could we build a kinematic city?
+### <a name="could-we-build"></a>Could we build a kinematic city?
 
 **Yes.** The kinematic city plans are designed with existing technology in mind, and with an eye toward simple, affordable technologies. It's about bicycles and water pipes, not about floating ocean domes and orbital towers.
 
-## Why build kinematic cities?
+### <a name="why-build"></a>Why build kinematic cities?
 
 If you're starting from scratch, then with a few good design choices it should be possible to build a city that **works far better** than normal conventional cities
 
@@ -49,7 +91,7 @@ If you're starting from scratch, then with a few good design choices it should b
    1. should be **more resiliant** after a natural disaster or other emergency
    1. could be established as **charter cities**[^mason]
 
-## What would it take to build a kinematic city?
+### <a name="what-would-it-take"></a>What would it take to build a kinematic city?
 
 Rome wasn't built in a day. Building a kinematic city would take a long time and lot of resources:
   * miles of empty land, clear of conservation restrictions and legal show-stoppers 
@@ -59,11 +101,11 @@ Rome wasn't built in a day. Building a kinematic city would take a long time and
   * a population of people willing to move into the new housing as it is completed
   * a population of companies willing to move into new office space as it is completed
 
-## Could we turn London or Paris into kinematic cities?
+### <a name="could-we-transform"></a>Could we turn London or Paris into kinematic cities?
 
 **No.** Existing cities have a lot of physical infrastructure that's expensive to change. People can make incremental changes, like adding new roads or bridges, but it's not practical to change the fundamental layout of an existing city.
 
-## Could kinematic ideas trickle down to existing cities? 
+### <a name="could-ideas-trickle-down"></a>Could kinematic ideas trickle down to existing cities? 
 
 **Yes.** Over time people in existing cities like New York and San Francisco could adopt some of the ideas in the kinematic city designs, and make their cities incrementally more kinematic, even if they can't change the fundamental layouts.
 
