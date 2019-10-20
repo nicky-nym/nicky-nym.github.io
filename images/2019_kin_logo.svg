@@ -3,12 +3,14 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="360px" height="360px" viewBox="0 0 360 360" enable-background="new 0 0 360 360" xml:space="preserve">
 
 <g id="K" transform="scale(0.75) translate(0, 0)">
-  <polygon fill="#999" points="0,480 0,0 62,0 62,480"/>
+  <polygon fill="#888" points="0,480 0,0 62,0 62,480"/>
 </g>
 
+<!--
 <g id="arrow" transform="scale(0.75) translate(0, -30)">
   <polygon fill="#ffe2d6" points="0,270 132,420 480,420 480,120 132,120 0,270"/>
 </g>
+-->
 
 <g id="Chevron" transform="scale(0.75)">
   <polygon fill="#DF4911" points="210,480 255,480 255,435 84.375,240 255,45 255,0 210,0 0,240"/>
@@ -24,11 +26,8 @@
 
 <!-- 
 <g id="box" transform="translate(0, 0)">
-	<g>
-	  d<polygon fill="#eee" points="0,360 0,0 360,0 360,360"/>
-	</g>
+  <polygon fill="#eee" points="0,360 0,0 360,0 360,360"/>
 </g>
 -->
 
 </svg>
-
