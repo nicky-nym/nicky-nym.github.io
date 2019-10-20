@@ -304,20 +304,32 @@ Improved mobility results from unconventional design choices:
 
 ## <a name="transportation"></a>(7) Transportation design choices
 
-The kinematic city recipe calls for:
-  * no subways
-  * no light rail
-  * no trollies or trams
-  * no mass transit
-  * no cars
-  * no self-driving cars
-  * no busses
-  * no trucks
-  * no taxis
-  * no ubers, lyfts, waymos
-  * no motorcycles
-  * no gas engines
+The kinematic city design calls for:
+  * no traffic lights
+  * no stop signs
   * no open roads
+  * no large intersections
+  * no cars within city limits
+    * no private cars
+    * no taxis
+    * no ubers, lyfts
+    * no waymos and self-driving cars
+  * no rail within city limits
+    * no subways
+    * no light rail
+    * no trollies or trams
+  * no airborne traffic within city limits
+    * no delivery drones
+    * no helicopters
+    * no gondolas
+  * no large vehicles
+    * no busses
+    * no trucks
+    * no mass transit
+  * no gas engine vehicles
+    * no motorcycles
+  * no fast vehicles
+    * no motorcycles
 
 Instead, we have
   * rain-sheltered pedestrian sidewalks
