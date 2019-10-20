@@ -13,11 +13,11 @@ permalink: /kinematic/
  1. There is **[money available](#money)** for new cities.
  1. People are **[rapidly building new cities](#precident)**.
  1. Building new cities is a **[cost-effective](#cost-effective)** way to pull people out of poverty, bring economic growth, and meet basic needs.
- 1. By making significantly better design choices, we could make new **[cities that work far better](#work-better)** for everyone.
+ 1. We could make new **[cities that work far better](#work-better)** for everyone, by making significantly better design choices
 
 ## What is a kinematic city?
 
-"Kinematic city" is a new made-up name for a specific set of ideas about new ways to design cities so as to maximize the number of destinations that are in the daily range of travel for everybody in the city. No one has yet built a kinematic city.
+No one has yet built a kinematic city. "Kinematic city" is a new made-up name for a specific set of ideas about ways to design cities. A kinematic city design strives to maximize the "kinematic range" of everybody in the city, meaning the number of destinations that are in the daily range of travel for everybody.
 
  1. Kinematic cities are cities designed to maximize everyone's **[mobility](#mobility)**, travel range, and opportunity, within the city.
  1. The improved mobility and travel range results from unconventional design choices
@@ -80,7 +80,7 @@ Each doubling of population correlates to a 15% increase in per-capita economic 
 
 ## Industrial Agglomeration 
 
-[TODO:]
+The term "industrial agglomeration" means the clustering of a lot of business firms in one region. Industrial agglomeration leads to "agglomeration economies" (somewhat similar to the seperate idea of "economies of scale"). "Agglomeration economies" are economic benefits that come from having businesses be near each other, such as shared infrastructure development. "Agglomeration diseconomies" are the disadvantages of proximity, such as traffic congestion.
 
 
 ## Improved Resiliency 
