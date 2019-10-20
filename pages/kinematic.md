@@ -28,7 +28,7 @@ Existing cities:
   4. are unsafe
   5. are not resiliant after natural disasters and power failures
   6. overly limit the mobility of kids, elders, and people with disabilities
-  7. are crazy expensive to make significant changes to (for things like replacing transportation networks)
+  7. are staggeringly expensive to make significant changes to (for things like replacing transportation networks)
   8. take huge amounts of time to make significant changes to
 
 ### The solution
@@ -211,7 +211,7 @@ Examples:
 
 ## <a name="cost-effective"></a>(4) Building new cities is cost-effective
 
-Projects in existing cities can be staggerly expensive.
+Projects in existing cities can be staggeringly expensive.
   * $4.5 billion for the San Francisco Transbay Transit Center & Salesforce Tower <sup>[citation needed]</sup>
   * $17 billion for the 2nd Avenue Subway project in New York <sup>[citation needed]</sup>
   * $20 billion for the Hudson Yards project in New York <sup>[citation needed]</sup>
