@@ -114,22 +114,6 @@ Rome wasn't built in a day. Building a kinematic city would take a long time and
 A kinematic city could have a traditional city government structure, or it could experiment with less conventional structures. That's a big topic, and one for another author. Suffice it to say, the questions of governance are largely orthogonal to the ideas presented here about the physical layout of a city, the transportation choices, etc. An authoritarian government could build a kinematic city, or a utopian libertarian collective could build a kinematic city, and they would both be kinematic cities.
 
 
-## Superlinear Scaling 
-
-Each doubling of population correlates to a 15% increase in per-capita economic output.[^west]
-
-
-
-## Industrial Agglomeration 
-
-The term "industrial agglomeration" means the clustering of a lot of business firms in one region. Industrial agglomeration leads to "agglomeration economies" (somewhat similar to the seperate idea of "economies of scale"). "Agglomeration economies" are economic benefits that come from having businesses be near each other, such as shared infrastructure development. "Agglomeration diseconomies" are the disadvantages of proximity, such as traffic congestion.
-
-
-## Improved Resiliency 
-
-[TODO:]
-
-
 ---
 
 ## <a name="need"></a>(1) The world needs new cities
@@ -285,6 +269,22 @@ TODO:
    1. should be **more resiliant** after a natural disaster or other emergency
    1. could be established as **charter cities**[^mason]
  ```
+
+## Superlinear Scaling 
+
+Each doubling of population correlates to a 15% increase in per-capita economic output.[^west]
+
+
+
+## Industrial Agglomeration 
+
+The term "industrial agglomeration" means the clustering of a lot of business firms in one region. Industrial agglomeration leads to "agglomeration economies" (somewhat similar to the seperate idea of "economies of scale"). "Agglomeration economies" are economic benefits that come from having businesses be near each other, such as shared infrastructure development. "Agglomeration diseconomies" are the disadvantages of proximity, such as traffic congestion.
+
+
+## Improved Resiliency 
+
+[TODO:]
+
 
 ### <a name="resiliant"></a>(5.10) Resiliant 
 
