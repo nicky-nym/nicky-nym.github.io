@@ -117,6 +117,17 @@ Rome wasn't built in a day. Building a kinematic city would take a long time and
 
 A kinematic city could have a traditional city government structure, or it could experiment with less conventional structures. That's a big topic, and one for another author. Suffice it to say, the questions of governance are largely orthogonal to the ideas presented here about the physical layout of a city, the transportation choices, etc. An authoritarian government could build a kinematic city, or a utopian libertarian collective could build a kinematic city, and they would both be kinematic cities.
 
+---
+
+## Contents
+
+  * **[Summary](#summary)**
+  * **[FAQ](#faq)**
+  1. **[World need for new cities](#need)**
+  1. **[Money available for new cities](#money)**
+  1. **[People are rapidly building new cities](#precident)**
+  1. **[Cost-effectiveness](#cost-effective)** 
+  1. **[Cities designed to work far better](#work-better)**
 
 ---
 
