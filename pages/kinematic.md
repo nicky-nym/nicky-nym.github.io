@@ -45,7 +45,7 @@ The current market size for new city construction is large:
   * 120 new cities are currently being built
   * spending is somewhere between the high hundreds of billions of dollars, and the low trillions of dollars
   * privately financed real estate developments projects are now being completed at the scale of over $10 billion for a single construction project
-  * "We're going to develop more urban area in the next 100 years than currently exists on Earth" &mdash; Paul Romer
+  * "_We're going to develop more urban area in the next 100 years than currently exists on Earth_" &mdash; Paul Romer
 
 ---
 
@@ -55,20 +55,16 @@ The current market size for new city construction is large:
   * **[Contents](#contents)** &mdash; _you are here!_
   * **[FAQ](#faq)**
   * **Briefs**
-
     1. **[Need](#need)** &mdash; World need for new cities
-       1. foo
-       2. bar
-
-1. **[Money](#money)** &mdash; Money available for new cities
-1. **[Timeframe](#precident)** &mdash; People are rapidly building new cities
-1. **[Cost-effectiveness](#cost-effective)** 
-1. **[Design improvements](#work-better)** &mdash; Making cities that work better
-   1. Time and money
-   1. Measuring cities
-   1. Transportation design choices
-   1. Spatial layout design choices
-   1. Elevator design choices
+    1. **[Money](#money)** &mdash; Money available for new cities
+    1. **[Timeframe](#precident)** &mdash; People are rapidly building new cities
+    1. **[Cost-effectiveness](#cost-effective)** 
+    1. **[Design improvements](#work-better)** &mdash; Making cities that work better
+       1. [Time and money](#time-and-money)
+       1. [Measuring cities](#measuring-cities)
+       1. [Transportation design choices](#transportation)
+       1. [Spatial layout design choices](#spatial-layout)
+       1. [Elevator design choices](#elevators)
 
 ---
 ## FAQ: Frequently Asked Questions
@@ -276,80 +272,55 @@ from 1950 to 2015, the value of Manhattan land grew at an annual rate of 5.5 per
 > 
 > &mdash; John Macomber, senior lecturer, Harvard Business School.
 
+### <a name="time-and-money"></a>Time and money
 
-### Time and money
 
+### <a name="measuring-cities"></a>Measuring cities
 
-### Measuring cities
-
+**Examples:**
 * **GDP per capita** is an example of an common economic metric that cities are measured by
 * **population** and **land area** are examples of common physical metrics
 
 There are a huge number of other metrics that people measure cities by. We're going to ignore most of them, and just focus on the handful that are most important for describing the kinematics of cities. 
 
-#### Land Area
+* **Land Area** is the total size of all the land occupied by a city.
+  * unit: square miles (or square kilometers)
 
-* **Land Area** is the total size of all the land occupied by a city
-* unit: square miles (or square kilometers)
+* **Parcel Area** is the size of the lot of land that a house (or other building) is built on.
+  * unit: square feet (or acres, hectares, or square meters)
 
-#### Parcel Area
+* **Floor Area** is the amount of floorspace in a building, including the floorspace on all the different floors of a multi-story building.
+  * unit: square feet (or square meters)
 
-* **Parcel Area** is the size of the lot of land that a house (or other building) is built on
-* unit: square feet (or acres, hectares, or square meters)
-
-#### Floor Area
-
-* **Floor Area** is the amount of floorspace in a building, including the floorspace on all the different floors of a multi-story building
-* unit: square feet (or square meters)
-
-#### Floor Area Ratio &mdash; FAR<sub>parcel</sub> and FAR<sub>overall</sub>
-
-* **FAR<sub>parcel</sub>** for a building on a parcel, is the ratio of Floor Area to Parcel Area
-* **FAR<sub>overall</sub>** for a neighborhood of a city, is the ratio of the total Floor Area of all the buildings to the total Land Area of the neighborhood, including all the land area used for streets and sidewalks and parks, as well as the land area of all the  Parcel Area, 
-* unit: square feet per square feet (or square meters per square meters)
-
-#### Gross Area
+* **FAR<sub>parcel</sub>** is the **Floor Area Ratio** for a building on a parcel, meaning the ratio of Floor Area to Parcel Area.
+* **FAR<sub>overall</sub>** is the **Floor Area Ratio** for a neighborhood of a city, meaning the ratio of the total Floor Area of all the buildings to the total Land Area of the neighborhood, including all the land area used for streets and sidewalks and parks, as well as the land area of all the Parcel Area.
+  * unit: square feet per square feet (or square meters per square meters)
 
 * **Gross Area** is the total floor area of a building, including all the area taken up by lobbies, hallways, elevator shafts, walls, offices, apartments, etc.
-* unit: square feet (or square meters)
-
-#### Usable Floor Area
+  * unit: square feet (or square meters)
 
 * **Usable Floor Area** is an area of a building, such as a studio apartment or dentist's office, that could be rented out to be used exclusively by a tenant, or sold for the exclusive use of an owner. 
-* unit: square feet (or square meters)
-
-#### Circulation Area
+  * unit: square feet (or square meters)
 
 * **Circulation Area** for a building is an area of a building taken up by hallways, elevator shafts, stairways, and lobbies.
 * **Circulation Area** for a city also includes the land area taken up by streets and sidewalks, parking lots, driveways, bus stops, train tracks, etc.
-* unit: square feet (or square meters)
+  * unit: square feet (or square meters)
 
-#### Circulation Area Ratio
- 
-* **Circulation Area Ratio** for a city is the ratio of the total Circulation Area to the total Usable Floor Area
-* unit: square feet per square feet (or square meters per square meters)
+* **Circulation Area Ratio** for a city is the ratio of the total Circulation Area to the total Usable Floor Area.
+  * unit: square feet per square feet (or square meters per square meters)
 
-#### Journey Elapsed Distance &mdash; JED (or D<sub>J</sub>)
+* **D<sub>J</sub>** is a **Journey Distance**, meaning total length of the path taken by a person (or package) as they travel from point A to point B in a building or in a city.
+  * unit: feet (or meters, kilometers, or miles)
 
-* **D<sub>J</sub>** is the total length of the path taken by a person (or package) as they travel from point A to point B in a building or in a city
-* unit: feet (or meters, kilometers, or miles)
+* **T<sub>J</sub>** is a **Journey Time**, meaning the total length of the time it takes for a person (or package) to travel from point A to point B in a building or in a city.
+  * unit: minutes
 
-#### Journey Elapsed Time &mdash; JET (or T<sub>J</sub>)
+* **Kinematic Range** represents the range of destinations that a person can get to from wherever they are, in a set amount of time. In the real world, a destination would be something like your friend's house, your dentist's office, or a library or coffee shop. For the purposes of the Kinematic Range metric, a destination is just any amount of Usable Floor Area. Kinematic Range is the total amount of Usable Floor Area you could get to in a given Journey Time.
+  * unit: square feet per minute (or square meters per second)
 
-* **T<sub>J</sub>** is the total length of the time it takes for a person (or package) to travel from point A to point B in a building or in a city
-* unit: minutes
-
-#### Kinematic Range
-
-* Floor Area per T<sub>J</sub>
-* unit: square feet per minute
-
-#### 
-
-
-### Transportation design choices
-### Spatial layout design choices
-### Elevator design choices
+### <a name="transportation"></a>Transportation design choices
+### <a name="spatial-layout"></a>Spatial layout design choices
+### <a name="elevators"></a>Elevator design choices
 
 ```
 TODO:
