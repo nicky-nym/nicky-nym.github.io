@@ -308,10 +308,10 @@ There are a huge number of metrics that people measure cities by. We're going to
 * <a name="circulation-area-ratio"></a>**Circulation Area Ratio** for a city is the ratio of the total [Circulation Area](#circulation-area) to the total [Usable Floor Area](#usable-area).
   * unit: square feet per square feet (or square meters per square meters)
 
-* <a name="journey-distance"></a>**D<sub>J</sub>** is a **Journey Distance**, meaning total length of the path taken by a person (or package) as they travel from point A to point B in a building or in a city.
+* <a name="journey-distance"></a>**D<sub>j</sub>** is a **Journey Distance**, meaning total length of the path taken by a person (or package) as they travel from point A to point B in a building or in a city.
   * unit: feet (or meters, kilometers, or miles)
 
-* <a name="journey-time"></a>**T<sub>J</sub>** is a **Journey Time**, meaning the total length of the time it takes for a person (or package) to travel from point A to point B in a building or in a city.
+* <a name="journey-time"></a>**T<sub>j</sub>** is a **Journey Time**, meaning the total length of the time it takes for a person (or package) to travel from point A to point B in a building or in a city.
   * unit: minutes
 
 * <a name="kinematic-range"></a>**Kinematic Range** represents the range of destinations that a person can get to from wherever they are, in a set amount of time. In the real world, a destination would be something like your friend's house, your dentist's office, or a library or coffee shop. For the purposes of the Kinematic Range metric, a destination is just any amount of [Usable Floor Area](#usable-area). Kinematic Range is the total amount of [Usable Floor Area](#usable-area) you could get to in a given [Journey Time](#journey-time).
