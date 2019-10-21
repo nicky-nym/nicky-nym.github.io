@@ -123,11 +123,17 @@ A kinematic city could have a traditional city government structure, or it could
 
   * **[Summary](#summary)**
   * **[FAQ](#faq)**
-  1. **[World need for new cities](#need)**
-  1. **[Money available for new cities](#money)**
-  1. **[People are rapidly building new cities](#precident)**
+  * **Briefs**
+  1. **[Need](#need)** &mdash; World need for new cities
+  1. **[Money](#money)** &mdash; Money available for new cities
+  1. **[Timeframe](#precident)** &mdash; People are rapidly building new cities
   1. **[Cost-effectiveness](#cost-effective)** 
-  1. **[Cities designed to work far better](#work-better)**
+  1. **[Design improvements](#work-better)** &mdash; Making cities that work better
+    1. Time and money
+    1. Measuring cities
+    1. Transportation design choices
+    1. Spatial layout design choices
+    1. Elevator design choices
 
 ---
 
