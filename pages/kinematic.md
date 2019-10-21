@@ -292,8 +292,8 @@ There are a huge number of metrics that people measure cities by. We're going to
 * <a name="floor-area"></a>**Floor Area** is the amount of floorspace in a building, including the floorspace on all the different floors of a multi-story building.
   * unit: square feet (or square meters)
 
-* <a name="far-parcel"></a>**FAR<sub>parcel</sub>** is the **Floor Area Ratio** for a building on a parcel, meaning the ratio of Floor Area to Parcel Area.
-* <a name="far-overall"></a>**FAR<sub>overall</sub>** is the **Floor Area Ratio** for a neighborhood of a city, meaning the ratio of the total Floor Area of all the buildings to the total Land Area of the neighborhood, including all the land area used for streets and sidewalks and parks, as well as the land area of all the Parcel Area.
+* <a name="far-parcel"></a>**FAR<sub>parcel</sub>** is the **Floor Area Ratio** for a building on a parcel, meaning the ratio of [Floor Area](#floor-area) to [Parcel Area](#parcel-area).
+* <a name="far-overall"></a>**FAR<sub>overall</sub>** is the **Floor Area Ratio** for a neighborhood of a city, meaning the ratio of the total [Floor Area](#floor-area) of all the buildings to the total [Land Area](#land-area) of the neighborhood, including all the land area used for streets and sidewalks and parks, as well as the land area of all the [Parcel Area](#parcel-area).
   * unit: square feet per square feet (or square meters per square meters)
 
 * <a name="gross-area"></a>**Gross Area** is the total floor area of a building, including all the area taken up by lobbies, hallways, elevator shafts, walls, offices, apartments, etc.
@@ -305,7 +305,7 @@ There are a huge number of metrics that people measure cities by. We're going to
 * <a name="circulation-area"></a>**Circulation Area** for a building is an area of a building taken up by hallways, elevator shafts, stairways, and lobbies. **Circulation Area** for a city also includes the land area taken up by streets and sidewalks, parking lots, driveways, bus stops, train tracks, etc.
   * unit: square feet (or square meters)
 
-* <a name="circulation-area-ratio"></a>**Circulation Area Ratio** for a city is the ratio of the total Circulation Area to the total Usable Floor Area.
+* <a name="circulation-area-ratio"></a>**Circulation Area Ratio** for a city is the ratio of the total [Circulation Area](#circulation-area) to the total [Usable Floor Area](#usable-area).
   * unit: square feet per square feet (or square meters per square meters)
 
 * <a name="journey-distance"></a>**D<sub>J</sub>** is a **Journey Distance**, meaning total length of the path taken by a person (or package) as they travel from point A to point B in a building or in a city.
@@ -314,7 +314,7 @@ There are a huge number of metrics that people measure cities by. We're going to
 * <a name="journey-time"></a>**T<sub>J</sub>** is a **Journey Time**, meaning the total length of the time it takes for a person (or package) to travel from point A to point B in a building or in a city.
   * unit: minutes
 
-* <a name="kinematic-range"></a>**Kinematic Range** represents the range of destinations that a person can get to from wherever they are, in a set amount of time. In the real world, a destination would be something like your friend's house, your dentist's office, or a library or coffee shop. For the purposes of the Kinematic Range metric, a destination is just any amount of [Usable Floor Area](#usable-area). Kinematic Range is the total amount of Usable Floor Area you could get to in a given Journey Time.
+* <a name="kinematic-range"></a>**Kinematic Range** represents the range of destinations that a person can get to from wherever they are, in a set amount of time. In the real world, a destination would be something like your friend's house, your dentist's office, or a library or coffee shop. For the purposes of the Kinematic Range metric, a destination is just any amount of [Usable Floor Area](#usable-area). Kinematic Range is the total amount of [Usable Floor Area](#usable-area) you could get to in a given [Journey Time](#journey-time).
   * unit: square feet per minute (or square meters per second)
 
 ### <a name="transportation"></a>Transportation design choices
