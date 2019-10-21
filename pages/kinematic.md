@@ -261,7 +261,7 @@ from 1950 to 2015, the value of Manhattan land grew at an annual rate of 5.5 per
 > 
 > &mdash; Paul Musembwa, CEO of Warp Developments
 
-## <a name="work-better"></a>(5) We can make cities that work far better
+## <a name="work-better"></a>(5) Design improvements &mdash; We can make cities that work far better
 
 > "If we stick to business as usual most of it is going to be 
 > disorderly and less functional than the stuff we already have."[^growth]
@@ -276,6 +276,80 @@ from 1950 to 2015, the value of Manhattan land grew at an annual rate of 5.5 per
 > 
 > &mdash; John Macomber, senior lecturer, Harvard Business School.
 
+
+### Time and money
+
+
+### Measuring cities
+
+* **GDP per capita** is an example of an common economic metric that cities are measured by
+* **population** and **land area** are examples of common physical metrics
+
+There are a huge number of other metrics that people measure cities by. We're going to ignore most of them, and just focus on the handful that are most important for describing the kinematics of cities. 
+
+#### Land Area
+
+* **Land Area** is the total size of all the land occupied by a city
+* unit: square miles (or square kilometers)
+
+#### Parcel Area
+
+* **Parcel Area** is the size of the lot of land that a house (or other building) is built on
+* unit: square feet (or acres, hectares, or square meters)
+
+#### Floor Area
+
+* **Floor Area** is the amount of floorspace in a building, including the floorspace on all the different floors of a multi-story building
+* unit: square feet (or square meters)
+
+#### Floor Area Ratio &mdash; FAR<sub>parcel</sub> and FAR<sub>overall</sub>
+
+* **FAR<sub>parcel</sub>** for a building on a parcel, is the ratio of Floor Area to Parcel Area
+* **FAR<sub>overall</sub>** for a neighborhood of a city, is the ratio of the total Floor Area of all the buildings to the total Land Area of the neighborhood, including all the land area used for streets and sidewalks and parks, as well as the land area of all the  Parcel Area, 
+* unit: square feet per square feet (or square meters per square meters)
+
+#### Gross Area
+
+* **Gross Area** is the total floor area of a building, including all the area taken up by lobbies, hallways, elevator shafts, walls, offices, apartments, etc.
+* unit: square feet (or square meters)
+
+#### Usable Floor Area
+
+* **Usable Floor Area** is an area of a building, such as a studio apartment or dentist's office, that could be rented out to be used exclusively by a tenant, or sold for the exclusive use of an owner. 
+* unit: square feet (or square meters)
+
+#### Circulation Area
+
+* **Circulation Area** for a building is an area of a building taken up by hallways, elevator shafts, stairways, and lobbies.
+* **Circulation Area** for a city also includes the land area taken up by streets and sidewalks, parking lots, driveways, bus stops, train tracks, etc.
+* unit: square feet (or square meters)
+
+#### Circulation Area Ratio
+ 
+* **Circulation Area Ratio** for a city is the ratio of the total Circulation Area to the total Usable Floor Area
+* unit: square feet per square feet (or square meters per square meters)
+
+#### Journey Elapsed Distance &mdash; JED (or D<sub>J</sub>)
+
+* **D<sub>J</sub>** is the total length of the path taken by a person (or package) as they travel from point A to point B in a building or in a city
+* unit: feet (or meters, kilometers, or miles)
+
+#### Journey Elapsed Time &mdash; JET (or T<sub>J</sub>)
+
+* **T<sub>J</sub>** is the total length of the time it takes for a person (or package) to travel from point A to point B in a building or in a city
+* unit: minutes
+
+#### Kinematic Range
+
+* Floor Area per T<sub>J</sub>
+* unit: square feet per minute
+
+#### 
+
+
+### Transportation design choices
+### Spatial layout design choices
+### Elevator design choices
 
 ```
 TODO:
