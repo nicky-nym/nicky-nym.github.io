@@ -41,10 +41,10 @@ The problems above could be greatly ameliorated by just making a handful of diff
 ### The market
 
 The current market size for new city construction is large:
-  * 120 new cities currently being built
+  * in the next 30 years, another 2.5 billion people will live cities
+  * 120 new cities are currently being built
   * spending is somewhere between the high hundreds of billions of dollars, and the low trillions of dollars
   * privately financed real estate developments projects are now being completed at the scale of over $10 billion for a single construction project
-  * in the next 30 years, another 2.5 billion people will live cities
   * "We're going to develop more urban area in the next 100 years than currently exists on Earth" &mdash; Paul Romer
 
 ---
@@ -56,13 +56,15 @@ The current market size for new city construction is large:
  * [What would it take to build a kinematic city?](#what-would-it-take)
  * [Could we turn London or Paris into kinematic cities?](#could-we-transform)
  * [Could kinematic ideas trickle down to existing cities?](#could-ideas-trickle-down)
+ * [Do kinematic ideas impact democracy and governance?](#do-ideas-impact-democracy)
 
 ### <a name="what-is"></a>What is a kinematic city?
 
 No one has yet built a kinematic city. "Kinematic city" is a new made-up name for a specific set of ideas about ways to design cities. A kinematic city design strives to maximize the "kinematic range" of everybody in the city, meaning the number of destinations that are in the daily range of travel for everybody.
 
  1. Kinematic cities are cities designed to maximize everyone's **[mobility](#mobility)**, travel range, and opportunity, within the city.
- 1. The improved mobility and travel range results from unconventional design choices
+ 1. Improved urban mobility leads to significant economic improvements &mdash; in wages, GDP, patent application productivity per capita, etc.
+ 1. The improved mobility and travel range in the kinematic design results from unconventional design choicesL
     * **[transportation choices](#transportation)**: what vehicles to use to move people and packages &mdash; cars and trucks vs. small low-power vehicles
     * **[layout choices](#layout)**: the size and shape of city features &mdash; building heights, block sizes, and street lane widths
     * **[elevator choices](#elevator)**: stairs, elevators, and escalators vs. flights of wheelchair ramps
@@ -109,7 +111,9 @@ Rome wasn't built in a day. Building a kinematic city would take a long time and
 
 **Yes.** Over time people in existing cities like New York and San Francisco could adopt some of the ideas in the kinematic city designs, and make their cities incrementally more kinematic, even if they can't change the fundamental layouts.
 
-## Democracy and governance
+### <a name="do-ideas-impact-democracy"></a>Do kinematic ideas impact democracy and governance?
+
+**No.** The kinematic city designs are politically neutral. The designs are just about transportation systems and about the physical, spatial layout of the buildings in the city.
 
 A kinematic city could have a traditional city government structure, or it could experiment with less conventional structures. That's a big topic, and one for another author. Suffice it to say, the questions of governance are largely orthogonal to the ideas presented here about the physical layout of a city, the transportation choices, etc. An authoritarian government could build a kinematic city, or a utopian libertarian collective could build a kinematic city, and they would both be kinematic cities.
 
