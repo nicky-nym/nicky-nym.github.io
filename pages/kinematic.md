@@ -52,7 +52,7 @@ The current market size for new city construction is large:
 ## Contents
 
   * **[Summary](#summary)**
-  * **Contents** &mdash; _you are here!_
+  * **[Contents](#contents)** &mdash; _you are here!_
   * **[FAQ](#faq)**
   * **Briefs**
 
