@@ -48,6 +48,26 @@ The current market size for new city construction is large:
   * "We're going to develop more urban area in the next 100 years than currently exists on Earth" &mdash; Paul Romer
 
 ---
+
+## Contents
+
+  * **[Summary](#summary)**
+  * **Contents** &mdash; _you are here!_
+  * **[FAQ](#faq)**
+  * **Briefs**
+
+  1. **[Need](#need)** &mdash; World need for new cities
+  1. **[Money](#money)** &mdash; Money available for new cities
+  1. **[Timeframe](#precident)** &mdash; People are rapidly building new cities
+  1. **[Cost-effectiveness](#cost-effective)** 
+  1. **[Design improvements](#work-better)** &mdash; Making cities that work better
+    1.1 Time and money
+    1.2 Measuring cities
+    1.3 Transportation design choices
+    1.4 Spatial layout design choices
+    1.5 Elevator design choices
+
+---
 ## FAQ: Frequently Asked Questions
 
  * [What is a kinematic city?](#what-is)
@@ -116,24 +136,6 @@ Rome wasn't built in a day. Building a kinematic city would take a long time and
 **No.** The kinematic city designs are politically neutral. The designs are just about transportation systems and about the physical, spatial layout of the buildings in the city.
 
 A kinematic city could have a traditional city government structure, or it could experiment with less conventional structures. That's a big topic, and one for another author. Suffice it to say, the questions of governance are largely orthogonal to the ideas presented here about the physical layout of a city, the transportation choices, etc. An authoritarian government could build a kinematic city, or a utopian libertarian collective could build a kinematic city, and they would both be kinematic cities.
-
----
-
-## Contents
-
-  * **[Summary](#summary)**
-  * **[FAQ](#faq)**
-  * **Briefs**
-  1. **[Need](#need)** &mdash; World need for new cities
-  1. **[Money](#money)** &mdash; Money available for new cities
-  1. **[Timeframe](#precident)** &mdash; People are rapidly building new cities
-  1. **[Cost-effectiveness](#cost-effective)** 
-  1. **[Design improvements](#work-better)** &mdash; Making cities that work better
-    1. Time and money
-    1. Measuring cities
-    1. Transportation design choices
-    1. Spatial layout design choices
-    1. Elevator design choices
 
 ---
 
