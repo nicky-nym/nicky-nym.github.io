@@ -53,13 +53,20 @@ The current market size for new city construction is large:
 ## Contents
 
   * **[Summary](#summary)**
+
   * **[Contents](#contents)** &mdash; _you are here!_
+
   * **[FAQ](#faq)**
+
   * Briefs:
     1. **[Need](#need)** &mdash; World need for new cities
+  
     1. **[Money](#money)** &mdash; Money available for new cities
+  
     1. **[Timeframe](#precident)** &mdash; People are rapidly building new cities
-    1. **[Cost-effectiveness](#cost-effective)** 
+  
+    1. **[Cost-effectiveness](#cost-effective)**
+  
     1. **[How cities work](#how-cities-work)**
        * [Units of measure](#units-of-measure)
        * [Rules of thumb](#rules-of-thumb)
