@@ -60,14 +60,14 @@ The current market size for new city construction is large:
     1. **[Timeframe](#precident)** &mdash; People are rapidly building new cities
     1. **[Cost-effectiveness](#cost-effective)** 
     1. **[Design improvements](#work-better)** &mdash; Making cities that work better
-       * [Time and money](#time-and-money)
        * [Measuring cities](#measuring-cities)
+       * [Rules of thumb](#rules-of-thumb)
        * [Transportation design choices](#transportation)
        * [Spatial layout design choices](#spatial-layout)
        * [Elevator design choices](#elevators)
 
 ---
-## <a name="faq">FAQ: Frequently Asked Questions
+## <a name="faq"></a>FAQ: Frequently Asked Questions
 
  * [What is a kinematic city?](#what-is)
  * [Could we build a kinematic city?](#could-we-build)
@@ -272,8 +272,6 @@ from 1950 to 2015, the value of Manhattan land grew at an annual rate of 5.5 per
 > 
 > &mdash; John Macomber, senior lecturer, Harvard Business School.
 
-### <a name="time-and-money"></a>Time and money
-
 
 ### <a name="measuring-cities"></a>Measuring cities
 
@@ -314,11 +312,47 @@ There are a huge number of metrics that people measure cities by. We're going to
 * <a name="journey-time"></a>**T<sub>j</sub>** is a **Journey Time**, meaning the total length of the time it takes for a person (or package) to travel from point A to point B in a building or in a city.
   * unit: minutes
 
-* <a name="kinematic-range"></a>**Kinematic Range** represents the range of destinations that a person can get to from wherever they are, in a set amount of time. In the real world, a destination would be something like your friend's house, your dentist's office, or a library or coffee shop. For the purposes of the Kinematic Range metric, a destination is just any amount of [Usable Floor Area](#usable-area). Kinematic Range is the total amount of [Usable Floor Area](#usable-area) you could get to in a given [Journey Time](#journey-time).
-  * unit: square feet per minute (or square meters per second)
+* <a name="kinematic-range"></a>**Kinematic Range<sub>t=30_minutes</sub>** is a measure of capactiy and efficiency of a transportation network. Kinematic Range is the range of destinations that a person can get to from wherever they are, in some specific amount of time, like [30 minutes](#marchetti). In the real world, a destination would be something like your friend's house, your dentist's office, or a library or coffee shop. For the purposes of the Kinematic Range metric, a destination is just any amount of [Usable Floor Area](#usable-area). Kinematic Range is the total amount of [Usable Floor Area](#usable-area) you could get to in a given [Journey Time](#journey-time).
+  * unit: square feet as of minute (or square meters as of second)
+
+
+### <a name="rules-of-thumb"></a>Rules of thumb
+
+#### <a name="marchetti"></a>Marchetti constant
+
+The **Marchetti constant** says that people tend to commute about 30 minutes each way, for a total of one hour per day. That 30-minute number seems to be surprizingly consistent across different cities in different centuries, different cultures, and different continents, regardless of the different modes of travel used to commute.
+
+#### <a name="jevons"></a>Jevons paradox
+
+**Jevons paradox** says that if it becomes possible to use a resource more and more efficiently, then instead of using less of the resource, people actually use more. Total consumption increases because demand increases as efficiency drives the costs down.
+
+#### <a name="jevons"></a>Induced demand
+
+**Induced demand** says that as the supply of a resource increases, more of it will be consumed. If you add a new lane to a congested highway, it does not reduce congestion, but instead increases the total number of trips made. **Induced demand** might be better described as **latent demand**. The demand was actually there all along, there was just a lack of supply to meet the demand.
+
+The concept of **induced demand** is often used as an argument against increasing roadway traffic capacity. I think this is misguided. The existance of latent demand is a sign that we should be striving to increase the supply of transportation capacity, and increase [Kinematic Range](#kinematic-range).
+
+#### <a name="superlinear"></a>15% Superlinear Scaling
+
+**Superlinear scaling** is the phenomenon where if a city population grows by 100% (meaning it doubles in population size), then the economy of the city tends to grow by about 115% (meaning it more than doubles in size), so that there is effectively a 15% increase in per-capita economic output for everyone in the city.
+
+This 15% superlinear growth seems to apply to the whole physical and social metabolism of the city, rather than just the economic aspects of the city. The 15% surplus shows up in statistics about:
+  * wages
+  * wealth
+  * patents
+  * AIDS cases
+  * crime
+  * restaurants
+  * variety of business services available (meaning, how long the "long tail" of the city is)
+
+
 
 ### <a name="transportation"></a>Transportation design choices
+
+
 ### <a name="spatial-layout"></a>Spatial layout design choices
+
+
 ### <a name="elevators"></a>Elevator design choices
 
 ```
