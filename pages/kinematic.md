@@ -310,16 +310,16 @@ There are a huge number of metrics that people measure cities by. We're going to
   * **units:** square feet as of minute (or square meters as of second)
   
   * **factors:** kinematic range is a function of lots of different factors:
-    * density &mdash; how many destinations are nearby?
-    * mode of transport &mdash; are you walking, or in a car?
-    * encumbrances &mdash; do you have a stroller, or a wheelchair?
-    * age, race, and gender &mdash; can you safely take the subway, or do you need to take a cab?
-    * time of day &mdash; are the trains even running at this hour?
-    * traffic congestion
-    * travel bans & security checkpoints &mdash; are you allowed into that area?
+    * **density** &mdash; how many destinations are nearby?
+    * **mode of transport** &mdash; are you walking, or in a car?
+    * **encumbrances** &mdash; do you have a stroller, or a wheelchair?
+    * **age, race, and gender** &mdash; can you safely take the subway, or do you need to take a cab?
+    * **time of day** &mdash; are the trains even running at this hour?
+    * **traffic congestion**
+    * **travel bans** & **security checkpoints** &mdash; are you allowed into that area?
   * **examples:**
-    * In San Francisco, if you travel by bicycle or public transit, but you do not use a car, then in 30 minutes you can typically get from any point to any other point within the city. But, in 30 minutes, without a car, there are fairly few places you can get to outside the city limits. The buildings in San Franicsco have a total of about 6 billion square feet of floorspace, so that means your 30-minute Kinematic Range, **KR<sub>30</sub>** is about 6 billion square feet (equal to about 550 square kilometers).
-    * In Haxby, Montana, with a car, in 30 minutes you can probably reach about a half dozen homes, with perhaps 10,000 square feet of floorspace, so your **KR<sub>30</sub>** is about 10,000 square feet.
+    * In **Haxby, Montana**, with a car, in 30 minutes you can probably reach about a half dozen homes, with perhaps 10,000 square feet of floorspace, so your **KR<sub>30</sub>** is about 10,000 square feet.
+    * In San Francisco, if you are able-bodied and travel by bicycle or public transit, but you do not use a car, then in 30 minutes you can typically get from any point to any other point within the city. But, in 30 minutes, without a car, there are fairly few places you can get to outside the city limits. The buildings in San Franicsco have a total of about 6 billion square feet of floorspace, so that means your 30-minute Kinematic Range, **KR<sub>30</sub>** is about 6 billion square feet (equal to about 550 square kilometers), which is almost a million-fold higher than your range in Haxby.
 
 
 ### <a name="rules-of-thumb"></a>Rules of thumb
