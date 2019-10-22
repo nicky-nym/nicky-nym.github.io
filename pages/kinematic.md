@@ -164,7 +164,6 @@ It is estimated that **by 2050**:
 Half of the urban area that will be needed by 2050 hasn't been built yet.[^growth]
 
 > "we're going to develop more urban area in the next 100 years than currently exists on Earth"
->
 > &mdash; Paul Romer, Nobel prize-winning economist, New York University.
 
 As of 2018, **70 million people** were currently displaced by war, persecution and conflict. Of the total, 51 million were Internally Displaced People (IDPs), and 26 million were refugees (including **13 million refugee children**). Most refugees live in towns and cities, not rural areas or refugee camps. Nearly 4 in every 5 refugees are in displacement situations that have lasted for at least five years.[^displaced]
@@ -180,7 +179,6 @@ As of 2018, **70 million people** were currently displaced by war, persecution a
 > Building new cities from the ground up is a bold (and monumentally difficult) 
 > attempt to relieve the strain on our currently overloaded urban systems. It 
 > promises to build energy efficiency, sustainability, and resilience in to the core of a place."[^caspar]
->
 > &mdash; Caspar Herzberg, Schneider Electric
 
 
@@ -193,7 +191,6 @@ As of 2018, **70 million people** were currently displaced by war, persecution a
 > while Ordos Kangbashi cost a hulking **$161bn**. Adding up the costs of 
 > more than 120 new cities around the world means a mountain of investment 
 > that can be measured in the **trillions of dollars**."[^growth]
-> 
 > &mdash; Wade Shepard, author and columnist
 
 In 2019, U.S. Presidential candidate Andrew Yang called for **$40 billion** in subsidies, grants, and loans for people in coastal communities who want to either move inland or elevate their homes.[^yang]
@@ -264,7 +261,6 @@ from 1950 to 2015, the value of Manhattan land grew at an annual rate of 5.5 per
 > more than $1 trillion every year. The multiplier effects would add $10 trillion 
 > to annual GDP. That is 5 times current GDP. Closing Africa’s housing gap can 
 > generate 5 times current GDP!"
-> 
 > &mdash; Paul Musembwa, CEO of Warp Developments
 
 ## <a name="how-cities-work"></a>(5) How cities work
@@ -335,7 +331,6 @@ There are a huge number of metrics that people measure cities by. We're going to
 
 > "If we stick to business as usual most of it is going to be 
 > disorderly and less functional than the stuff we already have."[^growth]
-> 
 > &mdash; Paul Romer, Nobel prize-winning economist, New York University.
 
 > "If you build a new city you don't have to relocate or work 
@@ -343,7 +338,6 @@ There are a huge number of metrics that people measure cities by. We're going to
 > You also don’t have to work around existing political processes, 
 > community groups, civic organisations ... or even existing 
 > regulations and rules."[^growth]
-> 
 > &mdash; John Macomber, senior lecturer, Harvard Business School.
 
 ### <a name="design-goals"></a>Design goals
@@ -389,15 +383,10 @@ TODO:
 The term "industrial agglomeration" means the clustering of a lot of business firms in one region. Industrial agglomeration leads to "agglomeration economies" (somewhat similar to the seperate idea of "economies of scale"). "Agglomeration economies" are economic benefits that come from having businesses be near each other, such as shared infrastructure development. "Agglomeration diseconomies" are the disadvantages of proximity, such as traffic congestion.
 
 
-## Improved Resiliency 
 
-[TODO:]
-
-
-### <a name="resiliant"></a>(5.10) Resiliant 
+### <a name="resiliant"></a>(5.10) Resiliency 
 
 > "Resiliency is the ability to bounce back better, but also the ability to not have to bounce back as much." 
-> 
 > &mdash; Sylvester Wong, Vice President of AECOM[^new-clark]
 
 `TODO: `
@@ -415,7 +404,6 @@ Cities should provide **economic prosperity** for the people who live in them an
 
 > "Once one starts to think about (the causes of economic growth),
 > it is hard to think about anything else."
->
 > &mdash; Robert Lucas, Nobel laureate in Economics 
 
 * [15_percent](15_percent)
