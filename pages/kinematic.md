@@ -275,9 +275,9 @@ from 1950 to 2015, the value of Manhattan land grew at an annual rate of 5.5 per
 
 ### <a name="measuring-cities"></a>Measuring cities
 
-**Examples:**
-* **GDP per capita** is an example of an common economic metric that cities are measured by
-* **population** and **land area** are examples of common physical metrics
+**population** and **land area** are examples of common physical metrics for measuring cities.
+
+**GDP per capita** is an example of an common economic metric.
 
 There are a huge number of metrics that people measure cities by. We're going to ignore most of them, and just focus on the handful that are most important for describing the kinematics of cities. 
 
