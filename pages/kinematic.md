@@ -13,7 +13,8 @@ permalink: /kinematic/
  1. There is **[money available](#money)** for new cities.
  1. People are **[rapidly building new cities](#precident)**.
  1. Cities can be a **[cost-effective](#cost-effective)** way to pull people out of poverty, bring economic growth, and meet basic needs.
- 1. We could make new **[cities that work far better](#work-better)** for everyone, by making significantly better design choices.
+ 1. We understand a lot about **[how cities work](#how-cities-work)**.
+ 1. We could make new **[cities that work better](#work-better)** for everyone, by making significantly better design choices.
 
 ### The proposal
 
@@ -59,9 +60,11 @@ The current market size for new city construction is large:
     1. **[Money](#money)** &mdash; Money available for new cities
     1. **[Timeframe](#precident)** &mdash; People are rapidly building new cities
     1. **[Cost-effectiveness](#cost-effective)** 
-    1. **[Design improvements](#work-better)** &mdash; Making cities that work better
-       * [Measuring cities](#measuring-cities)
+    1. **[How cities work](#how-cities-work)**
+       * [Units of measure](#units-of-measure)
        * [Rules of thumb](#rules-of-thumb)
+    1. **[Design improvements](#work-better)** &mdash; Making cities that work better
+       * [Design goals](#design-goals)
        * [Transportation design choices](#transportation)
        * [Spatial layout design choices](#spatial-layout)
        * [Elevator design choices](#elevators)
@@ -257,23 +260,10 @@ from 1950 to 2015, the value of Manhattan land grew at an annual rate of 5.5 per
 > 
 > &mdash; Paul Musembwa, CEO of Warp Developments
 
-## <a name="work-better"></a>(5) Design improvements &mdash; We can make cities that work far better
-
-> "If we stick to business as usual most of it is going to be 
-> disorderly and less functional than the stuff we already have."[^growth]
-> 
-> &mdash; Paul Romer, Nobel prize-winning economist, New York University.
-
-> "If you build a new city you don't have to relocate or work 
-> around existing roads or rivers or factories or houses. 
-> You also don’t have to work around existing political processes, 
-> community groups, civic organisations ... or even existing 
-> regulations and rules."[^growth]
-> 
-> &mdash; John Macomber, senior lecturer, Harvard Business School.
+## <a name="how-cities-work"></a>(5) How cities work
 
 
-### <a name="measuring-cities"></a>Measuring cities
+### <a name="units-of-measure"></a>Units of measure
 
 **population** and **land area** are examples of common physical metrics for measuring cities.
 
@@ -334,6 +324,30 @@ There are a huge number of metrics that people measure cities by. We're going to
   * variety of business services available (meaning, how long the "long tail" of the city is)
 
 
+## <a name="work-better"></a>(6) Design improvements &mdash; We can make cities that work far better
+
+> "If we stick to business as usual most of it is going to be 
+> disorderly and less functional than the stuff we already have."[^growth]
+> 
+> &mdash; Paul Romer, Nobel prize-winning economist, New York University.
+
+> "If you build a new city you don't have to relocate or work 
+> around existing roads or rivers or factories or houses. 
+> You also don’t have to work around existing political processes, 
+> community groups, civic organisations ... or even existing 
+> regulations and rules."[^growth]
+> 
+> &mdash; John Macomber, senior lecturer, Harvard Business School.
+
+### <a name="design-goals"></a>Design goals
+
+* **Carbon footprint.** The kinematic city designs are based on the idea that climate change is a serious problem, and that minimizing carbon footprint needs to be a serious design goal. Carbon footprint goals include:
+* carbon footprint of travel within the city
+* carbon footprint of travel and shipping to and from the city
+* carbon footprint of HVAC in the city
+* carbon footprint of the initial city construction materials and construction work
+
+* **Economic growth.** The kinematic city designs are based in the belief that global poverty is a serious problem, and that economic growth is a force for good, so long as the economic growth is "green growth" and so long as GDP growth goes up while carbon footprint goes down, habitat restoration use goes up, and Gini coefficients go down.
 
 ### <a name="transportation"></a>Transportation design choices
 
