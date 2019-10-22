@@ -318,8 +318,8 @@ There are a huge number of metrics that people measure cities by. We're going to
     * **_traffic congestion_**
     * **_travel bans_** & **_security checkpoints_** &mdash; are you allowed into that area?
   * **examples:**
-    * In **Haxby, Montana**, with a car, in 30 minutes you can probably reach about a half dozen homes, with perhaps 10,000 square feet of floorspace, so your **KR<sub>30</sub>** is about 10,000 square feet.
-    * In **San Francisco**, if you are able-bodied and travel by bicycle or public transit, but you do not use a car, then in 30 minutes you can typically get from any point to any other point within the city. But, in 30 minutes, without a car, there are fairly few places you can get to outside the city limits. The buildings in San Franicsco have a total of about 6 billion square feet of floorspace, so that means your 30-minute Kinematic Range, **KR<sub>30</sub>** is about 6 billion square feet (equal to about 550 square kilometers), which is almost a million-fold higher than your range in Haxby.
+    * In **Haxby, Montana**, with a car, in 30 minutes you can probably reach about a half dozen homes, with perhaps 10,000 square feet of floorspace, so your **KR<sub>30</sub>** is about **10,000 square feet**.
+    * In **San Francisco**, if you are able-bodied and travel by bicycle or public transit, but you do not use a car, then in 30 minutes you can typically get from any point to any other point within the city. But, in 30 minutes, without a car, there are fairly few places you can get to outside the city limits. The buildings in San Franicsco have a total of about 6 billion square feet of floorspace, so that means your 30-minute Kinematic Range, **KR<sub>30</sub>** is about **6 billion square feet** (equal to about 550 square kilometers), which is almost a million-fold higher than your range in Haxby.
 
 
 ### <a name="rules-of-thumb"></a>Rules of thumb
