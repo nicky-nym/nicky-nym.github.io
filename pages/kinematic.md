@@ -350,6 +350,8 @@ There are a huge number of metrics that people measure cities by. We're going to
 
 * **Economic growth.** The kinematic city designs are based in the belief that global poverty is a serious problem, and that economic growth is a force for good, so long as the economic growth is "green growth" and so long as GDP growth goes up while carbon footprint goes down, habitat restoration use goes up, and Gini coefficients go down.
 
+* **Agglomeration economies.** The term "industrial agglomeration" means the clustering of a lot of business firms in one region. Industrial agglomeration leads to "agglomeration economies" (somewhat similar to the seperate idea of "economies of scale"). "Agglomeration economies" are economic benefits that come from having businesses be near each other, such as shared infrastructure development. But we need our designs to be mindful of avoiding "agglomeration diseconomies", which are the disadvantages of proximity, such as traffic congestion.
+
 ### <a name="transportation"></a>Transportation design choices
 
 
@@ -378,9 +380,6 @@ TODO:
  ```
 
 
-## Industrial Agglomeration 
-
-The term "industrial agglomeration" means the clustering of a lot of business firms in one region. Industrial agglomeration leads to "agglomeration economies" (somewhat similar to the seperate idea of "economies of scale"). "Agglomeration economies" are economic benefits that come from having businesses be near each other, such as shared infrastructure development. "Agglomeration diseconomies" are the disadvantages of proximity, such as traffic congestion.
 
 
 
