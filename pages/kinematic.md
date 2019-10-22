@@ -342,15 +342,27 @@ There are a huge number of metrics that people measure cities by. We're going to
 
 ### <a name="design-goals"></a>Design goals
 
-* **Carbon footprint.** The kinematic city designs are based on the idea that climate change is a serious problem, and that minimizing carbon footprint needs to be a serious design goal. Carbon footprint goals include:
+* **Carbon footprint.** Because climate change is a serious problem, minimizing carbon footprint needs to be a serious design goal. Carbon footprint goals include:
   * carbon footprint of travel within the city
   * carbon footprint of travel and shipping to and from the city
   * carbon footprint of HVAC in the city
   * carbon footprint of the initial city construction materials and construction work
 
-* **Economic growth.** The kinematic city designs are based in the belief that global poverty is a serious problem, and that economic growth is a force for good, so long as the economic growth is "green growth" and so long as GDP growth goes up while carbon footprint goes down, habitat restoration use goes up, and Gini coefficients go down.
+* **Economic growth.** Because global poverty is a serious problem, economic growth is a force for good, so long as the economic growth is "green growth" and so long as GDP growth goes up while carbon footprint goes down, habitat restoration use goes up, and Gini coefficients go down.
 
 * **Agglomeration economies.** The term "industrial agglomeration" means the clustering of a lot of business firms in one region. Industrial agglomeration leads to "agglomeration economies" (somewhat similar to the seperate idea of "economies of scale"). "Agglomeration economies" are economic benefits that come from having businesses be near each other, such as shared infrastructure development. But we need our designs to be mindful of avoiding "agglomeration diseconomies", which are the disadvantages of proximity, such as traffic congestion.
+
+* **Affordability.** There's no point in designing a new kinematic city that is too expensive to build, or building a new city that is too expensive for most people to afford to move to. The initial kinematic city designs intentionally focus on avoiding expensive transportation options like light rail, and even bus rapid transit. The designs also avoid expensive buildings, like skyscrapers or even ten-story buildings with concrete service cores and elevators, in favor of less expensive "4-over-1" podium construction.
+
+* **Resiliency.** Cities should be designed to be resilient after natural disasters and other emergencies. For example, it should be possible to evactuate an building quickly even when the power is out. And it should be safe to quickly reopen as many buildings as possible after an earthquake, hurricane, or flood. These are goals that can be furthered by simply avoiding "fragile" technologies, like elevators, and traffic lights. 
+
+> "Resiliency is the ability to bounce back better, but also the ability to not have to bounce back as much." 
+> &mdash; Sylvester Wong, Vice President of AECOM[^new-clark]
+
+> "Because its location and design were deliberately chosen to withstand natural calamities, 
+> New Clark City will serve as the government’s continuity hub, disaster and risk recovery 
+> center – an alternative capital city in case a disaster strikes Manila"[^new-clark]
+
 
 ### <a name="transportation"></a>Transportation design choices
 
@@ -378,23 +390,6 @@ TODO:
    1. should be **more resiliant** after a natural disaster or other emergency
    1. could be established as **charter cities**[^mason]
  ```
-
-
-
-
-
-### <a name="resiliant"></a>(5.10) Resiliency 
-
-> "Resiliency is the ability to bounce back better, but also the ability to not have to bounce back as much." 
-> &mdash; Sylvester Wong, Vice President of AECOM[^new-clark]
-
-`TODO: `
-
-> "Because its location and design were deliberately chosen to withstand natural calamities, 
-> New Clark City will serve as the government’s continuity hub, disaster and risk recovery 
-> center – an alternative capital city in case a disaster strikes Manila"[^new-clark]
-
-
 
 
 ### <a name="economics"></a>Economic prosperity
