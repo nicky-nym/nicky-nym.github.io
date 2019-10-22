@@ -306,7 +306,14 @@ There are a huge number of metrics that people measure cities by. We're going to
   * unit: minutes
 
 * <a name="kinematic-range"></a>**Kinematic Range<sub>t=30_minutes</sub>** is a measure of capactiy and efficiency of a transportation network. Kinematic Range is the range of destinations that a person can get to from wherever they are, in some specific amount of time, like [30 minutes](#marchetti). In the real world, a destination would be something like your friend's house, your dentist's office, or a library or coffee shop. For the purposes of the Kinematic Range metric, a destination is just any amount of [Usable Floor Area](#usable-area). Kinematic Range is the total amount of [Usable Floor Area](#usable-area) you could get to in a given [Journey Time](#journey-time).
-  * unit: square feet as of minute (or square meters as of second)
+  * **units:** square feet as of minute (or square meters as of second)
+  * **factors:** kinematic range is a function of lots of different factors:
+    * density &mdash how many destinations are nearby
+    * speed &mdash are you walking, or in a car?
+    * traffic congestion & time of day &mdash are you going at midnight, or at rush hour?
+    * travel bans & security checkpoints
+  * **example:**
+    * In San Francisco, if you travel by bicycle or public transit, but you do not use a car, then in 30 minutes you can typically get from any point to any other point within the city. But, in 30 minutes, without a car, there are fairly few places you can get to outside the city limits. The buildings in San Franicsco have a total of about 6 billion square feet of floorspace, so that means your 30-minute Kinematic Range, **KR<sub>30</sub>** is about 6 billion square feet (equal to about 550 square kilometers).
 
 
 ### <a name="rules-of-thumb"></a>Rules of thumb
