@@ -318,23 +318,15 @@ There are a huge number of metrics that people measure cities by. We're going to
 
 ### <a name="rules-of-thumb"></a>Rules of thumb
 
-#### <a name="marchetti"></a>Marchetti constant
+* <a name="jevons"></a>The **Marchetti constant** says that people tend to commute about 30 minutes each way, for a total of one hour per day. That 30-minute number seems to be surprizingly consistent across different cities in different centuries, different cultures, and different continents, regardless of the different modes of travel used to commute.
 
-The **Marchetti constant** says that people tend to commute about 30 minutes each way, for a total of one hour per day. That 30-minute number seems to be surprizingly consistent across different cities in different centuries, different cultures, and different continents, regardless of the different modes of travel used to commute.
+* <a name="jevons"></a>**Jevons paradox** says that if it becomes possible to use a resource more and more efficiently, then instead of using less of the resource, people actually use more. Total consumption increases because demand increases as efficiency drives the costs down.
 
-#### <a name="jevons"></a>Jevons paradox
-
-**Jevons paradox** says that if it becomes possible to use a resource more and more efficiently, then instead of using less of the resource, people actually use more. Total consumption increases because demand increases as efficiency drives the costs down.
-
-#### <a name="jevons"></a>Induced demand
-
-**Induced demand** says that as the supply of a resource increases, more of it will be consumed. If you add a new lane to a congested highway, it does not reduce congestion, but instead increases the total number of trips made. **Induced demand** might be better described as **latent demand**. The demand was actually there all along, there was just a lack of supply to meet the demand.
+* <a name="induced-demand"></a>**Induced demand** says that as the supply of a resource increases, more of it will be consumed. If you add a new lane to a congested highway, it does not reduce congestion, but instead increases the total number of trips made. **Induced demand** might be better described as **latent demand**. The demand was actually there all along, there was just a lack of supply to meet the demand.
 
 The concept of **induced demand** is often used as an argument against increasing roadway traffic capacity. I think this is misguided. The existance of latent demand is a sign that we should be striving to increase the supply of transportation capacity, and increase [Kinematic Range](#kinematic-range).
 
-#### <a name="superlinear"></a>15% Superlinear Scaling
-
-**Superlinear scaling** is the phenomenon where if a city population grows by 100% (meaning it doubles in population size), then the economy of the city tends to grow by about 115% (meaning it more than doubles in size), so that there is effectively a 15% increase in per-capita economic output for everyone in the city.
+* <a name="superlinear"></a>**15% Superlinear scaling** is the phenomenon where if a city population grows by 100% (meaning it doubles in population size), then the economy of the city tends to grow by about 115% (meaning it more than doubles in size), so that there is effectively a 15% increase in per-capita economic output for everyone in the city.
 
 This 15% superlinear growth seems to apply to the whole physical and social metabolism of the city, rather than just the economic aspects of the city. The 15% surplus shows up in statistics about:
   * wages
@@ -373,11 +365,6 @@ TODO:
    1. should be **more resiliant** after a natural disaster or other emergency
    1. could be established as **charter cities**[^mason]
  ```
-
-## Superlinear Scaling 
-
-Each doubling of population correlates to a 15% increase in per-capita economic output.[^west]
-
 
 
 ## Industrial Agglomeration 
