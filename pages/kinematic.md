@@ -349,10 +349,10 @@ There are a huge number of metrics that people measure cities by. We're going to
 ### <a name="design-goals"></a>Design goals
 
 * **Carbon footprint.** The kinematic city designs are based on the idea that climate change is a serious problem, and that minimizing carbon footprint needs to be a serious design goal. Carbon footprint goals include:
-* carbon footprint of travel within the city
-* carbon footprint of travel and shipping to and from the city
-* carbon footprint of HVAC in the city
-* carbon footprint of the initial city construction materials and construction work
+  * carbon footprint of travel within the city
+  * carbon footprint of travel and shipping to and from the city
+  * carbon footprint of HVAC in the city
+  * carbon footprint of the initial city construction materials and construction work
 
 * **Economic growth.** The kinematic city designs are based in the belief that global poverty is a serious problem, and that economic growth is a force for good, so long as the economic growth is "green growth" and so long as GDP growth goes up while carbon footprint goes down, habitat restoration use goes up, and Gini coefficients go down.
 
