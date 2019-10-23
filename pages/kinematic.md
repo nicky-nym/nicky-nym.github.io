@@ -23,12 +23,12 @@ Build new cities from scratch that are specifically designed to maximize "kinema
 ### The problems
 
 Existing cities:
-  1. have too much traffic congestion
-  2. have housing costs that are too high
-  3. have transportation costs that are too high
-  4. are unsafe
-  5. are not resiliant after natural disasters and power failures
-  6. overly limit the mobility of kids, elders, and people with disabilities
+  1. have too much **traffic congestion**
+  2. have **housing costs** that are too high
+  3. have **transportation costs** that are too high
+  4. are **not safe enough**
+  5. are **not resiliant** after natural disasters and power failures
+  6. overly **limit mobility** of kids, elders, and people with disabilities
   7. are staggeringly expensive to make significant changes to (for things like replacing transportation networks)
   8. take huge amounts of time to make significant changes to
 
