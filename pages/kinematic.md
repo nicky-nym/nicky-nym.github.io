@@ -290,17 +290,17 @@ from 1950 to 2015, the value of Manhattan land grew at an annual rate of 5.5 per
   * variety of business services available (meaning, how long the "long tail" of the city is)
 
 |---
-| City Population | Superlinear Scale Factor | Average Hourly Wage |
+| City Population | Average Hourly Wage | Superlinear Scale Factor |
 |-:|:-:|:-
-| 40,000 | (-15%)^4 | $16 
-| 80,000 | (-15%)^3 | $18 
-| 160,000 | (-15%)^2 | $21
-| 320,000 | -15% | $24
-| 640,000 | 100% average | $28
-| 1.25 million | +15% | $32
-| 2.5 million  | (+15%)^2 | $37
-| 5 million | (+15%)^3 | $37
-| 10 million | (+15%)^3 | $37
+| 40,000 | $16 | (-15%)^4 below $28
+| 80,000 | $18 | (-15%)^3 below $28
+| 160,000 | $21 | (-15%)^2 below $28
+| 320,000 | $24 | -15% below $28
+| 640,000 | $28 | 100% average
+| 1.25 million | $32 | +15% above $28
+| 2.5 million | $37 | (+15%)^2 above $28
+| 5 million | $43 | (+15%)^3 above $28
+| 10 million | $49 | (+15%)^3 above $28
 |---
 
 
