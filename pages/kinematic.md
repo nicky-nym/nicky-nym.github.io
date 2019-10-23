@@ -471,7 +471,7 @@ TODO:
  ```
 
 
-### <a name="economics"></a>Economic prosperity
+### <a name="economics"></a>TODO: Economic prosperity
 
 Cities should provide **economic prosperity** for the people who live in them and the people who have offices there.
 
@@ -479,13 +479,12 @@ Cities should provide **economic prosperity** for the people who live in them an
 > it is hard to think about anything else."
 > &mdash; Robert Lucas, Nobel laureate in Economics 
 
-* [15_percent](15_percent)
 * [Jevons paradox](jevons)
 * [Marchetti constant](marchetti)
 * [Circulation](circulation)
 * [Arteries](arteries)
 
-### <a name="economics"></a>Social prosperity
+### <a name="economics"></a>TODO: Social prosperity
 
 Cities should provide **social prosperity** for the people who live there. It should be:
   * easy to go see your friends
@@ -497,7 +496,7 @@ To make those things easy, the city needs to provide good **[mobility](#mobility
   * fast travel times
   * cheap travel costs
 
-## <a name="mobility"></a>(6) Mobility
+## <a name="mobility"></a>TODO: Mobility
 
 To provide good **mobility** the city needs to ensure:
   * safe travel from anywhere to anywhere, by anyone
@@ -517,33 +516,17 @@ Improved mobility results from unconventional design choices:
 
 ---
 
-## Details
-
-### [Goals](goals)
-
- * [Affordability](goals#affordability)
- * [Kinematic](goals#kinematic)
- 
----
-
 ## TODO: work in progress
 
-* [15_percent](15_percent)
 * [about](about)
 * [circulation](circulation)
 * [circulation_overhead](circulation_overhead)
 * [constraints](constraints)
-* [construction](construction)
-* [demand](demand)
 * [density](density)
-* [effective altruism](effective_altruism)
 * [goals](goals)
-* [jevons](jevons)
 * [marchetti](marchetti)
 * [nymble_cities](nymble_cities)
 * [options](options)
-* [recipe](recipe)
-* [transportation](transportation)
 
 ---
 
