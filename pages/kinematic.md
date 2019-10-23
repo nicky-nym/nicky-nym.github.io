@@ -363,7 +363,16 @@ There are a huge number of metrics that people measure cities by. We're going to
   * carbon footprint of HVAC in the city
   * carbon footprint of the initial city construction materials and construction work
 
-* **Economic growth.** Because global poverty is a serious problem, economic growth is a force for good, so long as the economic growth is "green growth" and so long as GDP growth goes up while carbon footprint goes down, habitat restoration use goes up, and Gini coefficients go down.
+* **Economic prosperity.** A city should provide for a good life for the people who live in them and the people who have offices there. Because global poverty is a serious problem, economic growth is a force for good, so long as the economic growth is "green growth" and so long as GDP growth goes up while carbon footprint goes down, habitat restoration use goes up, and Gini coefficients go down.
+
+> "Once one starts to think about (the causes of economic growth),
+> it is hard to think about anything else."
+> &mdash; Robert Lucas, Nobel laureate in Economics 
+
+* **Social prosperity.** It should be:
+  * easy to go see your friends
+  * easy to do an errand for your mom
+  * easy to go to weird new clubs and meetup groups to see who's there
 
 * **Agglomeration economies.** The term "industrial agglomeration" means the clustering of a lot of business firms in one region. Industrial agglomeration leads to "agglomeration economies" (somewhat similar to the seperate idea of "economies of scale"). "Agglomeration economies" are economic benefits that come from having businesses be near each other, such as shared infrastructure development. But we need our designs to be mindful of avoiding "agglomeration diseconomies", which are the disadvantages of proximity, such as traffic congestion.
 
@@ -471,32 +480,12 @@ TODO:
  ```
 
 
-### <a name="economics"></a>TODO: Economic prosperity
-
-Cities should provide **economic prosperity** for the people who live in them and the people who have offices there.
-
-> "Once one starts to think about (the causes of economic growth),
-> it is hard to think about anything else."
-> &mdash; Robert Lucas, Nobel laureate in Economics 
-
-* [Jevons paradox](jevons)
-* [Marchetti constant](marchetti)
-* [Circulation](circulation)
-* [Arteries](arteries)
-
-### <a name="economics"></a>TODO: Social prosperity
-
-Cities should provide **social prosperity** for the people who live there. It should be:
-  * easy to go see your friends
-  * easy to do an errand for your mom
-  * easy to go to weird new clubs and meetup groups to see who's there
+## <a name="mobility"></a>TODO: Mobility
 
 To make those things easy, the city needs to provide good **[mobility](#mobility)**:
   * safe travel from anywhere to anywhere, by anyone
   * fast travel times
   * cheap travel costs
-
-## <a name="mobility"></a>TODO: Mobility
 
 To provide good **mobility** the city needs to ensure:
   * safe travel from anywhere to anywhere, by anyone
