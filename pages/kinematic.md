@@ -418,48 +418,51 @@ There are a huge number of metrics that people measure cities by. We're going to
 
 ### <a name="transportation"></a>Transportation design choices
 
-The kinematic city design calls for:
-  * no traffic lights
-  * no stop signs
-  * no open roads
-  * no large intersections
-  * no cars within city limits
+A kinematic city has:
+  * **no cars** within city limits
     * no private cars
     * no taxis
     * no ubers, lyfts
     * no waymos and self-driving cars
-  * no rail within city limits
+  * **no rail** within city limits
     * no subways
     * no light rail
     * no trollies or trams
-  * no airborne traffic within city limits
+  * **nothing airborne** within city limits
     * no delivery drones
     * no helicopters
     * no gondolas
-  * no large vehicles
+  * **nothing big**
     * no busses or bus rapid transit (BRT)
     * no trucks
     * no mass transit
-  * no gas engine vehicles
+  * **no gas engines** in vehicles
     * no motorcycles
-  * no fast vehicles
+  * **nothing fast**
     * no motorcycles
-  * no personal rapid transit, pods, or people movers
+  * **no stops**
+    * no traffic lights
+    * no stop signs
+    * no large intersections
+    * no personal rapid transit, pods, people movers, or things with fixed stops
 
 Instead, we have
   * rain-sheltered pedestrian sidewalks
-  * rain-sheltered bike lanes for narrow, low-power, modest-speed vehicles
-    * segways
-    * mopeds (electric)
-    * bicycles
-    * cargo trikes
+  * rain-sheltered bike lanes
+  * **SLUSHI<sup>[sic]</sup> vehicles** &mdash; Skinny Lightweight Underpowered Slow Indoor Habitrail vehicles
     * scooters
-    * skateboards & electric skateboards
+    * bicycles
+    * mopeds (electric)
+    * strollers
+    * cargo trikes
+    * wheelchairs
+    * segways
     * hoverboards
+    * skateboards & electric skateboards
 
 ### <a name="spatial-layout"></a>Spatial layout design choices
 
-The kinematic city recipe calls for:
+A kinematic city has:
   * no single-story ranch houses and no other single-story buildings
   * no skyscrapers and no high-rise residential buildings
   * no suburban sprawl
@@ -474,10 +477,10 @@ Instead, we have:
 
 ### <a name="elevator"></a>Elevator design choices
 
-The kinematic city design recipe calls for:
-  * no elevators
-  * no stairs
-  * no escalators
+A kinematic city has:
+  * **no elevators**
+  * **no stairways**, no stairs, and no steps
+  * **no escalators**
 
 The only way to go "upstairs" or "downstairs" in a kinematic city is by using
   * sloped hallways
