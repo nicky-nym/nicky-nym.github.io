@@ -68,8 +68,9 @@ The current market size for new city construction is large:
     1. **[Cost-effectiveness](#cost-effective)**
   
     1. **[How cities work](#how-cities-work)**
-       * [Units of measure](#units-of-measure)
        * [Rules of thumb](#rules-of-thumb)
+       * [Units of measure](#units-of-measure)
+       * [Kinematic range](#kinematic-range)
     1. **[Design improvements](#work-better)** &mdash; Making cities that work better
        * [Design goals](#design-goals)
        * [Transportation design choices](#transportation)
@@ -266,64 +267,6 @@ from 1950 to 2015, the value of Manhattan land grew at an annual rate of 5.5 per
 ## <a name="how-cities-work"></a>(5) How cities work
 
 
-### <a name="units-of-measure"></a>Units of measure
-
-**population** and **land area** are examples of common physical metrics for measuring cities.
-
-**GDP per capita** is an example of an common economic metric.
-
-There are a huge number of metrics that people measure cities by. We're going to ignore most of them, and just focus on the handful that are most important for describing the kinematics of cities. 
-
-* <a name="land-area"></a>**Land Area** is the total size of all the land occupied by a city.
-  * unit: square miles (or square kilometers)
-
-* <a name="parcel-area"></a>**Parcel Area** is the size of the lot of land that a house (or other building) is built on.
-  * unit: square feet (or acres, hectares, or square meters)
-
-* <a name="floor-area"></a>**Floor Area** is the amount of floorspace in a building, including the floorspace on all the different floors of a multi-story building.
-  * unit: square feet (or square meters)
-
-* <a name="far-parcel"></a>**FAR<sub>parcel</sub>** is the **Floor Area Ratio** for a building on a parcel, meaning the ratio of [Floor Area](#floor-area) to [Parcel Area](#parcel-area).
-* <a name="far-overall"></a>**FAR<sub>overall</sub>** is the **Floor Area Ratio** for a neighborhood of a city, meaning the ratio of the total [Floor Area](#floor-area) of all the buildings to the total [Land Area](#land-area) of the neighborhood, including all the land area used for streets and sidewalks and parks, as well as the land area of all the [Parcel Area](#parcel-area).
-  * unit: square feet per square feet (or square meters per square meters)
-
-* <a name="gross-area"></a>**Gross Area** is the total floor area of a building, including all the area taken up by lobbies, hallways, elevator shafts, walls, offices, apartments, etc.
-  * unit: square feet (or square meters)
-
-* <a name="usable-area"></a>**Usable Floor Area** is an area of a building, such as a studio apartment or dentist's office, that could be rented out to be used exclusively by a tenant, or sold for the exclusive use of an owner. 
-  * unit: square feet (or square meters)
-
-* <a name="circulation-area"></a>**Circulation Area** for a building is an area of a building taken up by hallways, elevator shafts, stairways, and lobbies. **Circulation Area** for a city also includes the land area taken up by streets and sidewalks, parking lots, driveways, bus stops, train tracks, etc.
-  * unit: square feet (or square meters)
-
-* <a name="circulation-area-ratio"></a>**Circulation Area Ratio** for a city is the ratio of the total [Circulation Area](#circulation-area) to the total [Usable Floor Area](#usable-area).
-  * unit: square feet per square feet (or square meters per square meters)
-
-* <a name="journey-distance"></a>**D<sub>j</sub>** is a **Journey Distance**, meaning total length of the path taken by a person (or package) as they travel from point A to point B in a building or in a city.
-  * unit: feet (or meters, kilometers, or miles)
-
-* <a name="journey-time"></a>**T<sub>j</sub>** is a **Journey Time**, meaning the total length of the time it takes for a person (or package) to travel from point A to point B in a building or in a city.
-  * unit: minutes
-
-* <a name="kinematic-range"></a>**Kinematic Range<sub>t=30_minutes</sub>** is a measure of capactiy and efficiency of a transportation network. Kinematic Range is the range of destinations that a person can get to from wherever they are, in some specific amount of time, like [30 minutes](#marchetti). In the real world, a destination would be something like your friend's house, your dentist's office, or a library or coffee shop. For the purposes of the Kinematic Range metric, a destination is just any amount of [Usable Floor Area](#usable-area). Kinematic Range is the total amount of [Usable Floor Area](#usable-area) you could get to in a given [Journey Time](#journey-time).
-
-  * **units:** square feet as of minute (or square meters as of second)
-  
-  * **factors:** kinematic range is a function of lots of different factors:
-    * **_density_** &mdash; how many destinations are nearby?
-    * **_mode of transport_** &mdash; are you walking, or in a car?
-    * **_encumbrances_** &mdash; do you have a stroller, or a wheelchair?
-    * **_age_**, **_race_**, & **_gender_** &mdash; can you safely take the subway, or do you need to take a cab?
-    * **_time of day** &mdash; are the trains even running at this hour?
-    * **_traffic congestion_**
-    * **_travel bans_** & **_security checkpoints_** &mdash; are you allowed into that area?
-  * **examples:**
-    * In **Haxby, Montana**, with a car, in 30 minutes you can probably reach about a half dozen homes, with perhaps 10,000 square feet of floorspace, so that means your 30-minute Kinematic Range, **KR<sub>30</sub>**, is about **10,000 square feet**.
-    * In **San Francisco**, if you are able-bodied and travel by bicycle or public transit, but you do not use a car, then in 30 minutes you can typically get from any point to any other point within the city. But, in 30 minutes, without a car, there are fairly few places you can get to outside the city limits. The buildings in San Franicsco have a total of about 6 billion square feet of floorspace, so your **KR<sub>30</sub>** is about **6 billion square feet** (equal to about 550 square kilometers), which is almost a million-fold higher than your range in Haxby.
-    * **Wurster Hall** is a building on the campus of the University of California, Berkeley. It's a fairly typical mid-rise building, with a normal mix of offices, meeting rooms (classrooms), and open plan work spaces. Most of the floorspace is in the wider base in the first three floors, but there's a narrower tower that's ten stories tall. The building has a total of about 225,000 square feet of floorspace, and within 2 minutes you can go between almost any two points in the building, so that's a 2-minute Kinematic Range, **KR<sub>2</sub>**, of **225,000 square feet**.
-    * On the **UC Berkeley campus**, traveling by foot, it takes about 25 minutes to walk between two buildings at opposite ends of the main campus. If it takes another 2 minutes to get from the lobby door of a building to a top-floor room, and vice-versa, that means the whole campus is withing a 29-minute range. If the whole campus has about 16 million square feet of floorspace<sup>[citation needed]</sup>, then your **KR<sub>30</sub>** is about **16 million square feet**.  
-
-
 ### <a name="rules-of-thumb"></a>Rules of thumb
 
 * <a name="jevons"></a>The **Marchetti constant** says that people tend to commute about 30 minutes each way, for a total of one hour per day. That 30-minute number seems to be surprizingly consistent across different cities in different centuries, different cultures, and different continents, regardless of the different modes of travel used to commute.
@@ -354,6 +297,68 @@ There are a huge number of metrics that people measure cities by. We're going to
 | 5 million | (+15%)^3 | $37
 | 10 million | (+15%)^3 | $37
 |---
+
+
+### <a name="units-of-measure"></a>Units of measure
+
+**population** and **land area** are examples of common physical metrics for measuring cities.
+
+**GDP per capita** is an example of an common economic metric.
+
+There are a huge number of metrics that people measure cities by. We're going to ignore most of them, and just focus on the handful that are most important for describing the kinematics of cities. 
+
+* <a name="land-area"></a>**Land Area** is the total size of all the land occupied by a city.
+  * unit: square miles (or square kilometers)
+
+* <a name="parcel-area"></a>**Parcel Area** is the size of the lot of land that a house (or other building) is built on.
+  * unit: square feet (or acres, hectares, or square meters)
+
+* <a name="floor-area"></a>**Floor Area** is the amount of floorspace in a building, including the floorspace on all the different floors of a multi-story building.
+  * unit: square feet (or square meters)
+
+* <a name="far-parcel"></a>**FAR<sub>parcel</sub>** is the **Floor Area Ratio** for a building on a parcel, meaning the ratio of [Floor Area](#floor-area) to [Parcel Area](#parcel-area).
+* <a name="far-overall"></a>**FAR<sub>overall</sub>** is the **Floor Area Ratio** for a neighborhood of a city, meaning the ratio of the total [Floor Area](#floor-area) of all the buildings to the total [Land Area](#land-area) of the neighborhood, including all the land area used for streets and sidewalks and parks, as well as the land area of all the [Parcel Area](#parcel-area).
+  * unit: square feet per square feet (or square meters per square meters)
+
+* <a name="gross-area"></a>**Gross Floor Area** is the total floor area of a building, including all the area taken up by lobbies, hallways, elevator shafts, walls, offices, apartments, etc.
+  * unit: square feet (or square meters)
+
+* <a name="usable-area"></a>**Usable Floor Area** is an area of a building, such as a studio apartment or dentist's office, that could be rented out to be used exclusively by a tenant, or sold for the exclusive use of an owner. 
+  * unit: square feet (or square meters)
+
+* <a name="circulation-area"></a>**Circulation Area** for a building is an area of a building taken up by hallways, elevator shafts, stairways, and lobbies. **Circulation Area** for a city also includes the land area taken up by streets and sidewalks, parking lots, driveways, bus stops, train tracks, etc.
+  * unit: square feet (or square meters)
+
+* <a name="circulation-area-ratio"></a>**Circulation Area Ratio** for a city is the ratio of the total [Circulation Area](#circulation-area) to the total [Usable Floor Area](#usable-area).
+  * unit: square feet per square feet (or square meters per square meters)
+
+* <a name="journey-distance"></a>**D<sub>j</sub>** is a **Journey Distance**, meaning total length of the path taken by a person (or package) as they travel from point A to point B in a building or in a city.
+  * unit: feet (or meters, kilometers, or miles)
+
+* <a name="journey-time"></a>**T<sub>j</sub>** is a **Journey Time**, meaning the total length of the time it takes for a person (or package) to travel from point A to point B in a building or in a city.
+  * unit: minutes
+
+* <a name="kinematic-range"></a>**Kinematic Range<sub>t=30_minutes</sub>** is the total amount of [Floor Area](#floor-area) a person could possibly get to in a given [Journey Time](#journey-time), such as [30 minutes](#marchetti).
+  * units: square feet as of minute (or square meters as of second)
+
+### <a name="kinematic-range"></a>Kinematic range
+
+**Kinematic range** is a measure of the capactiy and efficiency of a transportation network. Kinematic range is measured in [Floor Area](#floor-area), but it really represents the range of destinations that a person can get to. In the real world, a destination would be something like your friend's house, your dentist's office, or a library or coffee shop.
+
+  * **factors:** kinematic range is a function of lots of different factors:
+    * **_density_** &mdash; how many destinations are nearby?
+    * **_mode of transport_** &mdash; are you walking, or in a car?
+    * **_encumbrances_** &mdash; do you have a stroller, or a wheelchair?
+    * **_age_**, **_race_**, & **_gender_** &mdash; can you safely take the subway, or do you need to take a cab?
+    * **_time of day** &mdash; are the trains even running at this hour?
+    * **_traffic congestion_**
+    * **_travel bans_** & **_security checkpoints_** &mdash; are you allowed into that area?
+  * **examples:**
+    * In **Haxby, Montana**, with a car, in 30 minutes you can probably reach about a half dozen homes, with perhaps 10,000 square feet of floorspace, so that means your 30-minute Kinematic Range, **KR<sub>30</sub>**, is about **10,000 square feet**.
+    * In **San Francisco**, if you are able-bodied and travel by bicycle or public transit, but you do not use a car, then in 30 minutes you can probably get from almost any building in the city to almost any other room in any building in the city. But without a car, there are fairly few places you can get to outside the city limits within 30 minutes. The buildings in San Franicsco have a total of about 6 billion square feet of floorspace, and your **KR<sub>30</sub>** might be about **5 billion square feet** (equal to about 460 square kilometers), which is almost a million-fold higher than your range in Haxby.
+    * **Wurster Hall** is a building on the campus of the University of California, Berkeley. It's a fairly typical mid-rise building, with a normal mix of offices, meeting rooms (classrooms), and open plan work spaces. Most of the floorspace is in the wider base in the first three floors, but there's a narrower tower that's ten stories tall. The building has a total of about 225,000 square feet of floorspace, and within 2 minutes you can go between almost any two points in the building, so that's a 2-minute Kinematic Range, **KR<sub>2</sub>**, of **225,000 square feet**.
+    * On the **UC Berkeley campus**, traveling by foot, it takes about 25 minutes to walk between two buildings at opposite ends of the main campus. If it takes another 2 minutes to get from the lobby door of a building to a top-floor room, and vice-versa, that means any two rooms on the whole campus are within a 29-minute range. If the campus has about 16 million square feet of floorspace<sup>[citation needed]</sup>, then your **KR<sub>30</sub>** would be about **16 million square feet**.  
+
 
 
 ## <a name="work-better"></a>(6) Design improvements &mdash; We can make cities that work far better
