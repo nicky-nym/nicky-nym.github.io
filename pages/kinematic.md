@@ -300,7 +300,7 @@ from 1950 to 2015, the value of Manhattan land grew at an annual rate of 5.5 per
 | 1.25 million | $32 | +15% above $28
 | 2.5 million | $37 | (+15%)^2 above $28
 | 5 million | $43 | (+15%)^3 above $28
-| 10 million | $49 | (+15%)^3 above $28
+| 10 million | $49 | (+15%)^4 above $28
 |---
 
 
