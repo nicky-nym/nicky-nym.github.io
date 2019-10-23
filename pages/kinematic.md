@@ -341,6 +341,20 @@ There are a huge number of metrics that people measure cities by. We're going to
   * restaurants
   * variety of business services available (meaning, how long the "long tail" of the city is)
 
+|---
+| City Population | Superlinear Scale Factor | Average Hourly Wage |
+|:-|:-:|-:
+| 40,000 | (-15%)^4 | $16 
+| 80,000 | (-15%)^3 | $18 
+| 160,000 | (-15%)^2 | $21
+| 320,000 | -15% | $24
+| 640,000 | 100% average | $28
+| 1.25 million | +15% | $32
+| 2.5 million  | (+15%)^2 | $37
+| 5 million | (+15%)^3 | $37
+| 10 million | (+15%)^3 | $37
+|---
+
 
 ## <a name="work-better"></a>(6) Design improvements &mdash; We can make cities that work far better
 
