@@ -36,7 +36,7 @@ Existing cities:
 
 The problems above could be greatly ameliorated by just making a handful of different design choices in a new city project:
   * **[transportation choices](#transportation)**: what vehicles to use to move people and packages &mdash; cars and trucks vs. small low-power vehicles
-  * **[layout choices](#layout)**: the size and shape of city features &mdash; building heights, block sizes, and street lane widths
+  * **[spatial layout choices](#spatial-layout)**: the size and shape of city features &mdash; building heights, block sizes, and street lane widths
   * **[elevator choices](#elevator)**: stairs, elevators, and escalators vs. flights of wheelchair ramps
 
 ### The market
@@ -74,7 +74,7 @@ The current market size for new city construction is large:
        * [Design goals](#design-goals)
        * [Transportation design choices](#transportation)
        * [Spatial layout design choices](#spatial-layout)
-       * [Elevator design choices](#elevators)
+       * [Elevator design choices](#elevator)
 
 ---
 ## <a name="faq"></a>FAQ: Frequently Asked Questions
@@ -95,7 +95,7 @@ No one has yet built a kinematic city. "Kinematic city" is a new made-up name fo
  1. Improved urban mobility leads to significant economic improvements &mdash; in wages, GDP, patent application productivity per capita, etc.
  1. The improved mobility and travel range in the kinematic design results from unconventional design choicesL
     * **[transportation choices](#transportation)**: what vehicles to use to move people and packages &mdash; cars and trucks vs. small low-power vehicles
-    * **[layout choices](#layout)**: the size and shape of city features &mdash; building heights, block sizes, and street lane widths
+    * **[spatial layout choices](#spatial-layout)**: the size and shape of city features &mdash; building heights, block sizes, and street lane widths
     * **[elevator choices](#elevator)**: stairs, elevators, and escalators vs. flights of wheelchair ramps
 
 ### <a name="could-we-build"></a>Could we build a kinematic city?
@@ -381,11 +381,75 @@ There are a huge number of metrics that people measure cities by. We're going to
 
 ### <a name="transportation"></a>Transportation design choices
 
+The kinematic city design calls for:
+  * no traffic lights
+  * no stop signs
+  * no open roads
+  * no large intersections
+  * no cars within city limits
+    * no private cars
+    * no taxis
+    * no ubers, lyfts
+    * no waymos and self-driving cars
+  * no rail within city limits
+    * no subways
+    * no light rail
+    * no trollies or trams
+  * no airborne traffic within city limits
+    * no delivery drones
+    * no helicopters
+    * no gondolas
+  * no large vehicles
+    * no busses or bus rapid transit (BRT)
+    * no trucks
+    * no mass transit
+  * no gas engine vehicles
+    * no motorcycles
+  * no fast vehicles
+    * no motorcycles
+  * no personal rapid transit, pods, or people movers
+
+Instead, we have
+  * rain-sheltered pedestrian sidewalks
+  * rain-sheltered bike lanes for narrow, low-power, modest-speed vehicles
+    * segways
+    * mopeds (electric)
+    * bicycles
+    * cargo trikes
+    * scooters
+    * skateboards & electric skateboards
+    * hoverboards
 
 ### <a name="spatial-layout"></a>Spatial layout design choices
 
+The kinematic city recipe calls for:
+  * no single-story ranch houses and no other single-story buildings
+  * no skyscrapers and no high rises
+  * no suburban sprawl
+  * no highways
+  * no roads with lanes wide enough for cars and trucks
 
-### <a name="elevators"></a>Elevator design choices
+Instead, we have: 
+  * mid-rise buildings of about six stories, similar to Paris
+  * roads with narrow lanes for narrow vehicles
+  * density of [TODO]
+
+### <a name="elevator"></a>Elevator design choices
+
+The kinematic city design recipe calls for:
+  * no elevators
+  * no stairs
+  * no escalators
+
+The only way to go "upstairs" or "downstairs" in a pinq city is by using
+  * sloped hallways
+  * sloped sidewalks
+  * sloped bike paths
+  * flights of wheelchair ramps
+
+This idea sounds crazy to most people when they first hear it, because it's so different from all the normal buildings and cities that we're used to.
+
+However, if you run the numbers, and run simulations, it turns out that getting rid of elevators and stairs works out just fine. Instead of making it harder to get places, having no elevators makes it **faster** to get between any two random locations. Plus this design is greener, works better after a natural disaster, can be built more quickly, is less expensive to build, and is less expensive to maintain.
 
 ```
 TODO:
@@ -449,75 +513,6 @@ Improved mobility results from unconventional design choices:
   * **[geometry choices](#geometry)**: the size and shape of city features &mdash; building heights, block sizes, and street lane widths
   * **[elevator choices](#elevator)**: stairs, elevators, and escalators vs. flights of wheelchair ramps
 
-## <a name="transportation"></a>(7) Transportation design choices
-
-The kinematic city design calls for:
-  * no traffic lights
-  * no stop signs
-  * no open roads
-  * no large intersections
-  * no cars within city limits
-    * no private cars
-    * no taxis
-    * no ubers, lyfts
-    * no waymos and self-driving cars
-  * no rail within city limits
-    * no subways
-    * no light rail
-    * no trollies or trams
-  * no airborne traffic within city limits
-    * no delivery drones
-    * no helicopters
-    * no gondolas
-  * no large vehicles
-    * no busses
-    * no trucks
-    * no mass transit
-  * no gas engine vehicles
-    * no motorcycles
-  * no fast vehicles
-    * no motorcycles
-
-Instead, we have
-  * rain-sheltered pedestrian sidewalks
-  * rain-sheltered bike lanes for narrow, low-power, modest-speed vehicles
-    * segways
-    * mopeds (electric)
-    * bicycles
-    * cargo trikes
-    * scooters
-    * skateboards
-  
-## <a name="layout"></a>(8) Layout design choices
-
-The kinematic city recipe calls for:
-  * no single-story ranch houses and no other single-story buildings
-  * no skyscrapers and no high rises
-  * no suburban sprawl
-  * no highways
-  * no roads with lanes wide enough for cars and trucks
-
-Instead, we have: 
-  * mid-rise buildings of about six stories, similar to Paris
-  * roads with narrow lanes for narrow vehicles
-  * density of 
-
-## <a name="elevator"></a>(9) Elevator design choices
-
-The kinematic city design recipe calls for:
-  * no elevators
-  * no stairs
-  * no escalators
-
-The only way to go "upstairs" or "downstairs" in a pinq city is by using
-  * sloped hallways
-  * sloped sidewalks
-  * sloped bike paths
-  * flights of wheelchair ramps
-
-This idea sounds crazy to most people when they first hear it, because it's so different from all the normal buildings and cities that we're used to.
-
-However, if you run the numbers, and run simulations, it turns out that getting rid of elevators and stairs works out just fine. Instead of making it harder to get places, having no elevators makes it **faster** to get between any two random locations. Plus this design is greener, works better after a natural disaster, can be built more quickly, is less expensive to build, and is less expensive to maintain.
 
 
 ---
