@@ -270,11 +270,11 @@ from 1950 to 2015, the value of Manhattan land grew at an annual rate of 5.5 per
 ### <a name="rules-of-thumb"></a>Rules of thumb
 
 * <a name="marchetti"></a>The **Marchetti constant** says that people tend to travel about one hour a day. For people that commute to a job, the average commute is about 30 minutes each way. For people who aren't commuting, it is common to spend about an hour each day on other sorts of trips: chores, errands, appointments, etc. (The Marchetti constant is named for Cesare Marchetti, although it was really Yacov Zahavi who first wrote about it.) The one-hour number seems to be surprizingly consistent across different cities in different centuries, different cultures, and different continents, regardless of the different modes of travel used to commute. The one-hour constant is believed to have held true in:
-+ Ancient Rome
-+ Medieval Paris
-+ Victorian London — steam train
-+ New York — subway
-+ Los Angles — car 
+  + Ancient Rome
+  + Medieval Paris
+  + Victorian London — steam train
+  + New York — subway
+  + Los Angles — car 
 
 * <a name="jevons"></a>The **Jevons paradox**, or Jevons effect, says that if it becomes possible to use a resource more and more efficiently, then instead of using less of the resource, people actually use more. Total consumption increases because demand increases as efficiency drives the costs down.
 
@@ -291,12 +291,12 @@ from 1950 to 2015, the value of Manhattan land grew at an annual rate of 5.5 per
 
 |---
 | City Population | Average Hourly Wage | Superlinear Scale Factor |
-|-:|:-:|:-
+|-:|:-:|:-:
 | 40,000 | $16 | (-15%)^4 below $28
 | 80,000 | $18 | (-15%)^3 below $28
 | 160,000 | $21 | (-15%)^2 below $28
 | 320,000 | $24 | -15% below $28
-| 640,000 | $28 | 100% average
+| 640,000 | **$28** | **100% average**
 | 1.25 million | $32 | +15% above $28
 | 2.5 million | $37 | (+15%)^2 above $28
 | 5 million | $43 | (+15%)^3 above $28
