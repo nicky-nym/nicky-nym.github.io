@@ -269,13 +269,18 @@ from 1950 to 2015, the value of Manhattan land grew at an annual rate of 5.5 per
 
 ### <a name="rules-of-thumb"></a>Rules of thumb
 
-* <a name="jevons"></a>The **Marchetti constant** says that people tend to commute about 30 minutes each way, for a total of one hour per day. That 30-minute number seems to be surprizingly consistent across different cities in different centuries, different cultures, and different continents, regardless of the different modes of travel used to commute.
+* <a name="marchetti"></a>The **Marchetti constant** says that people tend to travel about one hour a day. For people that commute to a job, the average commute is about 30 minutes each way. For people who aren't commuting, it is common to spend about an hour each day on other sorts of trips: chores, errands, appointments, etc. (The Marchetti constant is named for Cesare Marchetti, although it was really Yacov Zahavi who first wrote about it.) The one-hour number seems to be surprizingly consistent across different cities in different centuries, different cultures, and different continents, regardless of the different modes of travel used to commute. The one-hour constant is believed to have held true in:
++ Ancient Rome
++ Medieval Paris
++ Victorian London — steam train
++ New York — subway
++ Los Angles — car 
 
 * <a name="jevons"></a>The **Jevons paradox**, or Jevons effect, says that if it becomes possible to use a resource more and more efficiently, then instead of using less of the resource, people actually use more. Total consumption increases because demand increases as efficiency drives the costs down.
 
 * <a name="induced-demand"></a>**Induced demand** says that as the supply of a resource increases, more of it will be consumed. If you add a new lane to a congested highway, it does not reduce congestion, but instead increases the total number of trips made. **Induced demand** might be better described as **latent demand**. The demand was actually there all along, there was just a lack of supply to meet the demand. The concept of **induced demand** is often used as an argument against increasing roadway traffic capacity. I think this is misguided. The existance of latent demand is a sign that we should be striving to increase the supply of transportation capacity, and increase [Kinematic Range](#kinematic-range).
 
-* <a name="superlinear"></a>**15% superlinear scaling** is the phenomenon where if a city population grows by 100% (meaning it doubles in population size), then the economy of the city tends to grow by about 115% (meaning it more than doubles in size), so that there is effectively a 15% increase in per-capita economic output for everyone in the city. This 15% superlinear growth seems to apply to the whole physical and social metabolism of the city, rather than just the economic aspects of the city. The 15% surplus shows up in statistics about:
+* <a name="superlinear"></a>**15% superlinear scaling** is the phenomenon where if a city population grows by 100% (meaning it doubles in population size), then the economy of the city tends to grow by about 115% (meaning it more than doubles in size), so that there is effectively a 15% "bonus" in per-capita economic output for everyone in the city. This 15% superlinear growth seems to apply to the whole physical and social metabolism of the city, rather than just the economic aspects of the city. The 15% surplus shows up in statistics about:
   * wages
   * wealth
   * patents
@@ -286,7 +291,7 @@ from 1950 to 2015, the value of Manhattan land grew at an annual rate of 5.5 per
 
 |---
 | City Population | Superlinear Scale Factor | Average Hourly Wage |
-|:-|:-:|-:
+|-:|:-:|:-
 | 40,000 | (-15%)^4 | $16 
 | 80,000 | (-15%)^3 | $18 
 | 160,000 | (-15%)^2 | $21
@@ -582,19 +587,7 @@ Suburban sprawl  ➔  longer roads  ➔  more circulation overhead
 Dense urban core  ➔  shorter distances  ➔  less overhead
 
 
-### Marchetti constant
 
-People will commute 30 minutes each way.
-+ Ancient Rome
-+ Medieval Paris
-+ Victorian London — steam train
-+ New York — subway
-+ Los Angles — car 
-
----
-Yacov Zahavi  (1926 — )
-
-Cesare Marchetti  (1927 — )
 
 ### Goals
 
