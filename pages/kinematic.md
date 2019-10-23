@@ -303,6 +303,10 @@ from 1950 to 2015, the value of Manhattan land grew at an annual rate of 5.5 per
 | 10 million | $49 | (+15%)^4 above $28
 |---
 
+> "Once one starts to think about (the causes of economic growth),
+> it is hard to think about anything else."
+> &mdash; Robert Lucas, Nobel laureate in Economics 
+
 
 ### <a name="units-of-measure"></a>Units of measure
 
@@ -392,10 +396,6 @@ There are a huge number of metrics that people measure cities by. We're going to
   * carbon footprint of the initial city construction materials and construction work
 
 * **Economic prosperity.** A city should provide for a good life for the people who live in them and the people who have offices there. Because global poverty is a serious problem, economic growth is a force for good, so long as the economic growth is "green growth" and so long as GDP growth goes up while carbon footprint goes down, habitat restoration use goes up, and Gini coefficients go down.
-
-> "Once one starts to think about (the causes of economic growth),
-> it is hard to think about anything else."
-> &mdash; Robert Lucas, Nobel laureate in Economics 
 
 * **Social prosperity.** It should be:
   * easy to go see your friends
