@@ -433,13 +433,14 @@ Instead, we have
 
 The kinematic city recipe calls for:
   * no single-story ranch houses and no other single-story buildings
-  * no skyscrapers and no high rises
+  * no skyscrapers and no high-rise residential buildings
   * no suburban sprawl
   * no highways
   * no roads with lanes wide enough for cars and trucks
 
 Instead, we have: 
   * mid-rise buildings of about six stories, similar to Paris
+  * row-houses and "walk-up" apartments
   * roads with narrow lanes for narrow vehicles
   * density of [TODO]
 
@@ -450,7 +451,7 @@ The kinematic city design recipe calls for:
   * no stairs
   * no escalators
 
-The only way to go "upstairs" or "downstairs" in a pinq city is by using
+The only way to go "upstairs" or "downstairs" in a kinematic city is by using
   * sloped hallways
   * sloped sidewalks
   * sloped bike paths
@@ -507,15 +508,153 @@ Improved mobility results from unconventional design choices:
 
 ## TODO: work in progress
 
-* [about](about)
-* [circulation](circulation)
-* [circulation_overhead](circulation_overhead)
-* [constraints](constraints)
-* [density](density)
-* [goals](goals)
-* [marchetti](marchetti)
-* [nymble_cities](nymble_cities)
-* [options](options)
+### Circulation
+
+|---
+| Arteries | Capillaries | Cells |
+|:-:|:-:|:-:
+| highways | streets | bathrooms 
+| beltways | sidewalks | bedrooms 
+| avenues | lobbies & hallways | kitchens
+| subways | elevators & stairs | classrooms
+| | | workshops
+| | | conference rooms
+| | | exam rooms
+|---
+
+### Circulation overhead
+
+```
+<------------------------------- Manhattan city block ---------------------------->
+
+<------------------- buildings ----------------------------><--   streets &     -->
+<--                                                      --><--   sidewalks     -->
+<--              70% of land area                        --><--  30% land area  -->
+
+<-- rooms like offices and apartments  --><-- hallways   -->
+<--                                    --><-- stairs...  -->
+<--          70% of floor area         --><--    30%     -->
+
+### Constraints
+
++ engineering constraints
+  - daylight available — arctic circle, seattle rain
+  - transportation modes available — hyperloop, flying cars
++ market constraints
+  - construction costs
+  - land prices
++ civic constraints
+  - zoning
+  - environmental review
+  
+
+### Density
+
+Floor space per square mile — Floor Area Ratio (FAR)
+x People per square foot
+= People per square mile
+
+#### Suburban vicious cycle
+
+Suburban sprawl  ➔  longer roads  ➔  more circulation overhead
+
+#### Urban virtuous cycle
+
+Dense urban core  ➔  shorter distances  ➔  less overhead
+
+
+### Marchetti constant
+
+People will commute 30 minutes each way.
++ Ancient Rome
++ Medieval Paris
++ Victorian London — steam train
++ New York — subway
++ Los Angles — car 
+
+---
+Yacov Zahavi  (1926 — )
+
+Cesare Marchetti  (1927 — )
+
+### Goals
+
++ [airiness](#airiness)
+  - nearby parks and trees
+  - fresh air
+  - sunlight
++ [affordablity](#affordablity)
+   - readily available housing
+   - affordabability at market prices, without subsidies or rent control
++ [propinquity](#propinquity) &mdash; everything within 30 minutes
+  - school & work
+  - friends & family
+  - groceries & restaurants
+  - yoga & gym
+  - dentist & doctors 
+  - libraries & museums
+  - long tail destinations (aka _That One Unusual Thing_ that most people wouldn't care about, but that you really want to go to)
+    - a monthly Renaissance Faire meetup
+    - a weekly Burning Man art car workshop
+    - a maker space with an Atomic Force Microscope
+    - etc.
++ [equity](#equity)
+  - safe passage for everyone through all public space
+  - with full mobility for women [^2]
+  - no "pink tax" for women [^1]
+  - no "trip-range" tax for women [^3]
++ [accessibility](#accessibility)
+  - stroller-friendly buildings and stroller-friendly transportation
+  - wheelchair accessible routes in every building
+  - predictable navigation for people with limited vision
+  - frequent pathside seating for elderly people
++ [safety](#safety)
+  - freedom from harassment
+  - safe enough that parents can opt to have "free-range children" who explore the city on their own
+  - no traffic accident deaths
+  - no fire-related deaths
+  - fast response to 911 calls
+
+  
+  
+#### <a name="airiness"></a>airiness &mdash; sun, air, trees
+
+|---
+|  | **Design implications** | **Examples**
+|:-:|:-:|:-
+|  | maximize "trees passed per day" | place trees along circulation paths <br> make living walls
+|                 | provide fresh air               | no diesel busses <br> no gas-powered motorcycles <br> use windows that open <br> pick a mild climate to build in
+|                 | provide daylight and sunshine   | design for daylighting <br> don't build too far north
+|---
+
+#### affordablity
+
+|---
+|  | **Design implications** | **Examples**
+|:-:|:-:|:-
+|  | keep construction costs down       | use conventional construction techniques <br> no skyscrapers (expensive per square foot) <br> no elevators (at $100,000+ each) <br> strive for economies of scale 
+|               | keep land costs low                | pick an inexpensive site <br> maximize Floor Area Ratio (FAR), or floor space per square mile 
+|               | keep developer financing costs low | use tight construction timelines <br> avoid planning and permitting delays <br> avoid big risks <br> minimize vacancy <br> produce revenue early on <br> do "just-in-time" production of square footage
+|               | keep transportation costs down     | keep everything close <br> no automobiles (at $20,000+ each) <br> no busses (at $500,000 each, or $8,000+ per passenger seat) <br> no subway cars (at $10,000+ per passenger seat) <br> no subway tunnels (at $100,000,000+ per mile) 
+|               | keep HVAC costs down               | pick a mild climate to build in <br> use windows that open <br> use ventilation chimneys
+|               | keep lighting costs down           | design for good daylighting with careful window and skylight placement
+|               | prevent real estate speculation    | pick an unconventional city land ownership model 
+
+#### <a name="propinquity"></a>propinquity &mdash; everything within 30 minutes
+
+|---
+|  | **Design implications** | **Examples**
+|:-:|:-:|:-
+|  | keep everything close      | maximize the amount of usable floor area within 30 minutes of this floor area
+|                              | keep traffic flowing       | no stop lights <br> no multi-lane traffic circles
+|                              | don't squander land area   | no single-story buildings <br> no parking spaces <br> no private suburban lawns <br> use 4 or 5 foot wide lanes, not 10 or 12 foot wide lines
+|                              | don't squander floor space | avoid redundant hallways, stairs, or elevators <br> no empty rooftops
+
+
+#### References
+[^1]: [Improving Urban Mobility for Women](https://newcities.org/the-big-picture-cities-foster-equity-by-improving-urban-mobility-for-women/)
+[^2]: "Even though women comprise nearly half of the population, it is surprising they account for less than one in five trips made in Indian cities." [Shreya Gadepalli: March 8, 2019](https://newcities.org/delhithe-big-picture-will-improve-women-get-move/)
+[^3]: "Evidence from Argentina shows that on average men and women’s commute time is roughly the same, but women travel at slower speeds and cover shorter distances." [Karla Dominguez Gonzalez: March 8, 2019](https://newcities.org/the-big-picture-transport-is-not-gender-neutral-womens-mobility-and-accessibility-for-better-economic-opportunities/)
 
 ---
 
