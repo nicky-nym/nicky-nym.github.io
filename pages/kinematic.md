@@ -423,11 +423,11 @@ As a city grows, at first, kinematic range increases as population increases, pe
 
 This whole kinematic cities proposal is all about trying to reduce that kinematic lag in larger cities. The proposed kinematic city design is an attempt to keep increasing a city's kinematic range even as it's population grows in the millions.
 
-Take the **San Francisco Bay Area** as an example. The Bay Area is a conurbation that encompasses major cities like San Francisco and San Jose, as well as lots of smaller cities, like Oakland, Berkeley, and Mountain View. The entire population is about 8 billion people, depending where you draw the boundaries. 
+Take the **San Francisco Bay Area** as an example. The Bay Area is a conurbation that encompasses major cities like San Francisco and San Jose, as well as lots of smaller cities, like Oakland, Berkeley, and Mountain View. The entire population is about 8 million people, depending where you draw the boundaries. 
 
-If you estimate floorspace at about 600 square feet per person, that means there's about 5 trillion square feet of floorspace in the Bay Area. Your **KR<sub>30</sub>** would be **5 trillion square feet**, if you could magically get from any point in the area to any other point in under 30 minutes. But you can't.
+If you estimate floorspace at about 600 square feet per person, that means there's about 5 billion square feet of floorspace in the Bay Area. Your **KR<sub>30</sub>** would be **5 billion square feet**, if you could magically get from any point in the area to any other point in under 30 minutes. But you can't.
 
-As a rough estimate, let's say that from any room in a random building in the Bay Area, within 30 minutes you can reach about one quarter of the other buildings in the Bay Area. That means your actual **KR<sub>30</sub>** would be about **1.25 trillion square feet**.
+As a rough estimate, let's say that from any room in any random building in the Bay Area, within 30 minutes you can reach about one quarter of the other buildings in the Bay Area. That means your actual **KR<sub>30</sub>** would be about **1.25 billion square feet**.
 
 If we could just improve your travel times, we could quadruple your KR<sub>30</sub> range. If kinematic range is in fact what drives the [15% superlinear scaling](#superlinear) effect, then doubling the KR<sub>30</sub> for the Bay Area would yield a 15% windfall in average hourly wages, patents per capita, GDP, etc. Doubling KR<sub>30</sub> gets you a 15% windfall, and quadrupling gets you **a 30% windfall** (actually more like 32%, because 1.15^2 is 1.3225).
 
@@ -660,10 +660,8 @@ However, if you run the numbers, and run simulations, it turns out that getting 
 What we hope to get out of this
 
 * a kinematic city: 
-   1. should have **less traffic** congestion
    1. should have **more commute destinations**
    1. should **[thrive economically](#economics)** compared to similarly-sized normal cities
-   1. should have **better air quality**
    1. should be **more affordable** to build than conventional cities
    1. should have **lower operating costs**
    1. should have **lower housing costs**, and potentially **no homelessness**
@@ -678,9 +676,10 @@ What we hope to get out of this
 |---
 | Outcomes | metrics | Proposed Kinematic City | San Francisco | New York |
 |-:|:-:|:-:|:-:|:-:
-| **Commute time** |	minutes per day, average per commuter		
-| **Exercise while commuting** |	calories per day, average per commuter		
-| **Commute cost**<br>paid by commuter |	dollars per day, average per commuter		
+| **Commute time** | minutes per day<br>average per commuter | 60 min | 60 min | 60 min |
+| **Commute range** | square feet, billions |   | 1.25 |   |
+| **Exercise while commuting** |	calories per day<br>average per commuter		
+| **Commute cost**<br>paid by commuter |	dollars per day<br>average per commuter		
 | **Cost to city to provide transit** |	total dollars per day		
 | **Traffic fatalities** |	deaths per year		
 | **Commute CO2 emissions** |	total tons CO2 per day		
