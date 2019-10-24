@@ -71,9 +71,11 @@ The current market size for new city construction is large:
        * [Rules of thumb](#rules-of-thumb)
        * [Units of measure](#units-of-measure)
        * [Kinematic range](#kinematic-range)
-    1. **[Design improvements](#work-better)** &mdash; Making cities that work better
+    1. **[Design goals](#work-better)**
+       * [Design constraints](#design-constraints)
        * [Design goals](#design-goals)
        * [Design goal implications](#design-implications)
+    1. **[Design choices](#design-choices)** &mdash; Making cities that work better
        * [Transportation design choices](#transportation)
        * [Spatial layout design choices](#spatial-layout)
        * [Elevator design choices](#elevator)
@@ -399,7 +401,20 @@ There are a huge number of metrics that people measure cities by. We're going to
 > regulations and rules."[^growth]
 > &mdash; John Macomber, senior lecturer, Harvard Business School.
 
-### <a name="design-goals"></a>(6.1) Design goals
+
+### <a name="design-constraints"></a>(6.1) Design constraints
+
++ engineering constraints
+  - daylight available — arctic circle, seattle rain
+  - transportation modes available — hyperloop, flying cars
++ market constraints
+  - construction costs
+  - land prices
++ civic constraints
+  - zoning
+  - environmental review
+
+### <a name="design-goals"></a>(6.2) Design goals
 
 * **Carbon footprint.** Because climate change is a serious problem, minimizing carbon footprint needs to be a serious design goal. Carbon footprint goals include:
   * carbon footprint of travel within the city
@@ -482,7 +497,7 @@ TODO:
    1. could be established as **charter cities**[^mason]
  ```
 
-### <a name="design-implications"></a>(6.2) Design goal implications
+### <a name="design-implications"></a>(6.3) Design goal implications
 
   
 #### <a name="airiness"></a>airiness &mdash; sun, air, trees
@@ -519,8 +534,9 @@ TODO:
 |                              | don't squander floor space | avoid redundant hallways, stairs, or elevators <br> no empty rooftops
 
 
+## <a name="design-choices"></a>(7) Design choices
 
-### <a name="transportation"></a>(6.3) Transportation design choices
+### <a name="transportation"></a>(7.1) Transportation design choices
 
 A kinematic city has:
   * **no cars** within city limits
@@ -565,7 +581,7 @@ Instead, we have
     * skateboards & electric skateboards
     * little delivery robots
 
-### <a name="spatial-layout"></a>(6.4) Spatial layout design choices
+### <a name="spatial-layout"></a>(7.2) Spatial layout design choices
 
 A kinematic city has:
   * no single-story ranch houses and no other single-story buildings
@@ -580,7 +596,7 @@ Instead, we have:
   * roads with narrow lanes for narrow vehicles
   * density of [TODO]
 
-### <a name="elevator"></a>(6.5) Elevator design choices
+### <a name="elevator"></a>(7.3) Elevator design choices
 
 A kinematic city has:
   * **no elevators**
@@ -626,31 +642,8 @@ Improved mobility results from unconventional design choices:
 
 ## TODO: work in progress
 
-### Circulation
 
-|---
-| Arteries | Capillaries | Cells |
-|:-:|:-:|:-:
-| highways | streets | bathrooms 
-| beltways | sidewalks | bedrooms 
-| avenues | lobbies & hallways | kitchens
-| subways | elevators & stairs | classrooms
-| | | workshops
-| | | conference rooms
-| | | exam rooms
-|---
 
-### Constraints
-
-+ engineering constraints
-  - daylight available — arctic circle, seattle rain
-  - transportation modes available — hyperloop, flying cars
-+ market constraints
-  - construction costs
-  - land prices
-+ civic constraints
-  - zoning
-  - environmental review
   
 
 
