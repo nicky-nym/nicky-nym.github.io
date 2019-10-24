@@ -675,6 +675,41 @@ What we hope to get out of this
    1. should be **more resiliant** after a natural disaster or other emergency
    1. could be established as **charter cities**[^mason]
 
+|---
+| Outcomes | metrics | Proposed Kinematic City | San Francisco | New York |
+|-:|:-:|:-:|:-:|:-:
+| 40,000 | $16 | (-15%)^4 below $28
+| 80,000 | $18 | (-15%)^3 below $28
+| 160,000 | $21 | (-15%)^2 below $28
+| 320,000 | $24 | -15% below $28
+| 640,000 | **$28** | **100% average**
+| 1.25 million | $32 | +15% above $28
+| 2.5 million | $37 | (+15%)^2 above $28
+| 5 million | $43 | (+15%)^3 above $28
+| 10 million | $49 | (+15%)^4 above $28
+| Commute duration	|	minutes per day, average per commuter		
+| Commute exercise	|	calories per day, average per commuter		
+| Commute cost, paid by commuter	|	dollars per day, average per commuter		
+| Cost to city to provide transit	|	total dollars per day		
+| Traffic fatalities	|	deaths per year		
+| Commute CO2 emissions	|	total tons CO2 per day		
+| HVAC CO2 emissions	|	total tons CO2 per day		
+| HVAC costs	|	total dollars per day		
+| Air quality |				
+| ADA accessibility	|	percent of total city floor space		
+| Free-range kids	|			
+| Proximity to friends	|	number of neighbors within 15 minutes		
+| Proximity to library, coffee shop, playground, groceries	|	number of "destinations" within 15 minutes		
+| Proximity to trees	|	number of trees within 15 minutes		
+| Power-outage impact	|	percent increase in transit times		
+| Daylighting	|	"Spatial Daylight Autonomy (sDA) percent<br>Annual Sun Exposure (ASE) percent<br>(also several others)
+| Home sizes	|	square feet per household, average<br>square feet per person, average
+| Office space	|	square feet per person, average		
+| 911 response time	|	minutes, average		
+| Housing costs	|	rent per person, average<br>home price, average<br>property taxes, average<br>property upkeep costs, average
+|---
+
+				
 ---
 
 ## Glossary
