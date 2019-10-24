@@ -9,10 +9,13 @@ permalink: /kinematic/
 
 ## Summary
 
- 1. The world **[needs new cities](#need)**.
+ 1. We **[need new cities](#need)** in the world.
  1. There is **[money available](#money)** for new cities.
  1. People are **[rapidly building new cities](#precident)**.
- 1. Cities can be a **[cost-effective](#cost-effective)** way to pull people out of poverty, bring economic growth, and meet basic needs.
+ 1. Cities can be a **[cost-effective](#cost-effective)** way to:
+    * pulling people out of poverty
+    * bring economic growth
+    * meeting basic needs
  1. We understand a lot about **[how cities work](#how-cities-work)**.
  1. We **[want better cities](#wants)** for everyone.
  1. We can make **[better design choices](#work-better)**, to make better-working cities.
