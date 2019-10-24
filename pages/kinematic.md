@@ -433,9 +433,12 @@ If we could just improve your travel times, we could quadruple your KR<sub>30</s
 
 The San Francisco Bay Area GDP was about $535 billion in 2019.[^facc]  A 30% increase would be an **additional $160 billion annual GDP**.
 
-Is it conceivable that the Bay Area could be re-engineered to quadruple travel ranges? Yes, but it would require a lot of changes: maybe a hyperloop, or a lot of Boring Company tunnels. It would be expensive, and it would take decades. For example, the 2013 Bay Bridge Eastern Span, from San Francisco to Oakland, took over a decade to build and cost $7 billion. The 1976 BART system was a comparable amount, if measured in today's dollars. In Boston, the 2006 Big Dig was $21 billion.
+Is it conceivable that the Bay Area could be re-engineered to quadruple travel ranges? Yes, but it would require a lot of changes: maybe a hyperloop, or a lot of Boring Company tunnels. It would be expensive, and it would take decades. For example:
+  * the 2013 Bay Bridge Eastern Span, from San Francisco to Oakland, took over a decade to build and cost $7 billion
+  * the 1976 BART system was a comparable amount, if measured in today's dollars
+  * the 2006 Big Dig in Boston cost $21 billion
 
-Building from scratch has it's own challanges, and is also crazy expensive, but it can be done much more quickly.
+Building from scratch has it's own challanges, and is also crazy expensive, but it does have the advantage that it can be done much more quickly.
 
 > "If you build a new city you don't have to relocate or work 
 > around existing roads or rivers or factories or houses. 
