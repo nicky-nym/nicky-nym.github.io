@@ -23,8 +23,7 @@ Build new cities from scratch that are specifically designed to maximize "kinema
 
 ### The problems
 
-Existing cities:
-  1. have too much **traffic congestion**
+  1. cities have too much **traffic congestion**
   2. have **housing costs** that are too high
   3. have **transportation costs** that are too high
   4. are **not safe enough**
