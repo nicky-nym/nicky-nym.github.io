@@ -433,18 +433,9 @@ If we could just improve your travel times, we could quadruple your KR<sub>30</s
 
 The San Francisco Bay Area GDP was about $535 billion in 2019.[^facc]  A 30% increase would be an **additional $160 billion annual GDP**.
 
-Is it conceivable that the Bay Area could be re-engineered to quadruple travel ranges? Maybe. It would require a lot of changes: maybe a hyperloop, or a lot of Boring Company tunnels. It would be expensive, and it would take decades.
+Is it conceivable that the Bay Area could be re-engineered to quadruple travel ranges? Yes, but it would require a lot of changes: maybe a hyperloop, or a lot of Boring Company tunnels. It would be expensive, and it would take decades. For example, the 2013 Bay Bridge Eastern Span, from San Francisco to Oakland, took over a decade to build and cost $7 billion. The 1976 BART system was a comparable amount, if measured in today's dollars. In Boston, the 2006 Big Dig was $21 billion.
 
----
-
-
-
-## <a name="work-better"></a>(3) What we want &mdash; things that should work better
-
-
-> "If we stick to business as usual most of it is going to be 
-> disorderly and less functional than the stuff we already have."[^growth]
-> &mdash; Paul Romer, Nobel prize-winning economist, New York University.
+Building from scratch has it's own challanges, and is also crazy expensive, but it can be done much more quickly.
 
 > "If you build a new city you don't have to relocate or work 
 > around existing roads or rivers or factories or houses. 
@@ -453,6 +444,13 @@ Is it conceivable that the Bay Area could be re-engineered to quadruple travel r
 > regulations and rules."[^growth]
 > &mdash; John Macomber, senior lecturer, Harvard Business School.
 
+---
+
+## <a name="work-better"></a>(3) What we want &mdash; things that should work better
+
+> "If we stick to business as usual most of it is going to be 
+> disorderly and less functional than the stuff we already have."[^growth]
+> &mdash; Paul Romer, Nobel prize-winning economist, New York University.
 
 ### <a name="design-goals"></a>(3.1) Design goals
 
