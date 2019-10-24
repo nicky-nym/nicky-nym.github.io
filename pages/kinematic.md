@@ -427,24 +427,29 @@ There are a huge number of metrics that people measure cities by. We're going to
 * **Agglomeration economies.** The term "industrial agglomeration" means the clustering of a lot of business firms in one region. Industrial agglomeration leads to "agglomeration economies" (somewhat similar to the seperate idea of "economies of scale"). "Agglomeration economies" are economic benefits that come from having businesses be near each other, such as shared infrastructure development. But we need our designs to be mindful of avoiding "agglomeration diseconomies", which are the disadvantages of proximity, such as traffic congestion.
 
 * **Affordability.** There's no point in designing a new kinematic city that is too expensive to build, or building a new city that is too expensive for most people to afford to move to. The initial kinematic city designs intentionally focus on avoiding expensive transportation options like light rail, and even bus rapid transit. The designs also avoid expensive buildings, like skyscrapers or even ten-story buildings with concrete service cores and elevators, in favor of less expensive "4-over-1" podium construction.
-
-* **Resiliency.** Cities should be designed to be resilient after natural disasters and other emergencies. For example, it should be possible to evactuate an building quickly even when the power is out. And it should be safe to quickly reopen as many buildings as possible after an earthquake, hurricane, or flood. These are goals that can be furthered by simply avoiding "fragile" technologies, like elevators, and traffic lights. 
-
-> "Resiliency is the ability to bounce back better, but also the ability to not have to bounce back as much." 
-> &mdash; Sylvester Wong, Vice President of AECOM[^new-clark]
-
-> "Because its location and design were deliberately chosen to withstand natural calamities, 
-> New Clark City will serve as the government’s continuity hub, disaster and risk recovery 
-> center – an alternative capital city in case a disaster strikes Manila"[^new-clark]
-
-+ [airiness](#airiness)
-  - nearby parks and trees
-  - fresh air
-  - sunlight
-+ [affordablity](#affordablity)
    - readily available housing
    - affordabability at market prices, without subsidies or rent control
-+ [kinematic range](#kinematic-range) &mdash; everything within 30 minutes
+
+* **[Safety](#safety).**
+  - freedom from harassment
+  - safe enough that parents can opt to have "free-range children" who explore the city on their own
+  - no traffic accident deaths
+  - no fire-related deaths
+  - fast response to 911 calls
+
+* **[Equity](#equity).**
+  - equal access to safe passage for everyone through all public space
+  - full mobility for women [^2]
+  - no "pink tax" for women [^1]
+  - no "trip-range" tax for women [^3]
+
+* **[Accessibility](#accessibility).**
+  - stroller-friendly buildings and stroller-friendly transportation
+  - wheelchair accessible routes in every building
+  - predictable navigation for people with limited vision
+  - frequent pathside seating for elderly people
+
+* **[Proximity](#kinematic-range).** &mdash; everything within 30 minutes
   - school & work
   - friends & family
   - groceries & restaurants
@@ -456,22 +461,21 @@ There are a huge number of metrics that people measure cities by. We're going to
     - a weekly Burning Man art car workshop
     - a maker space with an Atomic Force Microscope
     - etc.
-+ [equity](#equity)
-  - safe passage for everyone through all public space
-  - with full mobility for women [^2]
-  - no "pink tax" for women [^1]
-  - no "trip-range" tax for women [^3]
-+ [accessibility](#accessibility)
-  - stroller-friendly buildings and stroller-friendly transportation
-  - wheelchair accessible routes in every building
-  - predictable navigation for people with limited vision
-  - frequent pathside seating for elderly people
-+ [safety](#safety)
-  - freedom from harassment
-  - safe enough that parents can opt to have "free-range children" who explore the city on their own
-  - no traffic accident deaths
-  - no fire-related deaths
-  - fast response to 911 calls
+
+* **[Airiness](#airiness).**
+  - nearby parks and trees
+  - fresh air
+  - sunlight
+
+* **Resiliency.** Cities should be designed to be resilient after natural disasters and other emergencies. For example, it should be possible to evactuate an building quickly even when the power is out. And it should be safe to quickly reopen as many buildings as possible after an earthquake, hurricane, or flood. These are goals that can be furthered by simply avoiding "fragile" technologies, like elevators, and traffic lights. 
+
+> "Resiliency is the ability to bounce back better, but also the ability to not have to bounce back as much." 
+> &mdash; Sylvester Wong, Vice President of AECOM[^new-clark]
+
+> "Because its location and design were deliberately chosen to withstand natural calamities, 
+> New Clark City will serve as the government’s continuity hub, disaster and risk recovery 
+> center – an alternative capital city in case a disaster strikes Manila"[^new-clark]
+
 
 ```
 TODO:
