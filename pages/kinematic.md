@@ -633,12 +633,6 @@ Good mobility is more important than it sounds. It's not just about making rush-
   * economic prosperity
   * social prosperity
 
-Improved mobility results from unconventional design choices:
-  * **[transportation choices](#transportation)**: what vehicles to use to move people and packages &mdash; cars and trucks vs. small low-power vehicles
-  * **[geometry choices](#geometry)**: the size and shape of city features &mdash; building heights, block sizes, and street lane widths
-  * **[elevator choices](#elevator)**: stairs, elevators, and escalators vs. flights of wheelchair ramps
-
-
 
 
 ---
