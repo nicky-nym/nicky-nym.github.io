@@ -24,6 +24,8 @@ permalink: /kinematic/
  1. We **[want better cities](#wants)** for everyone.
  
  1. We can make **[better design choices](#work-better)**, to make better-working cities.
+ 
+ 1. We can get **[better outcomes](#better-outcomes)**.
 
 ### The proposal
 
@@ -85,6 +87,7 @@ The current market size for new city construction is large:
    * [Transportation proposal](#transportation)
    * [Spatial layout proposal](#spatial-layout)
    * [Elevator proposal](#elevator)
+1. **[Outcomes](#better-outcomes)** &mdash; what we hope to get out of this
 
 ---
 ## <a name="faq"></a>FAQ: Frequently Asked Questions
@@ -502,24 +505,6 @@ There are a huge number of metrics that people measure cities by. We're going to
 > center – an alternative capital city in case a disaster strikes Manila"[^new-clark]
 
 
-```
-TODO:
-* a kinematic city: 
-   1. should have **less traffic** congestion
-   1. should have **more commute destinations**
-   1. should **[thrive economically](#economics)** compared to similarly-sized normal cities
-   1. should have **better air quality**
-   1. should be **more affordable** to build than conventional cities
-   1. should have **lower operating costs**
-   1. should have **lower housing costs**, and potentially **no homelessness**
-   1. should be **safer** and more fun to live in
-   1. should have **better accessibility**
-   1. should be more **kid-friendly**
-   1. should be more **elder-friendly**
-   1. should have a **smaller carbon footprint** per capita
-   1. should be **more resiliant** after a natural disaster or other emergency
-   1. could be established as **charter cities**[^mason]
- ```
 
 ### <a name="design-implications"></a>(3.3) Design goal implications
 
@@ -640,7 +625,25 @@ This idea sounds crazy to most people when they first hear it, because it's so d
 
 However, if you run the numbers, and run simulations, it turns out that getting rid of elevators and stairs works out just fine. Instead of making it harder to get places, having no elevators makes it **faster** to get between any two random locations. Plus this design is greener, works better after a natural disaster, can be built more quickly, is less expensive to build, and is less expensive to maintain.
 
+## <a name="better-outcomes"></a>(5) Outcomes
 
+What we hope to get out of this
+
+* a kinematic city: 
+   1. should have **less traffic** congestion
+   1. should have **more commute destinations**
+   1. should **[thrive economically](#economics)** compared to similarly-sized normal cities
+   1. should have **better air quality**
+   1. should be **more affordable** to build than conventional cities
+   1. should have **lower operating costs**
+   1. should have **lower housing costs**, and potentially **no homelessness**
+   1. should be **safer** and more fun to live in
+   1. should have **better accessibility**
+   1. should be more **kid-friendly**
+   1. should be more **elder-friendly**
+   1. should have a **smaller carbon footprint** per capita
+   1. should be **more resiliant** after a natural disaster or other emergency
+   1. could be established as **charter cities**[^mason]
 
 ---
 
