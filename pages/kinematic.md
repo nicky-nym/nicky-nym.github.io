@@ -369,12 +369,21 @@ There are a huge number of metrics that people measure cities by. We're going to
 * <a name="journey-time"></a>**T<sub>j</sub>** is a **Journey Time**, meaning the total length of the time it takes for a person (or package) to travel from point A to point B in a building or in a city.
   * unit: minutes
 
+* <a name="journey-cost"></a>**$<sub>j</sub>** is a **Journey Cost**, meaning the total dollar cost of a trip, including any tolls, train fares, vehicle purchase costs, insurance payments, parking fees, etc.
+  * unit: dollars
+
 * <a name="kinematic-range"></a>**Kinematic Range<sub>t=30_minutes</sub>** is the total amount of [Floor Area](#floor-area) a person could possibly get to in a given [Journey Time](#journey-time), such as [30 minutes](#marchetti).
   * units: square feet as of minute (or square meters as of second)
 
 ### <a name="kinematic-range"></a>(2.3) Kinematic range
 
-**Kinematic range** is a measure of **mobility**. It's a measure of the capactiy and efficiency of a transportation network. Kinematic range is measured in [Floor Area](#floor-area), but it really represents the range of destinations that a person can get to. In the real world, a destination would be something like your friend's house, your dentist's office, or a library or coffee shop.
+**Kinematic range** is a measure of **mobility**. It's a measure of the capactiy and efficiency of a transportation network. Good mobility is more important than it sounds. It's not just about making rush-hour traffic a little less tiresome. Good mobility actually has significant implications for:
+  * job opportunities
+  * affordable housing
+  * economic growth & prosperity
+  * social prosperity
+
+**Kinematic range** is measured in [Floor Area](#floor-area), but it really represents the range of destinations that a person can get to. In the real world, a destination would be something like your friend's house, your dentist's office, or a library or coffee shop.
 
   * **factors:** kinematic range is a function of lots of different factors:
     * **_starting location_** &mdash; are you starting at the center of town, or out at the edge?
@@ -630,24 +639,6 @@ The only way to go "upstairs" or "downstairs" in a kinematic city is by using
 This idea sounds crazy to most people when they first hear it, because it's so different from all the normal buildings and cities that we're used to.
 
 However, if you run the numbers, and run simulations, it turns out that getting rid of elevators and stairs works out just fine. Instead of making it harder to get places, having no elevators makes it **faster** to get between any two random locations. Plus this design is greener, works better after a natural disaster, can be built more quickly, is less expensive to build, and is less expensive to maintain.
-
-
-
-## <a name="mobility"></a>TODO: Mobility
-
-To make those things easy, the city needs to provide good **[mobility](#mobility)**:
-  * safe travel from anywhere to anywhere, by anyone
-  * fast travel times
-  * cheap travel costs
-
-To provide good **mobility** the city needs to ensure:
-  * safe travel from anywhere to anywhere, by anyone
-  * fast travel times
-  * cheap travel modes
-
-Good mobility is more important than it sounds. It's not just about making rush-hour traffic a little less tiresome. Good mobility actually has significant implications for:
-  * economic prosperity
-  * social prosperity
 
 
 
