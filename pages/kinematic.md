@@ -54,14 +54,17 @@ The problems above could be greatly ameliorated by just making a handful of diff
 
 ### The market
 
-> "The amount of floorspace in buildings around the world—currently about 2.5 trillion square feet—is set to double by 2060" &mdash; Brian Bienkowski [^bienkowski]
+> "The amount of floorspace in buildings around the world—currently about 2.5 trillion square feet—is set to double by 2060"
+> &mdash; Brian Bienkowski [^bienkowski]
 
 The current market size for new city construction is large:
   * in the next 30 years, **another 2.5 billion people** will live cities
   * **120 new cities** are currently being built
   * spending is somewhere between the high hundreds of billions of dollars, and the low trillions of dollars
   * real estate development projects now operate at a scale where it is possible to complete a coordinated, monolithic, **privately financed $10 billion construction project**
-  * "_We're going to develop more urban area in the next 100 years than currently exists on Earth_" &mdash; Paul Romer
+
+> "We're going to develop more urban area in the next 100 years than currently exists on Earth_" 
+> &mdash; Paul Romer
 
 ---
 
@@ -257,19 +260,19 @@ New cities provide more space at lower cost per capita.
 New cities create value, and demand.
   * [TODO: examples]
 
-"Our biggest urban problems today—growing inequality, rampant gentrification, housing unaffordability, and increasing segregation—all have roots in the staggering cost of urban land."[^manhattan]
+> "Our biggest urban problems today—growing inequality, rampant gentrification, housing unaffordability, and increasing segregation—all have roots in the staggering cost of urban land."[^manhattan]
 
-"The developable land in Manhattan—excluding parks, roads, and highways—was worth between $1.54 and $1.95 trillion, for an average of $1.74 trillion"[^manhattan]
+* from 1950 to 2015, the value of Manhattan land grew at an annual rate of 5.5 percent beyond inflation[^manhattan]
 
-from 1950 to 2015, the value of Manhattan land grew at an annual rate of 5.5 percent beyond inflation[^manhattan]
+> "The developable land in Manhattan—excluding parks, roads, and highways—was worth between $1.54 and $1.95 trillion, for an average of $1.74 trillion"[^manhattan]
 
-"Corner lots are significantly more valuable than mid-block lots, according to the study, and lots in close proximity to Broadway, which runs the length of the island, also have higher values."[^manhattan]
+> "Corner lots are significantly more valuable than mid-block lots, according to the study, and lots in close proximity to Broadway, which runs the length of the island, also have higher values."[^manhattan]
 
-"At 305 square miles, New York City makes up only 0.008% of the total land area of the U.S., yet its $1.5tr of housing value is about 5% of the Nation-wide total. Only four states are worth more than New York City, one of which is New York State."[^metrocosm]
+> "At 305 square miles, New York City makes up only 0.008% of the total land area of the U.S., yet its $1.5tr of housing value is about 5% of the Nation-wide total. Only four states are worth more than New York City, one of which is New York State."[^metrocosm]
 
-"Manhattan‘s housing alone is worth about $733bn, which would make it the 14th most valuable state in the country. Manhattan measures only about 20 square miles, 7.5% of New York City."[^metrocosm]
+> "Manhattan‘s housing alone is worth about $733bn, which would make it the 14th most valuable state in the country. Manhattan measures only about 20 square miles, 7.5% of New York City."[^metrocosm]
 
-"What I found most striking of all was the value of some Manhattan neighborhoods. The Upper East Side, which occupies less than one square mile, has an astounding $96bn of housing value. That places it above Staten Island and the Bronx as well as above six states: New Hampshire, North Dakota, South Dakota, Vermont, Wyoming, and Alaska."[^metrocosm]
+> "What I found most striking of all was the value of some Manhattan neighborhoods. The Upper East Side, which occupies less than one square mile, has an astounding $96bn of housing value. That places it above Staten Island and the Bronx as well as above six states: New Hampshire, North Dakota, South Dakota, Vermont, Wyoming, and Alaska."[^metrocosm]
 
 > In Africa "we should be building 40 million new homes or 160 Atlantas every year. ... 
 > Africa has 54 countries. Altogether they do not build 1 million homes a year. 
