@@ -32,8 +32,8 @@ Build new cities from scratch that are specifically designed to maximize "kinema
   4. are **not safe enough**
   5. are **not resiliant** after natural disasters and power failures
   6. overly **limit mobility** of kids, elders, and people with disabilities
-  7. are staggeringly expensive to make significant changes to (for things like replacing transportation networks)
-  8. take huge amounts of time to make significant changes to
+  7. are **not quickly alterable** &mdash; making one significant change can take decades
+  8. are **not cheaply alterable** &mdash; it is staggeringly expensive to add subways or highways to an existing city
 
 ### The solution
 
