@@ -79,6 +79,7 @@ The current market size for new city construction is large:
    * [Rules of thumb](#rules-of-thumb)
    * [Units of measure](#units-of-measure)
    * [Kinematic range](#kinematic-range)
+   * [Kinematic booster effect](#kinematic-booster-effect)
 1. **[What we want](#work-better)** &mdash; things that should work better
    * [Design constraints](#design-constraints)
    * [Design goals](#design-goals)
@@ -405,6 +406,15 @@ There are a huge number of metrics that people measure cities by. We're going to
   * **Wurster Hall** is a building on the campus of the University of California, Berkeley. It's a fairly typical mid-rise building, with a normal mix of offices, meeting rooms (classrooms), and open plan work spaces. Most of the floorspace is in the wider base in the first three floors, but there's a narrower tower that's ten stories tall. The building has a total of about 225,000 square feet of floorspace, and within 2 minutes you can go between almost any two points in the building, so that's a 2-minute Kinematic Range, **KR<sub>2</sub>**, of **225,000 square feet**.
   
   * On the **UC Berkeley campus**, traveling by foot, it takes about 25 minutes to walk between two buildings at opposite ends of the main campus. If it takes another 2 minutes to get from the lobby door of a building to a top-floor room, and vice-versa, that means any two rooms on the whole campus are within a 29-minute range. If the campus has about 16 million square feet of floorspace<sup>[citation needed]</sup>, then your **KR<sub>30</sub>** would be about **16 million square feet**.  
+
+
+### <a name="kinematic-booster-effect"></a>(2.4) Kinematic booster effect
+
+[Kinematic range](#kinematic-range) almost always increases as cities get bigger. I believe that increase in kinematic range is what drives the [15% superlinear scaling](#superlinear) effect.
+
+As a city grows, at first, kinematic range increases as population increases, perhaps in a roughly linear relationship. Unfortunately, as cities get too big, they start to sprawl and suffer from traffic congestion. Eventually, there's a **kinematic lag**, where the kinematic range stops its 1-to-1 tracking of population growth, and begins to lag behind.
+
+This whole kinematic cities proposal is all about trying to reduce that kinematic lag in large cities. Our proposed kinematic city design is an attempt to keep increasing a city's kinematic range even as it's population grows in the millions.
 
 ---
 
