@@ -57,7 +57,7 @@ The current market size for new city construction is large:
     * **[Contents](#contents)** &mdash; _you are here!_
     * **[FAQ](#faq)**
 
-1. **Circumstances**
+1. Circumstances
    * **[Need](#need)** &mdash; World need for new cities
    * **[Money](#money)** &mdash; Money available for new cities
    * **[Timeframe](#precident)** &mdash; People are rapidly building new cities
@@ -66,11 +66,11 @@ The current market size for new city construction is large:
    * [Rules of thumb](#rules-of-thumb)
    * [Units of measure](#units-of-measure)
    * [Kinematic range](#kinematic-range)
-1. **[Objectives](#work-better)**
+1. **[New city objectives](#work-better)** &mdash; Things that should work better
    * [Design constraints](#design-constraints)
    * [Design goals](#design-goals)
    * [Design goal implications](#design-implications)
-1. **[Design outcomes](#design-choices)** &mdash; Making cities that work better
+1. **[Design outcomes](#design-choices)** &mdash; A design that works better
    * [Transportation design outcomes](#transportation)
    * [Spatial layout design outcomes](#spatial-layout)
    * [Elevator design outcomes](#elevator)
