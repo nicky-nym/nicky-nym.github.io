@@ -147,7 +147,7 @@ A kinematic city could have a traditional city government structure, or it could
 
 ---
 
-## <a name="need"></a>(1) The world needs new cities
+## <a name="need"></a>(1.1) The world needs new cities
 
 It is estimated that **by 2050**:
 * **68% of the world's population** will be living in cities (vs. 55% in 2018)[^growth][^mason]
@@ -181,7 +181,7 @@ As of 2018, **70 million people** were currently displaced by war, persecution a
 > &mdash; Caspar Herzberg, Schneider Electric
 
 
-## <a name="money"></a>(2) There is money available for new cities
+## <a name="money"></a>(1.2) There is money available for new cities
 
 > "The money being thrown at new cities is staggering. 
 > Saudi Arabia's King Abdullah Economic City comes at a price tag of **$100bn** (£78bn), 
@@ -194,7 +194,7 @@ As of 2018, **70 million people** were currently displaced by war, persecution a
 
 In 2019, U.S. Presidential candidate Andrew Yang called for **$40 billion** in subsidies, grants, and loans for people in coastal communities who want to either move inland or elevate their homes.[^yang]
 
-### (2.1) Large private sector projects
+### Large private sector projects
 
 In recent decades we have begun to see the private sector take on very large scale projects, without government funding.
 
@@ -208,7 +208,7 @@ Banks, real estate developers, and the construction industry are now operating a
 In the 2020s and 2030s, is will not be crazy to propose a $20 billion privately funded construction project. The project just needs to pencil out well, be low risk, and meet the needs of customers.
 
 
-## <a name="precident"></a>(3) People are rapidly building new cities
+## <a name="precident"></a>(1.3) People are rapidly building new cities
 
 More than **120 new cities** are currently being built in 40 nations around the world.[^growth]
 
@@ -221,7 +221,7 @@ Examples:
 11,000 new buildings are built every day &mdash; **4 million new buildings a year** [^metabuild]
 
 
-## <a name="cost-effective"></a>(4) Building new cities is cost-effective
+## <a name="cost-effective"></a>(1.4) Building new cities is cost-effective
 
 Projects in existing cities can be staggeringly expensive.
   * $4.5 billion for the San Francisco Transbay Transit Center & Salesforce Tower <sup>[citation needed]</sup>
@@ -262,10 +262,10 @@ from 1950 to 2015, the value of Manhattan land grew at an annual rate of 5.5 per
 > generate 5 times current GDP!"
 > &mdash; Paul Musembwa, CEO of Warp Developments
 
-## <a name="how-cities-work"></a>(5) How cities work
+## <a name="how-cities-work"></a>(2) How cities work
 
 
-### <a name="rules-of-thumb"></a>(5.1) Rules of thumb
+### <a name="rules-of-thumb"></a>(2.1) Rules of thumb
 
 * <a name="marchetti"></a>The **Marchetti constant** says that people tend to travel about one hour a day. For people that commute to a job, the average commute is about 30 minutes each way. For people who aren't commuting, it is common to spend about an hour each day on other sorts of trips: chores, errands, appointments, etc. (The Marchetti constant is named for Cesare Marchetti, although it was really Yacov Zahavi who first wrote about it.) The one-hour number seems to be surprizingly consistent across different cities in different centuries, different cultures, and different continents, regardless of the different modes of travel used to commute. The one-hour constant is believed to have held true in:
   + Ancient Rome
@@ -312,7 +312,7 @@ from 1950 to 2015, the value of Manhattan land grew at an annual rate of 5.5 per
 > &mdash; Robert Lucas, Nobel laureate in Economics 
 
 
-### <a name="units-of-measure"></a>(5.2) Units of measure
+### <a name="units-of-measure"></a>(2.2) Units of measure
 
 **population** and **land area** are examples of common physical metrics for measuring cities.
 
@@ -359,7 +359,7 @@ There are a huge number of metrics that people measure cities by. We're going to
 * <a name="kinematic-range"></a>**Kinematic Range<sub>t=30_minutes</sub>** is the total amount of [Floor Area](#floor-area) a person could possibly get to in a given [Journey Time](#journey-time), such as [30 minutes](#marchetti).
   * units: square feet as of minute (or square meters as of second)
 
-### <a name="kinematic-range"></a>(5.3) Kinematic range
+### <a name="kinematic-range"></a>(2.3) Kinematic range
 
 **Kinematic range** is a measure of the capactiy and efficiency of a transportation network. Kinematic range is measured in [Floor Area](#floor-area), but it really represents the range of destinations that a person can get to. In the real world, a destination would be something like your friend's house, your dentist's office, or a library or coffee shop.
 
@@ -383,7 +383,8 @@ There are a huge number of metrics that people measure cities by. We're going to
 
 
 
-## <a name="work-better"></a>(6) Design improvements &mdash; We can make cities that work far better
+## <a name="work-better"></a>(3) New city objectives &mdash; Things that should work better
+
 
 > "If we stick to business as usual most of it is going to be 
 > disorderly and less functional than the stuff we already have."[^growth]
@@ -397,7 +398,7 @@ There are a huge number of metrics that people measure cities by. We're going to
 > &mdash; John Macomber, senior lecturer, Harvard Business School.
 
 
-### <a name="design-constraints"></a>(6.1) Design constraints
+### <a name="design-constraints"></a>(3.1) Design constraints
 
 + engineering constraints
   - daylight available — arctic circle, seattle rain
@@ -409,7 +410,7 @@ There are a huge number of metrics that people measure cities by. We're going to
   - zoning
   - environmental review
 
-### <a name="design-goals"></a>(6.2) Design goals
+### <a name="design-goals"></a>(3.2) Design goals
 
 * **Carbon footprint.** Because climate change is a serious problem, minimizing carbon footprint needs to be a serious design goal. Carbon footprint goals include:
   * carbon footprint of travel within the city
@@ -439,9 +440,9 @@ There are a huge number of metrics that people measure cities by. We're going to
 
 * **[Equity](#equity).**
   - equal access to safe passage for everyone through all public space
-  - full mobility for women [^2]
-  - no "pink tax" for women [^1]
-  - no "trip-range" tax for women [^3]
+  - full mobility for women [^gadepalli]
+  - no "pink tax" for women [^mccasland]
+  - no "trip-range" tax for women [^gonzalez]
 
 * **[Accessibility](#accessibility).**
   - stroller-friendly buildings and stroller-friendly transportation
@@ -496,7 +497,7 @@ TODO:
    1. could be established as **charter cities**[^mason]
  ```
 
-### <a name="design-implications"></a>(6.3) Design goal implications
+### <a name="design-implications"></a>(3.3) Design goal implications
 
   
 #### <a name="airiness"></a>airiness &mdash; sun, air, trees
@@ -533,9 +534,9 @@ TODO:
 |                              | don't squander floor space | avoid redundant hallways, stairs, or elevators <br> no empty rooftops
 
 
-## <a name="design-choices"></a>(7) Design choices
+## <a name="design-choices"></a>(4) Design outcomes
 
-### <a name="transportation"></a>(7.1) Transportation design choices
+### <a name="transportation"></a>(4.1) Transportation design
 
 A kinematic city has:
   * **no cars** within city limits
@@ -580,7 +581,7 @@ Instead, we have
     * skateboards & electric skateboards
     * little delivery robots
 
-### <a name="spatial-layout"></a>(7.2) Spatial layout design choices
+### <a name="spatial-layout"></a>(4.2) Spatial layout
 
 A kinematic city has:
   * no single-story ranch houses and no other single-story buildings
@@ -595,7 +596,7 @@ Instead, we have:
   * roads with narrow lanes for narrow vehicles
   * density of [TODO]
 
-### <a name="elevator"></a>(7.3) Elevator design choices
+### <a name="elevator"></a>(4.3) Elevator design
 
 A kinematic city has:
   * **no elevators**
@@ -647,12 +648,6 @@ Improved mobility results from unconventional design choices:
 
 
 
-
-#### References
-[^1]: [Improving Urban Mobility for Women](https://newcities.org/the-big-picture-cities-foster-equity-by-improving-urban-mobility-for-women/)
-[^2]: "Even though women comprise nearly half of the population, it is surprising they account for less than one in five trips made in Indian cities." [Shreya Gadepalli: March 8, 2019](https://newcities.org/delhithe-big-picture-will-improve-women-get-move/)
-[^3]: "Evidence from Argentina shows that on average men and women’s commute time is roughly the same, but women travel at slower speeds and cover shorter distances." [Karla Dominguez Gonzalez: March 8, 2019](https://newcities.org/the-big-picture-transport-is-not-gender-neutral-womens-mobility-and-accessibility-for-better-economic-opportunities/)
-
 ---
 
 ## Glossary
@@ -685,8 +680,13 @@ Improved mobility results from unconventional design choices:
   * there have been SEZs since the 1950s, and there are now thousands of SEZs around the world[^mason]
 
 
-
 ## References
+
+[^mccasland]: ["Cities Foster Equity by Improving Urban Mobility for Women"](https://newcities.org/the-big-picture-cities-foster-equity-by-improving-urban-mobility-for-women/). Hannah McCasland, _NewCities_. 8 March, 2019.
+
+[^gadepalli]: "Even though women comprise nearly half of the population, it is surprising they account for less than one in five trips made in Indian cities." ["Delhi Will Improve When Women Get to Move"](https://newcities.org/delhithe-big-picture-will-improve-women-get-move/). Shreya Gadepalli, _NewCities_. 8 March, 2019.
+
+[^gonzalez]: "Evidence from Argentina shows that on average men and women’s commute time is roughly the same, but women travel at slower speeds and cover shorter distances." ["Transport is Not Gender Neutral"](https://newcities.org/the-big-picture-transport-is-not-gender-neutral-womens-mobility-and-accessibility-for-better-economic-opportunities/) Karla Dominguez Gonzalez, _NewCities_. 8 March, 2019.
 
 [^mason]: ["The Case for Charter Cities Within the Effective Altruist Framework"](https://assets.website-files.com/5d253237e31f051057dc0a2b/5d88effe42420361c5e0c3c2_The%20Case%20for%20Charter%20Cities%20Within%20the%20Effective%20Altruist%20Framework.pdf). Jeffrey Mason, _Charter Cities Institute_. Sept 2019.
 
