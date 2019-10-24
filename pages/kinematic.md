@@ -427,7 +427,7 @@ There are a huge number of metrics that people measure cities by. We're going to
 + [affordablity](#affordablity)
    - readily available housing
    - affordabability at market prices, without subsidies or rent control
-+ [propinquity](#propinquity) &mdash; everything within 30 minutes
++ [kinematic range](#kinematic-range) &mdash; everything within 30 minutes
   - school & work
   - friends & family
   - groceries & restaurants
