@@ -3,7 +3,7 @@ permalink: /kinematic/
 ---
 # Kinematic Cities
 
-<span style="font-size:24pt;">a 2019 recipe for designing <span style="color:#DF4911;">kinematic</span><sup style="font-size:12pt;"><a href="#kinematic">?</a></sup> cities</span>
+<span style="font-size:24pt;">a 2019 design <span style="color:#DF4911;">kinematic</span><sup style="font-size:12pt;"><a href="#kinematic">?</a></sup> cities</span>
 
 ---
 
