@@ -77,7 +77,7 @@ The current market size for new city construction is large:
    * [Rules of thumb](#rules-of-thumb)
    * [Units of measure](#units-of-measure)
    * [Kinematic range](#kinematic-range)
-1. **[New city objectives](#work-better)** &mdash; things that should work better
+1. **[What we want](#work-better)** &mdash; things that should work better
    * [Design constraints](#design-constraints)
    * [Design goals](#design-goals)
    * [Design goal implications](#design-implications)
