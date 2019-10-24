@@ -410,11 +410,23 @@ There are a huge number of metrics that people measure cities by. We're going to
 
 ### <a name="kinematic-booster-effect"></a>(2.4) Kinematic booster effect
 
+This next section is conjectural, so please evaluate it more skeptically.
+
 [Kinematic range](#kinematic-range) almost always increases as cities get bigger. I believe that increase in kinematic range is what drives the [15% superlinear scaling](#superlinear) effect.
 
 As a city grows, at first, kinematic range increases as population increases, perhaps in a roughly linear relationship. Unfortunately, as cities get too big, they start to sprawl and suffer from traffic congestion. Eventually, there's a **kinematic lag**, where the kinematic range stops its 1-to-1 tracking of population growth, and begins to lag behind.
 
-This whole kinematic cities proposal is all about trying to reduce that kinematic lag in large cities. Our proposed kinematic city design is an attempt to keep increasing a city's kinematic range even as it's population grows in the millions.
+This whole kinematic cities proposal is all about trying to reduce that kinematic lag in larger cities. The proposed kinematic city design is an attempt to keep increasing a city's kinematic range even as it's population grows in the millions.
+
+Take the **San Francisco Bay Area** as an example. The Bay Area is a conurbation that encompasses major cities like San Francisco and San Jose, as well as lots of smaller cities, like Oakland, Berkeley, and Mountain View. The entire population is about 8 billion people, depending where you draw the boundaries. 
+
+If you estimate floorspace at about 6,500 square feet per person, that means there's about 52 trillion square feet of floorspace in the Bay Area. Your **KR<sub>30</sub>** would be **52 trillion square feet**, if you could magically get from any point in the area to any other point in under 30 minutes. But you can't.
+
+As a rough estimate, let's say that from any room in a random building in the Bay Area, within 30 minutes you can reach about one quarter of the other buildings in the Bay Area. That means your actual **KR<sub>30</sub>** would be about **13 trillion square feet**.
+
+If we could just improve your travel times, we could quadruple your **KR<sub>30</sub>** range. If kinematic range is in fact what drives the [15% superlinear scaling](#superlinear) effect, then doubling the **KR<sub>30</sub>** for the Bay Area would yield a 15% windfall in average hourly wages, patents per capita, GDP, etc. Doubling **KR<sub>30</sub>** gets you a 15% windfall, and quadrupling gets you a 30% windfall (actually more like 32%, because 1.15^2 is 1.3225).
+
+The San Francisco Bay Area GDP was about $535 billion in 2019.[^facc]  A 30% increase would be an additional $160 billion of GDP annually.
 
 ---
 
@@ -695,6 +707,8 @@ What we hope to get out of this
 * _[Velotopia](https://www.nai010.com/en/publicaties/velotopia/130528)_, by Steven Fleming
 
 ## References
+
+[^facc]: ["Key Facts"](https://www.faccsf.com/info/key-facts.html). _French American Chamber of Commerce_.
 
 [^mccasland]: ["Cities Foster Equity by Improving Urban Mobility for Women"](https://newcities.org/the-big-picture-cities-foster-equity-by-improving-urban-mobility-for-women/). Hannah McCasland, _NewCities_. 8 March, 2019.
 
