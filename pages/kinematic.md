@@ -567,9 +567,10 @@ A kinematic city has:
     * no personal rapid transit, pods, people movers, or things with fixed stops
 
 Instead, we have
-  * rain-sheltered pedestrian sidewalks
-  * rain-sheltered bike lanes
-  * **SLUSHI<sup>[sic]</sup> vehicles** &mdash; Skinny Lightweight Underpowered Slow Indoor Habitrail vehicles
+  * Habitrails<sup>TM</sup>
+    * rain-sheltered pedestrian sidewalks
+    * rain-sheltered bike lanes
+  * **SLUSHI<sup>[sic]</sup> vehicles** &mdash; Skinny Lightweight Underpowered Slow Indoor Habitrail<sup>TM</sup> vehicles
     * scooters
     * bicycles
     * mopeds (electric)
@@ -579,7 +580,7 @@ Instead, we have
     * segways
     * hoverboards
     * skateboards & electric skateboards
-    * little delivery robots
+    * cute little delivery robots
 
 ### <a name="spatial-layout"></a>(4.2) Spatial layout
 
@@ -636,15 +637,6 @@ Improved mobility results from unconventional design choices:
   * **[geometry choices](#geometry)**: the size and shape of city features &mdash; building heights, block sizes, and street lane widths
   * **[elevator choices](#elevator)**: stairs, elevators, and escalators vs. flights of wheelchair ramps
 
-
-
----
-
-## TODO: work in progress
-
-
-
-  
 
 
 
