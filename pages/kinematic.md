@@ -281,6 +281,12 @@ from 1950 to 2015, the value of Manhattan land grew at an annual rate of 5.5 per
 
 * <a name="induced-demand"></a>**Induced demand** says that as the supply of a resource increases, more of it will be consumed. If you add a new lane to a congested highway, it does not reduce congestion, but instead increases the total number of trips made. **Induced demand** might be better described as **latent demand**. The demand was actually there all along, there was just a lack of supply to meet the demand. The concept of **induced demand** is often used as an argument against increasing roadway traffic capacity. I think this is misguided. The existance of latent demand is a sign that we should be striving to increase the supply of transportation capacity, and increase [Kinematic Range](#kinematic-range).
 
+* <a name="feedback-loops"></a>**Feedback loops** will cause either vicious cycles and virtuous cycles in the amount of land area required for roads or other transportation networks.
+  * Suburban vicious cycle
+    * Suburban sprawl  ➔  longer roads  ➔  more circulation overhead
+  * Urban virtuous cycle
+    * Dense urban core  ➔  shorter distances  ➔  less overhead
+
 * <a name="superlinear"></a>**15% superlinear scaling** is the phenomenon where if a city population grows by 100% (meaning it doubles in population size), then the economy of the city tends to grow by about 115% (meaning it more than doubles in size), so that there is effectively a 15% "bonus" in per-capita economic output for everyone in the city. This 15% superlinear growth seems to apply to the whole physical and social metabolism of the city, rather than just the economic aspects of the city. The 15% surplus shows up in statistics about:
   * wages
   * wealth
@@ -634,19 +640,6 @@ Improved mobility results from unconventional design choices:
 | | | exam rooms
 |---
 
-### Circulation overhead
-
-```
-<------------------------------- Manhattan city block ---------------------------->
-
-<------------------- buildings ----------------------------><--   streets &     -->
-<--                                                      --><--   sidewalks     -->
-<--              70% of land area                        --><--  30% land area  -->
-
-<-- rooms like offices and apartments  --><-- hallways   -->
-<--                                    --><-- stairs...  -->
-<--          70% of floor area         --><--    30%     -->
-
 ### Constraints
 
 + engineering constraints
@@ -659,17 +652,6 @@ Improved mobility results from unconventional design choices:
   - zoning
   - environmental review
   
-
-
-#### Suburban vicious cycle
-
-Suburban sprawl  ➔  longer roads  ➔  more circulation overhead
-
-#### Urban virtuous cycle
-
-Dense urban core  ➔  shorter distances  ➔  less overhead
-
-
 
 
 
