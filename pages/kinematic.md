@@ -14,7 +14,8 @@ permalink: /kinematic/
  1. People are **[rapidly building new cities](#precident)**.
  1. Cities can be a **[cost-effective](#cost-effective)** way to pull people out of poverty, bring economic growth, and meet basic needs.
  1. We understand a lot about **[how cities work](#how-cities-work)**.
- 1. We could make new **[cities that work better](#work-better)** for everyone, by making significantly better design choices.
+ 1. We **[want better cities](#wants)** for everyone.
+ 1. We can make **[better design choices](#work-better)**, to make better-working cities.
 
 ### The proposal
 
@@ -70,10 +71,10 @@ The current market size for new city construction is large:
    * [Design constraints](#design-constraints)
    * [Design goals](#design-goals)
    * [Design goal implications](#design-implications)
-1. **[Design outcomes](#design-choices)** &mdash; a design that works better
-   * [Transportation design outcomes](#transportation)
-   * [Spatial layout design outcomes](#spatial-layout)
-   * [Elevator design outcomes](#elevator)
+1. **[Design proposal](#design-choices)** &mdash; a design that works better
+   * [Transportation proposal](#transportation)
+   * [Spatial layout proposal](#spatial-layout)
+   * [Elevator proposal](#elevator)
 
 ---
 ## <a name="faq"></a>FAQ: Frequently Asked Questions
