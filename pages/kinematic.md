@@ -374,7 +374,7 @@ There are a huge number of metrics that people measure cities by. We're going to
 
 ### <a name="kinematic-range"></a>(2.3) Kinematic range
 
-**Kinematic range** is a measure of the capactiy and efficiency of a transportation network. Kinematic range is measured in [Floor Area](#floor-area), but it really represents the range of destinations that a person can get to. In the real world, a destination would be something like your friend's house, your dentist's office, or a library or coffee shop.
+**Kinematic range** is a measure of **mobility**. It's a measure of the capactiy and efficiency of a transportation network. Kinematic range is measured in [Floor Area](#floor-area), but it really represents the range of destinations that a person can get to. In the real world, a destination would be something like your friend's house, your dentist's office, or a library or coffee shop.
 
   * **factors:** kinematic range is a function of lots of different factors:
     * **_starting location_** &mdash; are you starting at the center of town, or out at the edge?
