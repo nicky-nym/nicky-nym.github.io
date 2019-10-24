@@ -267,7 +267,7 @@ from 1950 to 2015, the value of Manhattan land grew at an annual rate of 5.5 per
 ## <a name="how-cities-work"></a>(5) How cities work
 
 
-### <a name="rules-of-thumb"></a>Rules of thumb
+### <a name="rules-of-thumb"></a>(5.1) Rules of thumb
 
 * <a name="marchetti"></a>The **Marchetti constant** says that people tend to travel about one hour a day. For people that commute to a job, the average commute is about 30 minutes each way. For people who aren't commuting, it is common to spend about an hour each day on other sorts of trips: chores, errands, appointments, etc. (The Marchetti constant is named for Cesare Marchetti, although it was really Yacov Zahavi who first wrote about it.) The one-hour number seems to be surprizingly consistent across different cities in different centuries, different cultures, and different continents, regardless of the different modes of travel used to commute. The one-hour constant is believed to have held true in:
   + Ancient Rome
@@ -308,7 +308,7 @@ from 1950 to 2015, the value of Manhattan land grew at an annual rate of 5.5 per
 > &mdash; Robert Lucas, Nobel laureate in Economics 
 
 
-### <a name="units-of-measure"></a>Units of measure
+### <a name="units-of-measure"></a>(5.2) Units of measure
 
 **population** and **land area** are examples of common physical metrics for measuring cities.
 
@@ -324,6 +324,10 @@ There are a huge number of metrics that people measure cities by. We're going to
 
 * <a name="floor-area"></a>**Floor Area** is the amount of floorspace in a building, including the floorspace on all the different floors of a multi-story building.
   * unit: square feet (or square meters)
+
+* <a name="population-density"></a>**Population Density** usually means the number of people per [Land Area](#land-area). Alternatively, you can also think about density in terms of [Floor Area](#floor-area) per person.
+  * unit: people per square mile
+  * unit: square feet per person
 
 * <a name="far-parcel"></a>**FAR<sub>parcel</sub>** is the **Floor Area Ratio** for a building on a parcel, meaning the ratio of [Floor Area](#floor-area) to [Parcel Area](#parcel-area).
 * <a name="far-overall"></a>**FAR<sub>overall</sub>** is the **Floor Area Ratio** for a neighborhood of a city, meaning the ratio of the total [Floor Area](#floor-area) of all the buildings to the total [Land Area](#land-area) of the neighborhood, including all the land area used for streets and sidewalks and parks, as well as the land area of all the [Parcel Area](#parcel-area).
@@ -350,7 +354,7 @@ There are a huge number of metrics that people measure cities by. We're going to
 * <a name="kinematic-range"></a>**Kinematic Range<sub>t=30_minutes</sub>** is the total amount of [Floor Area](#floor-area) a person could possibly get to in a given [Journey Time](#journey-time), such as [30 minutes](#marchetti).
   * units: square feet as of minute (or square meters as of second)
 
-### <a name="kinematic-range"></a>Kinematic range
+### <a name="kinematic-range"></a>(5.3) Kinematic range
 
 **Kinematic range** is a measure of the capactiy and efficiency of a transportation network. Kinematic range is measured in [Floor Area](#floor-area), but it really represents the range of destinations that a person can get to. In the real world, a destination would be something like your friend's house, your dentist's office, or a library or coffee shop.
 
@@ -387,7 +391,7 @@ There are a huge number of metrics that people measure cities by. We're going to
 > regulations and rules."[^growth]
 > &mdash; John Macomber, senior lecturer, Harvard Business School.
 
-### <a name="design-goals"></a>Design goals
+### <a name="design-goals"></a>(6.1) Design goals
 
 * **Carbon footprint.** Because climate change is a serious problem, minimizing carbon footprint needs to be a serious design goal. Carbon footprint goals include:
   * carbon footprint of travel within the city
@@ -416,7 +420,7 @@ There are a huge number of metrics that people measure cities by. We're going to
 > center – an alternative capital city in case a disaster strikes Manila"[^new-clark]
 
 
-### <a name="transportation"></a>Transportation design choices
+### <a name="transportation"></a>(6.2) Transportation design choices
 
 A kinematic city has:
   * **no cars** within city limits
@@ -460,7 +464,7 @@ Instead, we have
     * hoverboards
     * skateboards & electric skateboards
 
-### <a name="spatial-layout"></a>Spatial layout design choices
+### <a name="spatial-layout"></a>(6.3) Spatial layout design choices
 
 A kinematic city has:
   * no single-story ranch houses and no other single-story buildings
@@ -475,7 +479,7 @@ Instead, we have:
   * roads with narrow lanes for narrow vehicles
   * density of [TODO]
 
-### <a name="elevator"></a>Elevator design choices
+### <a name="elevator"></a>(6.4) Elevator design choices
 
 A kinematic city has:
   * **no elevators**
@@ -579,11 +583,6 @@ Improved mobility results from unconventional design choices:
   - environmental review
   
 
-### Density
-
-Floor space per square mile — Floor Area Ratio (FAR)
-x People per square foot
-= People per square mile
 
 #### Suburban vicious cycle
 
