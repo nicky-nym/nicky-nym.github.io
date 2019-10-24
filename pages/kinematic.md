@@ -43,17 +43,20 @@ Build new cities from scratch that are specifically designed to maximize "kinema
 ### The solution
 
 The problems above could be greatly ameliorated by just making a handful of different design choices in a new city project:
-  * **[transportation choices](#transportation)**: what vehicles to use to move people and packages &mdash; cars and trucks vs. small low-power vehicles
-  * **[spatial layout choices](#spatial-layout)**: the size and shape of city features &mdash; building heights, block sizes, and street lane widths
-  * **[elevator choices](#elevator)**: stairs, elevators, and escalators vs. flights of wheelchair ramps
+  * **[transportation choices](#transportation)**
+    * what vehicles to use to move people and packages &mdash; cars and trucks vs. small low-power vehicles
+  * **[spatial layout choices](#spatial-layout)**
+    * the size and shape of city features &mdash; building heights, block sizes, and street lane widths
+  * **[elevator choices](#elevator)**
+    * stairs, elevators, and escalators vs. flights of wheelchair ramps
 
 ### The market
 
 The current market size for new city construction is large:
-  * in the next 30 years, another 2.5 billion people will live cities
-  * 120 new cities are currently being built
+  * in the next 30 years, **another 2.5 billion people** will live cities
+  * **120 new cities** are currently being built
   * spending is somewhere between the high hundreds of billions of dollars, and the low trillions of dollars
-  * privately financed real estate developments projects are now being completed at the scale of over $10 billion for a single construction project
+  * real estate development projects now operate at a scale where it is possible to complete a coordinated, monolithic, **privately financed $10 billion construction project**
   * "_We're going to develop more urban area in the next 100 years than currently exists on Earth_" &mdash; Paul Romer
 
 ---
