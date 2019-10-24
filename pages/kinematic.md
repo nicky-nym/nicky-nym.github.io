@@ -81,8 +81,8 @@ The current market size for new city construction is large:
    * [Kinematic range](#kinematic-range)
    * [Kinematic booster effect](#kinematic-booster-effect)
 1. **[What we want](#work-better)** &mdash; things that should work better
-   * [Design constraints](#design-constraints)
    * [Design goals](#design-goals)
+   * [Design constraints](#design-constraints)
    * [Design goal implications](#design-implications)
 1. **[Design proposal](#design-choices)** &mdash; a design that works better
    * [Transportation proposal](#transportation)
@@ -435,19 +435,7 @@ This whole kinematic cities proposal is all about trying to reduce that kinemati
 > &mdash; John Macomber, senior lecturer, Harvard Business School.
 
 
-### <a name="design-constraints"></a>(3.1) Design constraints
-
-+ engineering constraints
-  - daylight available — arctic circle, seattle rain
-  - transportation modes available — hyperloop, flying cars
-+ market constraints
-  - construction costs
-  - land prices
-+ civic constraints
-  - zoning
-  - environmental review
-
-### <a name="design-goals"></a>(3.2) Design goals
+### <a name="design-goals"></a>(3.1) Design goals
 
 * **Carbon footprint.** Because climate change is a serious problem, minimizing carbon footprint needs to be a serious design goal. Carbon footprint goals include:
   * carbon footprint of travel within the city
@@ -513,6 +501,18 @@ This whole kinematic cities proposal is all about trying to reduce that kinemati
 > "Because its location and design were deliberately chosen to withstand natural calamities, 
 > New Clark City will serve as the government’s continuity hub, disaster and risk recovery 
 > center – an alternative capital city in case a disaster strikes Manila"[^new-clark]
+
+### <a name="design-constraints"></a>(3.2) Design constraints
+
++ engineering constraints
+  - daylight available — arctic circle, seattle rain
+  - transportation modes available — hyperloop, flying cars
++ market constraints
+  - construction costs
+  - land prices
++ civic constraints
+  - zoning
+  - environmental review
 
 
 
