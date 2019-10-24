@@ -73,6 +73,7 @@ The current market size for new city construction is large:
        * [Kinematic range](#kinematic-range)
     1. **[Design improvements](#work-better)** &mdash; Making cities that work better
        * [Design goals](#design-goals)
+       * [Design goal implications](#design-implications)
        * [Transportation design choices](#transportation)
        * [Spatial layout design choices](#spatial-layout)
        * [Elevator design choices](#elevator)
@@ -419,8 +420,100 @@ There are a huge number of metrics that people measure cities by. We're going to
 > New Clark City will serve as the government’s continuity hub, disaster and risk recovery 
 > center – an alternative capital city in case a disaster strikes Manila"[^new-clark]
 
++ [airiness](#airiness)
+  - nearby parks and trees
+  - fresh air
+  - sunlight
++ [affordablity](#affordablity)
+   - readily available housing
+   - affordabability at market prices, without subsidies or rent control
++ [propinquity](#propinquity) &mdash; everything within 30 minutes
+  - school & work
+  - friends & family
+  - groceries & restaurants
+  - yoga & gym
+  - dentist & doctors 
+  - libraries & museums
+  - long tail destinations (aka _That One Unusual Thing_ that most people wouldn't care about, but that you really want to go to)
+    - a monthly Renaissance Faire meetup
+    - a weekly Burning Man art car workshop
+    - a maker space with an Atomic Force Microscope
+    - etc.
++ [equity](#equity)
+  - safe passage for everyone through all public space
+  - with full mobility for women [^2]
+  - no "pink tax" for women [^1]
+  - no "trip-range" tax for women [^3]
++ [accessibility](#accessibility)
+  - stroller-friendly buildings and stroller-friendly transportation
+  - wheelchair accessible routes in every building
+  - predictable navigation for people with limited vision
+  - frequent pathside seating for elderly people
++ [safety](#safety)
+  - freedom from harassment
+  - safe enough that parents can opt to have "free-range children" who explore the city on their own
+  - no traffic accident deaths
+  - no fire-related deaths
+  - fast response to 911 calls
 
-### <a name="transportation"></a>(6.2) Transportation design choices
+```
+TODO:
+* a kinematic city: 
+   1. should have **less traffic** congestion
+   1. should have **more commute destinations**
+   1. should **[thrive economically](#economics)** compared to similarly-sized normal cities
+   1. should have **better air quality**
+   1. should be **more affordable** to build than conventional cities
+   1. should have **lower operating costs**
+   1. should have **lower housing costs**, and potentially **no homelessness**
+   1. should be **safer** and more fun to live in
+   1. should have **better accessibility**
+   1. should be more **kid-friendly**
+   1. should be more **elder-friendly**
+   1. should have a **smaller carbon footprint** per capita
+   1. should be **more resiliant** after a natural disaster or other emergency
+   1. could be established as **charter cities**[^mason]
+ ```
+
+### <a name="design-implications"></a>(6.2) Design goal implications
+
+  
+#### <a name="airiness"></a>airiness &mdash; sun, air, trees
+
+|---
+|  | **Design implications** | **Examples**
+|:-:|:-:|:-
+|  | maximize "trees passed per day" | place trees along circulation paths <br> make living walls
+|                 | provide fresh air               | no diesel busses <br> no gas-powered motorcycles <br> use windows that open <br> pick a mild climate to build in
+|                 | provide daylight and sunshine   | design for daylighting <br> don't build too far north
+|---
+
+#### affordablity
+
+|---
+|  | **Design implications** | **Examples**
+|:-:|:-:|:-
+|  | keep construction costs down       | use conventional construction techniques <br> no skyscrapers (expensive per square foot) <br> no elevators (at $100,000+ each) <br> strive for economies of scale 
+|               | keep land costs low                | pick an inexpensive site <br> maximize Floor Area Ratio (FAR), or floor space per square mile 
+|               | keep developer financing costs low | use tight construction timelines <br> avoid planning and permitting delays <br> avoid big risks <br> minimize vacancy <br> produce revenue early on <br> do "just-in-time" production of square footage
+|               | keep transportation costs down     | keep everything close <br> no automobiles (at $20,000+ each) <br> no busses (at $500,000 each, or $8,000+ per passenger seat) <br> no subway cars (at $10,000+ per passenger seat) <br> no subway tunnels (at $100,000,000+ per mile) 
+|               | keep HVAC costs down               | pick a mild climate to build in <br> use windows that open <br> use ventilation chimneys
+|               | keep lighting costs down           | design for good daylighting with careful window and skylight placement
+|               | prevent real estate speculation    | pick an unconventional city land ownership model 
+
+#### <a name="propinquity"></a>propinquity &mdash; everything within 30 minutes
+
+|---
+|  | **Design implications** | **Examples**
+|:-:|:-:|:-
+|  | keep everything close      | maximize the amount of usable floor area within 30 minutes of this floor area
+|                              | keep traffic flowing       | no stop lights <br> no multi-lane traffic circles
+|                              | don't squander land area   | no single-story buildings <br> no parking spaces <br> no private suburban lawns <br> use 4 or 5 foot wide lanes, not 10 or 12 foot wide lines
+|                              | don't squander floor space | avoid redundant hallways, stairs, or elevators <br> no empty rooftops
+
+
+
+### <a name="transportation"></a>(6.3) Transportation design choices
 
 A kinematic city has:
   * **no cars** within city limits
@@ -464,7 +557,7 @@ Instead, we have
     * hoverboards
     * skateboards & electric skateboards
 
-### <a name="spatial-layout"></a>(6.3) Spatial layout design choices
+### <a name="spatial-layout"></a>(6.4) Spatial layout design choices
 
 A kinematic city has:
   * no single-story ranch houses and no other single-story buildings
@@ -479,7 +572,7 @@ Instead, we have:
   * roads with narrow lanes for narrow vehicles
   * density of [TODO]
 
-### <a name="elevator"></a>(6.4) Elevator design choices
+### <a name="elevator"></a>(6.5) Elevator design choices
 
 A kinematic city has:
   * **no elevators**
@@ -496,24 +589,6 @@ This idea sounds crazy to most people when they first hear it, because it's so d
 
 However, if you run the numbers, and run simulations, it turns out that getting rid of elevators and stairs works out just fine. Instead of making it harder to get places, having no elevators makes it **faster** to get between any two random locations. Plus this design is greener, works better after a natural disaster, can be built more quickly, is less expensive to build, and is less expensive to maintain.
 
-```
-TODO:
-* a kinematic city: 
-   1. should have **less traffic** congestion
-   1. should have **more commute destinations**
-   1. should **[thrive economically](#economics)** compared to similarly-sized normal cities
-   1. should have **better air quality**
-   1. should be **more affordable** to build than conventional cities
-   1. should have **lower operating costs**
-   1. should have **lower housing costs**, and potentially **no homelessness**
-   1. should be **safer** and more fun to live in
-   1. should have **better accessibility**
-   1. should be more **kid-friendly**
-   1. should be more **elder-friendly**
-   1. should have a **smaller carbon footprint** per capita
-   1. should be **more resiliant** after a natural disaster or other emergency
-   1. could be established as **charter cities**[^mason]
- ```
 
 
 ## <a name="mobility"></a>TODO: Mobility
@@ -595,78 +670,6 @@ Dense urban core  ➔  shorter distances  ➔  less overhead
 
 
 
-### Goals
-
-+ [airiness](#airiness)
-  - nearby parks and trees
-  - fresh air
-  - sunlight
-+ [affordablity](#affordablity)
-   - readily available housing
-   - affordabability at market prices, without subsidies or rent control
-+ [propinquity](#propinquity) &mdash; everything within 30 minutes
-  - school & work
-  - friends & family
-  - groceries & restaurants
-  - yoga & gym
-  - dentist & doctors 
-  - libraries & museums
-  - long tail destinations (aka _That One Unusual Thing_ that most people wouldn't care about, but that you really want to go to)
-    - a monthly Renaissance Faire meetup
-    - a weekly Burning Man art car workshop
-    - a maker space with an Atomic Force Microscope
-    - etc.
-+ [equity](#equity)
-  - safe passage for everyone through all public space
-  - with full mobility for women [^2]
-  - no "pink tax" for women [^1]
-  - no "trip-range" tax for women [^3]
-+ [accessibility](#accessibility)
-  - stroller-friendly buildings and stroller-friendly transportation
-  - wheelchair accessible routes in every building
-  - predictable navigation for people with limited vision
-  - frequent pathside seating for elderly people
-+ [safety](#safety)
-  - freedom from harassment
-  - safe enough that parents can opt to have "free-range children" who explore the city on their own
-  - no traffic accident deaths
-  - no fire-related deaths
-  - fast response to 911 calls
-
-  
-  
-#### <a name="airiness"></a>airiness &mdash; sun, air, trees
-
-|---
-|  | **Design implications** | **Examples**
-|:-:|:-:|:-
-|  | maximize "trees passed per day" | place trees along circulation paths <br> make living walls
-|                 | provide fresh air               | no diesel busses <br> no gas-powered motorcycles <br> use windows that open <br> pick a mild climate to build in
-|                 | provide daylight and sunshine   | design for daylighting <br> don't build too far north
-|---
-
-#### affordablity
-
-|---
-|  | **Design implications** | **Examples**
-|:-:|:-:|:-
-|  | keep construction costs down       | use conventional construction techniques <br> no skyscrapers (expensive per square foot) <br> no elevators (at $100,000+ each) <br> strive for economies of scale 
-|               | keep land costs low                | pick an inexpensive site <br> maximize Floor Area Ratio (FAR), or floor space per square mile 
-|               | keep developer financing costs low | use tight construction timelines <br> avoid planning and permitting delays <br> avoid big risks <br> minimize vacancy <br> produce revenue early on <br> do "just-in-time" production of square footage
-|               | keep transportation costs down     | keep everything close <br> no automobiles (at $20,000+ each) <br> no busses (at $500,000 each, or $8,000+ per passenger seat) <br> no subway cars (at $10,000+ per passenger seat) <br> no subway tunnels (at $100,000,000+ per mile) 
-|               | keep HVAC costs down               | pick a mild climate to build in <br> use windows that open <br> use ventilation chimneys
-|               | keep lighting costs down           | design for good daylighting with careful window and skylight placement
-|               | prevent real estate speculation    | pick an unconventional city land ownership model 
-
-#### <a name="propinquity"></a>propinquity &mdash; everything within 30 minutes
-
-|---
-|  | **Design implications** | **Examples**
-|:-:|:-:|:-
-|  | keep everything close      | maximize the amount of usable floor area within 30 minutes of this floor area
-|                              | keep traffic flowing       | no stop lights <br> no multi-lane traffic circles
-|                              | don't squander land area   | no single-story buildings <br> no parking spaces <br> no private suburban lawns <br> use 4 or 5 foot wide lanes, not 10 or 12 foot wide lines
-|                              | don't squander floor space | avoid redundant hallways, stairs, or elevators <br> no empty rooftops
 
 
 #### References
