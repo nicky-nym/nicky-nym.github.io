@@ -52,33 +52,27 @@ The current market size for new city construction is large:
 
 ## Contents
 
-  * **[Summary](#summary)**
-
-  * **[Contents](#contents)** &mdash; _you are here!_
-
-  * **[FAQ](#faq)**
-
-  * Briefs:
-    1. **[Need](#need)** &mdash; World need for new cities
-  
-    1. **[Money](#money)** &mdash; Money available for new cities
-  
-    1. **[Timeframe](#precident)** &mdash; People are rapidly building new cities
-  
-    1. **[Cost-effectiveness](#cost-effective)**
-  
-    1. **[How cities work](#how-cities-work)**
-       * [Rules of thumb](#rules-of-thumb)
-       * [Units of measure](#units-of-measure)
-       * [Kinematic range](#kinematic-range)
-    1. **[Design goals](#work-better)**
-       * [Design constraints](#design-constraints)
-       * [Design goals](#design-goals)
-       * [Design goal implications](#design-implications)
-    1. **[Design choices](#design-choices)** &mdash; Making cities that work better
-       * [Transportation design choices](#transportation)
-       * [Spatial layout design choices](#spatial-layout)
-       * [Elevator design choices](#elevator)
+  * Preface
+    * **[Summary](#summary)**
+    * **[Contents](#contents)** &mdash; _you are here!_
+    * **[FAQ](#faq)**
+  1. **Circumstances**
+     * **[Need](#need)** &mdash; World need for new cities
+     * **[Money](#money)** &mdash; Money available for new cities
+     * **[Timeframe](#precident)** &mdash; People are rapidly building new cities
+     * **[Cost-effectiveness](#cost-effective)**
+  1. **[How cities work](#how-cities-work)**
+     * [Rules of thumb](#rules-of-thumb)
+     * [Units of measure](#units-of-measure)
+     * [Kinematic range](#kinematic-range)
+  1. **[Objectives](#work-better)**
+     * [Design constraints](#design-constraints)
+     * [Design goals](#design-goals)
+     * [Design goal implications](#design-implications)
+  1. **[Design outcomes](#design-choices)** &mdash; Making cities that work better
+     * [Transportation design outcomes](#transportation)
+     * [Spatial layout design outcomes](#spatial-layout)
+     * [Elevator design outcomes](#elevator)
 
 ---
 ## <a name="faq"></a>FAQ: Frequently Asked Questions
