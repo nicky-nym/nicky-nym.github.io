@@ -676,6 +676,13 @@ What we hope to get out of this
   * a part of a country in which the business and trade laws are different from the rest of the country[^sez]
   * there have been SEZs since the 1950s, and there are now thousands of SEZs around the world[^mason]
 
+## Further Reading
+
+* _[Carfree Cities](http://www.carfree.com/book/)_, by J.H. Crawford
+
+* _[Order without Design](https://mitpress.mit.edu/books/order-without-design): How Markets Shape Cities_, by Alain Bertaud
+
+* _[Velotopia](https://www.nai010.com/en/publicaties/velotopia/130528)_, by Steven Fleming
 
 ## References
 
