@@ -273,6 +273,8 @@ from 1950 to 2015, the value of Manhattan land grew at an annual rate of 5.5 per
 > generate 5 times current GDP!"
 > &mdash; Paul Musembwa, CEO of Warp Developments
 
+---
+
 ## <a name="how-cities-work"></a>(2) How cities work
 
 
@@ -391,6 +393,8 @@ There are a huge number of metrics that people measure cities by. We're going to
   * **Wurster Hall** is a building on the campus of the University of California, Berkeley. It's a fairly typical mid-rise building, with a normal mix of offices, meeting rooms (classrooms), and open plan work spaces. Most of the floorspace is in the wider base in the first three floors, but there's a narrower tower that's ten stories tall. The building has a total of about 225,000 square feet of floorspace, and within 2 minutes you can go between almost any two points in the building, so that's a 2-minute Kinematic Range, **KR<sub>2</sub>**, of **225,000 square feet**.
   
   * On the **UC Berkeley campus**, traveling by foot, it takes about 25 minutes to walk between two buildings at opposite ends of the main campus. If it takes another 2 minutes to get from the lobby door of a building to a top-floor room, and vice-versa, that means any two rooms on the whole campus are within a 29-minute range. If the campus has about 16 million square feet of floorspace<sup>[citation needed]</sup>, then your **KR<sub>30</sub>** would be about **16 million square feet**.  
+
+---
 
 
 
@@ -544,10 +548,12 @@ TODO:
 |                              | don't squander land area   | no single-story buildings <br> no parking spaces <br> no private suburban lawns <br> use 4 or 5 foot wide lanes, not 10 or 12 foot wide lines
 |                              | don't squander floor space | avoid redundant hallways, stairs, or elevators <br> no empty rooftops
 
+---
 
-## <a name="design-choices"></a>(4) Design outcomes
 
-### <a name="transportation"></a>(4.1) Transportation design
+## <a name="design-choices"></a>(4) Design proposal
+
+### <a name="transportation"></a>(4.1) Transportation proposal
 
 A kinematic city has:
   * **no cars** within city limits
@@ -593,7 +599,7 @@ Instead, we have
     * skateboards & electric skateboards
     * cute little delivery robots
 
-### <a name="spatial-layout"></a>(4.2) Spatial layout
+### <a name="spatial-layout"></a>(4.2) Spatial layout proposal
 
 A kinematic city has:
   * no single-story ranch houses and no other single-story buildings
@@ -608,7 +614,7 @@ Instead, we have:
   * roads with narrow lanes for narrow vehicles
   * density of [TODO]
 
-### <a name="elevator"></a>(4.3) Elevator design
+### <a name="elevator"></a>(4.3) Elevator proposal
 
 A kinematic city has:
   * **no elevators**
