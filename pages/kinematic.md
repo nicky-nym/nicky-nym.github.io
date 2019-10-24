@@ -556,6 +556,7 @@ Instead, we have
     * segways
     * hoverboards
     * skateboards & electric skateboards
+    * little delivery robots
 
 ### <a name="spatial-layout"></a>(6.4) Spatial layout design choices
 
