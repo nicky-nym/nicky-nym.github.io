@@ -678,7 +678,7 @@ What we hope to get out of this
 |-:|:-:|:-:|:-:|:-:
 | **Commute time** | minutes per day<br>(average per commuter) | 60 min | 60 min | 60 min |
 | **Commute range** | square feet, billions | 5 | 1.25 |   |
-| **Proximity to friends** | number of neighbors within 15 minutes |
+| **Proximity to friends** | number of neighbors within 15 minutes | 2 million | 1 million |
 | **Proximity to places**<br>library, coffee shop, playground, groceries | number of "destinations" within 15 minutes		
 | **Proximity to trees** | number of trees within 15 minutes		
 | **Exercise while commuting** | calories per day<br>(average per commuter) | 400? | 50? | 	
