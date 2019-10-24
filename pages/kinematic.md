@@ -54,6 +54,8 @@ The problems above could be greatly ameliorated by just making a handful of diff
 
 ### The market
 
+> "The amount of floorspace in buildings around the world—currently about 2.5 trillion square feet—is set to double by 2060" &mdash; Brian Bienkowski [^bienkowski]
+
 The current market size for new city construction is large:
   * in the next 30 years, **another 2.5 billion people** will live cities
   * **120 new cities** are currently being built
@@ -401,11 +403,11 @@ There are a huge number of metrics that people measure cities by. We're going to
 
   * In **Haxby, Montana**, with a car, in 30 minutes you can probably reach about a half dozen homes, with perhaps 10,000 square feet of floorspace, so that means your 30-minute Kinematic Range, **KR<sub>30</sub>**, is about **10,000 square feet**.
   
-  * In **San Francisco**, if you are able-bodied and travel by bicycle or public transit, but you do not use a car, then in 30 minutes you can probably get from almost any building in the city to almost any other room in any building in the city. But without a car, there are fairly few places you can get to outside the city limits within 30 minutes. The buildings in San Franicsco have a total of about 6 billion square feet of floorspace, and your **KR<sub>30</sub>** might be about **5 billion square feet** (equal to about 460 square kilometers), which is almost a million-fold higher than your range in Haxby.
+  * In **San Francisco**, if you are able-bodied and travel by bicycle or public transit, but you do not use a car, then in 30 minutes you can probably get from almost any building in the city to almost any other room in any building in the city. But without a car, there are fairly few places you can get to outside the city limits within 30 minutes. The buildings in San Franicsco have a total of about 540 million square feet of floorspace, and your **KR<sub>30</sub>** might be about **450 million square feet**, which is about 50-thousand-fold higher than your range in Haxby.
   
   * **Wurster Hall** is a building on the campus of the University of California, Berkeley. It's a fairly typical mid-rise building, with a normal mix of offices, meeting rooms (classrooms), and open plan work spaces. Most of the floorspace is in the wider base in the first three floors, but there's a narrower tower that's ten stories tall. The building has a total of about 225,000 square feet of floorspace, and within 2 minutes you can go between almost any two points in the building, so that's a 2-minute Kinematic Range, **KR<sub>2</sub>**, of **225,000 square feet**.
   
-  * On the **UC Berkeley campus**, traveling by foot, it takes about 25 minutes to walk between two buildings at opposite ends of the main campus. If it takes another 2 minutes to get from the lobby door of a building to a top-floor room, and vice-versa, that means any two rooms on the whole campus are within a 29-minute range. If the campus has about 16 million square feet of floorspace<sup>[citation needed]</sup>, then your **KR<sub>30</sub>** would be about **16 million square feet**.  
+  * On the **UC Berkeley campus**, traveling by foot, it takes about 25 minutes to walk between two buildings at opposite ends of the main campus. If it takes another 2 minutes to get from the lobby door of a building to a top-floor room, and vice-versa, that means any two rooms on the whole campus are within a 29-minute range. If the campus has about 10 million square feet of floorspace<sup>[citation needed]</sup>, then your **KR<sub>30</sub>** would be about **10 million square feet**.  
 
 
 ### <a name="kinematic-booster-effect"></a>(2.4) Kinematic booster effect
@@ -420,13 +422,15 @@ This whole kinematic cities proposal is all about trying to reduce that kinemati
 
 Take the **San Francisco Bay Area** as an example. The Bay Area is a conurbation that encompasses major cities like San Francisco and San Jose, as well as lots of smaller cities, like Oakland, Berkeley, and Mountain View. The entire population is about 8 billion people, depending where you draw the boundaries. 
 
-If you estimate floorspace at about 6,500 square feet per person, that means there's about 52 trillion square feet of floorspace in the Bay Area. Your **KR<sub>30</sub>** would be **52 trillion square feet**, if you could magically get from any point in the area to any other point in under 30 minutes. But you can't.
+If you estimate floorspace at about 600 square feet per person, that means there's about 5 trillion square feet of floorspace in the Bay Area. Your **KR<sub>30</sub>** would be **5 trillion square feet**, if you could magically get from any point in the area to any other point in under 30 minutes. But you can't.
 
-As a rough estimate, let's say that from any room in a random building in the Bay Area, within 30 minutes you can reach about one quarter of the other buildings in the Bay Area. That means your actual **KR<sub>30</sub>** would be about **13 trillion square feet**.
+As a rough estimate, let's say that from any room in a random building in the Bay Area, within 30 minutes you can reach about one quarter of the other buildings in the Bay Area. That means your actual **KR<sub>30</sub>** would be about **1.25 trillion square feet**.
 
-If we could just improve your travel times, we could quadruple your **KR<sub>30</sub>** range. If kinematic range is in fact what drives the [15% superlinear scaling](#superlinear) effect, then doubling the **KR<sub>30</sub>** for the Bay Area would yield a 15% windfall in average hourly wages, patents per capita, GDP, etc. Doubling **KR<sub>30</sub>** gets you a 15% windfall, and quadrupling gets you a 30% windfall (actually more like 32%, because 1.15^2 is 1.3225).
+If we could just improve your travel times, we could quadruple your KR<sub>30</sub> range. If kinematic range is in fact what drives the [15% superlinear scaling](#superlinear) effect, then doubling the KR<sub>30</sub> for the Bay Area would yield a 15% windfall in average hourly wages, patents per capita, GDP, etc. Doubling KR<sub>30</sub> gets you a 15% windfall, and quadrupling gets you **a 30% windfall** (actually more like 32%, because 1.15^2 is 1.3225).
 
-The San Francisco Bay Area GDP was about $535 billion in 2019.[^facc]  A 30% increase would be an additional $160 billion of GDP annually.
+The San Francisco Bay Area GDP was about $535 billion in 2019.[^facc]  A 30% increase would be an **additional $160 billion annual GDP**.
+
+Is it conceivable that the Bay Area could be re-engineered to quadruple travel ranges? Maybe. It would require a lot of changes: maybe a hyperloop, or a lot of Boring Company tunnels. It would be expensive, and it would take decades.
 
 ---
 
@@ -688,11 +692,11 @@ What we hope to get out of this
 * **Jevons paradox**
   * as **X** gets faster (and cheaper), people use more **X**[^jevons]
 
-* **Marchetti constant**
-  * people will commute about 30 minutes each way per day [Marchetti constant](marchetti)
-
 * <a name="kinematic"></a>**kinematic**
   * concerned with the motion of bodies, and their range of motion
+
+* **Marchetti constant**
+  * people will commute about 30 minutes each way per day [Marchetti constant](marchetti)
 
 * **special economic zone (SEZ)**
   * a part of a country in which the business and trade laws are different from the rest of the country[^sez]
@@ -707,6 +711,8 @@ What we hope to get out of this
 * _[Velotopia](https://www.nai010.com/en/publicaties/velotopia/130528)_, by Steven Fleming
 
 ## References
+
+[^bienkowski]: ["We're building the equivalent of Paris every week. That's a problem."](https://www.dailyclimate.org/building-industry-climate-change-carbon-footprint-2516418302.html). Brian Bienkowski, _The Daily Climate_. 11 Dec, 2017.
 
 [^facc]: ["Key Facts"](https://www.faccsf.com/info/key-facts.html). _French American Chamber of Commerce_.
 
