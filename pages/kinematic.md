@@ -407,7 +407,7 @@ There are a huge number of metrics that people measure cities by. We're going to
 
 
 
-## <a name="work-better"></a>(3) New city objectives &mdash; Things that should work better
+## <a name="work-better"></a>(3) What we want &mdash; things that should work better
 
 
 > "If we stick to business as usual most of it is going to be 
