@@ -340,10 +340,11 @@ There are a huge number of metrics that people measure cities by. We're going to
 * <a name="usable-area"></a>**Usable Floor Area** is an area of a building, such as a studio apartment or dentist's office, that could be rented out to be used exclusively by a tenant, or sold for the exclusive use of an owner. 
   * unit: square feet (or square meters)
 
-* <a name="circulation-area"></a>**Circulation Area** for a building is an area of a building taken up by hallways, elevator shafts, stairways, and lobbies. **Circulation Area** for a city also includes the land area taken up by streets and sidewalks, parking lots, driveways, bus stops, train tracks, etc.
+* <a name="circulation-area"></a>**Circulation Area** for a building is an area of a building taken up by hallways, elevator shafts, stairways, and lobbies. 
+* **Circulation Area** for a city also includes the land area taken up by streets and sidewalks, parking lots, driveways, bus stops, train tracks, etc.
   * unit: square feet (or square meters)
 
-* <a name="circulation-area-ratio"></a>**Circulation Area Ratio** for a city is the ratio of the total [Circulation Area](#circulation-area) to the total [Usable Floor Area](#usable-area).
+* <a name="circulation-area-ratio"></a>**Circulation Area Ratio** for a city is the ratio of the total [Circulation Area](#circulation-area) to the total [Usable Floor Area](#usable-area). In New York City, for typical Manhattan city blocks, the streets and sidewalks take up 30% of the land area, with the remaining 70% available for building parcels. Within an office building, hallways, stairs, and elevators typically take up 30% of the [Floor Area](#floor-area) of the building, leaving only the remaining 70% as [Usable Floor Area](#usable-area).
   * unit: square feet per square feet (or square meters per square meters)
 
 * <a name="journey-distance"></a>**D<sub>j</sub>** is a **Journey Distance**, meaning total length of the path taken by a person (or package) as they travel from point A to point B in a building or in a city.
@@ -501,7 +502,7 @@ TODO:
 |               | keep lighting costs down           | design for good daylighting with careful window and skylight placement
 |               | prevent real estate speculation    | pick an unconventional city land ownership model 
 
-#### <a name="propinquity"></a>propinquity &mdash; everything within 30 minutes
+#### kinematic range &mdash; everything within 30 minutes
 
 |---
 |  | **Design implications** | **Examples**
