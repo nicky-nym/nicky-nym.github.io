@@ -676,27 +676,27 @@ What we hope to get out of this
 |---
 | Outcomes | metrics | Proposed Kinematic City | San Francisco | New York |
 |-:|:-:|:-:|:-:|:-:
-| **Commute time** | minutes per day<br>average per commuter | 60 min | 60 min | 60 min |
-| **Commute range** | square feet, billions |   | 1.25 |   |
-| **Exercise while commuting** |	calories per day<br>average per commuter		
-| **Commute cost**<br>paid by commuter |	dollars per day<br>average per commuter		
+| **Commute time** | minutes per day<br>(average per commuter) | 60 min | 60 min | 60 min |
+| **Commute range** | square feet, billions | 5 | 1.25 |   |
+| **Proximity to friends** | number of neighbors within 15 minutes |
+| **Proximity to places**<br>library, coffee shop, playground, groceries | number of "destinations" within 15 minutes		
+| **Proximity to trees** | number of trees within 15 minutes		
+| **Exercise while commuting** | calories per day<br>(average per commuter) | 400? | 50? | 	
+| **Commute cost**<br>paid by commuter | dollars per day<br>average per commuter | |		
 | **Cost to city to provide transit** |	total dollars per day		
-| **Traffic fatalities** |	deaths per year		
-| **Commute CO2 emissions** |	total tons CO2 per day		
-| **HVAC CO2 emissions** |	total tons CO2 per day		
-| **HVAC costs** |	total dollars per day		
+| **Traffic fatalities** | deaths per year |		
+| **Commute CO2 emissions** | tons CO2 per day		
+| **HVAC CO2 emissions** | tons CO2 per day		
+| **HVAC costs** | dollars per day |		
 | **Air quality** |				
-| **ADA accessibility**	|	percent of total city floor space		
-| **Free-range kids** |			
-| **Proximity to friends** |	number of neighbors within 15 minutes		
-| **Proximity to places**<br>library, coffee shop, playground, groceries	|	number of "destinations" within 15 minutes		
-| **Proximity to trees** |	number of trees within 15 minutes		
-| **Power-outage impact** |	percent increase in transit times		
-| **Daylighting** |	"Spatial Daylight Autonomy (sDA) percent<br>Annual Sun Exposure (ASE) percent<br>(also several others)
-| **Home sizes** |	square feet per household, average<br>square feet per person, average
-| **Office space** |	square feet per person, average		
-| **911 response time** |	minutes, average		
-| **Housing costs** |	rent per person, average<br>home price, average<br>property taxes, average<br>property upkeep costs, average
+| **ADA accessibility**	| percent of total city floor space | 90%+ | ?
+| **Free-range kids** |	yes | no		
+| **Power-outage impact** | percent increase in transit times | +10% | ?
+| **Daylighting** | Spatial Daylight Autonomy (sDA) percent<br>Annual Sun Exposure (ASE) percent<br>(also several others)
+| **Home sizes** | square feet per person, average | 275 | 275 |
+| **Office space** | square feet per person, average | 260 | 260 |
+| **911 response time** | minutes, average | 4 | 5.75 |	
+| **Housing costs** | rent per person, average<br>home price, average<br>property taxes, average<br>property upkeep costs, average
 |---
 
 				
