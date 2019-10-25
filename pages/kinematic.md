@@ -663,8 +663,8 @@ However, if you run the numbers, and run simulations, it turns out that getting 
 | **Commute time** | minutes per day<br>(average per commuter) | 60 min | 60 min | 60 min |
 | **Commute range** | square feet, billions | 5 | 1.25 |   |
 | **Wages per capita** |  | 1.3x | 1x |   |
-| **Proximity to friends** | number of neighbors within 15 minutes | 2 million<br>(via [SLUSHIs](#slushi)) | 1 million<br>(via car) |
-| **Proximity to places**<br>library, coffee shop, playground, groceries | number of "destinations" within 15 minutes | 2x<br>(via [SLUSHIs](#slushi)) | 1x<br>(via car)
+| **Proximity to friends** | number of neighbors within 15 minutes | 2 million<br>(without car) | 1 million<br>(requires car) |
+| **Proximity to places**<br>library, coffee shop, playground, groceries | number of "destinations" within 15 minutes | 2x<br>(without car) | 1x<br>(requires car)
 | **Proximity to trees** | number of trees within 15 minutes | >125,000 | >125,000 |		
 | **Exercise while commuting** | calories per day<br>(average per commuter) | 400? | 50? | 	
 | **Commute cost**<br>paid by commuter | dollars per day<br>average per commuter | |		
