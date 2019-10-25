@@ -666,8 +666,9 @@ However, if you run the numbers, and run simulations, it turns out that getting 
 |---
 |  | Proposed Kinematic City | San Francisco | New York |
 |-:|:-:|:-:|:-:|:-:
-| **Cars**<br>cars per million people | 100 | 450,000 | 	
+| **Cars**<br>cars per million people | 100 | 450,000 | 220,000	
 | **Trucks**<br>trucks per million people | 100 | 60,000 | 	
+| **Busses, etc.**<br>busses, streetcars, light rail vehicles, etc.<br>per million people | 1 | 1,300 | 	
 | **Traffic fatalities**<br>annual deaths per million people | 1 | 30	
 | **Cost to city to provide public transit**<br>annual dollars per capita | $100 | $635 
 | **Commute time**<br>minutes per day<br>(average per commuter) | 60 min | 60 min | 60 min |
