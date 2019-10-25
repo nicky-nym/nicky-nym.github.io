@@ -680,8 +680,7 @@ However, if you run the numbers, and run simulations, it turns out that getting 
 | **Proximity to friends**<br>number of neighbors within 15 minutes | 2 million<br>(without car) | 1 million<br>(requires car) |
 | **Proximity to places**<br>number of places within 15 minutes<br>library, coffee shop, playground, groceries | 2x<br>(without car) | 1x<br>(requires car)
 | **Proximity to trees**<br>number of trees within 15 minutes | >125,000 | >125,000 |		
-| **Exercise while commuting**<br>calories per day<br>(average per commuter) | 400? | 50? | 	
-| **Commute cost**<br>dollars per day<br>average paid by commuter | |		
+| **Exercise while commuting**<br>minutes per day<br>(average per commuter) | 15 min | 5 min | 	
 | **Commute CO2 emissions**<br>tons CO2 per day		
 | **HVAC CO2 emissions**<br>tons CO2 per day		
 | **HVAC costs**<br>dollars per day |		
