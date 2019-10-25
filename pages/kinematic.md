@@ -660,7 +660,7 @@ However, if you run the numbers, and run simulations, it turns out that getting 
 |---
 | Outcomes | metrics | Proposed Kinematic City | San Francisco | New York |
 |-:|:-:|:-:|:-:|:-:
-| **Commute time** | minutes per day<br>(average per commuter) | 60 min | 60 min | 60 min |
+| **Commute time**<br>minutes per day<br>(average per commuter) | 60 min | 60 min | 60 min |
 | **Commute range** | square feet, billions | 5 | 1.25 |   |
 | **Wages per capita** |  | 1.3x | 1x |   |
 | **Proximity to friends** | number of neighbors within 15 minutes | 2 million<br>(without car) | 1 million<br>(requires car) |
@@ -668,8 +668,8 @@ However, if you run the numbers, and run simulations, it turns out that getting 
 | **Proximity to trees** | number of trees within 15 minutes | >125,000 | >125,000 |		
 | **Exercise while commuting** | calories per day<br>(average per commuter) | 400? | 50? | 	
 | **Commute cost**<br>paid by commuter | dollars per day<br>average per commuter | |		
-| **Cost to city to provide transit** |	total dollars per day		
-| **Traffic fatalities** | deaths per year |		
+| **Cost to city to provide transit** |	annual dollars per capita | $100 | $635 		
+| **Traffic fatalities** | annual deaths per million people | 1 | 30	
 | **Commute CO2 emissions** | tons CO2 per day		
 | **HVAC CO2 emissions** | tons CO2 per day		
 | **HVAC costs** | dollars per day |		
