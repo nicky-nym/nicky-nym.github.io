@@ -673,6 +673,7 @@ However, if you run the numbers, and run simulations, it turns out that getting 
 | **Cost to city to subsidize public transit**<br>annual dollars per capita | $0 | $635 
 | **Cost of public transit paid by riders**<br>annual dollars per capita | $0 | $220 
 | **Cost of car ownership**<br>gas, insurance, repairs, payments, etc.<br>annual dollars per capita | $0 | $4,000 
+| **Cost of bike ownership**<br>bicycles, mopeds, scooters, segways, trikes, etc.<br>annual dollars per capita | $1,000 | $100
 | **Commute time**<br>minutes per day<br>(average per commuter) | 60 min | 60 min | 60 min |
 | **Commute kinematic range**<br>square feet, billions | 5 | 1.25 |   |
 | **Wages per capita** | 1.3x | 1x |   |
