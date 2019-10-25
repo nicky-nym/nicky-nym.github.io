@@ -672,9 +672,9 @@ However, if you run the numbers, and run simulations, it turns out that getting 
 | **Traffic fatalities**<br>annual, per million people | 1 | 30 | 23
 | **Cost to city to subsidize public transit**<br>annual dollars per capita | $0 | $635 
 | **Cost of public transit paid by riders**<br>annual dollars per capita | $0 | $220 
-| **Cost of car ownership**<br>gas, insurance, repairs, payments, etc.<br>annual dollars per capita | $0 | $4,000 
+| **Cost of car ownership**<br>gas, insurance, repairs, payments, etc.<br>annual dollars per capita | $0 | $4,000 | $2,000
 | **Cost of bike ownership**<br>bicycles, mopeds, scooters, segways, trikes, etc.<br>annual dollars per capita | $1,000 | $100
-| **CO<sub>2</sub> footprint for transportation**<br>annual per capita | 1 kg | 2,000 kg
+| **CO<sub>2</sub> footprint for transportation**<br>annual per capita | 1 kg | 2,000 kg | 1,000 kg
 | **Commute time**<br>minutes per day<br>(average per commuter) | 60 min | 60 min | 60 min |
 | **Commute kinematic range**<br>square feet, billions | 5 | 1.25 |   |
 | **Kinematic windfall**<br>wages, GDP, patents per capita, etc. | 1.3x | 1x |   |
