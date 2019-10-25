@@ -413,7 +413,7 @@ There are a huge number of metrics that people measure cities by. We're going to
   * On the **UC Berkeley campus**, traveling by foot, it takes about 25 minutes to walk between two buildings at opposite ends of the main campus. If it takes another 2 minutes to get from the lobby door of a building to a top-floor room, and vice-versa, that means any two rooms on the whole campus are within a 29-minute range. If the campus has about 10 million square feet of floorspace<sup>[citation needed]</sup>, then your **KR<sub>30</sub>** would be about **10 million square feet**.  
 
 
-### <a name="kinematic-booster-effect"></a>(2.4) Kinematic booster effect
+### <a name="kinematic-booster-effect"></a>(2.4) Kinematic windfall
 
 This next section is conjectural, so please evaluate it more skeptically.
 
@@ -676,7 +676,7 @@ However, if you run the numbers, and run simulations, it turns out that getting 
 | **Cost of bike ownership**<br>bicycles, mopeds, scooters, segways, trikes, etc.<br>annual dollars per capita | $1,000 | $100
 | **Commute time**<br>minutes per day<br>(average per commuter) | 60 min | 60 min | 60 min |
 | **Commute kinematic range**<br>square feet, billions | 5 | 1.25 |   |
-| **Wages per capita** | 1.3x | 1x |   |
+| **Kinematic windfall**<br>wages, GDP, patents per capita, etc. | 1.3x | 1x |   |
 | **Proximity to friends**<br>number of neighbors within 15 minutes | 2 million<br>(without car) | 1 million<br>(requires car) |
 | **Proximity to places**<br>number of places within 15 minutes<br>library, coffee shop, playground, groceries | 2x<br>(without car) | 1x<br>(requires car)
 | **Proximity to trees**<br>number of trees within 15 minutes | >125,000 | >125,000 |		
