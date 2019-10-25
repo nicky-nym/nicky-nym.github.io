@@ -672,6 +672,7 @@ However, if you run the numbers, and run simulations, it turns out that getting 
 | **Traffic fatalities**<br>annual, per million people | 1 | 30 | 23
 | **Cost to city to subsidize public transit**<br>annual dollars per capita | $0 | $635 
 | **Cost of public transit paid by riders**<br>annual dollars per capita | $0 | $220 
+| **Cost of car ownership**<br>gas, insurance, repairs, payments, etc.<br>annual dollars per capita | $0 | $4,000 
 | **Commute time**<br>minutes per day<br>(average per commuter) | 60 min | 60 min | 60 min |
 | **Commute kinematic range**<br>square feet, billions | 5 | 1.25 |   |
 | **Wages per capita** | 1.3x | 1x |   |
