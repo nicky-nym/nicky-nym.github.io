@@ -676,7 +676,7 @@ However, if you run the numbers, and run simulations, it turns out that getting 
 | **Air quality** |				
 | **ADA accessibility**	| percent of total city floor space | 90% | ?
 | **Free-range kids** |	 | yes | no		
-| **Power-outage impact** | percent increase in transit times | +10% | no BART<br>no traffic lights
+| **Power-outage impact** | percent increase in transit times | +10%<br>no Habitrail lights | no BART<br>no traffic lights
 | **Daylighting** | Spatial Daylight Autonomy (sDA) percent<br>Annual Sun Exposure (ASE) percent<br>(also several others)
 | **Home sizes** | square feet per person, average | 275 | 275 |
 | **Office space** | square feet per person, average | 260 | 260 |
