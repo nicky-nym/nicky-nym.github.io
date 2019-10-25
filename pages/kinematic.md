@@ -655,32 +655,16 @@ This idea sounds crazy to most people when they first hear it, because it's so d
 
 However, if you run the numbers, and run simulations, it turns out that getting rid of elevators and stairs works out just fine. Instead of making it harder to get places, having no elevators makes it **faster** to get between any two random locations. Plus this design is greener, works better after a natural disaster, can be built more quickly, is less expensive to build, and is less expensive to maintain.
 
-## <a name="better-outcomes"></a>(5) Outcomes
-
-What we hope to get out of this
-
-* a kinematic city: 
-   1. should have **more commute destinations**
-   1. should **[thrive economically](#economics)** compared to similarly-sized normal cities
-   1. should be **more affordable** to build than conventional cities
-   1. should have **lower operating costs**
-   1. should have **lower housing costs**, and potentially **no homelessness**
-   1. should be **safer** and more fun to live in
-   1. should have **better accessibility**
-   1. should be more **kid-friendly**
-   1. should be more **elder-friendly**
-   1. should have a **smaller carbon footprint** per capita
-   1. should be **more resiliant** after a natural disaster or other emergency
-   1. could be established as **charter cities**[^mason]
+## <a name="better-outcomes"></a>(5) Outcomes &mdash; what we hope to get out of this
 
 |---
 | Outcomes | metrics | Proposed Kinematic City | San Francisco | New York |
 |-:|:-:|:-:|:-:|:-:
 | **Commute time** | minutes per day<br>(average per commuter) | 60 min | 60 min | 60 min |
 | **Commute range** | square feet, billions | 5 | 1.25 |   |
-| **Proximity to friends** | number of neighbors within 15 minutes | 2 million | 1 million |
-| **Proximity to places**<br>library, coffee shop, playground, groceries | number of "destinations" within 15 minutes		
-| **Proximity to trees** | number of trees within 15 minutes		
+| **Proximity to friends** | number of neighbors within 15 minutes | 2 million | 1 million<br>via car |
+| **Proximity to places**<br>library, coffee shop, playground, groceries | number of "destinations" within 15 minutes | 2x | 1x<br>via car
+| **Proximity to trees** | number of trees within 15 minutes | | >125,000 |		
 | **Exercise while commuting** | calories per day<br>(average per commuter) | 400? | 50? | 	
 | **Commute cost**<br>paid by commuter | dollars per day<br>average per commuter | |		
 | **Cost to city to provide transit** |	total dollars per day		
@@ -689,7 +673,7 @@ What we hope to get out of this
 | **HVAC CO2 emissions** | tons CO2 per day		
 | **HVAC costs** | dollars per day |		
 | **Air quality** |				
-| **ADA accessibility**	| percent of total city floor space | 90%+ | ?
+| **ADA accessibility**	| percent of total city floor space | 90% | ?
 | **Free-range kids** |	yes | no		
 | **Power-outage impact** | percent increase in transit times | +10% | ?
 | **Daylighting** | Spatial Daylight Autonomy (sDA) percent<br>Annual Sun Exposure (ASE) percent<br>(also several others)
