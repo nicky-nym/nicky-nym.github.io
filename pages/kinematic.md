@@ -681,8 +681,8 @@ However, if you run the numbers, and run simulations, it turns out that getting 
 | **Home sizes** | square feet per person, average | 275 | 275 |
 | **Office space** | square feet per person, average | 260 | 260 |
 | **911 response time** | minutes, average | 4 | 5.75 |	
-| **Housing costs** | rent per apartment, average |  | $5 / sq.ft. / month |
-|                   | condo price, average |  | $1.2 million
+| **Housing costs** | monthly rent per apartment<br>750 square feet  | >$1,000 | $3,750 |
+|                   | condo price, average | >$120,000 | $1.2 million
 |                   | property taxes, average |
 |                   | property upkeep costs, average | | |
 |---
