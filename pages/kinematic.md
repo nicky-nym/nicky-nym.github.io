@@ -611,17 +611,23 @@ Instead, we have
   * Habitrails<sup>TM</sup>
     * rain-sheltered pedestrian sidewalks
     * rain-sheltered bike lanes
-  * <a name="slushi"></a>**SLUSHI<sup>[sic]</sup> vehicles** &mdash; Skinny Lightweight Underpowered Slow Indoor Habitrail<sup>TM</sup> vehicles
-    * scooters
-    * bicycles
-    * mopeds (electric)
-    * strollers
-    * cargo trikes
-    * wheelchairs
-    * segways
-    * hoverboards
-    * skateboards & electric skateboards
-    * cute little delivery robots
+  * <a name="bikeish"></a>**bike-ish vehicles**
+    * restrictions
+      * narrow &mdash; not more than 36 inches wide, or 48 inches for licensed cargo vehicles
+      * lightweight &mdash; not more than 111 lbs.
+      * slow &mdash; 15 mph city-wide speed limit, with automatic speed governor
+      * underpowered &mdash; not more than 2 horsepower
+    * examples
+      * bicycles
+      * scooters
+      * mopeds (electric)
+      * strollers
+      * cargo trikes
+      * wheelchairs
+      * segways
+      * hoverboards
+      * skateboards & electric skateboards
+      * cute little delivery robots
 
 ### <a name="spatial-layout"></a>(4.2) Spatial layout proposal
 
@@ -658,8 +664,12 @@ However, if you run the numbers, and run simulations, it turns out that getting 
 ## <a name="better-outcomes"></a>(5) Outcomes &mdash; what we hope to get out of this
 
 |---
-| Outcomes | metrics | Proposed Kinematic City | San Francisco | New York |
+|  | Proposed Kinematic City | San Francisco | New York |
 |-:|:-:|:-:|:-:|:-:
+| **Cars**<br>cars per million people | 100 | 450,000 | 	
+| **Trucks**<br>trucks per million people | 100 | 60,000 | 	
+| **Traffic fatalities**<br>annual deaths per million people | 1 | 30	
+| **Cost to city to provide public transit**<br>annual dollars per capita | $100 | $635 
 | **Commute time**<br>minutes per day<br>(average per commuter) | 60 min | 60 min | 60 min |
 | **Commute kinematic range**<br>square feet, billions | 5 | 1.25 |   |
 | **Wages per capita** | 1.3x | 1x |   |
@@ -668,8 +678,6 @@ However, if you run the numbers, and run simulations, it turns out that getting 
 | **Proximity to trees**<br>number of trees within 15 minutes | >125,000 | >125,000 |		
 | **Exercise while commuting**<br>calories per day<br>(average per commuter) | 400? | 50? | 	
 | **Commute cost**<br>dollars per day<br>average paid by commuter | |		
-| **Cost to city to provide transit**<br>annual dollars per capita | $100 | $635 		
-| **Traffic fatalities**<br>annual deaths per million people | 1 | 30	
 | **Commute CO2 emissions**<br>tons CO2 per day		
 | **HVAC CO2 emissions**<br>tons CO2 per day		
 | **HVAC costs**<br>dollars per day |		
