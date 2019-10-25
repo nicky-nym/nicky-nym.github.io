@@ -661,30 +661,30 @@ However, if you run the numbers, and run simulations, it turns out that getting 
 | Outcomes | metrics | Proposed Kinematic City | San Francisco | New York |
 |-:|:-:|:-:|:-:|:-:
 | **Commute time**<br>minutes per day<br>(average per commuter) | 60 min | 60 min | 60 min |
-| **Commute range** | square feet, billions | 5 | 1.25 |   |
-| **Wages per capita** |  | 1.3x | 1x |   |
-| **Proximity to friends** | number of neighbors within 15 minutes | 2 million<br>(without car) | 1 million<br>(requires car) |
-| **Proximity to places**<br>library, coffee shop, playground, groceries | number of "destinations" within 15 minutes | 2x<br>(without car) | 1x<br>(requires car)
-| **Proximity to trees** | number of trees within 15 minutes | >125,000 | >125,000 |		
-| **Exercise while commuting** | calories per day<br>(average per commuter) | 400? | 50? | 	
-| **Commute cost**<br>paid by commuter | dollars per day<br>average per commuter | |		
-| **Cost to city to provide transit** |	annual dollars per capita | $100 | $635 		
-| **Traffic fatalities** | annual deaths per million people | 1 | 30	
-| **Commute CO2 emissions** | tons CO2 per day		
-| **HVAC CO2 emissions** | tons CO2 per day		
-| **HVAC costs** | dollars per day |		
+| **Commute kinematic range**<br>square feet, billions | 5 | 1.25 |   |
+| **Wages per capita** | 1.3x | 1x |   |
+| **Proximity to friends**<br>number of neighbors within 15 minutes | 2 million<br>(without car) | 1 million<br>(requires car) |
+| **Proximity to places**<br>number of places within 15 minutes<br>library, coffee shop, playground, groceries | 2x<br>(without car) | 1x<br>(requires car)
+| **Proximity to trees**<br>number of trees within 15 minutes | >125,000 | >125,000 |		
+| **Exercise while commuting**<br>calories per day<br>(average per commuter) | 400? | 50? | 	
+| **Commute cost**<br>dollars per day<br>average paid by commuter | |		
+| **Cost to city to provide transit**<br>annual dollars per capita | $100 | $635 		
+| **Traffic fatalities**<br>annual deaths per million people | 1 | 30	
+| **Commute CO2 emissions**<br>tons CO2 per day		
+| **HVAC CO2 emissions**<br>tons CO2 per day		
+| **HVAC costs**<br>dollars per day |		
 | **Air quality** |				
-| **ADA accessibility**	| percent of total city floor space | 90% | ?
-| **Free-range kids** |	 | yes | no		
-| **Power-outage impact** | percent increase in transit times | +10%<br>no Habitrail lights | no BART<br>no traffic lights
-| **Daylighting** | Spatial Daylight Autonomy (sDA) percent<br>Annual Sun Exposure (ASE) percent<br>(also several others)
-| **Home sizes** | square feet per person, average | 275 | 275 |
-| **Office space** | square feet per person, average | 260 | 260 |
-| **911 response time** | minutes, average | 4 | 5.75 |	
-| **Housing costs** | monthly rent per apartment<br>750 square feet  | >$1,000 | $3,750 |
-|                   | condo price, average | >$120,000 | $1.2 million
-|                   | property taxes, average |
-|                   | property upkeep costs, average | | |
+| **ADA accessibility**<br>percent of total city floor space | 90% | ?
+| **Free-range kids**	 | yes | no		
+| **Power-outage impact**<br>percent increase in transit times | +10%<br>no Habitrail lights | no BART<br>no traffic lights
+| **Daylighting**<br>Spatial Daylight Autonomy (sDA) percent<br>Annual Sun Exposure (ASE) percent<br>(also several others)
+| **Home sizes**<br>square feet per person, average | 275 | 275 |
+| **Office space**<br>square feet per person, average | 260 | 260 |
+| **911 response time**<br>minutes, average | 4 | 5.75 |	
+| **Housing costs**<br>monthly rent per apartment<br>750 square feet  | >$1,000 | $3,750 |
+|                   condo price, average | >$120,000 | $1.2 million
+|                   property taxes, average |
+|                   property upkeep costs, average | | |
 |---
 
 				
