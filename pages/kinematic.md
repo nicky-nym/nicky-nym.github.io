@@ -670,8 +670,8 @@ However, if you run the numbers, and run simulations, it turns out that getting 
 | **Trucks**<br>per million people | 100 | 60,000 | 	
 | **Busses, etc.**<br>busses, streetcars, light rail vehicles, etc.<br>per million people | 1 | 1,300 | 	
 | **Traffic fatalities**<br>annual, per million people | 1 | 30 | 23
-| **Cost to city to subsidize public transit**<br>annual dollars per capita | $0 | $635 
-| **Cost of public transit paid by riders**<br>annual dollars per capita | $0 | $220 
+| **Cost to city to subsidize public transit**<br>annual dollars per capita | $0 | $635<br>Muni only<br>not including BART & Caltrain 
+| **Cost of public transit paid by riders**<br>annual dollars per capita | $0 | $220<br>Muni only<br>not including BART & Caltrain 
 | **Cost of car ownership**<br>gas, insurance, repairs, payments, etc.<br>annual dollars per capita | $0 | $4,000 | $2,000
 | **Cost of bike ownership**<br>bicycles, mopeds, scooters, segways, trikes, etc.<br>annual dollars per capita | $1,000 | $100
 | **CO<sub>2</sub> footprint for transportation**<br>annual per capita | 1 kg | 2,000 kg | 1,000 kg
@@ -681,13 +681,11 @@ However, if you run the numbers, and run simulations, it turns out that getting 
 | **Proximity to friends**<br>number of neighbors within 15 minutes | 2 million<br>(without car) | 1 million<br>(requires car) |
 | **Proximity to places**<br>number of places within 15 minutes<br>library, coffee shop, playground, groceries | 2x<br>(without car) | 1x<br>(requires car)
 | **Proximity to trees**<br>number of trees within 15 minutes | >125,000 | >125,000 |		
-| **Exercise while commuting**<br>minutes per day<br>(average per commuter) | 15 min | 5 min | 	
-| **HVAC CO2 emissions**<br>tons CO2 per day		
-| **HVAC costs**<br>dollars per day |		
-| **Air quality** |				
+| **Exercise while commuting**<br>minutes per day<br>(average per commuter) | 15 min<br>if 3/4 of people use e-bikes instead of bikes | 5 min | 	
+| **Air quality** | _really_ good | good 
 | **ADA accessibility**<br>percent of total city floor space | 90% | ?
-| **Free-range kids**	 | yes | no		
-| **Power-outage impact**<br>percent increase in transit times | +10%<br>no Habitrail lights | no BART<br>no traffic lights
+| **Free-range kids** | yes | no		
+| **Power-outage impact**<br>percent increase in transit times | +10%<br>no bikeway lights | no BART<br>no traffic lights
 | **Daylighting**<br>Spatial Daylight Autonomy (sDA) percent<br>Annual Sun Exposure (ASE) percent<br>(also several others)
 | **Home sizes**<br>square feet per person, average | 275 | 275 |
 | **Office space**<br>square feet per person, average | 260 | 260 |
