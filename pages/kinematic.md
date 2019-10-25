@@ -680,7 +680,7 @@ However, if you run the numbers, and run simulations, it turns out that getting 
 | **Kinematic windfall**<br>wages, GDP, patents per capita, etc. | 1.3x | 1x |   |
 | **Proximity to friends**<br>number of neighbors within 15 minutes | 2 million<br>(without car) | 1 million<br>(requires car) |
 | **Proximity to places**<br>number of places within 15 minutes<br>library, coffee shop, playground, groceries | 2x<br>(without car) | 1x<br>(requires car)
-| **Proximity to trees**<br>number of trees within 15 minutes | >125,000 | >125,000 |		
+| **Proximity to trees**<br>number of trees within 15 minutes | > 125,000 trees | > 125,000 trees |		
 | **Exercise while commuting**<br>minutes per day<br>(average per commuter) | 15 min<br>if 3 of 4 bikes<br>are e-bikes | 5 min | 	
 | **Air quality** | _really_ good | good 
 | **ADA accessibility**<br>percent of total city floor space | 90% | ?
@@ -690,8 +690,8 @@ However, if you run the numbers, and run simulations, it turns out that getting 
 | **Home sizes**<br>square feet per person, average | 275 | 275 |
 | **Office space**<br>square feet per person, average | 260 | 260 |
 | **911 response time**<br>minutes, average | 4 | 5.75 |	
-| **Housing costs**<br>monthly rent per apartment<br>750 square feet  | >$1,000 | $3,750 |
-|                   condo price, average | >$120,000 | $1.2 million
+| **Housing costs**<br>monthly rent per apartment<br>750 square feet  | > $1,000 | $3,750 |
+|                   condo price, average | > $120,000 | $1.2 million
 |                   property taxes, average |
 |                   property upkeep costs, average | | |
 |---
