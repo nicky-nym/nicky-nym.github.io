@@ -675,7 +675,7 @@ However, if you run the numbers, and run simulations, it turns out that getting 
 | **HVAC costs** | dollars per day |		
 | **Air quality** |				
 | **ADA accessibility**	| percent of total city floor space | 90% | ?
-| **Free-range kids** |	yes | no		
+| **Free-range kids** |	 | yes | no		
 | **Power-outage impact** | percent increase in transit times | +10% | ?
 | **Daylighting** | Spatial Daylight Autonomy (sDA) percent<br>Annual Sun Exposure (ASE) percent<br>(also several others)
 | **Home sizes** | square feet per person, average | 275 | 275 |
