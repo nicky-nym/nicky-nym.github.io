@@ -302,9 +302,11 @@ New cities create value, and demand.
   + New York — subway
   + Los Angles — car 
 
-...> "Using data from cities across several countries, including the United States, England, Germany, and some developing nations, [Yacov] Zahavi discovered the surprising result that the total amount of time an average individual spends on travel each day is approximately the same regardless of the city size or the mode of transportation. ... we tend to spend about an hour each day traveling, whoever and wherever we are. ... the average commute time from home to work is about half an hour each way independent of the city or the means of transportation.
-...> 
-...> ... the increase in transportation speed resulting from the marvelous innovations of the past couple of hundred years has not been used to reduce commuting time but instead has been used to increase commuting distances. ... the size of cities has to some degree been determined by the efficiency of their transportation systems for delivering people to their workplaces in not much more than half an hour's time."[^scale] &mdash; Geoffrey West
+... TODO: is this line indented?
+
+> "Using data from cities across several countries, including the United States, England, Germany, and some developing nations, [Yacov] Zahavi discovered the surprising result that the total amount of time an average individual spends on travel each day is approximately the same regardless of the city size or the mode of transportation. ... we tend to spend about an hour each day traveling, whoever and wherever we are. ... the average commute time from home to work is about half an hour each way independent of the city or the means of transportation.
+> 
+> ... the increase in transportation speed resulting from the marvelous innovations of the past couple of hundred years has not been used to reduce commuting time but instead has been used to increase commuting distances. ... the size of cities has to some degree been determined by the efficiency of their transportation systems for delivering people to their workplaces in not much more than half an hour's time."[^scale] &mdash; Geoffrey West
 
 * <a name="jevons"></a>The **Jevons paradox**, or Jevons effect, says that if it becomes possible to use a resource more and more efficiently, then instead of using less of the resource, people actually use more. Total consumption increases because demand increases as efficiency drives the costs down.
 
@@ -318,7 +320,7 @@ New cities create value, and demand.
 
 * <a name="linear"></a>**linear scaling** says that if a city doubles in size, many measurable characteristics of the city, such as the number of businesses, also double in size.
 
-: > "Double the size of a city and on average you'll find twice as many businesses. The proportionality constant is 21.6, meaning that there is approximately one establishment for about every 22 people in a city, regardless of the city size. Or to put it slightly differently, on average a new workplace is created each time the population of a city increases by just 22 people. ... on average, there are only about 8 employees for every establishment, again regardless of the size of city."[^scale] &mdash; Geoffrey West
+> "Double the size of a city and on average you'll find twice as many businesses. The proportionality constant is 21.6, meaning that there is approximately one establishment for about every 22 people in a city, regardless of the city size. Or to put it slightly differently, on average a new workplace is created each time the population of a city increases by just 22 people. ... on average, there are only about 8 employees for every establishment, again regardless of the size of city."[^scale] &mdash; Geoffrey West
 
 * <a name="superlinear"></a>**15% superlinear scaling** is the phenomenon where if a city population grows by 100% (meaning it doubles in population size), then the economy of the city tends to grow by about 115% (meaning it **more than doubles** in size), so that there is effectively a 15% "bonus" in per-capita economic output for everyone in the city.[^scale] This 15% superlinear growth seems to apply to the whole physical and social metabolism of the city, rather than just the economic aspects of the city. The 15% surplus shows up in statistics about:
   * wages
