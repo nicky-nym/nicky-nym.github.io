@@ -59,6 +59,7 @@ The problems above could be greatly ameliorated by just making a handful of diff
 
 The current market size for new city construction is large:
   * in the next 30 years, **another 2.5 billion people** will live cities
+  * "averaged over the next thirty-five years, about a million and a half people will be urbanized each week ... the equivalent of another New York metropolitan area [every two months]"[^scale]
   * **120 new cities** are currently being built
   * spending is somewhere between the high hundreds of billions of dollars, and the low trillions of dollars
   * real estate development projects now operate at a scale where it is possible to complete a coordinated, monolithic, **privately financed $10 billion construction project**
