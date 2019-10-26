@@ -182,6 +182,8 @@ It is estimated that **by 2050**:
 
 "Half of the urban area that will be needed [by 2050] hasn't been built yet."[^growth]
 
+"Over the next 40 years, the newly built floor area in the world is expected to double."[^watts]
+
 > "we're going to develop more urban area in the next 100 years than currently exists on Earth"[^growth]
 > &mdash; Paul Romer, Nobel prize-winning economist, New York University.
 
@@ -736,48 +738,53 @@ However, if you run the numbers, and run simulations, it turns out that getting 
 
 ## References
 
-[^bienkowski]: ["We're building the equivalent of Paris every week. That's a problem."](https://www.dailyclimate.org/building-industry-climate-change-carbon-footprint-2516418302.html). Brian Bienkowski, _The Daily Climate_. 11 Dec, 2017.
-
-[^facc]: ["Key Facts"](https://www.faccsf.com/info/key-facts.html). _French American Chamber of Commerce_.
-
-[^mccasland]: ["Cities Foster Equity by Improving Urban Mobility for Women"](https://newcities.org/the-big-picture-cities-foster-equity-by-improving-urban-mobility-for-women/). Hannah McCasland, _NewCities_. 8 March, 2019.
-
-[^gadepalli]: "Even though women comprise nearly half of the population, it is surprising they account for less than one in five trips made in Indian cities." ["Delhi Will Improve When Women Get to Move"](https://newcities.org/delhithe-big-picture-will-improve-women-get-move/). Shreya Gadepalli, _NewCities_. 8 March, 2019.
-
-[^gonzalez]: "Evidence from Argentina shows that on average men and women’s commute time is roughly the same, but women travel at slower speeds and cover shorter distances." ["Transport is Not Gender Neutral"](https://newcities.org/the-big-picture-transport-is-not-gender-neutral-womens-mobility-and-accessibility-for-better-economic-opportunities/) Karla Dominguez Gonzalez, _NewCities_. 8 March, 2019.
-
-[^mason]: ["The Case for Charter Cities Within the Effective Altruist Framework"](https://assets.website-files.com/5d253237e31f051057dc0a2b/5d88effe42420361c5e0c3c2_The%20Case%20for%20Charter%20Cities%20Within%20the%20Effective%20Altruist%20Framework.pdf). Jeffrey Mason, _Charter Cities Institute_. Sept 2019.
+[^bienkowski]: ["We're building the equivalent of Paris every week. That's a problem."](https://www.dailyclimate.org/building-industry-climate-change-carbon-footprint-2516418302.html). Brian Bienkowski, _The Daily Climate_. 11 Dec 2017.
 
 [^bloomberg]: ["Africa’s Cities Are About to Boom – and Maybe Explode"](https://www.bloomberg.com/opinion/articles/2019-07-25/africa-s-cities-are-about-to-boom-and-maybe-explode). _Bloomberg_. 25 July 2019.
-
-[^metrocosm]: ["A Striking Perspective on New York City Property Values"](http://metrocosm.com/new-york-city-property-values-in-perspective/). _Metrocosm_. 24 June 2015.
-
-[^sharma]: ["Greenfield Smart Cities Shaping the Future of India"](https://newcities.org/the-big-picture-greenfield-smart-cities-shaping-future-india/). _NewCities_. 23 July 2019.
-
-[^forbes]: ["The Power Of Purpose: Unlocking Africa's $10 Trillion Opportunity In Housing"](https://www.forbes.com/sites/afdhelaziz/2019/09/12/the-power-of-purpose-unlocking-africas-10-trillion-opportunity-in-housing/#1e1fa3b714a0). _Forbes_. 12 September 2019.
-
-[^fast-company]: ["Floating cities once seemed like sci-fi. Now the UN is getting on board"](https://www.fastcompany.com/90329294/floating-cities-once-seemed-like-sci-fi-now-the-un-is-getting-on-board). _Fast Company_. 4 April 2019.
-
-[^manhattan]: ["What's Manhattan's Land Worth? Try 'Canada's Entire GDP'"](https://www.citylab.com/life/2018/04/what-manhattans-land-is-worth/558776/). _CityLab_. 24 April 2018.
-
-[^new-clark]: ["Resilient Growth: Building a Resilient City in the Philippines"](https://newcities.org/the-big-picture-resilient-growth-building-resilient-city-philippines/). _NewCities_. 2019.
-
-[^growth]: ["Should we build cities from scratch?"](https://www.theguardian.com/cities/2019/jul/10/should-we-build-cities-from-scratch). _The Guardian_. 10 July 2019.
 
 [^caspar]: ["The Future of Greenfield Cities"](https://newcities.org/the-big-picture-the-future-of-greenfield-cities/). _NewCities_. 23 July 2019.
 
 [^displaced]: ["Worldwide displacement tops 70 million, UN Refugee Chief urges greater solidarity in response"](https://www.unhcr.org/uk/news/press/2019/6/5d03b22b4/worldwide-displacement-tops-70-million-un-refugee-chief-urges-greater-solidarity.html). _UNHCR: The UN Refugee Agency_. 19 June 2019.
 
-[^migrants]: ["Migration, Environment and Climate Change: Assessing the Evidence"](https://publications.iom.int/system/files/pdf/migration_and_environment.pdf). (PDF) _International Organization for Migration_. 2009.
+[^facc]: ["Key Facts"](https://www.faccsf.com/info/key-facts.html). _French American Chamber of Commerce_.
 
-[^yang]: ["Andrew Yang’s plan to tackle climate change, explained"](https://www.vox.com/future-perfect/2019/8/26/20833263/andrew-yang-climate-plan). _Vox.com_. 26 August 2019.
+[^fast-company]: ["Floating cities once seemed like sci-fi. Now the UN is getting on board"](https://www.fastcompany.com/90329294/floating-cities-once-seemed-like-sci-fi-now-the-un-is-getting-on-board). _Fast Company_. 4 April 2019.
 
-[^metabuild]: ["urbAIn – AI, Cities, and Climate Change"](https://www.metabuild.io/urbain-ai-cities-and-climate-change/). _Metabuild.io_. 15 June 2019.
+[^forbes]: ["The Power Of Purpose: Unlocking Africa's $10 Trillion Opportunity In Housing"](https://www.forbes.com/sites/afdhelaziz/2019/09/12/the-power-of-purpose-unlocking-africas-10-trillion-opportunity-in-housing/#1e1fa3b714a0). _Forbes_. 12 September 2019.
 
-[^west]: ["The Origins of Scaling in Cities"](), by Luis Bettencourt & Geoffrey West at the Santa Fe Institute. _Science (volume 340, issue 6139, page 1438)_. 21 June 2013.
+[^gadepalli]: "Even though women comprise nearly half of the population, it is surprising they account for less than one in five trips made in Indian cities." ["Delhi Will Improve When Women Get to Move"](https://newcities.org/delhithe-big-picture-will-improve-women-get-move/). Shreya Gadepalli, _NewCities_. 8 March 2019.
+
+[^gonzalez]: "Evidence from Argentina shows that on average men and women’s commute time is roughly the same, but women travel at slower speeds and cover shorter distances." ["Transport is Not Gender Neutral"](https://newcities.org/the-big-picture-transport-is-not-gender-neutral-womens-mobility-and-accessibility-for-better-economic-opportunities/) Karla Dominguez Gonzalez, _NewCities_. 8 March 2019.
+
+[^growth]: ["Should we build cities from scratch?"](https://www.theguardian.com/cities/2019/jul/10/should-we-build-cities-from-scratch). _The Guardian_. 10 July 2019.
 
 [^induced_demand]: ["Induced demand"](https://en.wikipedia.org/wiki/Induced_demand). _Wikipedia_.
 
 [^jevons]: ["Jevons paradox"](https://en.wikipedia.org/wiki/Jevons_paradox). _Wikipedia_.
 
+[^manhattan]: ["What's Manhattan's Land Worth? Try 'Canada's Entire GDP'"](https://www.citylab.com/life/2018/04/what-manhattans-land-is-worth/558776/). _CityLab_. 24 April 2018.
+
+[^mason]: ["The Case for Charter Cities Within the Effective Altruist Framework"](https://assets.website-files.com/5d253237e31f051057dc0a2b/5d88effe42420361c5e0c3c2_The%20Case%20for%20Charter%20Cities%20Within%20the%20Effective%20Altruist%20Framework.pdf). Jeffrey Mason, _Charter Cities Institute_. Sept 2019.
+
+[^mccasland]: ["Cities Foster Equity by Improving Urban Mobility for Women"](https://newcities.org/the-big-picture-cities-foster-equity-by-improving-urban-mobility-for-women/). Hannah McCasland, _NewCities_. 8 March 2019.
+
+[^metabuild]: ["urbAIn – AI, Cities, and Climate Change"](https://www.metabuild.io/urbain-ai-cities-and-climate-change/). _Metabuild.io_. 15 June 2019.
+
+[^metrocosm]: ["A Striking Perspective on New York City Property Values"](http://metrocosm.com/new-york-city-property-values-in-perspective/). _Metrocosm_. 24 June 2015.
+
+[^migrants]: ["Migration, Environment and Climate Change: Assessing the Evidence"](https://publications.iom.int/system/files/pdf/migration_and_environment.pdf). (PDF) _International Organization for Migration_. 2009.
+
+[^new-clark]: ["Resilient Growth: Building a Resilient City in the Philippines"](https://newcities.org/the-big-picture-resilient-growth-building-resilient-city-philippines/). _NewCities_. 2019.
+
 [^sez]: ["Special economic zone"](https://en.wikipedia.org/wiki/Special_economic_zone). _Wikipedia_.
+
+[^sharma]: ["Greenfield Smart Cities Shaping the Future of India"](https://newcities.org/the-big-picture-greenfield-smart-cities-shaping-future-india/). _NewCities_. 23 July 2019.
+
+[^watts]: ["Concrete: the most destructive material on Earth"](https://www.theguardian.com/cities/2019/feb/25/concrete-the-most-destructive-material-on-earth). Jonathan Watts, _The Guardian_. 25 Feb 2019 
+
+[^west]: ["The Origins of Scaling in Cities"](), by Luis Bettencourt & Geoffrey West at the Santa Fe Institute. _Science (volume 340, issue 6139, page 1438)_. 21 June 2013.
+
+[^yang]: ["Andrew Yang’s plan to tackle climate change, explained"](https://www.vox.com/future-perfect/2019/8/26/20833263/andrew-yang-climate-plan). _Vox.com_. 26 August 2019.
+
+
+
