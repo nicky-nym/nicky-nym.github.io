@@ -302,6 +302,11 @@ New cities create value, and demand.
   + New York — subway
   + Los Angles — car 
 
+> "Using data from cities across several countries, including the United States, England, Germany, and some developing nations, [Yacov] Zahavi discovered the surprising result that the total amount of time an average individual spends on travel each day is approximately the same regardless of the city size or the mode of transportation. ... we tend to spend about an hour each day traveling, whoever and wherever we are. ... the average commute time from home to work is about half an hour each way independent of the city or the means of transportation.
+> 
+> ... the increase in transportation speed resulting from the marvelous innovations of the past couple of hundred years has not been used to reduce commuting time but instead has been used to increase commuting distances. ... the size of cities has to some degree been determined by the efficiency of their transportation systems for delivering people to their workplaces in not much more than half an hour's time."[^scale] &mdash Geoffrey West
+
+
 * <a name="jevons"></a>The **Jevons paradox**, or Jevons effect, says that if it becomes possible to use a resource more and more efficiently, then instead of using less of the resource, people actually use more. Total consumption increases because demand increases as efficiency drives the costs down.
 
 * <a name="induced-demand"></a>**Induced demand** says that as the supply of a resource increases, more of it will be consumed. If you add a new lane to a congested highway, it does not reduce congestion, but instead increases the total number of trips made. **Induced demand** might be better described as **latent demand**. The demand was actually there all along, there was just a lack of supply to meet the demand. The concept of **induced demand** is often used as an argument against increasing roadway traffic capacity. I think this is misguided. The existance of latent demand is a sign that we should be striving to increase the supply of transportation capacity, and increase [Kinematic Range](#kinematic-range).
