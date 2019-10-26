@@ -646,6 +646,24 @@ Instead, we have:
   * roads with narrow lanes for narrow vehicles
   * density of [TODO]
 
+> "Above six storeys, significant extra costs are incurred in sprinkler systems, and after ten storeys, the need for enhanced fire escape provision means that the extra costs can only be recouped if storey heights push up above 15 storeys."[^roaf] &mdash; Susan Roaf
+
+> "For five Melbourne office buildings of the following heights: 3, 7, 15, 42 and 52 storeys, the two high-rise buildings were found to have approximately 60 per cent more energy embodied per unit gross floor area (GFA) in their materials than the low-rise buildings."[^roaf] &mdash; Susan Roaf
+
+|---
+| Height<br>in stories | GJ per square meter<br>gross floor area[^roaf] |
+|-:|-:|
+|  3 | 10.7
+|  7 | 11.9
+| 15 | 16.1
+| 42 | 18.0
+| 52 | 18.4
+|---
+
+> "Lifts also use a large amount of energy to run. For buildings that are largely served by lifts, you can add a rough figure of 5 to 15 per cent onto building energy running costs."[^roaf] &mdash; Susan Roaf
+
+> "In addition, there are higher operation and maintenance costs in taller buildings..."[^roaf] &mdash; Susan Roaf
+
 ### <a name="elevator"></a>(4.3) Elevator proposal
 
 A kinematic city has:
@@ -775,6 +793,8 @@ However, if you run the numbers, and run simulations, it turns out that getting 
 [^migrants]: ["Migration, Environment and Climate Change: Assessing the Evidence"](https://publications.iom.int/system/files/pdf/migration_and_environment.pdf). (PDF) _International Organization for Migration_. 2009.
 
 [^new-clark]: ["Resilient Growth: Building a Resilient City in the Philippines"](https://newcities.org/the-big-picture-resilient-growth-building-resilient-city-philippines/). _NewCities_. 2019.
+
+[^roaf]: ["The Sustainability of High Density"](), by Susan Roaf, Chapter 3 of ["Designing High-Density Cities"](), edited by Edward Ng
 
 [^sez]: ["Special economic zone"](https://en.wikipedia.org/wiki/Special_economic_zone). _Wikipedia_.
 
