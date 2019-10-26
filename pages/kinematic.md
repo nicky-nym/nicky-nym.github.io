@@ -61,11 +61,14 @@ The current market size for new city construction is large:
   * in the next 30 years, **another 2.5 billion people** will live cities
   * "averaged over the next thirty-five years, about a million and a half people will be urbanized each week ... the equivalent of another New York metropolitan area [every two months]"[^scale]
   * **120 new cities** are currently being built
+  * "China ... is on a fast track to build up to **three hundred new cities** each in excess of a million people over the next twenty to twenty-five years. ...  At the present rate it will be moving the equivalent of the entire U.S. population (more than 300 million people) to cities in the next twenty to twenty-five years."[^scale]
   * spending is somewhere between the high hundreds of billions of dollars, and the low trillions of dollars
   * real estate development projects now operate at a scale where it is possible to complete a coordinated, monolithic, **privately financed $10 billion construction project**
 
 > "We're going to develop more urban area in the next 100 years than currently exists on Earth"[^growth] 
 > &mdash; Paul Romer
+
+> "This will be by far the largest migration of human beings to have ever taken place on the planet ... The resulting challenges to the availability of energy and resources and the enormous stress on the social fabric across the globe are mind-boggling ... and the timescales to address them are very short."[^scale] &mdash; Geoffrey West
 
 ---
 
