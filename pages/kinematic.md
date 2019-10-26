@@ -631,6 +631,9 @@ Instead, we have
       * skateboards & electric skateboards
       * cute little delivery robots
 
+
+> "...the population in Wuhan is 8.3 million, much greater than that in Sheffield, at 0.6 million. ... For Wuhan, given that the number of vehicles per person is still much lower than that in Sheffield by tenfold ... it is very interesting to note that the average noise levels in all of the sampled areas are lower than those in Sheffield by 2dBA to 11dBA. ... In terms of L<sub>min</sub> and L<sub>90</sub> ... the difference is even greater -- for example, up to 15dBA in the area with a motorway."[^kang] &mdash; Jian Kang
+
 ### <a name="spatial-layout"></a>(4.2) Spatial layout proposal
 
 A kinematic city has:
@@ -703,6 +706,7 @@ However, if you run the numbers, and run simulations, it turns out that getting 
 | **Proximity to trees**<br>number of trees within 15 minutes | > 125,000 trees | > 125,000 trees |		
 | **Exercise while commuting**<br>minutes per day<br>(average per commuter) | 15 minutes<br>(if 3 of 4 bikes<br>are e-bikes) | 5 minutes | 	
 | **Air quality** | _really_ good | good 
+| **Noise levels** | slightly lower than<br>San Francisco | slightly more than<br>proposed city 
 | **ADA accessibility**<br>percent of total city floor space | 90% | ?
 | **Free-range kids** | yes | no		
 | **Power-outage impact**<br>on transit times | no bikeway lights<br>(just daylight/moonlight) | no BART<br>no traffic lights
@@ -779,6 +783,8 @@ However, if you run the numbers, and run simulations, it turns out that getting 
 [^induced_demand]: ["Induced demand"](https://en.wikipedia.org/wiki/Induced_demand). _Wikipedia_.
 
 [^jevons]: ["Jevons paradox"](https://en.wikipedia.org/wiki/Jevons_paradox). _Wikipedia_.
+
+[^kang]: ["Sound Environment: High- versus Low-Density Cities"], by Jian Kang, Chapter 12 of ["Designing High-Density Cities"](), edited by Edward Ng
 
 [^manhattan]: ["What's Manhattan's Land Worth? Try 'Canada's Entire GDP'"](https://www.citylab.com/life/2018/04/what-manhattans-land-is-worth/558776/). _CityLab_. 24 April 2018.
 
