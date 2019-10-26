@@ -63,7 +63,7 @@ The current market size for new city construction is large:
   * spending is somewhere between the high hundreds of billions of dollars, and the low trillions of dollars
   * real estate development projects now operate at a scale where it is possible to complete a coordinated, monolithic, **privately financed $10 billion construction project**
 
-> "We're going to develop more urban area in the next 100 years than currently exists on Earth_" 
+> "We're going to develop more urban area in the next 100 years than currently exists on Earth"[^growth] 
 > &mdash; Paul Romer
 
 ---
@@ -180,9 +180,9 @@ It is estimated that **by 2050**:
 
 "An estimated 2.4 billion people–40% of the world’s population–live in a coastal region and will likely be impacted by rising sea levels as a result of climate change."[^fast-company]
 
-Half of the urban area that will be needed by 2050 hasn't been built yet.[^growth]
+"Half of the urban area that will be needed [by 2050] hasn't been built yet."[^growth]
 
-> "we're going to develop more urban area in the next 100 years than currently exists on Earth"
+> "we're going to develop more urban area in the next 100 years than currently exists on Earth"[^growth]
 > &mdash; Paul Romer, Nobel prize-winning economist, New York University.
 
 As of 2018, **70 million people** were currently displaced by war, persecution and conflict. Of the total, 51 million were Internally Displaced People (IDPs), and 26 million were refugees (including **13 million refugee children**). Most refugees live in towns and cities, not rural areas or refugee camps. Nearly 4 in every 5 refugees are in displacement situations that have lasted for at least five years.[^displaced]
