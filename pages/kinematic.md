@@ -675,7 +675,7 @@ However, if you run the numbers, and run simulations, it turns out that getting 
 | **Cost of car ownership**<br>gas, insurance, repairs, payments, etc.<br>annual dollars per capita | $0 | $4,000 | $2,000
 | **Cost of bike ownership**<br>bicycles, mopeds, scooters, segways, trikes, etc.<br>annual dollars per capita | $1,000 | $100
 | **CO<sub>2</sub> footprint for transportation**<br>annual per capita | 1 kg | 2,000 kg | 1,000 kg
-| **Commute time**<br>minutes per day<br>(average per commuter) | 60 minutes | 60 minutes | 60 minutes |
+| **Commute time**<br>minutes per day<br>(average per commuter) | 60 minutes | 60 minutes | 76 minutes |
 | **Commute kinematic range**<br>square feet | 5 billion | 1.25 billion |   |
 | **Kinematic windfall**<br>wages, GDP, patents per capita, etc. | 1.3x | 1x |   |
 | **Proximity to friends**<br>number of neighbors within 15 minutes | 2 million<br>(without car) | 1 million<br>(requires car) |
