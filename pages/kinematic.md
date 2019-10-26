@@ -295,7 +295,7 @@ New cities create value, and demand.
 
 ### <a name="rules-of-thumb"></a>(2.1) Rules of thumb
 
-* <a name="marchetti"></a>The **Marchetti constant** says that people tend to travel about one hour a day. For people that commute to a job, the average commute is about 30 minutes each way. For people who aren't commuting, it is common to spend about an hour each day on other sorts of trips: chores, errands, appointments, etc. (The Marchetti constant is named for Cesare Marchetti, although it was really Yacov Zahavi who first wrote about it.) The one-hour number seems to be surprizingly consistent across different cities in different centuries, different cultures, and different continents, regardless of the different modes of travel used to commute. The one-hour constant is believed to have held true in:
+* <a name="marchetti"></a>The **Marchetti constant** says that **people tend to travel about one hour a day**. For people that commute to a job, the average commute is about 30 minutes each way. For people who aren't commuting, it is common to spend about an hour each day on other sorts of trips: chores, errands, appointments, etc. (The Marchetti constant is named for Cesare Marchetti, although **it was really Yacov Zahavi** who first wrote about it.) The one-hour number seems to be surprizingly consistent across different cities in different centuries, different cultures, and different continents, regardless of the different modes of travel used to commute. The one-hour constant is believed to have held true in:
   + Ancient Rome
   + Medieval Paris
   + Victorian London — steam train
@@ -304,12 +304,12 @@ New cities create value, and demand.
 
 > "Using data from cities across several countries, including the United States, England, Germany, and some developing nations, [Yacov] Zahavi discovered the surprising result that the total amount of time an average individual spends on travel each day is approximately the same regardless of the city size or the mode of transportation. ... we tend to spend about an hour each day traveling, whoever and wherever we are. ... the average commute time from home to work is about half an hour each way independent of the city or the means of transportation.
 > 
-> ... the increase in transportation speed resulting from the marvelous innovations of the past couple of hundred years has not been used to reduce commuting time but instead has been used to increase commuting distances. ... the size of cities has to some degree been determined by the efficiency of their transportation systems for delivering people to their workplaces in not much more than half an hour's time."[^scale] &mdash Geoffrey West
+> ... the increase in transportation speed resulting from the marvelous innovations of the past couple of hundred years has not been used to reduce commuting time but instead has been used to increase commuting distances. ... the size of cities has to some degree been determined by the efficiency of their transportation systems for delivering people to their workplaces in not much more than half an hour's time."[^scale] &mdash; Geoffrey West
 
 
 * <a name="jevons"></a>The **Jevons paradox**, or Jevons effect, says that if it becomes possible to use a resource more and more efficiently, then instead of using less of the resource, people actually use more. Total consumption increases because demand increases as efficiency drives the costs down.
 
-* <a name="induced-demand"></a>**Induced demand** says that as the supply of a resource increases, more of it will be consumed. If you add a new lane to a congested highway, it does not reduce congestion, but instead increases the total number of trips made. **Induced demand** might be better described as **latent demand**. The demand was actually there all along, there was just a lack of supply to meet the demand. The concept of **induced demand** is often used as an argument against increasing roadway traffic capacity. I think this is misguided. The existance of latent demand is a sign that we should be striving to increase the supply of transportation capacity, and increase [Kinematic Range](#kinematic-range).
+* <a name="induced-demand"></a>**Induced demand** says that as the supply of a resource increases, more of it will be consumed. If you add a new lane to a congested highway, it does not reduce congestion, but instead increases the total number of trips made. Induced demand might be better described as **latent demand**. The demand was actually there all along, there was just a lack of supply to meet the demand. The concept of induced demand is often used as an argument against increasing roadway traffic capacity. I think this is misguided. The existance of latent demand is a sign that we should be striving to increase the supply of transportation capacity, and increase [Kinematic Range](#kinematic-range).
 
 * <a name="feedback-loops"></a>**Feedback loops** will cause either vicious cycles and virtuous cycles in the amount of land area required for roads or other transportation networks.
   * Suburban vicious cycle
@@ -317,7 +317,7 @@ New cities create value, and demand.
   * Urban virtuous cycle
     * Dense urban core  ➔  shorter distances  ➔  less overhead
 
-* <a name="superlinear"></a>**15% superlinear scaling** is the phenomenon where if a city population grows by 100% (meaning it doubles in population size), then the economy of the city tends to grow by about 115% (meaning it more than doubles in size), so that there is effectively a 15% "bonus" in per-capita economic output for everyone in the city.[^scale] This 15% superlinear growth seems to apply to the whole physical and social metabolism of the city, rather than just the economic aspects of the city. The 15% surplus shows up in statistics about:
+* <a name="superlinear"></a>**15% superlinear scaling** is the phenomenon where if a city population grows by 100% (meaning it doubles in population size), then the economy of the city tends to grow by about 115% (meaning it **more than doubles** in size), so that there is effectively a 15% "bonus" in per-capita economic output for everyone in the city.[^scale] This 15% superlinear growth seems to apply to the whole physical and social metabolism of the city, rather than just the economic aspects of the city. The 15% surplus shows up in statistics about:
   * wages
   * wealth
   * patents
@@ -344,6 +344,7 @@ New cities create value, and demand.
 > it is hard to think about anything else."
 > &mdash; Robert Lucas, Nobel laureate in Economics 
 
+* <a name="sublinear"></a>**15% economies of scale** is the phenomenon where if a city population grows by 100% (meaning it doubles in population size), then the network of roads, electrical cables, and other supporting infrastructure of the city tends to grow by about 85% (meaning it **less than doubles** in size), so that there is effectively a 15% "bonus" economy of scale, both economically and environmentally.[^scale] 
 
 ### <a name="units-of-measure"></a>(2.2) Units of measure
 
