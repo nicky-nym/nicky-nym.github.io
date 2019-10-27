@@ -650,11 +650,9 @@ A kinematic city has:
     * no stop signs
     * no large intersections
     * no personal rapid transit, pods, people movers, or things with fixed stops
+  * **no freeways**, and no free roads
 
 Instead, we have
-  * **covered laneways**
-    * rain-sheltered pedestrian sidewalks
-    * rain-sheltered bike lanes
   * <a name="bikeish"></a>**bike-sized vehicles**
     * restrictions
       * narrow &mdash; not more than 36 inches wide, or 48 inches for licensed cargo vehicles
@@ -672,11 +670,24 @@ Instead, we have
       * hoverboards
       * skateboards & electric skateboards
       * cute little delivery robots
-
+  * **covered laneways**
+    * rain-sheltered pedestrian sidewalks
+    * rain-sheltered bike-sized lanes
+  * **laneway tolls** & **parking tolls**
+    * no tolls on laneways that aren't congested
+    * highest tolls at rush-hour, or on busy laneways
+    * tolls are per-minute, not per-mile
+    * free parking when space is ample
+    * highest parking tolls in congested areas
 
 > "...the population in Wuhan is 8.3 million, much greater than that in Sheffield, at 0.6 million. ... For Wuhan, given that the number of vehicles per person is still much lower than that in Sheffield by tenfold ... it is very interesting to note that the average noise levels in all of the sampled areas are lower than those in Sheffield by 2dBA to 11dBA. ... In terms of L<sub>min</sub> and L<sub>90</sub> ... the difference is even greater -- for example, up to 15dBA in the area with a motorway."[^kang] &mdash; Jian Kang
 
 > We see that bicycles provide a much higher road capacity at speeds below 15 km/h than any other mode of transport.[^bertaud]
+
+> In their 2009 book, aptly title Mobility First, Sam Staley and Adrian Moore describe in detail the cross-disciplinary reforms in road and urban transport design and in road pricing, among other things, that would be required to maintain mobility in cities in the twenty-first century.[^bertaud]
+
+> The rent charged should vary with the time of day, the location, the area, and the length of time the road is used. The rent charged for roads should be similar to the fares charged by airlines to passengers or the room rates charged by hotels, except that the rate would not be for a fixed 24 hours but for the number of minutes the roads are actually used.[^bertaud]
+
 
 |---
 | Throughput[^bertaud] | Vehicle type
@@ -835,10 +846,6 @@ However, if you run the numbers, and run simulations, it turns out that getting 
 * _[Velotopia](https://www.nai010.com/en/publicaties/velotopia/130528)_, by Steven Fleming
 
 ## TODO: Content to add
-
-> In their 2009 book, aptly title Mobility First, Sam Staley and Adrian Moore describe in detail the cross-disciplinary reforms in road and urban transport design and in road pricing, among other things, that would be required to maintain mobility in cities in the twenty-first century.[^bertaud]
-
-> The rent charged should vary with the time of day, the location, the area, and the length of time the road is used. The rent charged for roads should be similar to the fares charged by airlines to passengers or the room rates charged by hotels, except that the rate would not be for a fixed 24 hours but for the number of minutes the roads are actually used.[^bertaud]
 
 > The modes of urban mechanized transport that were already available at the beginning of the twentieth century have not changed much since then. The efficiency in using energy and the speed of cars, buses, and metros have certainly improved, but no new mode of urban transport has emerged. ... However, it is quite possible that during the next 20 years, we will see the emergence of completely new modes of transport. The possibilities presented by the combination of vehicle sharing and autonomous vehicles could completely revolutionize urban transport as we know it today.[^bertaud]
 
