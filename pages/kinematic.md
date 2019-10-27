@@ -692,7 +692,7 @@ Instead, we have
 |---
 | Throughput[^bertaud] | Vehicle type
 |-:|:-
-| in passengers<br>per hour<br>per lane<br>at about 15 km/h
+| passengers per hour per lane<br>at about 15 km/h
 | 1,000 | **Bus, M1**: 5 minutes headway
 | 1,600 | **cars**
 | 2,600 | **Bus 4 routes**: 1 minute 48 seconds headway
@@ -707,7 +707,7 @@ Instead, we have
 |---
 | CO2-e emissions[^bertaud] | Vehicle type
 |-:|:-
-| in grams per<br>passenger km
+| grams per passenger km
 | 151 | average US car
 |  26 | Nissan Leaf in California
 |   5 | Nissan Leaf in Sweden
