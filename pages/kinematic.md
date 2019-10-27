@@ -296,20 +296,22 @@ New cities create value, and demand.
 
 ### <a name="rules-of-thumb"></a>(2.1) Rules of thumb
 
-* <a name="marchetti"></a>The **Marchetti constant** says that **people tend to travel about one hour a day**. For people that commute to a job, the average commute is about 30 minutes each way. (The Marchetti constant is named for Cesare Marchetti, although **it was really Yacov Zahavi** who first wrote about it.) The one-hour number seems to be surprizingly consistent across different cities in different centuries, different cultures, and different continents, regardless of the different modes of travel used to commute. The one-hour constant is believed to have held true in:
+* <a name="marchetti"></a>The **Marchetti constant** says that **people tend to travel about one hour a day**. The Marchetti constant is named for Cesare Marchetti, although **it was really Yacov Zahavi** who first wrote about it.
+
+  For people that commute to a job, the average commute is about 30 minutes each way. For people who aren't commuting, it is common to spend about an hour each day on other sorts of trips: chores, errands, appointments, etc. 
+
+  > In the United States in 2013, commuting trips represented only 20 percent of weekday urban trips, 28 percent of vehicle kilometers traveled, and 39 percent of public transport passenger-kilometer traveled.[^bertaud]
+  
+  The one-hour number seems to be surprizingly consistent across different cities in different centuries, different cultures, and different continents, regardless of the different modes of travel used to commute. The one-hour constant is believed to have held true in:
   + Ancient Rome
   + Medieval Paris
   + Victorian London — steam train
   + New York — subway
   + Los Angles — car 
 
-  For people who aren't commuting, it is common to spend about an hour each day on other sorts of trips: chores, errands, appointments, etc. 
-
-  > In the United States in 2013, commuting trips represented only 20 percent of weekday urban trips, 28 percent of vehicle kilometers traveled, and 39 percent of public transport passenger-kilometer traveled.[^bertaud]
-
-> "Using data from cities across several countries, including the United States, England, Germany, and some developing nations, [Yacov] Zahavi discovered the surprising result that the total amount of time an average individual spends on travel each day is approximately the same regardless of the city size or the mode of transportation. ... we tend to spend about an hour each day traveling, whoever and wherever we are. ... the average commute time from home to work is about half an hour each way independent of the city or the means of transportation.
-> 
-> ... the increase in transportation speed resulting from the marvelous innovations of the past couple of hundred years has not been used to reduce commuting time but instead has been used to increase commuting distances. ... the size of cities has to some degree been determined by the efficiency of their transportation systems for delivering people to their workplaces in not much more than half an hour's time."[^scale] &mdash; Geoffrey West
+  > "Using data from cities across several countries, including the United States, England, Germany, and some developing nations, [Yacov] Zahavi discovered the surprising result that the total amount of time an average individual spends on travel each day is approximately the same regardless of the city size or the mode of transportation. ... we tend to spend about an hour each day traveling, whoever and wherever we are. ... the average commute time from home to work is about half an hour each way independent of the city or the means of transportation.
+  > 
+  > ... the increase in transportation speed resulting from the marvelous innovations of the past couple of hundred years has not been used to reduce commuting time but instead has been used to increase commuting distances. ... the size of cities has to some degree been determined by the efficiency of their transportation systems for delivering people to their workplaces in not much more than half an hour's time."[^scale] &mdash; Geoffrey West
 
 * <a name="jevons"></a>The **Jevons paradox**, or Jevons effect, says that if it becomes possible to use a resource more and more efficiently, then instead of using less of the resource, people actually use more. Total consumption increases because demand increases as efficiency drives the costs down.
 
@@ -323,7 +325,7 @@ New cities create value, and demand.
 
 * <a name="linear"></a>**linear scaling** says that if a city doubles in size, many measurable characteristics of the city, such as the number of businesses, also double in size.
 
-> "Double the size of a city and on average you'll find twice as many businesses. The proportionality constant is 21.6, meaning that there is approximately one establishment for about every 22 people in a city, regardless of the city size. Or to put it slightly differently, on average a new workplace is created each time the population of a city increases by just 22 people. ... on average, there are only about 8 employees for every establishment, again regardless of the size of city."[^scale] &mdash; Geoffrey West
+  > "Double the size of a city and on average you'll find twice as many businesses. The proportionality constant is 21.6, meaning that there is approximately one establishment for about every 22 people in a city, regardless of the city size. Or to put it slightly differently, on average a new workplace is created each time the population of a city increases by just 22 people. ... on average, there are only about 8 employees for every establishment, again regardless of the size of city."[^scale] &mdash; Geoffrey West
 
 * <a name="superlinear"></a>**15% superlinear scaling** is the phenomenon where if a city population grows by 100% (meaning it doubles in population size), then the economy of the city tends to grow by about 115% (meaning it **more than doubles** in size), so that there is effectively a 15% "bonus" in per-capita economic output for everyone in the city.[^scale] This 15% superlinear growth seems to apply to the whole physical and social metabolism of the city, rather than just the economic aspects of the city. The 15% surplus shows up in statistics about:
   * wages
@@ -334,7 +336,7 @@ New cities create value, and demand.
   * restaurants
   * variety of business services available (meaning, how long the "long tail" of the city is)
 
-> "... it's illuminating to ask how many different types of businesses there are in a city. ... The data confirm that diversity systematically increases with poplution size. ... an extrapolation of the data strongly suggests that if we could measure diversity to the finest possible resolution it would scale logarithmically with city size."[^scale] &mdash; Geoffrey West
+  > "... it's illuminating to ask how many different types of businesses there are in a city. ... The data confirm that diversity systematically increases with poplution size. ... an extrapolation of the data strongly suggests that if we could measure diversity to the finest possible resolution it would scale logarithmically with city size."[^scale] &mdash; Geoffrey West
 
 |---
 | City Population | Average Hourly Wage | Superlinear Scale Factor |
@@ -350,14 +352,14 @@ New cities create value, and demand.
 | 10 million | $49 | (+15%)^4 above $28
 |---
 
-> Economic literature linking the wealth of cities to spatial concentrations is quite abundant and is no longer controversial in academic circles. ... The 2009 World Bank Development Report "Reshaping Economic Geography," and the report of the Commission on Growth and Development "Urbanization and Growth" (published the same year) exhaustively summarize and document the theoretical and empirical arguments justifying the economic advantage provided by the spatial concentration of economic activities in large cities.[^bertaud]
-> &mdash; Alain Bertaud
+  > Economic literature linking the wealth of cities to spatial concentrations is quite abundant and is no longer controversial in academic circles. ... The 2009 World Bank Development Report "Reshaping Economic Geography," and the report of the Commission on Growth and Development "Urbanization and Growth" (published the same year) exhaustively summarize and document the theoretical and empirical arguments justifying the economic advantage provided by the spatial concentration of economic activities in large cities.[^bertaud]
+  > &mdash; Alain Bertaud
 
 * <a name="sublinear"></a>**15% economies of scale** is the phenomenon where if a city population grows by 100% (meaning it doubles in population size), then the network of roads, electrical cables, and other supporting infrastructure of the city tends to grow by about 85% (meaning it **less than doubles** in size), so that there is effectively a 15% "bonus" economy of scale, both economically and environmentally.[^scale] 
 
-> "Once one starts to think about (the causes of economic growth),
-> it is hard to think about anything else."
-> &mdash; Robert Lucas, Nobel laureate in Economics 
+  > "Once one starts to think about (the causes of economic growth),
+  > it is hard to think about anything else."
+  > &mdash; Robert Lucas, Nobel laureate in Economics 
 
 
 ### <a name="units-of-measure"></a>(2.2) Units of measure
