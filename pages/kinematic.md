@@ -327,7 +327,7 @@ New cities create value, and demand.
   * Urban virtuous cycle
     * Dense urban core  ➔  shorter distances  ➔  less overhead
 
-* <a name="linear"></a>**linear scaling** says that if a city doubles in size, many measurable characteristics of the city, such as the number of businesses, also double in size.
+* <a name="linear"></a>**Linear scaling** says that if a city doubles in size, many measurable characteristics of the city, such as the number of businesses, also double in size.
 
   > "Double the size of a city and on average you'll find twice as many businesses. The proportionality constant is 21.6, meaning that there is approximately one establishment for about every 22 people in a city, regardless of the city size. Or to put it slightly differently, on average a new workplace is created each time the population of a city increases by just 22 people. ... on average, there are only about 8 employees for every establishment, again regardless of the size of city."[^scale] &mdash; Geoffrey West
 
@@ -364,6 +364,12 @@ New cities create value, and demand.
   > "Once one starts to think about (the causes of economic growth),
   > it is hard to think about anything else."
   > &mdash; Robert Lucas, Nobel laureate in Economics 
+
+* <a name="zoning"></a>**TODO: need a name for these notes on zoning, scale, etc.** 
+
+  > In a paper published in 2015, the economists Chang-Tai Hsieh and Enrico Moretti found that, between 1964 and 2009, the high cost of housing in some US cities relative to wages had lowered aggregate US GDP by 13.5 percent: "Most of the loss was likely caused by increased constraints to housing supply in high productivity cities like New York, San Francisco and San Jose. Lowering regulatory constraints in these cities to the level of the median city would expand their work force and increase U.S. GDP by 9.5%.[^bertaud]
+
+  > City clusters already exist of course, like the Randstad in the Netherlands, which links Amsterdam, Rotterdam, The Hague, and Utrecht. The urban development around San Francisco Bay could also be considered a city cluster. What is different with the Chinese concept of cluster is their scale. The Randstad connects only 7 million people, while San Francisco Bay (including Silicon Valley) has only 6.2 million people. By contrast, the urban cluster of the Pearl River Delta already had 65 million people in 2010, larger than the entire population of the United Kingdom but concentrated on less than 10,000 square kilometers! The recent urban cluster including Beijing-Tianjin-Hebei links together more than 105 million people.[^bertaud]
 
 
 ### <a name="units-of-measure"></a>(2.2) Units of measure
@@ -875,9 +881,6 @@ The kinematic city **ramp-only** design:
 
 ## TODO: Content to add
 
-> The modes of urban mechanized transport that were already available at the beginning of the twentieth century have not changed much since then. The efficiency in using energy and the speed of cars, buses, and metros have certainly improved, but no new mode of urban transport has emerged. ... However, it is quite possible that during the next 20 years, we will see the emergence of completely new modes of transport. The possibilities presented by the combination of vehicle sharing and autonomous vehicles could completely revolutionize urban transport as we know it today.[^bertaud]
-
-
 |---
 | Built-up area<br>square meters<br>per person<br>in 2014[^bertaud] | Region
 |-:|:-
@@ -891,9 +894,6 @@ The kinematic city **ramp-only** design:
 | 426 | Land-rich developed countries
 |---
 
-> In a paper published in 2015, the economists Chang-Tai Hsieh and Enrico Moretti found that, between 1964 and 2009, the high cost of housing in some US cities relative to wages had lowered aggregate US GDP by 13.5 percent: "Most of the loss was likely caused by increased constraints to housing supply in high productivity cities like New York, San Francisco and San Jose. Lowering regulatory constraints in these cities to the level of the median city would expand their work force and increase U.S. GDP by 9.5%.[^bertaud]
-
-> City clusters already exist of course, like the Randstad in the Netherlands, which links Amsterdam, Rotterdam, The Hague, and Utrecht. The urban development around San Francisco Bay could also be considered a city cluster. What is different with the Chinese concept of cluster is their scale. The Randstad connects only 7 million people, while San Francisco Bay (including Silicon Valley) has only 6.2 million people. By contrast, the urban cluster of the Pearl River Delta already had 65 million people in 2010, larger than the entire population of the United Kingdom but concentrated on less than 10,000 square kilometers! The recent urban cluster including Beijing-Tianjin-Hebei links together more than 105 million people.[^bertaud]
 
 ## References
 
