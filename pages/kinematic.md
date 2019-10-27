@@ -98,6 +98,10 @@ The current market size for new city construction is large:
    * [Transportation proposal](#transportation)
    * [Spatial layout proposal](#spatial-layout)
    * [Elevator proposal](#elevator)
+1. **[Design reasoning](#design-reasoning)** &mdash; why pick those design choices?
+   * [Transportation reasoning](#transportation-reasoning)
+   * [Spatial layout reasoning](#spatial-layout-reasoning)
+   * [Elevator reasoning](#elevator-reasoning)
 1. **[Comparisons](#better-outcomes)** &mdash; San Francisco vs. Proposed Kinematic City
 
 ---
@@ -680,6 +684,42 @@ Instead, we have
     * free parking when space is ample
     * highest parking tolls in congested areas
 
+
+
+### <a name="spatial-layout"></a>(4.2) Spatial layout proposal
+
+A kinematic city has:
+  * no single-story ranch houses and no other single-story buildings
+  * no skyscrapers and no high-rise residential buildings
+  * no suburban sprawl
+  * no highways
+  * no roads with lanes wide enough for cars and trucks
+
+Instead, we have: 
+  * mid-rise buildings of about six stories, similar to Paris
+  * row-houses and "walk-up" apartments
+  * roads with narrow lanes for narrow vehicles
+  * density of [TODO]
+
+
+
+### <a name="elevator"></a>(4.3) Elevator proposal
+
+A kinematic city has:
+  * **no elevators**
+  * **no stairways**, no stairs, and no steps
+  * **no escalators**
+
+The only way to go "upstairs" or "downstairs" in a kinematic city is by using
+  * sloped hallways
+  * sloped sidewalks
+  * sloped bike paths
+  * flights of wheelchair ramps
+
+## <a name="design-reasoning"></a>(5) Design reasoning &mdash; why pick those design choices?
+
+### <a name="transportation-reasoning"></a>(5.1) Transportation reasoning
+
 > "...the population in Wuhan is 8.3 million, much greater than that in Sheffield, at 0.6 million. ... For Wuhan, given that the number of vehicles per person is still much lower than that in Sheffield by tenfold ... it is very interesting to note that the average noise levels in all of the sampled areas are lower than those in Sheffield by 2dBA to 11dBA. ... In terms of L<sub>min</sub> and L<sub>90</sub> ... the difference is even greater -- for example, up to 15dBA in the area with a motorway."[^kang] &mdash; Jian Kang
 
 > We see that bicycles provide a much higher road capacity at speeds below 15 km/h than any other mode of transport.[^bertaud]
@@ -717,20 +757,7 @@ Instead, we have
 
 > The emergence of small footprint, on-demand, shared vehicles ... will change the way urban transport is organized. The pattern of roads and arterials may also change to adapt to these new modes of urban transport. Instead of concentric traffic on a few high-capacity highways or arterials, numerous smaller low-capacity roads would allow the flexibility required by trips from dispersed origins to dispersed destinations.[^bertaud]
 
-### <a name="spatial-layout"></a>(4.2) Spatial layout proposal
-
-A kinematic city has:
-  * no single-story ranch houses and no other single-story buildings
-  * no skyscrapers and no high-rise residential buildings
-  * no suburban sprawl
-  * no highways
-  * no roads with lanes wide enough for cars and trucks
-
-Instead, we have: 
-  * mid-rise buildings of about six stories, similar to Paris
-  * row-houses and "walk-up" apartments
-  * roads with narrow lanes for narrow vehicles
-  * density of [TODO]
+### <a name="spatial-layout-reasoning"></a>(5.2) Spatial layout reasoning
 
 > "Above six storeys, significant extra costs are incurred in sprinkler systems, and after ten storeys, the need for enhanced fire escape provision means that the extra costs can only be recouped if storey heights push up above 15 storeys."[^roaf] &mdash; Susan Roaf
 
@@ -748,28 +775,29 @@ Instead, we have:
 
 > "In addition, there are higher operation and maintenance costs in taller buildings..."[^roaf] &mdash; Susan Roaf
 
-### <a name="elevator"></a>(4.3) Elevator proposal
+### <a name="elevator-reasoning"></a>(5.3) Elevator reasoning
 
-A kinematic city has:
-  * **no elevators**
-  * **no stairways**, no stairs, and no steps
-  * **no escalators**
+The idea of having **no stairs** and **no elevators** sounds crazy to most people when they first hear it, because it's so different from all the normal buildings and cities that we're used to.
 
-The only way to go "upstairs" or "downstairs" in a kinematic city is by using
-  * sloped hallways
-  * sloped sidewalks
-  * sloped bike paths
-  * flights of wheelchair ramps
+However, if you run the numbers, and run simulations, it turns out that getting rid of elevators and stairs works out just fine. Instead of making it harder to get places, having no elevators makes it **faster** to get between any two random locations. 
 
-This idea sounds crazy to most people when they first hear it, because it's so different from all the normal buildings and cities that we're used to.
-
-However, if you run the numbers, and run simulations, it turns out that getting rid of elevators and stairs works out just fine. Instead of making it harder to get places, having no elevators makes it **faster** to get between any two random locations. Plus this design is greener, works better after a natural disaster, can be built more quickly, is less expensive to build, and is less expensive to maintain.
+The kinematic city **ramp-only** design:
+* is faster and more convenient for people in wheelchairs, and people with strollers
+* is faster for everybody else too
+* works better for delivery robots
+* works better after a natural disaster
+* takes up less space in the building
+* can be built more quickly
+* is less expensive to build
+* is less expensive to operate
+* is less expensive to maintain
+* has a smaller carbon footprint
 
 > "Lifts also use a large amount of energy to run. For buildings that are largely served by lifts, you can add a rough figure of 5 to 15 per cent onto building energy running costs."[^roaf] &mdash; Susan Roaf
 
 > In the Seagram building (which has 38 floors), the area used for elevators and utility shafts occupies 31 percent of the area of a typical floor.[^bertaud]
 
-## <a name="better-outcomes"></a>(5) Comparisons &mdash; San Francisco vs. Proposed Kinematic City
+## <a name="better-outcomes"></a>(6) Comparisons &mdash; San Francisco vs. Proposed Kinematic City
 
 |---
 |  | Proposed Kinematic City | San Francisco | New York |
