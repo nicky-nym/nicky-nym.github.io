@@ -99,10 +99,10 @@ The current market size for new city construction is large:
    * [Transportation proposal](#transportation)
    * [Spatial layout proposal](#spatial-layout)
    * [Elevator proposal](#elevator)
-1. **[Design reasoning](#design-reasoning)** &mdash; why pick those design choices?
-   * [Transportation reasoning](#transportation-reasoning)
-   * [Spatial layout reasoning](#spatial-layout-reasoning)
-   * [Elevator reasoning](#elevator-reasoning)
+1. **[Design notes](#design-notes)** &mdash; why pick those design choices?
+   * [Transportation notes](#transportation-notes)
+   * [Spatial layout notes](#spatial-layout-notes)
+   * [Elevator notes](#elevator-notes)
 1. **[Comparisons](#better-outcomes)** &mdash; San Francisco vs. Proposed Kinematic City
 
 ---
@@ -736,9 +736,9 @@ The only way to go "upstairs" or "downstairs" in a kinematic city is by using
   * sloped bike paths
   * flights of wheelchair ramps
 
-## <a name="design-reasoning"></a>(5) Design reasoning &mdash; why pick those design choices?
+## <a name="design-notes"></a>(5) Design notes &mdash; why pick those design choices?
 
-### <a name="transportation-reasoning"></a>(5.1) Transportation reasoning
+### <a name="transportation-notes"></a>(5.1) Transportation notes
 
 > "...the population in Wuhan is 8.3 million, much greater than that in Sheffield, at 0.6 million. ... For Wuhan, given that the number of vehicles per person is still much lower than that in Sheffield by tenfold ... it is very interesting to note that the average noise levels in all of the sampled areas are lower than those in Sheffield by 2dBA to 11dBA. ... In terms of L<sub>min</sub> and L<sub>90</sub> ... the difference is even greater -- for example, up to 15dBA in the area with a motorway."[^kang] &mdash; Jian Kang
 
@@ -777,7 +777,7 @@ The only way to go "upstairs" or "downstairs" in a kinematic city is by using
 
 > The emergence of small footprint, on-demand, shared vehicles ... will change the way urban transport is organized. The pattern of roads and arterials may also change to adapt to these new modes of urban transport. Instead of concentric traffic on a few high-capacity highways or arterials, numerous smaller low-capacity roads would allow the flexibility required by trips from dispersed origins to dispersed destinations.[^bertaud]
 
-### <a name="spatial-layout-reasoning"></a>(5.2) Spatial layout reasoning
+### <a name="spatial-layout-notes"></a>(5.2) Spatial layout notes
 
 > "Above six storeys, significant extra costs are incurred in sprinkler systems, and after ten storeys, the need for enhanced fire escape provision means that the extra costs can only be recouped if storey heights push up above 15 storeys."[^roaf] &mdash; Susan Roaf
 
@@ -795,7 +795,7 @@ The only way to go "upstairs" or "downstairs" in a kinematic city is by using
 
 > "In addition, there are higher operation and maintenance costs in taller buildings..."[^roaf] &mdash; Susan Roaf
 
-### <a name="elevator-reasoning"></a>(5.3) Elevator reasoning
+### <a name="elevator-notes"></a>(5.3) Elevator notes
 
 The idea of having **no stairs** and **no elevators** sounds crazy to most people when they first hear it, because it's so different from all the normal buildings and cities that we're used to.
 
