@@ -779,6 +779,8 @@ However, if you run the numbers, and run simulations, it turns out that getting 
 
 ## References
 
+[^bertaud]: _[Order without Design](https://mitpress.mit.edu/books/order-without-design): How Markets Shape Cities_, by Alain Bertaud
+
 [^bienkowski]: ["We're building the equivalent of Paris every week. That's a problem."](https://www.dailyclimate.org/building-industry-climate-change-carbon-footprint-2516418302.html). Brian Bienkowski, _The Daily Climate_. 11 Dec 2017.
 
 [^bloomberg]: ["Africa’s Cities Are About to Boom – and Maybe Explode"](https://www.bloomberg.com/opinion/articles/2019-07-25/africa-s-cities-are-about-to-boom-and-maybe-explode). _Bloomberg_. 25 July 2019.
@@ -832,6 +834,71 @@ However, if you run the numbers, and run simulations, it turns out that getting 
 [^west]: ["The Origins of Scaling in Cities"](), by Luis Bettencourt & Geoffrey West at the Santa Fe Institute. _Science (volume 340, issue 6139, page 1438)_. 21 June 2013.
 
 [^yang]: ["Andrew Yang’s plan to tackle climate change, explained"](https://www.vox.com/future-perfect/2019/8/26/20833263/andrew-yang-climate-plan). _Vox.com_. 26 August 2019.
+
+## TODO: Content to add
+
+> Economic literature linking the wealth of cities to spatial concentrations is quite abundant and is no longer controversial in academic circles. ... The 2009 World Bank Development Report "Reshaping Economic Geography," and the report of the Commission on Growth and Development "Urbanization and Growth" (published the same year) exhaustively summarize and document the theoretical and empirical arguments justifying the economic advantage provided by the spatial concentration of economic activities in large cities.[^bertaud]
+
+> In their 2009 book, aptly title Mobility First, Sam Staley and Adrian Moore describe in detail the cross-disciplinary reforms in road and urban transport design and in road pricing, among other things, that would be required to maintain mobility in cities in the twenty-first century.[^bertaud]
+
+> Prud'homme and Lee's paper, titled "Size, Sprawl, Speed and the Efficiency of Cities," shows that productivity per worker is closely correlated to the average number of jobs per worker that are reachable in less than 60 minutes. In Korean cities, a 10 percent increase in the number of jobs accessible per worker corresponds to a 2.4 percent increase in workers' productivity.[^bertaud]
+
+> In the United States in 2013, commuting trips represented only 20 percent of weekday urban trips, 28 percent of vehicle kilometers traveled, and 39 percent of public transport passenger-kilometer traveled.[^bertaud]
+
+> The modes of urban mechanized transport that were already available at the beginning of the twentieth century have not changed much since then. The efficiency in using energy and the speed of cars, buses, and metros have certainly improved, but no new mode of urban transport has emerged. ... However, it is quite possible that during the next 20 years, we will see the emergence of completely new modes of transport. The possibilities presented by the combination of vehicle sharing and autonomous vehicles could completely revolutionize urban transport as we know it today.[^bertaud]
+
+> We see that bicycles provide a much higher road capacity at speeds below 15 km/h than any other mode of transport.[^bertaud]
+
+|---
+| passengers<br>per hour<br>per lane<br>at about 15 km/h | Vehicle |
+|-:|:-:|:-:|:-:|:-:
+| 1,000 | M1 bus: 5 minutes headway | 
+|  1,600 | cars
+|  2,600 |  Bus 4 routes: 1 minute 48 seconds headway
+|  2,800 |  motorcycles
+|  5,500 |  bicycles on entire lane width[^bertaud]
+|---
+
+> Because of their higher speed an increased comfort, electric bicycles, where they are authorized (as in Chengdu, China), could meaningfully compete with buses or cars as a means of commuting in larger cities.[^bertaud]
+
+> By contrast, compared to the motorcycle, compact Smart car performance (except for energy use) in terms of road capacity is not much better than that of an ordinary car. ... The width of the vehicle, not its length, is the important parameter to consider when trying to reduce street area consumption.[^bertaud]
+
+> The rent charged should vary with the time of day, the location, the area, and the length of time the road is used. The rent charged for roads should be similar to the fares charged by airlines to passengers or the room rates charged by hotels, except that the rate would not be for a fixed 24 hours but for the number of minutes the roads are actually used.[^bertaud]
+
+CO2-e emissions 
+151 grams per passenger km for average US car
+ 26 grams per passenger km for Nissan Leaf in California
+  5 grams per passenger km for Nissan Leaf in Sweden
+ 67 grams per passenger km for New York subway
+180 grams per passenger km for US urban bus[^bertaud]
+
+> The emergence of small footprint, on-demand, shared vehicles ... will change the way urban transport is organized. The pattern of roads and arterials may also change to adapt to these new modes of urban transport. Instead of concentric traffic on a few high-capacity highways or arterials, numerous smaller low-capacity roads would allow the flexibility required by trips from dispersed origins to dispersed destinations.[^bertaud]
+
+> the price of construction for an apartment fully equipped with kitchen and bathrooms may cost several thousand US dollars per square meter (about US$2,500 per square meter in New York in 2013 for residential buildings three to seven stories tall).[^bertaud]
+
+> In the lowest-income countries, where construction is the cheapest, households would need to be able to afford at least US$6,000 for a studio of 12 square meters; US$6,000 is the global market commodity price for the basic construction materials of concrete and steel required to build 12 square meters.[^bertaud]
+
+> In a paper published in 2015, the economists Chang-Tai Hsieh and Enrico Moretti found that, between 1964 and 2009, the high cost of housing in some US cities relative to wages had lowered aggregate US GDP by 13.5 percent: "Most of the loss was likely caused by increased constraints to housing supply in high productivity cities like New York, San Francisco and San Jose. Lowering regulatory constraints in these cities to the level of the median city would expand their work force and increase U.S. GDP by 9.5%.[^bertaud]
+
+"Examples of floor area ratio (FAR) values in various cities:
+0.3 in US cities' suburbs
+3.5 in Historical Paris
+4-10 for Manhattan residential
+15 for Manhattan office buildings
+25 for Singapore highest FAR"
+In the Seagram building [which has 38 floors], the area used for elevators and utility shafts occupies 31 percent of the area of a typical floor.[^bertaud]
+
+Built-up area per person (square meters) in 2014:
+47 in South and Central Asia
+76 in Southeast Asia
+91 in Western Asia and North Africa
+95 in Sub-Saharan Africa
+100 in Latin America and the Caribbean
+126 in East Asia and the Pacific
+162 in Europe and Japan
+426 in Land-rich developed countries"[^bertaud]
+
+> City clusters already exist of course, like the Randstad in the Netherlands, which links Amsterdam, Rotterdam, The Hague, and Utrecht. The urban development around San Francisco Bay could also be considered a city cluster. What is different with the Chinese concept of cluster is their scale. The Randstad connects only 7 million people, while San Francisco Bay (including Silicon Valley) has only 6.2 million people. By contrast, the urban cluster of the Pearl River Delta already had 65 million people in 2010, larger than the entire population of the United Kingdom but concentrated on less than 10,000 square kilometers! The recent urban cluster including Beijing-Tianjin-Hebei links together more than 105 million people.[^bertaud]
 
 
 
