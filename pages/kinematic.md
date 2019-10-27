@@ -91,8 +91,9 @@ The current market size for new city construction is large:
    * [Kinematic windfall](#kinematic-booster-effect)
 1. **[What we want](#work-better)** &mdash; things that should work better
    * [Design goals](#design-goals)
-   * [Design constraints](#design-constraints)
    * [Design goal implications](#design-implications)
+   * [Constraints](#design-constraints)
+   * [Construction costs](#construction-costs)
 1. **[Design proposal](#design-choices)** &mdash; a design that works better
    * [Transportation proposal](#transportation)
    * [Spatial layout proposal](#spatial-layout)
@@ -295,12 +296,16 @@ New cities create value, and demand.
 
 ### <a name="rules-of-thumb"></a>(2.1) Rules of thumb
 
-* <a name="marchetti"></a>The **Marchetti constant** says that **people tend to travel about one hour a day**. For people that commute to a job, the average commute is about 30 minutes each way. For people who aren't commuting, it is common to spend about an hour each day on other sorts of trips: chores, errands, appointments, etc. (The Marchetti constant is named for Cesare Marchetti, although **it was really Yacov Zahavi** who first wrote about it.) The one-hour number seems to be surprizingly consistent across different cities in different centuries, different cultures, and different continents, regardless of the different modes of travel used to commute. The one-hour constant is believed to have held true in:
+* <a name="marchetti"></a>The **Marchetti constant** says that **people tend to travel about one hour a day**. For people that commute to a job, the average commute is about 30 minutes each way. (The Marchetti constant is named for Cesare Marchetti, although **it was really Yacov Zahavi** who first wrote about it.) The one-hour number seems to be surprizingly consistent across different cities in different centuries, different cultures, and different continents, regardless of the different modes of travel used to commute. The one-hour constant is believed to have held true in:
   + Ancient Rome
   + Medieval Paris
   + Victorian London — steam train
   + New York — subway
   + Los Angles — car 
+
+  For people who aren't commuting, it is common to spend about an hour each day on other sorts of trips: chores, errands, appointments, etc. 
+
+  > In the United States in 2013, commuting trips represented only 20 percent of weekday urban trips, 28 percent of vehicle kilometers traveled, and 39 percent of public transport passenger-kilometer traveled.[^bertaud]
 
 > "Using data from cities across several countries, including the United States, England, Germany, and some developing nations, [Yacov] Zahavi discovered the surprising result that the total amount of time an average individual spends on travel each day is approximately the same regardless of the city size or the mode of transportation. ... we tend to spend about an hour each day traveling, whoever and wherever we are. ... the average commute time from home to work is about half an hour each way independent of the city or the means of transportation.
 > 
@@ -447,6 +452,8 @@ This next section is conjectural, so please evaluate it more skeptically.
 
 [Kinematic range](#kinematic-range) almost always increases as cities get bigger. I believe that increase in kinematic range is what drives the [15% superlinear scaling](#superlinear) effect.
 
+> Prud'homme and Lee's paper, titled "Size, Sprawl, Speed and the Efficiency of Cities," shows that productivity per worker is closely correlated to the average number of jobs per worker that are reachable in less than 60 minutes. In Korean cities, a 10 percent increase in the number of jobs accessible per worker corresponds to a 2.4 percent increase in workers' productivity.[^bertaud]
+
 As a city grows, at first, kinematic range increases as population increases, perhaps in a roughly linear relationship. Unfortunately, as cities get too big, they start to sprawl and suffer from traffic congestion. Eventually, there's a **kinematic lag**, where the kinematic range stops its 1-to-1 tracking of population growth, and begins to lag behind.
 
 This whole kinematic cities proposal is all about trying to reduce that kinematic lag in larger cities. The proposed kinematic city design is an attempt to keep increasing a city's kinematic range even as it's population grows in the millions.
@@ -550,21 +557,7 @@ Building from scratch has it's own challanges, and is also crazy expensive, but 
 > New Clark City will serve as the government’s continuity hub, disaster and risk recovery 
 > center – an alternative capital city in case a disaster strikes Manila"[^new-clark]
 
-### <a name="design-constraints"></a>(3.2) Design constraints
-
-+ engineering constraints
-  - daylight available — arctic circle, seattle rain
-  - transportation modes available — hyperloop, flying cars
-+ market constraints
-  - construction costs
-  - land prices
-+ civic constraints
-  - zoning
-  - environmental review
-
-
-
-### <a name="design-implications"></a>(3.3) Design goal implications
+### <a name="design-implications"></a>(3.2) Design goal implications
 
   
 #### <a name="airiness"></a>airiness &mdash; sun, air, trees
@@ -599,6 +592,25 @@ Building from scratch has it's own challanges, and is also crazy expensive, but 
 |                              | keep traffic flowing       | no stop lights <br> no multi-lane traffic circles
 |                              | don't squander land area   | no single-story buildings <br> no parking spaces <br> no private suburban lawns <br> use 4 or 5 foot wide lanes, not 10 or 12 foot wide lines
 |                              | don't squander floor space | avoid redundant hallways, stairs, or elevators <br> no empty rooftops
+
+### <a name="design-constraints"></a>(3.3) Design constraints
+
++ engineering constraints
+  - daylight available — arctic circle, seattle rain
+  - transportation modes available — hyperloop, flying cars
++ market constraints
+  - construction costs
+  - land prices
++ civic constraints
+  - zoning
+  - environmental review
+
+### <a name="construction-costs"></a>(3.4) Construction costs
+
+> "the price of construction for an apartment fully equipped with kitchen and bathrooms may cost several thousand US dollars per square meter (about US$2,500 per square meter in New York in 2013 for residential buildings three to seven stories tall)."[^bertaud]
+
+> "In the lowest-income countries, where construction is the cheapest, households would need to be able to afford at least US$6,000 for a studio of 12 square meters; US$6,000 is the global market commodity price for the basic construction materials of concrete and steel required to build 12 square meters."[^bertaud]
+
 
 ---
 
@@ -792,10 +804,6 @@ However, if you run the numbers, and run simulations, it turns out that getting 
 
 > In their 2009 book, aptly title Mobility First, Sam Staley and Adrian Moore describe in detail the cross-disciplinary reforms in road and urban transport design and in road pricing, among other things, that would be required to maintain mobility in cities in the twenty-first century.[^bertaud]
 
-> Prud'homme and Lee's paper, titled "Size, Sprawl, Speed and the Efficiency of Cities," shows that productivity per worker is closely correlated to the average number of jobs per worker that are reachable in less than 60 minutes. In Korean cities, a 10 percent increase in the number of jobs accessible per worker corresponds to a 2.4 percent increase in workers' productivity.[^bertaud]
-
-> In the United States in 2013, commuting trips represented only 20 percent of weekday urban trips, 28 percent of vehicle kilometers traveled, and 39 percent of public transport passenger-kilometer traveled.[^bertaud]
-
 > The modes of urban mechanized transport that were already available at the beginning of the twentieth century have not changed much since then. The efficiency in using energy and the speed of cars, buses, and metros have certainly improved, but no new mode of urban transport has emerged. ... However, it is quite possible that during the next 20 years, we will see the emergence of completely new modes of transport. The possibilities presented by the combination of vehicle sharing and autonomous vehicles could completely revolutionize urban transport as we know it today.[^bertaud]
 
 > We see that bicycles provide a much higher road capacity at speeds below 15 km/h than any other mode of transport.[^bertaud]
@@ -830,9 +838,6 @@ However, if you run the numbers, and run simulations, it turns out that getting 
 
 > The emergence of small footprint, on-demand, shared vehicles ... will change the way urban transport is organized. The pattern of roads and arterials may also change to adapt to these new modes of urban transport. Instead of concentric traffic on a few high-capacity highways or arterials, numerous smaller low-capacity roads would allow the flexibility required by trips from dispersed origins to dispersed destinations.[^bertaud]
 
-> the price of construction for an apartment fully equipped with kitchen and bathrooms may cost several thousand US dollars per square meter (about US$2,500 per square meter in New York in 2013 for residential buildings three to seven stories tall).[^bertaud]
-
-> In the lowest-income countries, where construction is the cheapest, households would need to be able to afford at least US$6,000 for a studio of 12 square meters; US$6,000 is the global market commodity price for the basic construction materials of concrete and steel required to build 12 square meters.[^bertaud]
 
 > In a paper published in 2015, the economists Chang-Tai Hsieh and Enrico Moretti found that, between 1964 and 2009, the high cost of housing in some US cities relative to wages had lowered aggregate US GDP by 13.5 percent: "Most of the loss was likely caused by increased constraints to housing supply in high productivity cities like New York, San Francisco and San Jose. Lowering regulatory constraints in these cities to the level of the median city would expand their work force and increase U.S. GDP by 9.5%.[^bertaud]
 
