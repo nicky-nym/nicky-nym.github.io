@@ -302,8 +302,6 @@ New cities create value, and demand.
   + New York — subway
   + Los Angles — car 
 
-... TODO: is this line indented?
-
 > "Using data from cities across several countries, including the United States, England, Germany, and some developing nations, [Yacov] Zahavi discovered the surprising result that the total amount of time an average individual spends on travel each day is approximately the same regardless of the city size or the mode of transportation. ... we tend to spend about an hour each day traveling, whoever and wherever we are. ... the average commute time from home to work is about half an hour each way independent of the city or the means of transportation.
 > 
 > ... the increase in transportation speed resulting from the marvelous innovations of the past couple of hundred years has not been used to reduce commuting time but instead has been used to increase commuting distances. ... the size of cities has to some degree been determined by the efficiency of their transportation systems for delivering people to their workplaces in not much more than half an hour's time."[^scale] &mdash; Geoffrey West
@@ -379,14 +377,14 @@ There are a huge number of metrics that people measure cities by. We're going to
   * unit: square feet per square feet (or square meters per square meters)
 
 |---
-| Floor Area Ratio | Place
+| Floor Area Ratio<sub>type?</sub> | Place
 |-:|:-
-|  0.3 | US suburbs
-|  3.5 | Historical Paris
-| 4-10 | Manhattan residential
-|   15 | Manhattan office buildings
-|   25 | Singapore highest FAR
-|      | [^bertaud]
+|  0.3 | US suburbs[^bertaud]
+|  2 to 3 | Proposed kinematic city
+|  3.5 | Historical Paris[^bertaud]
+| 4-10 | Manhattan residential[^bertaud]
+|   15 | Manhattan office buildings[^bertaud]
+|   25 | Singapore highest FAR[^bertaud]
 |---
 
 * <a name="gross-area"></a>**Gross Floor Area** is the total floor area of a building, including all the area taken up by lobbies, hallways, elevator shafts, walls, offices, apartments, etc.
