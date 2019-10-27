@@ -709,16 +709,16 @@ Instead, we have
 ### <a name="spatial-layout"></a>(4.2) Spatial layout proposal
 
 A kinematic city has:
-  * no single-story ranch houses and no other single-story buildings
-  * no skyscrapers and no high-rise residential buildings
-  * no suburban sprawl
-  * no highways
-  * no roads with lanes wide enough for cars and trucks
+  * no single-story ranch houses and **no single-story buildings**
+  * **no skyscrapers** and no high-rise residential buildings
+  * **no suburban sprawl**
+  * **no highways**
+  * **no roads** with lanes wide enough for cars and trucks
 
 Instead, we have: 
-  * mid-rise buildings of about six stories, similar to Paris
-  * row-houses and "walk-up" apartments
-  * roads with narrow lanes for narrow vehicles
+  * mid-rise buildings of about **six stories, similar to Paris**
+  * **row-houses** and "walk-up" apartments
+  * **bike boulevards** with narrow lanes for narrow vehicles
   * density of [TODO]
 
 
@@ -731,10 +731,10 @@ A kinematic city has:
   * **no escalators**
 
 The only way to go "upstairs" or "downstairs" in a kinematic city is by using
-  * sloped hallways
-  * sloped sidewalks
-  * sloped bike paths
-  * flights of wheelchair ramps
+  * flights of **wheelchair ramps**
+  * hallway ramps
+  * sidewalk ramps
+  * bike path ramps
 
 ## <a name="design-notes"></a>(5) Design notes &mdash; why pick those design choices?
 
