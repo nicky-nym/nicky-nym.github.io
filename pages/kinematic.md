@@ -41,6 +41,7 @@ Build new cities from scratch that are specifically designed to maximize "kinema
   6. overly **limit mobility** of kids, elders, and people with disabilities
   7. are **not quickly alterable** &mdash; making one significant change can take decades
   8. are **not cheaply alterable** &mdash; it is staggeringly expensive to add subways or highways to an existing city
+  9. are **too few and too small**, by a factor of two, for everyone who will live in them by 2050
 
 ### The solution
 
@@ -52,7 +53,7 @@ The problems above could be greatly ameliorated by just making a handful of diff
   * **[elevator choices](#elevator)**
     * stairs, elevators, and escalators vs. flights of wheelchair ramps
 
-### The market
+### The market tidal wave
 
 > "The amount of floorspace in buildings around the world—currently about 2.5 trillion square feet—is set to double by 2060"
 > &mdash; Brian Bienkowski [^bienkowski]
