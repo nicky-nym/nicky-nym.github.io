@@ -678,6 +678,36 @@ Instead, we have
 
 > "...the population in Wuhan is 8.3 million, much greater than that in Sheffield, at 0.6 million. ... For Wuhan, given that the number of vehicles per person is still much lower than that in Sheffield by tenfold ... it is very interesting to note that the average noise levels in all of the sampled areas are lower than those in Sheffield by 2dBA to 11dBA. ... In terms of L<sub>min</sub> and L<sub>90</sub> ... the difference is even greater -- for example, up to 15dBA in the area with a motorway."[^kang] &mdash; Jian Kang
 
+> We see that bicycles provide a much higher road capacity at speeds below 15 km/h than any other mode of transport.[^bertaud]
+
+|---
+| Throughput[^bertaud] | Vehicle type
+|-:|:-
+| in passengers<br>per hour<br>per lane<br>at about 15 km/h
+| 1,000 | **Bus, M1**: 5 minutes headway
+| 1,600 | **cars**
+| 2,600 | **Bus 4 routes**: 1 minute 48 seconds headway
+| 2,800 | **motorcycles**
+| 5,500 | **bicycles** on entire lane width
+|---
+
+> Because of their higher speed an increased comfort, electric bicycles, where they are authorized (as in Chengdu, China), could meaningfully compete with buses or cars as a means of commuting in larger cities.[^bertaud]
+
+> By contrast, compared to the motorcycle, compact Smart car performance (except for energy use) in terms of road capacity is not much better than that of an ordinary car. ... The width of the vehicle, not its length, is the important parameter to consider when trying to reduce street area consumption.[^bertaud]
+
+|---
+| CO2-e emissions[^bertaud] | Vehicle type
+|-:|:-
+| in grams per<br>passenger km
+| 151 | average US car
+|  26 | Nissan Leaf in California
+|   5 | Nissan Leaf in Sweden
+|  67 | New York subway
+| 180 | US urban bus
+|---
+
+> The emergence of small footprint, on-demand, shared vehicles ... will change the way urban transport is organized. The pattern of roads and arterials may also change to adapt to these new modes of urban transport. Instead of concentric traffic on a few high-capacity highways or arterials, numerous smaller low-capacity roads would allow the flexibility required by trips from dispersed origins to dispersed destinations.[^bertaud]
+
 ### <a name="spatial-layout"></a>(4.2) Spatial layout proposal
 
 A kinematic city has:
@@ -727,6 +757,8 @@ The only way to go "upstairs" or "downstairs" in a kinematic city is by using
 This idea sounds crazy to most people when they first hear it, because it's so different from all the normal buildings and cities that we're used to.
 
 However, if you run the numbers, and run simulations, it turns out that getting rid of elevators and stairs works out just fine. Instead of making it harder to get places, having no elevators makes it **faster** to get between any two random locations. Plus this design is greener, works better after a natural disaster, can be built more quickly, is less expensive to build, and is less expensive to maintain.
+
+> In the Seagram building (which has 38 floors), the area used for elevators and utility shafts occupies 31 percent of the area of a typical floor.[^bertaud]
 
 ## <a name="better-outcomes"></a>(5) Comparisons &mdash; San Francisco vs. Proposed Kinematic City
 
@@ -808,44 +840,10 @@ However, if you run the numbers, and run simulations, it turns out that getting 
 
 > In their 2009 book, aptly title Mobility First, Sam Staley and Adrian Moore describe in detail the cross-disciplinary reforms in road and urban transport design and in road pricing, among other things, that would be required to maintain mobility in cities in the twenty-first century.[^bertaud]
 
-> The modes of urban mechanized transport that were already available at the beginning of the twentieth century have not changed much since then. The efficiency in using energy and the speed of cars, buses, and metros have certainly improved, but no new mode of urban transport has emerged. ... However, it is quite possible that during the next 20 years, we will see the emergence of completely new modes of transport. The possibilities presented by the combination of vehicle sharing and autonomous vehicles could completely revolutionize urban transport as we know it today.[^bertaud]
-
-> We see that bicycles provide a much higher road capacity at speeds below 15 km/h than any other mode of transport.[^bertaud]
-
-|---
-| Throughput[^bertaud] | Vehicle type
-|-:|:-
-| in passengers<br>per hour<br>per lane<br>at about 15 km/h
-| 1,000 | **Bus, M1**: 5 minutes headway
-| 1,600 | **cars**
-| 2,600 | **Bus 4 routes**: 1 minute 48 seconds headway
-| 2,800 | **motorcycles**
-| 5,500 | **bicycles** on entire lane width
-|---
-
-> Because of their higher speed an increased comfort, electric bicycles, where they are authorized (as in Chengdu, China), could meaningfully compete with buses or cars as a means of commuting in larger cities.[^bertaud]
-
-> By contrast, compared to the motorcycle, compact Smart car performance (except for energy use) in terms of road capacity is not much better than that of an ordinary car. ... The width of the vehicle, not its length, is the important parameter to consider when trying to reduce street area consumption.[^bertaud]
-
 > The rent charged should vary with the time of day, the location, the area, and the length of time the road is used. The rent charged for roads should be similar to the fares charged by airlines to passengers or the room rates charged by hotels, except that the rate would not be for a fixed 24 hours but for the number of minutes the roads are actually used.[^bertaud]
 
-|---
-| CO2-e emissions[^bertaud] | Vehicle type
-|-:|:-
-| in grams per<br>passenger km
-| 151 | average US car
-|  26 | Nissan Leaf in California
-|   5 | Nissan Leaf in Sweden
-|  67 | New York subway
-| 180 | US urban bus
-|---
+> The modes of urban mechanized transport that were already available at the beginning of the twentieth century have not changed much since then. The efficiency in using energy and the speed of cars, buses, and metros have certainly improved, but no new mode of urban transport has emerged. ... However, it is quite possible that during the next 20 years, we will see the emergence of completely new modes of transport. The possibilities presented by the combination of vehicle sharing and autonomous vehicles could completely revolutionize urban transport as we know it today.[^bertaud]
 
-> The emergence of small footprint, on-demand, shared vehicles ... will change the way urban transport is organized. The pattern of roads and arterials may also change to adapt to these new modes of urban transport. Instead of concentric traffic on a few high-capacity highways or arterials, numerous smaller low-capacity roads would allow the flexibility required by trips from dispersed origins to dispersed destinations.[^bertaud]
-
-
-> In a paper published in 2015, the economists Chang-Tai Hsieh and Enrico Moretti found that, between 1964 and 2009, the high cost of housing in some US cities relative to wages had lowered aggregate US GDP by 13.5 percent: "Most of the loss was likely caused by increased constraints to housing supply in high productivity cities like New York, San Francisco and San Jose. Lowering regulatory constraints in these cities to the level of the median city would expand their work force and increase U.S. GDP by 9.5%.[^bertaud]
-
-> In the Seagram building [which has 38 floors], the area used for elevators and utility shafts occupies 31 percent of the area of a typical floor.[^bertaud]
 
 |---
 | Built-up area<br>square meters<br>per person<br>in 2014[^bertaud] | Region
@@ -859,6 +857,8 @@ However, if you run the numbers, and run simulations, it turns out that getting 
 | 162 | Europe and Japan
 | 426 | Land-rich developed countries
 |---
+
+> In a paper published in 2015, the economists Chang-Tai Hsieh and Enrico Moretti found that, between 1964 and 2009, the high cost of housing in some US cities relative to wages had lowered aggregate US GDP by 13.5 percent: "Most of the loss was likely caused by increased constraints to housing supply in high productivity cities like New York, San Francisco and San Jose. Lowering regulatory constraints in these cities to the level of the median city would expand their work force and increase U.S. GDP by 9.5%.[^bertaud]
 
 > City clusters already exist of course, like the Randstad in the Netherlands, which links Amsterdam, Rotterdam, The Hague, and Utrecht. The urban development around San Francisco Bay could also be considered a city cluster. What is different with the Chinese concept of cluster is their scale. The Randstad connects only 7 million people, while San Francisco Bay (including Silicon Valley) has only 6.2 million people. By contrast, the urban cluster of the Pearl River Delta already had 65 million people in 2010, larger than the entire population of the United Kingdom but concentrated on less than 10,000 square kilometers! The recent urban cluster including Beijing-Tianjin-Hebei links together more than 105 million people.[^bertaud]
 
