@@ -394,20 +394,33 @@ There are a huge number of metrics that people measure cities by. We're going to
   * unit: people per square mile
   * unit: square feet per person
 
+|---
+| Land area occupied by cities<br>square meters per person<br>in 2014[^bertaud] | Region
+|-:|:-
+|  47 | South and Central Asia
+|  76 | Southeast Asia
+|  91 | Western Asia and North Africa
+|  95 | Sub-Saharan Africa
+| 100 | Latin America and the Caribbean
+| 126 | East Asia and the Pacific
+| 162 | Europe and Japan
+| 426 | Land-rich developed countries
+|---
+
 * <a name="far-parcel"></a>**FAR<sub>parcel</sub>** is the **Floor Area Ratio** for a building on a parcel, meaning the ratio of [Floor Area](#floor-area) to [Parcel Area](#parcel-area).
 * <a name="far-overall"></a>**FAR<sub>overall</sub>** is the **Floor Area Ratio** for a neighborhood of a city, meaning the ratio of the total [Floor Area](#floor-area) of all the buildings to the total [Land Area](#land-area) of the neighborhood, including all the land area used for streets and sidewalks and parks, as well as the land area of all the [Parcel Area](#parcel-area).
   * unit: square feet per square feet (or square meters per square meters)
 
-|---
-| Floor Area Ratio<sub>type?</sub> | Place
-|-:|:-
-|  0.3 | US suburbs[^bertaud]
-|  2 to 3 | Proposed kinematic city
-|  3.5 | Historical Paris[^bertaud]
-| 4-10 | Manhattan residential[^bertaud]
-|   15 | Manhattan office buildings[^bertaud]
-|   25 | Singapore highest FAR[^bertaud]
-|---
+  |---
+  | Floor Area Ratio<sub>type?</sub> | Place
+  |-:|:-
+  |  0.3 | US suburbs[^bertaud]
+  |  2 to 3 | Proposed kinematic city
+  |  3.5 | Historical Paris[^bertaud]
+  | 4-10 | Manhattan residential[^bertaud]
+  |   15 | Manhattan office buildings[^bertaud]
+  |   25 | Singapore highest FAR[^bertaud]
+  |---
 
 * <a name="gross-area"></a>**Gross Floor Area** is the total floor area of a building, including all the area taken up by lobbies, hallways, elevator shafts, walls, offices, apartments, etc.
   * unit: square feet (or square meters)
@@ -879,21 +892,6 @@ The kinematic city **ramp-only** design:
 * _[Scale](https://www.penguinrandomhouse.com/books/314049/scale-by-geoffrey-west/)_, by Geoffrey West
 
 * _[Velotopia](https://www.nai010.com/en/publicaties/velotopia/130528)_, by Steven Fleming
-
-## TODO: Content to add
-
-|---
-| Built-up area<br>square meters<br>per person<br>in 2014[^bertaud] | Region
-|-:|:-
-|  47 | South and Central Asia
-|  76 | Southeast Asia
-|  91 | Western Asia and North Africa
-|  95 | Sub-Saharan Africa
-| 100 | Latin America and the Caribbean
-| 126 | East Asia and the Pacific
-| 162 | Europe and Japan
-| 426 | Land-rich developed countries
-|---
 
 
 ## References
