@@ -556,12 +556,10 @@ Building from scratch has it's own challanges, and is also crazy expensive, but 
 
 * **Resiliency.** Cities should be designed to be resilient after natural disasters and other emergencies. For example, it should be possible to evactuate an building quickly even when the power is out. And it should be safe to quickly reopen as many buildings as possible after an earthquake, hurricane, or flood. These are goals that can be furthered by simply avoiding "fragile" technologies, like elevators, and traffic lights. 
 
-> "Resiliency is the ability to bounce back better, but also the ability to not have to bounce back as much." 
-> &mdash; Sylvester Wong, Vice President of AECOM[^new-clark]
+  > "Resiliency is the ability to bounce back better, but also the ability to not have to bounce back as much." 
+  > &mdash; Sylvester Wong, Vice President of AECOM[^new-clark]
 
-> "Because its location and design were deliberately chosen to withstand natural calamities, 
-> New Clark City will serve as the government’s continuity hub, disaster and risk recovery 
-> center – an alternative capital city in case a disaster strikes Manila"[^new-clark]
+  > "Because its location and design were deliberately chosen to withstand natural calamities, New Clark City will serve as the government’s continuity hub, disaster and risk recovery center – an alternative capital city in case a disaster strikes Manila"[^new-clark]
 
 ### <a name="design-implications"></a>(3.2) Design goal implications
 
@@ -654,10 +652,10 @@ A kinematic city has:
     * no personal rapid transit, pods, people movers, or things with fixed stops
 
 Instead, we have
-  * Habitrails<sup>TM</sup>
+  * **covered laneways**
     * rain-sheltered pedestrian sidewalks
     * rain-sheltered bike lanes
-  * <a name="bikeish"></a>**bike-ish vehicles**
+  * <a name="bikeish"></a>**bike-sized vehicles**
     * restrictions
       * narrow &mdash; not more than 36 inches wide, or 48 inches for licensed cargo vehicles
       * lightweight &mdash; not more than 111 lbs.
@@ -737,8 +735,6 @@ Instead, we have:
 | 52 | 18.4
 |---
 
-> "Lifts also use a large amount of energy to run. For buildings that are largely served by lifts, you can add a rough figure of 5 to 15 per cent onto building energy running costs."[^roaf] &mdash; Susan Roaf
-
 > "In addition, there are higher operation and maintenance costs in taller buildings..."[^roaf] &mdash; Susan Roaf
 
 ### <a name="elevator"></a>(4.3) Elevator proposal
@@ -757,6 +753,8 @@ The only way to go "upstairs" or "downstairs" in a kinematic city is by using
 This idea sounds crazy to most people when they first hear it, because it's so different from all the normal buildings and cities that we're used to.
 
 However, if you run the numbers, and run simulations, it turns out that getting rid of elevators and stairs works out just fine. Instead of making it harder to get places, having no elevators makes it **faster** to get between any two random locations. Plus this design is greener, works better after a natural disaster, can be built more quickly, is less expensive to build, and is less expensive to maintain.
+
+> "Lifts also use a large amount of energy to run. For buildings that are largely served by lifts, you can add a rough figure of 5 to 15 per cent onto building energy running costs."[^roaf] &mdash; Susan Roaf
 
 > In the Seagram building (which has 38 floors), the area used for elevators and utility shafts occupies 31 percent of the area of a typical floor.[^bertaud]
 
