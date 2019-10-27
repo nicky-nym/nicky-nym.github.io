@@ -98,11 +98,11 @@ The current market size for new city construction is large:
 1. **[Design proposal](#design-choices)** &mdash; a design that works better
    * [Transportation proposal](#transportation)
    * [Spatial layout proposal](#spatial-layout)
-   * [Elevator proposal](#elevator)
+   * [Ramp proposal](#ramp)
 1. **[Design notes](#design-notes)** &mdash; why pick those design choices?
    * [Transportation notes](#transportation-notes)
    * [Spatial layout notes](#spatial-layout-notes)
-   * [Elevator notes](#elevator-notes)
+   * [Ramp notes](#ramp-notes)
 1. **[Comparisons](#better-outcomes)** &mdash; San Francisco vs. Proposed Kinematic City
 
 ---
@@ -723,7 +723,7 @@ Instead, we have:
 
 
 
-### <a name="elevator"></a>(4.3) Elevator proposal
+### <a name="ramp"></a>(4.3) Ramp proposal
 
 A kinematic city has:
   * **no elevators**
@@ -795,7 +795,7 @@ The only way to go "upstairs" or "downstairs" in a kinematic city is by using
 
 > "In addition, there are higher operation and maintenance costs in taller buildings..."[^roaf] &mdash; Susan Roaf
 
-### <a name="elevator-notes"></a>(5.3) Elevator notes
+### <a name="ramp-notes"></a>(5.3) Ramp notes
 
 The idea of having **no stairs** and **no elevators** sounds crazy to most people when they first hear it, because it's so different from all the normal buildings and cities that we're used to.
 
