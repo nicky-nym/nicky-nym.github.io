@@ -97,7 +97,7 @@ The current market size for new city construction is large:
    * [Transportation proposal](#transportation)
    * [Spatial layout proposal](#spatial-layout)
    * [Elevator proposal](#elevator)
-1. **[Outcomes](#better-outcomes)** &mdash; what we hope to get out of this
+1. **[Comparisons](#better-outcomes)** &mdash; San Francisco vs. Proposed Kinematic City
 
 ---
 ## <a name="faq"></a>FAQ: Frequently Asked Questions
@@ -377,6 +377,17 @@ There are a huge number of metrics that people measure cities by. We're going to
 * <a name="far-parcel"></a>**FAR<sub>parcel</sub>** is the **Floor Area Ratio** for a building on a parcel, meaning the ratio of [Floor Area](#floor-area) to [Parcel Area](#parcel-area).
 * <a name="far-overall"></a>**FAR<sub>overall</sub>** is the **Floor Area Ratio** for a neighborhood of a city, meaning the ratio of the total [Floor Area](#floor-area) of all the buildings to the total [Land Area](#land-area) of the neighborhood, including all the land area used for streets and sidewalks and parks, as well as the land area of all the [Parcel Area](#parcel-area).
   * unit: square feet per square feet (or square meters per square meters)
+
+|---
+| Floor Area Ratio | Place
+|-:|:-
+|  0.3 | US suburbs
+|  3.5 | Historical Paris
+| 4-10 | Manhattan residential
+|   15 | Manhattan office buildings
+|   25 | Singapore highest FAR
+|      | [^bertaud]
+|---
 
 * <a name="gross-area"></a>**Gross Floor Area** is the total floor area of a building, including all the area taken up by lobbies, hallways, elevator shafts, walls, offices, apartments, etc.
   * unit: square feet (or square meters)
@@ -701,7 +712,7 @@ This idea sounds crazy to most people when they first hear it, because it's so d
 
 However, if you run the numbers, and run simulations, it turns out that getting rid of elevators and stairs works out just fine. Instead of making it harder to get places, having no elevators makes it **faster** to get between any two random locations. Plus this design is greener, works better after a natural disaster, can be built more quickly, is less expensive to build, and is less expensive to maintain.
 
-## <a name="better-outcomes"></a>(5) Outcomes &mdash; what we hope to get out of this
+## <a name="better-outcomes"></a>(5) Comparisons &mdash; San Francisco vs. Proposed Kinematic City
 
 |---
 |  | Proposed Kinematic City | San Francisco | New York |
@@ -826,16 +837,6 @@ However, if you run the numbers, and run simulations, it turns out that getting 
 > In the lowest-income countries, where construction is the cheapest, households would need to be able to afford at least US$6,000 for a studio of 12 square meters; US$6,000 is the global market commodity price for the basic construction materials of concrete and steel required to build 12 square meters.[^bertaud]
 
 > In a paper published in 2015, the economists Chang-Tai Hsieh and Enrico Moretti found that, between 1964 and 2009, the high cost of housing in some US cities relative to wages had lowered aggregate US GDP by 13.5 percent: "Most of the loss was likely caused by increased constraints to housing supply in high productivity cities like New York, San Francisco and San Jose. Lowering regulatory constraints in these cities to the level of the median city would expand their work force and increase U.S. GDP by 9.5%.[^bertaud]
-
-|---
-| Floor Area Ratio<br>(FAR)[^bertaud] | Place
-|-:|:-
-|  0.3 | US cities' suburbs
-|  3.5 | Historical Paris
-| 4-10 | Manhattan residential
-|   15 | Manhattan office buildings
-|   25 | Singapore highest FAR
-|---
 
 > In the Seagram building [which has 38 floors], the area used for elevators and utility shafts occupies 31 percent of the area of a typical floor.[^bertaud]
 
