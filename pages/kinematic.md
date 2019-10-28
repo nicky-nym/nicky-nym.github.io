@@ -256,12 +256,12 @@ Examples:
 ## <a name="cost-effective"></a>(1.4) Building new cities is cost-effective
 
 Projects in existing cities can be staggeringly expensive.
-  * $4.5 billion for the San Francisco Transbay Transit Center & Salesforce Tower <sup>[citation needed]</sup>
-  * $17 billion for the 2nd Avenue Subway project in New York <sup>[citation needed]</sup>
-  * $20 billion for the Hudson Yards project in New York <sup>[citation needed]</sup>
-  * $21 billion for the Big Dig in Boston <sup>[citation needed]</sup>
-  * $23 billion for the Riyadh Metro <sup>[citation needed]</sup>
-  * $32 billion to rebuild the World Trade Center in New York <sup>[citation needed]</sup>
+  * **$4.5 billion** for the San Francisco **Transbay Transit Center & Salesforce Tower** <sup>[citation needed]</sup>
+  * **$17 billion** for the **2nd Avenue Subway** project in New York <sup>[citation needed]</sup>
+  * **$20 billion** for the **Hudson Yards** project in New York <sup>[citation needed]</sup>
+  * **$21 billion** for the **Big Dig** in Boston <sup>[citation needed]</sup>
+  * **$23 billion** for the **Riyadh Metro** <sup>[citation needed]</sup>
+  * **$32 billion** to rebuild the **World Trade Center** in New York <sup>[citation needed]</sup>
 
 Building on a new empty, greenfield site is a lot less expensive than building in an existing city. 
   * [TODO: examples]
