@@ -395,17 +395,19 @@ There are a huge number of metrics that people measure cities by. We're going to
   * unit: square feet per person
 
   |---
-  | Land area occupied by cities<br>square meters per person<br>in 2014[^bertaud] | Region
-  |-:|:-
-  |  47 | South and Central Asia
-  |  76 | Southeast Asia
-  |  91 | Western Asia and North Africa
-  |  95 | Sub-Saharan Africa
-  | 100 | Latin America and the Caribbean
-  | 126 | East Asia and the Pacific
-  | 162 | Europe and Japan
-  | 426 | Land-rich developed countries
+  | people per<br>sq mile | sq feet<br>per person | Region | Land area occupied by cities<br>square meters per person<br>in 2014
+  |-:|-:|:-|-:
+  | 55,106 |   506 | South and Central Asia          |  47[^bertaud]
+  | 34,079 |   818 | Southeast Asia                  |  76[^bertaud]
+  | 28,461 |   980 | Western Asia and North Africa   |  91[^bertaud]
+  | 27,263 | 1,023 | Sub-Saharan Africa              |  95[^bertaud]
+  | 25,900 | 1,076 | Latin America and the Caribbean | 100[^bertaud]
+  | 20,555 | 1,356 | East Asia and the Pacific       | 126[^bertaud]
+  | 15,988 | 1,744 | Europe and Japan                | 162[^bertaud]
+  |  6,080 | 4,585 | Land-rich developed countries   | 426[^bertaud]
   |---
+
+
 
 * <a name="far-parcel"></a>**FAR<sub>parcel</sub>** is the **Floor Area Ratio** for a building on a parcel, meaning the ratio of [Floor Area](#floor-area) to [Parcel Area](#parcel-area).
 * <a name="far-overall"></a>**FAR<sub>overall</sub>** is the **Floor Area Ratio** for a neighborhood of a city, meaning the ratio of the total [Floor Area](#floor-area) of all the buildings to the total [Land Area](#land-area) of the neighborhood, including all the land area used for streets and sidewalks and parks, as well as the land area of all the [Parcel Area](#parcel-area).
