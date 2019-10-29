@@ -138,7 +138,7 @@ If you're starting from scratch, then with a few good design choices it should b
 * a kinematic city: 
    1. should have **less traffic** congestion
    1. should have **more commute destinations**
-   1. should **[thrive economically](#economics)** compared to similarly-sized normal cities
+   1. should **thrive economically** compared to similarly-sized normal cities
    1. should have **better air quality**
    1. should be **more affordable** to build than conventional cities
    1. should have **lower operating costs**
