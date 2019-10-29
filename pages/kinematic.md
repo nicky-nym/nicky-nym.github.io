@@ -92,7 +92,6 @@ The current market size for new city construction is large:
    * [Kinematic windfall](#kinematic-booster-effect)
 1. **[What we want](#work-better)** &mdash; things that should work better
    * [Design goals](#design-goals)
-   * [Design goal implications](#design-implications)
    * [Constraints](#design-constraints)
    * [Construction costs](#construction-costs)
 1. **[Design proposal](#design-choices)** &mdash; a design that works better
@@ -560,26 +559,26 @@ Building from scratch has it's own challanges, and is also crazy expensive, but 
    - readily available housing
    - affordabability at market prices, without subsidies or rent control
 
-* **[Safety](#safety).**
+* **Safety.**
   - freedom from harassment
   - safe enough that parents can opt to have "free-range children" who explore the city on their own
   - no traffic accident deaths
   - no fire-related deaths
   - fast response to 911 calls
 
-* **[Equity](#equity).**
+* **Equity.**
   - equal access to safe passage for everyone through all public space
   - full mobility for women [^gadepalli]
   - no "pink tax" for women [^mccasland]
   - no "trip-range" tax for women [^gonzalez]
 
-* **[Accessibility](#accessibility).**
+* **Accessibility.**
   - stroller-friendly buildings and stroller-friendly transportation
   - wheelchair accessible routes in every building
   - predictable navigation for people with limited vision
   - frequent pathside seating for elderly people
 
-* **[Proximity](#kinematic-range).** &mdash; everything within 30 minutes
+* **Proximity.** &mdash; everything within 30 minutes
   - school & work
   - friends & family
   - groceries & restaurants
@@ -592,7 +591,7 @@ Building from scratch has it's own challanges, and is also crazy expensive, but 
     - a maker space with an Atomic Force Microscope
     - etc.
 
-* **[Airiness](#airiness).**
+* **Airiness.**
   - nearby parks and trees
   - fresh air
   - sunlight
@@ -604,43 +603,18 @@ Building from scratch has it's own challanges, and is also crazy expensive, but 
 
   > "Because its location and design were deliberately chosen to withstand natural calamities, New Clark City will serve as the government’s continuity hub, disaster and risk recovery center – an alternative capital city in case a disaster strikes Manila"[^new-clark]
 
-### <a name="design-implications"></a>(3.2) Design goal implications
-
-  
-#### <a name="airiness"></a>airiness &mdash; sun, air, trees
-
 |---
-|  | **Design implications** | **Examples**
-|:-:|:-:|:-
-|  | maximize "trees passed per day" | place trees along circulation paths <br> make living walls
-|                 | provide fresh air               | no diesel busses <br> no gas-powered motorcycles <br> use windows that open <br> pick a mild climate to build in
-|                 | provide daylight and sunshine   | design for daylighting <br> don't build too far north
-|---
+| **Design implications** | **Examples**
+|:-:|:-
+| maximize "trees passed per day" | place trees along circulation paths <br> make living walls
+| keep construction costs down       | use conventional construction techniques <br> no skyscrapers (expensive per square foot) <br> no elevators  <br> strive for economies of scale 
+| keep land costs low                | pick an inexpensive site <br> maximize Floor Area Ratio (FAR), or floor space per square mile 
+| keep developer financing costs low | use tight construction timelines <br> avoid planning and permitting delays <br> avoid big risks <br> minimize vacancy <br> produce revenue early on <br> do "just-in-time" production of square footage
+| keep transportation costs down     | keep everything close <br> no automobiles (at $20,000+ each) <br> no busses (at $500,000 each, or $8,000+ per passenger seat) <br> no subway cars (at $10,000+ per passenger seat) <br> no subway tunnels (at $100,000,000+ per mile) 
+| keep everything close      | maximize the amount of usable floor area within 30 minutes of this floor area
 
-#### affordablity
 
-|---
-|  | **Design implications** | **Examples**
-|:-:|:-:|:-
-|  | keep construction costs down       | use conventional construction techniques <br> no skyscrapers (expensive per square foot) <br> no elevators (at $100,000+ each) <br> strive for economies of scale 
-|               | keep land costs low                | pick an inexpensive site <br> maximize Floor Area Ratio (FAR), or floor space per square mile 
-|               | keep developer financing costs low | use tight construction timelines <br> avoid planning and permitting delays <br> avoid big risks <br> minimize vacancy <br> produce revenue early on <br> do "just-in-time" production of square footage
-|               | keep transportation costs down     | keep everything close <br> no automobiles (at $20,000+ each) <br> no busses (at $500,000 each, or $8,000+ per passenger seat) <br> no subway cars (at $10,000+ per passenger seat) <br> no subway tunnels (at $100,000,000+ per mile) 
-|               | keep HVAC costs down               | pick a mild climate to build in <br> use windows that open <br> use ventilation chimneys
-|               | keep lighting costs down           | design for good daylighting with careful window and skylight placement
-|               | prevent real estate speculation    | pick an unconventional city land ownership model 
-
-#### kinematic range &mdash; everything within 30 minutes
-
-|---
-|  | **Design implications** | **Examples**
-|:-:|:-:|:-
-|  | keep everything close      | maximize the amount of usable floor area within 30 minutes of this floor area
-|                              | keep traffic flowing       | no stop lights <br> no multi-lane traffic circles
-|                              | don't squander land area   | no single-story buildings <br> no parking spaces <br> no private suburban lawns <br> use 4 or 5 foot wide lanes, not 10 or 12 foot wide lines
-|                              | don't squander floor space | avoid redundant hallways, stairs, or elevators <br> no empty rooftops
-
-### <a name="design-constraints"></a>(3.3) Design constraints
+### <a name="design-constraints"></a>(3.2) Design constraints
 
 + engineering constraints
   - daylight available — arctic circle, seattle rain
@@ -652,7 +626,7 @@ Building from scratch has it's own challanges, and is also crazy expensive, but 
   - zoning
   - environmental review
 
-### <a name="construction-costs"></a>(3.4) Construction costs
+### <a name="construction-costs"></a>(3.3) Construction costs
 
 > "the price of construction for an apartment fully equipped with kitchen and bathrooms may cost several thousand US dollars per square meter (about US$2,500 per square meter in New York in 2013 for residential buildings three to seven stories tall)."[^bertaud]
 
@@ -688,7 +662,7 @@ A kinematic city has:
     * no motorcycles
   * **nothing fast**
     * no motorcycles
-  * **no stops**
+  * **no stops** &mdash; keep traffic flowing
     * no traffic lights
     * no stop signs
     * no large intersections
@@ -715,7 +689,7 @@ Instead, we have
       * cute little delivery robots
   * **covered laneways**
     * rain-sheltered pedestrian sidewalks
-    * rain-sheltered bike-sized lanes
+    * rain-sheltered bike-sized lanes &mdash; 5-foot wide lanes, not 10' or 12' wide lines
   * **laneway tolls** & **parking tolls**
     * no tolls on laneways that aren't congested
     * highest tolls at rush-hour, or on busy laneways
@@ -728,15 +702,19 @@ Instead, we have
 ### <a name="spatial-layout"></a>(4.2) Spatial layout proposal
 
 A kinematic city has:
-  * no single-story ranch houses and **no single-story buildings**
-  * **no skyscrapers** and no high-rise residential buildings
-  * **no suburban sprawl**
   * **no highways**
   * **no roads** with lanes wide enough for cars and trucks
+  * **no empty rooftops**
+  * **no single-story buildings** such as ranch houses &mdash; (don't squander land area)
+  * **no skyscrapers** and no high-rise residential buildings &mdash; (keep construction costs down)
+  * **no private suburban lawns** 
 
 Instead, we have: 
   * mid-rise buildings of about **six stories, similar to Paris**
   * **row-houses** and "walk-up" apartments
+  * buildings spaced to avoid dark areas that would be far from windows and skylights &mdash; (keep lighting costs down)
+  * buildings with ventilation chimneys &mdash; (keep HVAC costs down)
+  * buildings with windows that open
   * a grid of **bike-sized boulevards**
     * rain-sheltered boulevards, each with four narrow bike-sized lanes, each 5 feet wide, plus shoulders
     * grade-separated intersections, so your entire commute has no stop signs or traffic lights
@@ -761,8 +739,8 @@ Instead, we have:
 ### <a name="ramp"></a>(4.3) Ramp proposal
 
 A kinematic city has:
-  * **no elevators**
-  * **no stairways**, no stairs, and no steps
+  * **no stairways**, no stairs, and no steps &mdash; (don't squander floor space)
+  * **no elevators** &mdash; (at $100,000 or more each)
   * **no escalators**
 
 The only way to go "upstairs" or "downstairs" in a kinematic city is by using
