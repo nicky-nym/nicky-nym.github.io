@@ -404,7 +404,7 @@ There are a huge number of metrics that people measure cities by. We're going to
   | 25,900 | 1,076 | Latin America and the Caribbean | 100[^bertaud]
   | 20,555 | 1,356 | East Asia and the Pacific       | 126[^bertaud]
   | 15,988 | 1,744 | Europe and Japan                | 162[^bertaud]
-  | 10,101 |       | Single-family housing           | [^crawford]
+  | 10,101 | 2,760 | Single-family housing[^crawford]           | 
   |  6,080 | 4,585 | Land-rich developed countries   | 426[^bertaud]
   |---
 
@@ -906,6 +906,8 @@ The kinematic city **ramp-only** design:
 [^bloomberg]: ["Africa’s Cities Are About to Boom – and Maybe Explode"](https://www.bloomberg.com/opinion/articles/2019-07-25/africa-s-cities-are-about-to-boom-and-maybe-explode). _Bloomberg_. 25 July 2019.
 
 [^caspar]: ["The Future of Greenfield Cities"](https://newcities.org/the-big-picture-the-future-of-greenfield-cities/). _NewCities_. 23 July 2019.
+
+[^crawford]: _[Carfree Cities](http://www.carfree.com/book/)_, by J.H. Crawford
 
 [^displaced]: ["Worldwide displacement tops 70 million, UN Refugee Chief urges greater solidarity in response"](https://www.unhcr.org/uk/news/press/2019/6/5d03b22b4/worldwide-displacement-tops-70-million-un-refugee-chief-urges-greater-solidarity.html). _UNHCR: The UN Refugee Agency_. 19 June 2019.
 
