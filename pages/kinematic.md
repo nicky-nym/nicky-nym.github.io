@@ -397,14 +397,14 @@ There are a huge number of metrics that people measure cities by. We're going to
   |---
   | People per<br>square mile | City | Land area<br>square feet<br>per person 
   |-:|:-|-:|
-  | 195,027 | Paris-Montholon (IX)[^crawford]          |   143 | 
-  | 142,450 | J.H.Crawford Reference Design[^crawford] |   196 | 
-  | **78,874** | **Kinematic City** Proposal           |   353 |
-  |  71,340 | Manhattan, New York[^wiki_manhattan]     |   391 | 
-  |  55,673 | Paris                                    |   501 | 
-  |  27,751 | New York City[^wiki_new_york_city]       | 1,005 |
-  |  18,838 | San Francisco[^wiki_san_francisco]       | 1,480 | 
-  |  10,101 | Single-family housing[^crawford]         | 2,760 | 
+  | 195,027 | Paris-Montholon (IX)[^crawford]           |   143 | 
+  | 142,450 | J.H.Crawford Reference Design[^crawford]  |   196 | 
+  | **78,874** | **Kinematic City** Proposal            |   353 |
+  |  71,340 | Manhattan, New York[^wiki_manhattan]      |   391 | 
+  |  55,673 | Paris                                     |   501 | 
+  |  27,751 | New York City[^wiki_new_york_city]        | 1,005 |
+  |  18,838 | San Francisco[^wiki_san_francisco]        | 1,480 | 
+  |  10,101 | Suburban single-family housing[^crawford] | 2,760 | 
   |---
 
 <!--
