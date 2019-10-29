@@ -433,7 +433,7 @@ There are a huge number of metrics that people measure cities by. We're going to
   |-:|-:|:-
   |     0.3[^bertaud] |        | US suburbs
   |                   |   0.41 | San Francisco
-  |                   |    1.7 | Proposed kinematic city
+  |                ~  |    1.7 | Proposed kinematic city
   |     3.5[^bertaud] |        | Historical Paris
   | 4 to 10[^bertaud] | 3 to 7 | Manhattan residential
   |      15[^bertaud] |     10 | Manhattan office buildings
@@ -736,9 +736,25 @@ A kinematic city has:
 Instead, we have: 
   * mid-rise buildings of about **six stories, similar to Paris**
   * **row-houses** and "walk-up" apartments
-  * **bike boulevards** with narrow lanes for narrow vehicles
-  * density of [TODO]
-
+  * a grid of **bike-sized boulevards**
+    * rain-sheltered boulevards, each with four narrow bike-sized lanes, each 5 feet wide, plus shoulders
+    * grade-separated intersections, so your entire commute has no stop signs or traffic lights
+    * a grid of highline trails above the bike boulevards
+  * city blocks of about 660 feet by 660 feet
+  * about one iconic **landmark structure** per million people, inspired by examples such as:
+    * the Eiffel tower in Paris
+    * St. Basil's Cathedral in Moscow
+    * Big Ben and the tower from the Palace of Westminster in London
+    * the leaning tower of Pisa
+    * the Space Needle in Seattle
+    * the Tower Bridge in London
+    * the Makkah Royal Clock Tower in Mecca
+    * the Gateway Arch in St. Louis
+    * Potola Palace in Lhasa, Tibet
+    * Westminster Abbey in London
+    * Le Mont-Saint Michel
+    * the pyramids of Giza'
+    * Cateau Frontenac in Quebec
 
 
 ### <a name="ramp"></a>(4.3) Ramp proposal
@@ -753,6 +769,18 @@ The only way to go "upstairs" or "downstairs" in a kinematic city is by using
   * hallway ramps
   * sidewalk ramps
   * bike path ramps
+
+### <a name="safety"></a>(4.4) Safety proposal
+
+A kinematic city has:
+  * **no gas lines**
+  * **no telephone poles**
+  * **no overhead power lines**
+
+Instead, we have: 
+  * **underground power lines**
+
+The kinematic city design
 
 ## <a name="design-notes"></a>(5) Design notes &mdash; why pick those design choices?
 
