@@ -21,9 +21,9 @@ permalink: /kinematic/
     * meet basic needs
  1. We understand a lot about **[how cities work](#how-cities-work)**.
  
- 1. We **[want better cities](#wants)** for everyone.
+ 1. We **[want better cities](#work-better)** for everyone.
  
- 1. We can make **[better design choices](#work-better)**, to make better-working cities.
+ 1. We can make **[better design choices](#design-choices)**, to make better-working cities.
  
  1. We can get **[better outcomes](#better-outcomes)**.
 
