@@ -120,7 +120,7 @@ The current market size for new city construction is large:
 
 No one has yet built a kinematic city. "Kinematic city" is a new made-up name for a specific set of ideas about ways to design cities. A kinematic city design strives to maximize the "kinematic range" of everybody in the city, meaning the number of destinations that are in the daily range of travel for everybody.
 
- 1. Kinematic cities are cities designed to maximize everyone's **[mobility](#mobility)**, travel range, and opportunity, within the city.
+ 1. Kinematic cities are cities designed to maximize everyone's **mobility**, travel range, and opportunity, within the city.
  1. Improved urban mobility leads to significant economic improvements &mdash; in wages, GDP, patent applications per capita, etc.
  1. The improved mobility and travel range in the kinematic design results from unconventional design choices.
     * **[transportation choices](#transportation)**: what vehicles to use to move people and packages &mdash; cars and trucks vs. small low-power vehicles
