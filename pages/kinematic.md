@@ -37,7 +37,7 @@ Build new cities from scratch that are specifically designed to maximize "kinema
   2. have **housing costs** that are too high
   3. have **transportation costs** that are too high
   4. are **not safe enough**
-  5. are **not resiliant** after natural disasters and power failures
+  5. are **not resilient** after natural disasters and power failures
   6. overly **limit mobility** of kids, elders, and people with disabilities
   7. are **not quickly alterable** &mdash; making one significant change can take decades
   8. are **not cheaply alterable** &mdash; it is staggeringly expensive to add subways or highways to an existing city
@@ -121,8 +121,8 @@ The current market size for new city construction is large:
 No one has yet built a kinematic city. "Kinematic city" is a new made-up name for a specific set of ideas about ways to design cities. A kinematic city design strives to maximize the "kinematic range" of everybody in the city, meaning the number of destinations that are in the daily range of travel for everybody.
 
  1. Kinematic cities are cities designed to maximize everyone's **[mobility](#mobility)**, travel range, and opportunity, within the city.
- 1. Improved urban mobility leads to significant economic improvements &mdash; in wages, GDP, patent application productivity per capita, etc.
- 1. The improved mobility and travel range in the kinematic design results from unconventional design choicesL
+ 1. Improved urban mobility leads to significant economic improvements &mdash; in wages, GDP, patent applications per capita, etc.
+ 1. The improved mobility and travel range in the kinematic design results from unconventional design choices.
     * **[transportation choices](#transportation)**: what vehicles to use to move people and packages &mdash; cars and trucks vs. small low-power vehicles
     * **[spatial layout choices](#spatial-layout)**: the size and shape of city features &mdash; building heights, block sizes, and street lane widths
     * **[elevator choices](#elevator)**: stairs, elevators, and escalators vs. flights of wheelchair ramps
@@ -133,7 +133,7 @@ No one has yet built a kinematic city. "Kinematic city" is a new made-up name fo
 
 ### <a name="why-build"></a>Why build kinematic cities?
 
-If you're starting from scratch, then with a few good design choices it should be possible to build a city that **works far better** than normal conventional cities
+If you're starting from scratch, then with a few good design choices it should be possible to build a city that **works far better** than normal conventional cities.
 
 * a kinematic city: 
    1. should have **less traffic** congestion
@@ -148,8 +148,8 @@ If you're starting from scratch, then with a few good design choices it should b
    1. should be more **kid-friendly**
    1. should be more **elder-friendly**
    1. should have a **smaller carbon footprint** per capita
-   1. should be **more resiliant** after a natural disaster or other emergency
-   1. could be established as **charter cities**[^mason]
+   1. should be **more resilient** after a natural disaster or other emergency
+   1. could be established as a **charter city**[^mason]
 
 ### <a name="what-would-it-take"></a>What would it take to build a kinematic city?
 
@@ -186,7 +186,7 @@ It is estimated that **by 2050**:
 * **400 million people in India** will migrate to cities[^sharma]
 * the **African population will double** from 1.3 billion today to over **2.5 billion** [^forbes]
 * there will be at least **nine African "megacities" of 10 million people or more** (and more than two dozen African cities of 5 million or more, about the size of metropolitan Washington), but currently 60 percent of Africa’s city dwellers live in slums [^bloomberg]
-* one-third of all of the French Polynesian islands would be submerged[^fast-company]
+* one-third of all of the French Polynesian islands will be submerged[^fast-company]
 
 "An estimated 2.4 billion people–40% of the world’s population–live in a coastal region and will likely be impacted by rising sea levels as a result of climate change."[^fast-company]
 
@@ -230,7 +230,7 @@ In 2019, U.S. Presidential candidate Andrew Yang called for **$40 billion** in s
 
 In recent decades we have begun to see the private sector take on very large scale projects, without government funding.
 
-City Center, in Las Vegas Nevada, is a good example
+City Center, in Las Vegas, Nevada, is a good example
   * 17 million square feet of mixed use space
   * built in 4 years (2006 to 2010)
   * 100% privately financed, at a cost of **$11 billion** <sup>[citation needed]</sup>
@@ -487,7 +487,7 @@ There are a huge number of metrics that people measure cities by. We're going to
 
   * In **Haxby, Montana**, with a car, in 30 minutes you can probably reach about a half dozen homes, with perhaps 10,000 square feet of floorspace, so that means your 30-minute Kinematic Range, **KR<sub>30</sub>**, is about **10,000 square feet**.
   
-  * In **San Francisco**, if you are able-bodied and travel by bicycle or public transit, but you do not use a car, then in 30 minutes you can probably get from almost any building in the city to almost any other room in any building in the city. But without a car, there are fairly few places you can get to outside the city limits within 30 minutes. The buildings in San Franicsco have a total of about 540 million square feet of floorspace, and your **KR<sub>30</sub>** might be about **450 million square feet**, which is about 50-thousand-fold higher than your range in Haxby.
+  * In **San Francisco**, if you are able-bodied and travel by bicycle or public transit, but you do not use a car, then in 30 minutes you can probably get from almost any building in the city to almost any room in any other building in the city. But without a car, there are fairly few places you can get to outside the city limits within 30 minutes. The buildings in San Franicsco have a total of about 540 million square feet of floorspace, and your **KR<sub>30</sub>** might be about **450 million square feet**, which is about 50-thousand-fold higher than your range in Haxby.
   
   * **Wurster Hall** is a building on the campus of the University of California, Berkeley. It's a fairly typical mid-rise building, with a normal mix of offices, meeting rooms (classrooms), and open plan work spaces. Most of the floorspace is in the wider base in the first three floors, but there's a narrower tower that's ten stories tall. The building has a total of about 225,000 square feet of floorspace, and within 2 minutes you can go between almost any two points in the building, so that's a 2-minute Kinematic Range, **KR<sub>2</sub>**, of **225,000 square feet**.
   
@@ -504,7 +504,7 @@ This next section is conjectural, so please evaluate it more skeptically.
 
 As a city grows, at first, kinematic range increases as population increases, perhaps in a roughly linear relationship. Unfortunately, as cities get too big, they start to sprawl and suffer from traffic congestion. Eventually, there's a **kinematic lag**, where the kinematic range stops its 1-to-1 tracking of population growth, and begins to lag behind.
 
-This whole kinematic cities proposal is all about trying to reduce that kinematic lag in larger cities. The proposed kinematic city design is an attempt to keep increasing a city's kinematic range even as it's population grows in the millions.
+This whole kinematic cities proposal is all about trying to reduce that kinematic lag in larger cities. The proposed kinematic city design is an attempt to keep increasing a city's kinematic range even as its population grows in the millions.
 
 Take the **San Francisco Bay Area** as an example. The Bay Area is a conurbation that encompasses major cities like San Francisco and San Jose, as well as lots of smaller cities, like Oakland, Berkeley, and Mountain View. The entire population is about 8 million people, depending where you draw the boundaries. 
 
@@ -521,7 +521,7 @@ Is it conceivable that the Bay Area could be re-engineered to quadruple travel r
   * the 1976 BART system was a comparable amount, if measured in today's dollars
   * the 2006 Big Dig in Boston cost $21 billion
 
-Building from scratch has it's own challanges, and is also crazy expensive, but it does have the advantage that it can be done much more quickly.
+Building from scratch has its own challenges, and is also crazy expensive, but it does have the advantage that it can be done much more quickly.
 
 > "If you build a new city you don't have to relocate or work 
 > around existing roads or rivers or factories or houses. 
@@ -546,14 +546,14 @@ Building from scratch has it's own challanges, and is also crazy expensive, but 
   * carbon footprint of HVAC in the city
   * carbon footprint of the initial city construction materials and construction work
 
-* **Economic prosperity.** A city should provide for a good life for the people who live in them and the people who have offices there. Because global poverty is a serious problem, economic growth is a force for good, so long as the economic growth is "green growth" and so long as GDP growth goes up while carbon footprint goes down, habitat restoration use goes up, and Gini coefficients go down.
+* **Economic prosperity.** A city should provide for a good life for the people who live in it and the people who have offices there. Because global poverty is a serious problem, economic growth is a force for good, so long as the economic growth is "green growth" and so long as GDP growth goes up while carbon footprint goes down, habitat restoration use goes up, and Gini coefficients go down.
 
 * **Social prosperity.** It should be:
   * easy to go see your friends
   * easy to do an errand for your mom
   * easy to go to weird new clubs and meetup groups to see who's there
 
-* **Agglomeration economies.** The term "industrial agglomeration" means the clustering of a lot of business firms in one region. Industrial agglomeration leads to "agglomeration economies" (somewhat similar to the seperate idea of "economies of scale"). "Agglomeration economies" are economic benefits that come from having businesses be near each other, such as shared infrastructure development. But we need our designs to be mindful of avoiding "agglomeration diseconomies", which are the disadvantages of proximity, such as traffic congestion.
+* **Agglomeration economies.** The term "industrial agglomeration" means the clustering of a lot of business firms in one region. Industrial agglomeration leads to "agglomeration economies" (somewhat similar to the separate idea of "economies of scale"). "Agglomeration economies" are economic benefits that come from having businesses be near each other, such as shared infrastructure development. But we need our designs to be mindful of avoiding "agglomeration diseconomies", which are the disadvantages of proximity, such as traffic congestion.
 
 * **Affordability.** There's no point in designing a new kinematic city that is too expensive to build, or building a new city that is too expensive for most people to afford to move to. The initial kinematic city designs intentionally focus on avoiding expensive transportation options like light rail, and even bus rapid transit. The designs also avoid expensive buildings, like skyscrapers or even ten-story buildings with concrete service cores and elevators, in favor of less expensive "4-over-1" podium construction.
    - readily available housing
@@ -565,7 +565,7 @@ Building from scratch has it's own challanges, and is also crazy expensive, but 
   | keep construction costs down       | use conventional construction techniques <br> no skyscrapers (expensive per square foot) <br> no elevators  <br> strive for economies of scale 
   | keep land costs low                | pick an inexpensive site <br> maximize Floor Area Ratio (FAR), or floor space per square mile 
   | keep developer financing costs low | use tight construction timelines <br> avoid planning and permitting delays <br> avoid big risks <br> minimize vacancy <br> produce revenue early on <br> do "just-in-time" production of square footage
-  | keep transportation costs down     | keep everything close <br> no automobiles (at $20,000+ each) <br> no busses (at $500,000 each, or $8,000+ per passenger seat) <br> no subway cars (at $10,000+ per passenger seat) <br> no subway tunnels (at $100,000,000+ per mile) 
+  | keep transportation costs down     | keep everything close <br> no automobiles (at $20,000+ each) <br> no buses (at $500,000 each, or $8,000+ per passenger seat) <br> no subway cars (at $10,000+ per passenger seat) <br> no subway tunnels (at $100,000,000+ per mile) 
 
 * **Safety.**
   - freedom from harassment
@@ -590,8 +590,9 @@ Building from scratch has it's own challanges, and is also crazy expensive, but 
   - school & work
   - friends & family
   - groceries & restaurants
-  - yoga & gym
-  - dentist & doctors 
+  - parks & playgrounds
+  - gyms & laundromats
+  - dentists & doctors
   - libraries & museums
   - long tail destinations (aka _That One Unusual Thing_ that most people wouldn't care about, but that you really want to go to)
     - a monthly Renaissance Faire meetup
@@ -604,7 +605,7 @@ Building from scratch has it's own challanges, and is also crazy expensive, but 
   - fresh air
   - sunlight
 
-* **Resiliency.** Cities should be designed to be resilient after natural disasters and other emergencies. For example, it should be possible to evactuate an building quickly even when the power is out. And it should be safe to quickly reopen as many buildings as possible after an earthquake, hurricane, or flood. These are goals that can be furthered by simply avoiding "fragile" technologies, like elevators, and traffic lights. 
+* **Resiliency.** Cities should be designed to be resilient after natural disasters and other emergencies. For example, it should be possible to evacuate a building quickly even when the power is out. And it should be safe to quickly reopen as many buildings as possible after an earthquake, hurricane, or flood. These are goals that can be furthered by simply avoiding "fragile" technologies, like elevators, and traffic lights. 
 
   > "Resiliency is the ability to bounce back better, but also the ability to not have to bounce back as much." 
   > &mdash; Sylvester Wong, Vice President of AECOM[^new-clark]
@@ -654,7 +655,7 @@ A kinematic city has:
     * no helicopters
     * no gondolas
   * **nothing big**
-    * no busses or bus rapid transit (BRT)
+    * no buses or bus rapid transit (BRT)
     * no trucks
     * no mass transit
   * **no gas engines** in vehicles
@@ -692,7 +693,7 @@ Instead, we have
   * **laneway tolls** & **parking tolls**
     * no tolls on laneways that aren't congested
     * highest tolls at rush-hour, or on busy laneways
-    * tolls are per-minute, not per-mile
+    * tolls are per-minute, not per-mile (to prevent slow "street blimp" advertising vehicles)
     * free parking when space is ample
     * highest parking tolls in congested areas
 
@@ -720,7 +721,7 @@ Instead, we have:
     * a grid of highline trails above the bike boulevards
   * city blocks of about 660 feet by 660 feet
   * about one iconic **landmark structure** per million people, inspired by examples such as:
-    * the Eiffel tower in Paris
+    * the Eiffel Tower in Paris
     * St. Basil's Cathedral in Moscow
     * Big Ben and the tower from the Palace of Westminster in London
     * the leaning tower of Pisa
@@ -731,8 +732,8 @@ Instead, we have:
     * Potola Palace in Lhasa, Tibet
     * Westminster Abbey in London
     * Le Mont-Saint Michel
-    * the pyramids of Giza'
-    * Cateau Frontenac in Quebec
+    * the pyramids of Giza
+    * Chateau Frontenac in Quebec
 
 
 ### <a name="ramp"></a>(4.3) Ramp proposal
@@ -793,7 +794,7 @@ Ideally the kinematic city buildings would all be built with standpipes and fire
 | 5,500 | **bicycles** on entire lane width
 |---
 
-> Because of their higher speed an increased comfort, electric bicycles, where they are authorized (as in Chengdu, China), could meaningfully compete with buses or cars as a means of commuting in larger cities.[^bertaud]
+> Because of their higher speed and increased comfort, electric bicycles, where they are authorized (as in Chengdu, China), could meaningfully compete with buses or cars as a means of commuting in larger cities.[^bertaud]
 
 > By contrast, compared to the motorcycle, compact Smart car performance (except for energy use) in terms of road capacity is not much better than that of an ordinary car. ... The width of the vehicle, not its length, is the important parameter to consider when trying to reduce street area consumption.[^bertaud]
 
@@ -841,6 +842,7 @@ The kinematic city **ramp-only** design:
 * works better after a natural disaster
 * takes up less space in the building
   > In the Seagram building (which has 38 floors), the area used for elevators and utility shafts occupies 31 percent of the area of a typical floor.[^bertaud]
+
 * can be built more quickly
 * is less expensive to build
 * is less expensive to operate
@@ -856,7 +858,7 @@ The kinematic city **ramp-only** design:
 |-:|:-:|:-:|:-:|:-:
 | **Cars**<br>per million people | 100 | 450,000 | 220,000	
 | **Trucks**<br>per million people | 100 | 60,000 | 	
-| **Busses, etc.**<br>busses, streetcars, light rail vehicles, etc.<br>per million people | 1 | 1,380 | 	
+| **Buses, etc.**<br>buses, streetcars, light rail vehicles, etc.<br>per million people | 1 | 1,380 | 	
 | **Traffic fatalities**<br>annual, per million people | 1 | 30 | 23
 | **Cost to city to subsidize public transit**<br>annual dollars per capita | $0 | $720
 | **Cost of public transit paid by riders**<br>annual dollars per capita | $0 | $360
@@ -891,12 +893,12 @@ The kinematic city **ramp-only** design:
 * **charter city**
   * a special jurisdiction with a blank slate in commercial law, to allow for the adoption of new practices in areas such as a business registration, labor law, tax administration, and commercial dispute resolution
   * _typically built on greenfield sites to avoid the challenges of implementing such a wide array of reforms in an existing polity_
-  * _typically privately finanaced_
+  * _typically privately financed_
   * see: special economic zone
 
 * **effective altruism**
   * using empirical analysis to direct resources towards efforts that do the most possible good
-  * _anti-malaria efforts, deworming initiatives1, and direct cash transfer programs are among the interventions most widely credited with providing the most cost-effective improvement in welfare for the global poor than any other intervention_ 
+  * _anti-malaria efforts, deworming initiatives, and direct cash transfer programs are among the interventions most widely credited with providing the most cost-effective improvement in welfare for the global poor than any other intervention_ 
   * see [GiveWell](https://www.givewell.org/)
 
 * **induced demand**
@@ -991,7 +993,6 @@ The kinematic city **ramp-only** design:
 [^wiki_sez]: ["Special economic zone"](https://en.wikipedia.org/wiki/Special_economic_zone). _Wikipedia_.
 
 [^yang]: ["Andrew Yang’s plan to tackle climate change, explained"](https://www.vox.com/future-perfect/2019/8/26/20833263/andrew-yang-climate-plan). _Vox.com_. 26 August 2019.
-
 
 
 
