@@ -99,6 +99,7 @@ The current market size for new city construction is large:
    * [Transportation proposal](#transportation)
    * [Spatial layout proposal](#spatial-layout)
    * [Ramp proposal](#ramp)
+   * [Safety proposal](#safety)
 1. **[Design notes](#design-notes)** &mdash; why pick those design choices?
    * [Transportation notes](#transportation-notes)
    * [Spatial layout notes](#spatial-layout-notes)
@@ -780,7 +781,16 @@ A kinematic city has:
 Instead, we have: 
   * **underground power lines**
 
-The kinematic city design
+The city boulevards are wide enough to accommodate standard fire engines, ambulances, and other emergency vehicles. The city boulevards are painted with lane markings for narrow 5-foot lanes for bike-sized vehicles, but the boulevards themselves are always 4 lanes wide, plus shoulders. The bikeways have an unobstructed width of about 30 feet, and unobstructed height clearance of 14 feet. The entrance and exit ramps are single-lane, but are still wide enough for standard emergency vehicles. 
+
+Although traditional fire engines can use the boulevards, they may not be necessary. It may be possible for the city to have a larger number of smaller fire-fighting vehicles for different sorts of cargos:
+* tender vehicles for hauling water
+* pump engines for pumping from sources like canals
+* rescue vehicles for hauling floodlights, hydraulic rescue tools, etc.
+* hazardous materials vehicles with hazmat suits, etc.
+
+Ideally the kinematic city buildings would all be built with standpipes and fire sprinkler systems, so pump engines and tender vehicles may be less important in a kinematic city, allowing the city to instead have more ambulances, hazmat vehicles and rescue vehicles.
+
 
 ## <a name="design-notes"></a>(5) Design notes &mdash; why pick those design choices?
 
