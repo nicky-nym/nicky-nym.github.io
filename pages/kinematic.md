@@ -395,7 +395,7 @@ There are a huge number of metrics that people measure cities by. We're going to
   * unit: square feet per person
 
   |---
-  | people per<br>sq mile | sq feet<br>per person | Region | Land area occupied by cities<br>square meters per person<br>in 2014
+  | people<br>per<br>mile<sup>2</sup> | feet<sup>2</sup><br>per<br>person | region | land area of cities<br>meters<sup>2</sup><br>per person<br>in 2014
   |-:|-:|:-|-:
   | 55,106 |   506 | South and Central Asia          |  47[^bertaud]
   | 34,079 |   818 | Southeast Asia                  |  76[^bertaud]
@@ -404,6 +404,7 @@ There are a huge number of metrics that people measure cities by. We're going to
   | 25,900 | 1,076 | Latin America and the Caribbean | 100[^bertaud]
   | 20,555 | 1,356 | East Asia and the Pacific       | 126[^bertaud]
   | 15,988 | 1,744 | Europe and Japan                | 162[^bertaud]
+  | 10,101 |       | Single-family housing           | [^crawford]
   |  6,080 | 4,585 | Land-rich developed countries   | 426[^bertaud]
   |---
 
