@@ -429,14 +429,15 @@ There are a huge number of metrics that people measure cities by. We're going to
   * unit: square feet per square feet (or square meters per square meters)
 
   |---
-  | Floor Area Ratio<sub>type?</sub> | Place
-  |-:|:-
-  |  0.3 | US suburbs[^bertaud]
-  |  2 to 3 | Proposed kinematic city
-  |  3.5 | Historical Paris[^bertaud]
-  | 4-10 | Manhattan residential[^bertaud]
-  |   15 | Manhattan office buildings[^bertaud]
-  |   25 | Singapore highest FAR[^bertaud]
+  | Floor Area Ratio<sub>parcel</sub> | Floor Area Ratio<sub>overall</sub> | Place
+  |-:|-:|:-
+  |     0.3[^bertaud] |        | US suburbs
+  |                   |   0.41 | San Francisco
+  |                   |    1.7 | Proposed kinematic city
+  |     3.5[^bertaud] |        | Historical Paris
+  | 4 to 10[^bertaud] | 3 to 7 | Manhattan residential
+  |      15[^bertaud] |     10 | Manhattan office buildings
+  |      25[^bertaud] |        | Singapore highest FAR
   |---
 
 * <a name="gross-area"></a>**Gross Floor Area** is the total floor area of a building, including all the area taken up by lobbies, hallways, elevator shafts, walls, offices, apartments, etc.
