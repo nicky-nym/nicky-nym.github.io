@@ -429,7 +429,7 @@ There are a huge number of metrics that people measure cities by. We're going to
   * unit: square feet per square feet (or square meters per square meters)
 
   |---
-  | Floor Area Ratio<sub>parcel</sub> | Floor Area Ratio<sub>overall</sub> | Place
+  | FAR<sub>parcel</sub> | FAR<sub>overall</sub> | Place
   |-:|-:|:-
   |     0.3[^bertaud] |        | US suburbs
   |                   |   0.41 | San Francisco
