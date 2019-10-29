@@ -559,6 +559,14 @@ Building from scratch has it's own challanges, and is also crazy expensive, but 
    - readily available housing
    - affordabability at market prices, without subsidies or rent control
 
+  |---
+  | **goals** | **implications**
+  |:-:|:-
+  | keep construction costs down       | use conventional construction techniques <br> no skyscrapers (expensive per square foot) <br> no elevators  <br> strive for economies of scale 
+  | keep land costs low                | pick an inexpensive site <br> maximize Floor Area Ratio (FAR), or floor space per square mile 
+  | keep developer financing costs low | use tight construction timelines <br> avoid planning and permitting delays <br> avoid big risks <br> minimize vacancy <br> produce revenue early on <br> do "just-in-time" production of square footage
+  | keep transportation costs down     | keep everything close <br> no automobiles (at $20,000+ each) <br> no busses (at $500,000 each, or $8,000+ per passenger seat) <br> no subway cars (at $10,000+ per passenger seat) <br> no subway tunnels (at $100,000,000+ per mile) 
+
 * **Safety.**
   - freedom from harassment
   - safe enough that parents can opt to have "free-range children" who explore the city on their own
@@ -603,15 +611,6 @@ Building from scratch has it's own challanges, and is also crazy expensive, but 
 
   > "Because its location and design were deliberately chosen to withstand natural calamities, New Clark City will serve as the government’s continuity hub, disaster and risk recovery center – an alternative capital city in case a disaster strikes Manila"[^new-clark]
 
-|---
-| **Design implications** | **Examples**
-|:-:|:-
-| maximize "trees passed per day" | place trees along circulation paths <br> make living walls
-| keep construction costs down       | use conventional construction techniques <br> no skyscrapers (expensive per square foot) <br> no elevators  <br> strive for economies of scale 
-| keep land costs low                | pick an inexpensive site <br> maximize Floor Area Ratio (FAR), or floor space per square mile 
-| keep developer financing costs low | use tight construction timelines <br> avoid planning and permitting delays <br> avoid big risks <br> minimize vacancy <br> produce revenue early on <br> do "just-in-time" production of square footage
-| keep transportation costs down     | keep everything close <br> no automobiles (at $20,000+ each) <br> no busses (at $500,000 each, or $8,000+ per passenger seat) <br> no subway cars (at $10,000+ per passenger seat) <br> no subway tunnels (at $100,000,000+ per mile) 
-| keep everything close      | maximize the amount of usable floor area within 30 minutes of this floor area
 
 
 ### <a name="design-constraints"></a>(3.2) Design constraints
