@@ -395,26 +395,32 @@ There are a huge number of metrics that people measure cities by. We're going to
   * unit: square feet per person
 
   |---
-  | people<br>per<br>mile<sup>2</sup> | region | feet<sup>2</sup><br>per<br>person | land area of cities<br>meters<sup>2</sup><br>per person<br>in 2014
-  |-:|-:|:-|-:
+  | people<br>per<br>mile<sup>2</sup> | region | feet<sup>2</sup><br>per<br>person 
+  |-:|:-|-:|
   | 195,027 | Paris-Montholon (IX)[^crawford]          |   143 | 
   | 142,450 | J.H.Crawford Reference Design[^crawford] |   196 | 
   |  **78,874** | Proposed **Kinematic City**          |   353 |
   |  71,340 | Manhattan, New York[^wiki_manhattan]     |   391 | 
   |  55,673 | Paris                                    |   501 | 
+  |  27,751 | New York City[^wiki_new_york_city]       | 1,005 |
+  |  18,838 | San Francisco[^wiki_san_francisco]       | 1,480 | 
+  |  10,101 | Single-family housing[^crawford]         | 2,760 | 
+  |---
+
+<!--
+  |---
+  | people<br>per<br>mile<sup>2</sup> | region | feet<sup>2</sup><br>per<br>person | land area of cities<br>meters<sup>2</sup><br>per person<br>in 2014
+  |-:|-:|:-|-:
   |  55,106 | South and Central Asia                   |   506 |  47[^bertaud]
   |  34,079 | Southeast Asia                           |   818 |  76[^bertaud]
   |  28,461 | Western Asia and North Africa            |   980 |  91[^bertaud]
-  |  27,751 | New York City[^wiki_new_york_city]       | 1,005 |
   |  27,263 | Sub-Saharan Africa                       | 1,023 |  95[^bertaud]
   |  25,900 | Latin America and the Caribbean          | 1,076 | 100[^bertaud]
   |  20,555 | East Asia and the Pacific                | 1,356 | 126[^bertaud]
-  |  18,838 | San Francisco[^wiki_san_francisco]       | 1,480 | 
   |  15,988 | Europe and Japan                         | 1,744 | 162[^bertaud]
-  |  10,101 | Single-family housing[^crawford]         | 2,760 | 
   |   6,080 | Land-rich developed countries            | 4,585 | 426[^bertaud]
   |---
-
+-->
 
 
 
