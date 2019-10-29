@@ -840,15 +840,14 @@ The kinematic city **ramp-only** design:
 * works better for delivery robots
 * works better after a natural disaster
 * takes up less space in the building
+  > In the Seagram building (which has 38 floors), the area used for elevators and utility shafts occupies 31 percent of the area of a typical floor.[^bertaud]
 * can be built more quickly
 * is less expensive to build
 * is less expensive to operate
 * is less expensive to maintain
 * has a smaller carbon footprint
+  > "Lifts also use a large amount of energy to run. For buildings that are largely served by lifts, you can add a rough figure of 5 to 15 per cent onto building energy running costs."[^roaf] &mdash; Susan Roaf
 
-> "Lifts also use a large amount of energy to run. For buildings that are largely served by lifts, you can add a rough figure of 5 to 15 per cent onto building energy running costs."[^roaf] &mdash; Susan Roaf
-
-> In the Seagram building (which has 38 floors), the area used for elevators and utility shafts occupies 31 percent of the area of a typical floor.[^bertaud]
 
 ## <a name="better-outcomes"></a>(6) Comparisons &mdash; San Francisco vs. Proposed Kinematic City
 
