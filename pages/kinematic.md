@@ -399,17 +399,22 @@ There are a huge number of metrics that people measure cities by. We're going to
   |-:|-:|:-|-:
   | 195,027 |   143 | Paris-Montholon (IX)[^crawford] | 
   | 142,450 |   196 | J.H.Crawford Reference Design[^crawford] | 
+  |  78,874 |       | Proposed Kinematic City
+  |  71,340 |       | Manhattan, New York[^wiki_manhattan]
+  |  55,673 |       | Paris
   |  55,106 |   506 | South and Central Asia          |  47[^bertaud]
   |  34,079 |   818 | Southeast Asia                  |  76[^bertaud]
   |  28,461 |   980 | Western Asia and North Africa   |  91[^bertaud]
+  |  27,751 |       | New York City[^wiki_new_york_city]
   |  27,263 | 1,023 | Sub-Saharan Africa              |  95[^bertaud]
   |  25,900 | 1,076 | Latin America and the Caribbean | 100[^bertaud]
   |  20,555 | 1,356 | East Asia and the Pacific       | 126[^bertaud]
-  |  18,838 | 1,480 | San Francisco[^san_francisco]    | 
+  |  18,838 | 1,480 | San Francisco[^wiki_san_francisco]    | 
   |  15,988 | 1,744 | Europe and Japan                | 162[^bertaud]
   |  10,101 | 2,760 | Single-family housing[^crawford]           | 
   |   6,080 | 4,585 | Land-rich developed countries   | 426[^bertaud]
   |---
+
 
 
 
@@ -874,10 +879,10 @@ The kinematic city **ramp-only** design:
   * see [GiveWell](https://www.givewell.org/)
 
 * **induced demand**
-  * if you add lanes to a freeway, it leads to more trips, not faster trips[^induced_demand]
+  * if you add lanes to a freeway, it leads to more trips, not faster trips[^wiki_induced_demand]
 
 * **Jevons paradox**
-  * as **X** gets faster (and cheaper), people use more **X**[^jevons]
+  * as **X** gets faster (and cheaper), people use more **X**[^wiki_jevons]
 
 * <a name="kinematic"></a>**kinematic**
   * concerned with the motion of bodies, and their range of motion
@@ -886,7 +891,7 @@ The kinematic city **ramp-only** design:
   * people will commute about 30 minutes each way per day [Marchetti constant](marchetti)
 
 * **special economic zone (SEZ)**
-  * a part of a country in which the business and trade laws are different from the rest of the country[^sez]
+  * a part of a country in which the business and trade laws are different from the rest of the country[^wiki_sez]
   * there have been SEZs since the 1950s, and there are now thousands of SEZs around the world[^mason]
 
 ## Further Reading
@@ -926,10 +931,6 @@ The kinematic city **ramp-only** design:
 
 [^growth]: ["Should we build cities from scratch?"](https://www.theguardian.com/cities/2019/jul/10/should-we-build-cities-from-scratch). _The Guardian_. 10 July 2019.
 
-[^induced_demand]: ["Induced demand"](https://en.wikipedia.org/wiki/Induced_demand). _Wikipedia_.
-
-[^jevons]: ["Jevons paradox"](https://en.wikipedia.org/wiki/Jevons_paradox). _Wikipedia_.
-
 [^kang]: ["Sound Environment: High- versus Low-Density Cities"], by Jian Kang, Chapter 12 of ["Designing High-Density Cities"](), edited by Edward Ng
 
 [^manhattan]: ["What's Manhattan's Land Worth? Try 'Canada's Entire GDP'"](https://www.citylab.com/life/2018/04/what-manhattans-land-is-worth/558776/). _CityLab_. 24 April 2018.
@@ -948,17 +949,25 @@ The kinematic city **ramp-only** design:
 
 [^roaf]: ["The Sustainability of High Density"](), by Susan Roaf, Chapter 3 of ["Designing High-Density Cities"](), edited by Edward Ng.
 
-[^san_francisco]: ["San Francisco"](https://en.wikipedia.org/wiki/San_Francisco). _Wikipedia_.
-
 [^scale]: [_Scale_](https://www.penguinrandomhouse.com/books/314049/scale-by-geoffrey-west/), by Geoffrey West. 2018.
-
-[^sez]: ["Special economic zone"](https://en.wikipedia.org/wiki/Special_economic_zone). _Wikipedia_.
 
 [^sharma]: ["Greenfield Smart Cities Shaping the Future of India"](https://newcities.org/the-big-picture-greenfield-smart-cities-shaping-future-india/). _NewCities_. 23 July 2019.
 
 [^watts]: ["Concrete: the most destructive material on Earth"](https://www.theguardian.com/cities/2019/feb/25/concrete-the-most-destructive-material-on-earth). Jonathan Watts, _The Guardian_. 25 Feb 2019 
 
 [^west]: ["The Origins of Scaling in Cities"](), by Luis Bettencourt & Geoffrey West at the Santa Fe Institute. _Science (volume 340, issue 6139, page 1438)_. 21 June 2013.
+
+[^wiki_induced_demand]: ["Induced demand"](https://en.wikipedia.org/wiki/Induced_demand). _Wikipedia_.
+
+[^wiki_jevons]: ["Jevons paradox"](https://en.wikipedia.org/wiki/Jevons_paradox). _Wikipedia_.
+
+[^wiki_manhattan]: ["Manhattan"](https://en.wikipedia.org/wiki/Manhattan). _Wikipedia_.
+
+[^wiki_new_york_city]: ["New York City"](https://en.wikipedia.org/wiki/New_York_City). _Wikipedia_.
+
+[^wiki_san_francisco]: ["San Francisco"](https://en.wikipedia.org/wiki/San_Francisco). _Wikipedia_.
+
+[^wiki_sez]: ["Special economic zone"](https://en.wikipedia.org/wiki/Special_economic_zone). _Wikipedia_.
 
 [^yang]: ["Andrew Yang’s plan to tackle climate change, explained"](https://www.vox.com/future-perfect/2019/8/26/20833263/andrew-yang-climate-plan). _Vox.com_. 26 August 2019.
 
