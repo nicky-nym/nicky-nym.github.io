@@ -395,11 +395,11 @@ There are a huge number of metrics that people measure cities by. We're going to
   * unit: square feet per person
 
   |---
-  | people<br>per<br>mile<sup>2</sup> | region | feet<sup>2</sup><br>per<br>person 
+  | People per<br>square mile | City | Land area<br>square feet<br>per person 
   |-:|:-|-:|
   | 195,027 | Paris-Montholon (IX)[^crawford]          |   143 | 
   | 142,450 | J.H.Crawford Reference Design[^crawford] |   196 | 
-  |  **78,874** | Proposed **Kinematic City**          |   353 |
+  | **78,874** | **Kinematic City** Proposal           |   353 |
   |  71,340 | Manhattan, New York[^wiki_manhattan]     |   391 | 
   |  55,673 | Paris                                    |   501 | 
   |  27,751 | New York City[^wiki_new_york_city]       | 1,005 |
