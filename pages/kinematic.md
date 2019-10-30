@@ -397,11 +397,10 @@ There are a huge number of metrics that people measure cities by. We're going to
   |---
   | People per<br>square mile | City | Land area<br>square feet<br>per person 
   |-:|:-|-:|
-  | 195,027 | Paris-Montholon (IX)[^crawford]           |   143 | 
   |  85,829 | Central Paris[^crawford]                  |   325 | 
-  | **78,874** | **Kinematic City Proposal**            |   353 |
+  | **78,874** | **Kinematic City Proposal**<br>(density of city districts, sans greenbelt)    |   353 |
   |  71,340 | Manhattan, New York[^wiki_manhattan]      |   391 | 
-  |  68,376 | J.H.Crawford's _Carfree Cities_ Reference Design<br>(density of city districts themselves)[^crawford]  |   408 | 
+  |  68,376 | J.H.Crawford's _Carfree Cities_ Reference Design<br>(density of city districts, sans greenbelt)[^crawford]  |   408 | 
   |  52,593 | Paris[^wiki_paris]                        |   530 | 
   |  27,751 | New York City[^wiki_new_york_city]        | 1,005 |
   |  18,838 | San Francisco[^wiki_san_francisco]        | 1,480 | 
