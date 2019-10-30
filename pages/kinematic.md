@@ -765,8 +765,15 @@ A kinematic city has:
 
 Instead, we have: 
   * **underground power lines**
+  * **911 call response times averaging 3 to 4 minutes**
+
+> "Improvements in response time and medicine are responsible for about one-third of the reduction in fatality rates from crashes in the UK."[^levinson]
+
+#### No innovation required for emergency response
 
 The city boulevards are wide enough to accommodate standard fire engines, ambulances, and other emergency vehicles. The city boulevards are painted with lane markings for narrow 5-foot lanes for bike-sized vehicles, but the boulevards themselves are always 4 lanes wide, plus shoulders. The bikeways have an unobstructed width of about 30 feet, and unobstructed height clearance of 14 feet. The entrance and exit ramps are single-lane, but are still wide enough for standard emergency vehicles. 
+
+#### Innovation is possible for emergency response
 
 Although traditional fire engines can use the boulevards, they may not be necessary. It may be possible for the city to have a larger number of smaller fire-fighting vehicles for different sorts of cargos:
 * tender vehicles for hauling water
@@ -775,6 +782,7 @@ Although traditional fire engines can use the boulevards, they may not be necess
 * hazardous materials vehicles with hazmat suits, etc.
 
 Ideally the kinematic city buildings would all be built with standpipes and fire sprinkler systems, so pump engines and tender vehicles may be less important in a kinematic city, allowing the city to instead have more ambulances, hazmat vehicles and rescue vehicles.
+
 
 
 ## <a name="design-notes"></a>(5) Design notes &mdash; why pick those design choices?
@@ -964,6 +972,8 @@ The kinematic city **ramp-only** design:
 [^growth]: ["Should we build cities from scratch?"](https://www.theguardian.com/cities/2019/jul/10/should-we-build-cities-from-scratch). _The Guardian_. 10 July 2019.
 
 [^kang]: ["Sound Environment: High- versus Low-Density Cities"], by Jian Kang, Chapter 12 of ["Designing High-Density Cities"](), edited by Edward Ng
+
+[^levinson]: ["21 Solutions to Road Deaths"](https://transportist.org/2019/10/02/21-solutions-to-road-deaths/). David Levinson, _Transportist_. 2 Oct 2019.
 
 [^manhattan]: ["What's Manhattan's Land Worth? Try 'Canada's Entire GDP'"](https://www.citylab.com/life/2018/04/what-manhattans-land-is-worth/558776/). _CityLab_. 24 April 2018.
 
