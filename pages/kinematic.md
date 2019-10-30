@@ -680,9 +680,10 @@ Instead, we have
     * restrictions
       * narrow &mdash; not more than 36 inches wide, or 48 inches for licensed cargo vehicles
       * lightweight &mdash; not more than 111 lbs.
-      * slow &mdash; 15 mph city-wide speed limit, with automatic speed governors, and automated ticketing
       * underpowered &mdash; not more than 2 horsepower
-    * examples
+      * slow &mdash; 15 mph city-wide speed limit, with automatic speed governors, and automated ticketing
+        > below 18 mph "pedestrians are more likely to survive being hit by a car than die, while at higher speeds the reverse is true"[^levinson]
+  * examples
       * bicycles
       * scooters
       * mopeds (electric)
