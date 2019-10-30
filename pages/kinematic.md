@@ -406,7 +406,7 @@ There are a huge number of metrics that people measure cities by. We're going to
   |  18,838 | San Francisco[^wiki_san_francisco]        | 1,480 | 
   |  10,117 | J.H.Crawford's _Carfree Cities_ Reference Design<br>(combined density of city districts **and** greenbelt)[^crawford]  |   2,756 | 
   |  10,101 | Suburban single-family housing[^crawford] | 2,760 | 
-  |         | _For more examples of city densities, check out the great [DensityAtlas.org](http://densityatlas.org/) web site._ |  | 
+  |         | _For more examples of city densities, check out [DensityAtlas.org](http://densityatlas.org/)._ |  | 
   |---
   
   
@@ -442,8 +442,7 @@ There are a huge number of metrics that people measure cities by. We're going to
   | 4 to 10[^bertaud] | 3 to 7[^densityatlas] | Manhattan residential
   |      15[^bertaud] |     10 | Manhattan office buildings
   |      25[^bertaud] |        | Singapore highest FAR
-  |                   |        | _For more FAR examples, check out the great [DensityAtlas.org](http://densityatlas.org/) web site._ |  | 
-
+  |                   |        | _For more FAR examples, check out [DensityAtlas.org](http://densityatlas.org/)._ |  | 
   |---
 
 * <a name="gross-area"></a>**Gross Floor Area** is the total floor area of a building, including all the area taken up by lobbies, hallways, elevator shafts, walls, offices, apartments, etc.
