@@ -767,14 +767,13 @@ A kinematic city has:
 Instead, we have: 
   * **underground power lines**
   * **911 call response times averaging 3 to 4 minutes**
+    > "Improvements in response time and medicine are responsible for about one-third of the reduction in fatality rates from crashes in the UK."[^levinson]
 
-> "Improvements in response time and medicine are responsible for about one-third of the reduction in fatality rates from crashes in the UK."[^levinson]
-
-#### No innovation required for emergency response
+#### Innovation NOT REQUIRED for emergency response
 
 The city boulevards are wide enough to accommodate standard fire engines, ambulances, and other emergency vehicles. The city boulevards are painted with lane markings for narrow 5-foot lanes for bike-sized vehicles, but the boulevards themselves are always 4 lanes wide, plus shoulders. The bikeways have an unobstructed width of about 30 feet, and unobstructed height clearance of 14 feet. The entrance and exit ramps are single-lane, but are still wide enough for standard emergency vehicles. 
 
-#### Innovation is possible for emergency response
+#### Innovation IS POSSIBLE for emergency response
 
 Although traditional fire engines can use the boulevards, they may not be necessary. It may be possible for the city to have a larger number of smaller fire-fighting vehicles for different sorts of cargos:
 * tender vehicles for hauling water
