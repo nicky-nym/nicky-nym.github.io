@@ -680,7 +680,7 @@ Instead, we have
     * restrictions
       * narrow &mdash; not more than 36 inches wide, or 48 inches for licensed cargo vehicles
       * lightweight &mdash; not more than 111 lbs.
-      * slow &mdash; 15 mph city-wide speed limit, with automatic speed governor
+      * slow &mdash; 15 mph city-wide speed limit, with automatic speed governors, and automated ticketing
       * underpowered &mdash; not more than 2 horsepower
     * examples
       * bicycles
