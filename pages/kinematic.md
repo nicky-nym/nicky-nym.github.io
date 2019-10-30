@@ -188,7 +188,7 @@ It is estimated that **by 2050**:
 * there will be at least **nine African "megacities" of 10 million people or more** (and more than two dozen African cities of 5 million or more, about the size of metropolitan Washington), but currently 60 percent of Africa’s city dwellers live in slums [^bloomberg]
 * one-third of all of the French Polynesian islands will be submerged[^fast-company]
 
-"An estimated 2.4 billion people–40% of the world’s population–live in a coastal region and will likely be impacted by rising sea levels as a result of climate change."[^fast-company]
+**Doubling of urban area**
 
 "Half of the urban area that will be needed [by 2050] hasn't been built yet."[^growth]
 
@@ -197,7 +197,13 @@ It is estimated that **by 2050**:
 > "we're going to develop more urban area in the next 100 years than currently exists on Earth"[^growth]
 > &mdash; Paul Romer, Nobel prize-winning economist, New York University.
 
+**Refugee numbers increasing**
+
+"An estimated 2.4 billion people–40% of the world’s population–live in a coastal region and will likely be impacted by rising sea levels as a result of climate change."[^fast-company]
+
 As of 2018, **70 million people** were currently displaced by war, persecution and conflict. Of the total, 51 million were Internally Displaced People (IDPs), and 26 million were refugees (including **13 million refugee children**). Most refugees live in towns and cities, not rural areas or refugee camps. Nearly 4 in every 5 refugees are in displacement situations that have lasted for at least five years.[^displaced]
+
+**New cities can help**
 
 > "We are at the beginning of the next wave of urbanization — a period of 
 > rapid growth in both area and population... The next wave of urbanization 
