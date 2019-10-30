@@ -402,7 +402,7 @@ There are a huge number of metrics that people measure cities by. We're going to
   |  85,829 | Central Paris[^crawford]                  |   325 | 
   | **78,874** | **Kinematic City Proposal**            |   353 |
   |  71,340 | Manhattan, New York[^wiki_manhattan]      |   391 | 
-  |  55,673 | Paris                                     |   501 | 
+  |  52,593 | Paris[^wiki_paris]                        |   530 | 
   |  27,751 | New York City[^wiki_new_york_city]        | 1,005 |
   |  18,838 | San Francisco[^wiki_san_francisco]        | 1,480 | 
   |  10,101 | Suburban single-family housing[^crawford] | 2,760 | 
