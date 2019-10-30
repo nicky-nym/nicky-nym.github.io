@@ -407,6 +407,8 @@ There are a huge number of metrics that people measure cities by. We're going to
   |  10,117 | J.H.Crawford's _Carfree Cities_ Reference Design<br>(combined density of city districts **and** greenbelt)[^crawford]  |   2,756 | 
   |  10,101 | Suburban single-family housing[^crawford] | 2,760 | 
   |---
+  
+  For more examples of city densities, check out the great [DensityAtlas.org](http://densityatlas.org/) web site.
 
 <!--
   |---
@@ -436,7 +438,7 @@ There are a huge number of metrics that people measure cities by. We're going to
   |                   |   0.41 | San Francisco
   |                ~  |    1.7 | Proposed kinematic city
   |     3.5[^bertaud] |        | Historical Paris
-  | 4 to 10[^bertaud] | 3 to 7 | Manhattan residential
+  | 4 to 10[^bertaud] | 3 to 7[^densityatlas] | Manhattan residential
   |      15[^bertaud] |     10 | Manhattan office buildings
   |      25[^bertaud] |        | Singapore highest FAR
   |---
@@ -940,6 +942,8 @@ The kinematic city **ramp-only** design:
 [^caspar]: ["The Future of Greenfield Cities"](https://newcities.org/the-big-picture-the-future-of-greenfield-cities/). _NewCities_. 23 July 2019.
 
 [^crawford]: _[Carfree Cities](http://www.carfree.com/book/)_, by J.H. Crawford
+
+[^densityatlas]: ["Manhattan, Grand Street Neighborhood"](http://densityatlas.org/casestudies/profile.php?id=121). _Density Atlas_.
 
 [^displaced]: ["Worldwide displacement tops 70 million, UN Refugee Chief urges greater solidarity in response"](https://www.unhcr.org/uk/news/press/2019/6/5d03b22b4/worldwide-displacement-tops-70-million-un-refugee-chief-urges-greater-solidarity.html). _UNHCR: The UN Refugee Agency_. 19 June 2019.
 
