@@ -677,13 +677,7 @@ A kinematic city has:
 
 Instead, we have
   * <a name="bikeish"></a>**bike-sized vehicles**
-    * restrictions
-      * narrow &mdash; not more than 36 inches wide, or 48 inches for licensed cargo vehicles
-      * lightweight &mdash; not more than 111 lbs.
-      * underpowered &mdash; not more than 2 horsepower
-      * slow &mdash; 15 mph city-wide speed limit, with automatic speed governors, and automated ticketing
-        > below 18 mph "pedestrians are more likely to survive being hit by a car than die, while at higher speeds the reverse is true"[^levinson]
-  * examples
+    * examples
       * bicycles
       * scooters
       * mopeds (electric)
@@ -694,6 +688,12 @@ Instead, we have
       * hoverboards
       * skateboards & electric skateboards
       * cute little delivery robots
+    * restrictions
+      * narrow &mdash; **36 inch width limit**, or 48 inches for licensed cargo vehicles
+      * lightweight &mdash; **111 pound weight limit**
+      * underpowered &mdash; **2 horsepower power limit**
+      * slow &mdash; **15 mph speed limit** city-wide, with automatic speed governors, and automated ticketing
+        > below 18 mph "pedestrians are more likely to survive being hit by a car than die, while at higher speeds the reverse is true"[^levinson]
   * **covered laneways**
     * rain-sheltered pedestrian sidewalks
     * rain-sheltered bike-sized lanes &mdash; 5-foot wide lanes, not 10' or 12' wide lines
