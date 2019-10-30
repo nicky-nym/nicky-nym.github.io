@@ -405,6 +405,7 @@ There are a huge number of metrics that people measure cities by. We're going to
   |  52,593 | Paris[^wiki_paris]                        |   530 | 
   |  27,751 | New York City[^wiki_new_york_city]        | 1,005 |
   |  18,838 | San Francisco[^wiki_san_francisco]        | 1,480 | 
+  |  10,117 | J.H.Crawford's _Carfree Cities_ Reference Design<br>combined density of city districts **and** greenbelt[^crawford]  |   2,756 | 
   |  10,101 | Suburban single-family housing[^crawford] | 2,760 | 
   |---
 
