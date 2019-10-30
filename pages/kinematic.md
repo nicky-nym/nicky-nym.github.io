@@ -230,6 +230,8 @@ As of 2018, **70 million people** were currently displaced by war, persecution a
 > that can be measured in the **trillions of dollars**."[^growth]
 > &mdash; Wade Shepard, author and columnist
 
+> "Google pledged $1 billion to help create 15,000 homes in California."[^gopal]
+
 In 2019, U.S. Presidential candidate Andrew Yang called for **$40 billion** in subsidies, grants, and loans for people in coastal communities who want to either move inland or elevate their homes.[^yang]
 
 ### Large private sector projects
@@ -968,6 +970,8 @@ The kinematic city **ramp-only** design:
 [^gadepalli]: "Even though women comprise nearly half of the population, it is surprising they account for less than one in five trips made in Indian cities." ["Delhi Will Improve When Women Get to Move"](https://newcities.org/delhithe-big-picture-will-improve-women-get-move/). Shreya Gadepalli, _NewCities_. 8 March 2019.
 
 [^gonzalez]: "Evidence from Argentina shows that on average men and women’s commute time is roughly the same, but women travel at slower speeds and cover shorter distances." ["Transport is Not Gender Neutral"](https://newcities.org/the-big-picture-transport-is-not-gender-neutral-womens-mobility-and-accessibility-for-better-economic-opportunities/) Karla Dominguez Gonzalez, _NewCities_. 8 March 2019.
+
+[^gopal]: ["Affordable Housing"](https://www.bloomberg.com/quicktake/affordable-housing). Prashant Gopal and Rob Urban, _Bloomberg_. 21 Oct 2019.
 
 [^growth]: ["Should we build cities from scratch?"](https://www.theguardian.com/cities/2019/jul/10/should-we-build-cities-from-scratch). _The Guardian_. 10 July 2019.
 
