@@ -702,8 +702,9 @@ Instead, we have
     * tolls are per-minute, not per-mile (to prevent slow "street blimp" advertising vehicles)
     * free parking when space is ample
     * highest parking tolls in congested areas
-
-
+  * common-carrier **delivery lockers**[^quirk]
+    * package-delivery lockers, located along the laneways
+    * shared by Amazon, FedEx, UPS, USPS, and anyone else who would like to use them
 
 ### <a name="spatial-layout"></a>(4.2) Spatial layout proposal
 
@@ -977,6 +978,8 @@ The kinematic city **ramp-only** design:
 [^migrants]: ["Migration, Environment and Climate Change: Assessing the Evidence"](https://publications.iom.int/system/files/pdf/migration_and_environment.pdf). (PDF) _International Organization for Migration_. 2009.
 
 [^new-clark]: ["Resilient Growth: Building a Resilient City in the Philippines"](https://newcities.org/the-big-picture-resilient-growth-building-resilient-city-philippines/). _NewCities_. 2019.
+
+[^quirk]: ["Outside the box truck: Innovations in delivery that could change our cities"](https://medium.com/sidewalk-talk/outside-the-box-truck-innovations-in-delivery-that-could-change-our-cities-a7c2170d8f9b). Vanessa Quirk, _Sidewalk Talk_. 13 Sept 2018.
 
 [^roaf]: ["The Sustainability of High Density"](), by Susan Roaf, Chapter 3 of ["Designing High-Density Cities"](), edited by Edward Ng.
 
