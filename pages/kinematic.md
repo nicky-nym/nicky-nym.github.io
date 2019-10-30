@@ -188,7 +188,7 @@ It is estimated that **by 2050**:
 * there will be at least **nine African "megacities" of 10 million people or more** (and more than two dozen African cities of 5 million or more, about the size of metropolitan Washington), but currently 60 percent of Africa’s city dwellers live in slums [^bloomberg]
 * one-third of all of the French Polynesian islands will be submerged[^fast-company]
 
-**Doubling of urban area**
+### Doubling of urban area
 
 "Half of the urban area that will be needed [by 2050] hasn't been built yet."[^growth]
 
@@ -197,13 +197,13 @@ It is estimated that **by 2050**:
 > "we're going to develop more urban area in the next 100 years than currently exists on Earth"[^growth]
 > &mdash; Paul Romer, Nobel prize-winning economist, New York University.
 
-**Refugee numbers increasing**
+### Refugee numbers are increasing
 
 "An estimated 2.4 billion people–40% of the world’s population–live in a coastal region and will likely be impacted by rising sea levels as a result of climate change."[^fast-company]
 
 As of 2018, **70 million people** were currently displaced by war, persecution and conflict. Of the total, 51 million were Internally Displaced People (IDPs), and 26 million were refugees (including **13 million refugee children**). Most refugees live in towns and cities, not rural areas or refugee camps. Nearly 4 in every 5 refugees are in displacement situations that have lasted for at least five years.[^displaced]
 
-**New cities can help**
+### New cities can help
 
 > "We are at the beginning of the next wave of urbanization — a period of 
 > rapid growth in both area and population... The next wave of urbanization 
@@ -248,15 +248,13 @@ In the 2020s and 2030s, is will not be crazy to propose a $20 billion privately 
 
 ## <a name="precident"></a>(1.3) People are rapidly building new cities
 
-More than **120 new cities** are currently being built in 40 nations around the world.[^growth]
+More than **120 new cities** are currently being built in 40 nations around the world[^growth], and 11,000 new buildings are built every day, meaning **4 million new buildings a year** [^metabuild].
 
-Examples:
-  * Nkwashi, in Zambia, being built by Thebe Investment Management, is expected to house up to 100,000 people.[^mason]
-  * Tatu City, in Kenya, being built by Rendeavour, is planned for 150,000 residents.[^mason]
-  * Forest City, in Malaysia (700,000 residents) 
-  * Enyimba Economic City, in Nigeria (1.5 million residents)
-
-11,000 new buildings are built every day &mdash; **4 million new buildings a year** [^metabuild]
+  * **Nkwashi**, in Zambia, being built by Thebe Investment Management, is expected to house up to 100,000 people.[^mason]
+  * **Tatu City**, in Kenya, being built by Rendeavour, is planned for 150,000 residents.[^mason]
+  * **Forest City**, in Malaysia (700,000 residents) 
+  * **Enyimba Economic City**, in Nigeria (1.5 million residents)
+  * and more than 100 others...
 
 
 ## <a name="cost-effective"></a>(1.4) Building new cities is cost-effective
@@ -269,16 +267,17 @@ Projects in existing cities can be staggeringly expensive.
   * **$23 billion** for the **Riyadh Metro** <sup>[citation needed]</sup>
   * **$32 billion** to rebuild the **World Trade Center** in New York <sup>[citation needed]</sup>
 
-Building on a new empty, greenfield site is a lot less expensive than building in an existing city. 
-  * [TODO: examples]
-
-New cities provide more space at lower cost per capita.
-  * [TODO: examples]
-
-New cities create value, and demand.
-  * [TODO: examples]
+Building on a new empty, greenfield site is a lot less expensive than building in an existing city. New cities provide more space at lower cost per capita. New cities create value, and demand.<sup>[citation needed]</sup>
 
 > "Our biggest urban problems today—growing inequality, rampant gentrification, housing unaffordability, and increasing segregation—all have roots in the staggering cost of urban land."[^manhattan]
+
+### New York land value
+
+> "At 305 square miles, New York City makes up only 0.008% of the total land area of the U.S., yet its $1.5tr of housing value is about 5% of the Nation-wide total. Only four states are worth more than New York City, one of which is New York State."[^metrocosm]
+
+> "Manhattan‘s housing alone is worth about $733bn, which would make it the 14th most valuable state in the country. Manhattan measures only about 20 square miles, 7.5% of New York City."[^metrocosm]
+
+> "What I found most striking of all was the value of some Manhattan neighborhoods. The Upper East Side, which occupies less than one square mile, has an astounding $96bn of housing value. That places it above Staten Island and the Bronx as well as above six states: New Hampshire, North Dakota, South Dakota, Vermont, Wyoming, and Alaska."[^metrocosm]
 
 * from 1950 to 2015, the value of Manhattan land grew at an annual rate of 5.5 percent beyond inflation[^manhattan]
 
@@ -286,11 +285,7 @@ New cities create value, and demand.
 
 > "Corner lots are significantly more valuable than mid-block lots, according to the study, and lots in close proximity to Broadway, which runs the length of the island, also have higher values."[^manhattan]
 
-> "At 305 square miles, New York City makes up only 0.008% of the total land area of the U.S., yet its $1.5tr of housing value is about 5% of the Nation-wide total. Only four states are worth more than New York City, one of which is New York State."[^metrocosm]
-
-> "Manhattan‘s housing alone is worth about $733bn, which would make it the 14th most valuable state in the country. Manhattan measures only about 20 square miles, 7.5% of New York City."[^metrocosm]
-
-> "What I found most striking of all was the value of some Manhattan neighborhoods. The Upper East Side, which occupies less than one square mile, has an astounding $96bn of housing value. That places it above Staten Island and the Bronx as well as above six states: New Hampshire, North Dakota, South Dakota, Vermont, Wyoming, and Alaska."[^metrocosm]
+### African land value
 
 > In Africa "we should be building 40 million new homes or 160 Atlantas every year. ... 
 > Africa has 54 countries. Altogether they do not build 1 million homes a year. 
