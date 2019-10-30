@@ -259,6 +259,8 @@ More than **120 new cities** are currently being built in 40 nations around the 
 
 ## <a name="cost-effective"></a>(1.4) Building new cities is cost-effective
 
+> "Our biggest urban problems today—growing inequality, rampant gentrification, housing unaffordability, and increasing segregation—all have roots in the staggering cost of urban land."[^manhattan]
+
 Projects in existing cities can be staggeringly expensive.
   * **$4.5 billion** for the San Francisco **Transbay Transit Center & Salesforce Tower** <sup>[citation needed]</sup>
   * **$17 billion** for the **2nd Avenue Subway** project in New York <sup>[citation needed]</sup>
@@ -268,8 +270,6 @@ Projects in existing cities can be staggeringly expensive.
   * **$32 billion** to rebuild the **World Trade Center** in New York <sup>[citation needed]</sup>
 
 Building on a new empty, greenfield site is a lot less expensive than building in an existing city. New cities provide more space at lower cost per capita. New cities create value, and demand.<sup>[citation needed]</sup>
-
-> "Our biggest urban problems today—growing inequality, rampant gentrification, housing unaffordability, and increasing segregation—all have roots in the staggering cost of urban land."[^manhattan]
 
 ### New York land value
 
