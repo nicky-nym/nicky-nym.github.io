@@ -1,5 +1,5 @@
 ---
-permalink: /kinematic/
+permalink: /redux/
 ---
 # Kinematic Cities
 
