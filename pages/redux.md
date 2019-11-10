@@ -7,7 +7,7 @@ permalink: /redux/
 
 ---
 <div id="contents-title">**Contents**
-<div id="contents-entries">
+<span id="contents-entries">
 ## Contents
 
 * **[Summary](#summary)**
@@ -40,7 +40,7 @@ permalink: /redux/
 1. **[Glossary](#glossary)**
 1. **[References](#references)**
 
-</div>
+</span>
 </div>
 ---
 
