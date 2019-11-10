@@ -14,11 +14,11 @@ permalink: /redux/
       <li><a href="#problems">Problems</a></li>
       <li><a href="#proposal">Proposal</a> &mdash; a design that works better
         <ul>
-         <li><a href="#transportation">Transportation proposal</a></li>
-         <li><a href="#spatial-layout">Spatial layout proposal</a></li>
-         <li><a href="#ramp">Ramp proposal</a></li>
-         <li><a href="#safety">Safety proposal</a></li>
-         <li><a href="#better-outcomes">Comparisons</a> &mdash; San Francisco vs. Proposed Kinematic City</li>
+         <li><a href="#transportation">Transportation</a></li>
+         <li><a href="#spatial-layout">Spatial layout</a></li>
+         <li><a href="#ramp">Ramps</a></li>
+         <li><a href="#safety">Safety</a></li>
+         <li><a href="#better-outcomes">Comparisons</a> &mdash; San Francisco vs. Proposed</li>
         </ul>
       </li>
       <li><a href="#work-better">What we want</a> &mdash; things that should work better
@@ -31,8 +31,8 @@ permalink: /redux/
       <li>Circumstances
         <ul>
          <li><a href="#need">Need</a> &mdash; the world needs new cities</li>
-         <li><a href="#money">Money</a> &mdash; there is money available for new cities</li>
-         <li><a href="#precident">Timeframe</a> &mdash; people are rapidly building new cities</li>
+         <li><a href="#money">Money</a> &mdash; money is available for new cities</li>
+         <li><a href="#precident">Timeframe</a> &mdash; they are already being built</li>
          <li><a href="#cost-effective">Cost-effectiveness</a></li>
         </ul>
       </li>
@@ -46,9 +46,9 @@ permalink: /redux/
       </li>
       <li><a href="#design-notes">Design notes</a> &mdash; why pick those design choices?
         <ul>
-         <li><a href="#transportation-notes">Transportation notes</a></li>
-         <li><a href="#spatial-layout-notes">Spatial layout notes</a></li>
-         <li><a href="#ramp-notes">Ramp notes</a></li>
+         <li><a href="#transportation-notes">Transportation</a></li>
+         <li><a href="#spatial-layout-notes">Spatial layout</a></li>
+         <li><a href="#ramp-notes">Ramp</a></li>
         </ul>
       </li>
       <li><a href="#faq">FAQ</a></li>
