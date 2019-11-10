@@ -49,7 +49,7 @@ permalink: /redux/
       <li>The long tail...
         <ul>
           <li><a href="#faq">FAQ</a></li>
-	  <li><a href="#design-notes">Design notes</a> &mdash; why pick those design choices?</li>
+	  <li><a href="#design-notes">Design notes</a></li>
 	  <li><a href="#glossary">Glossary</a></li>
 	  <li><a href="#references">References</a></li>
 	</ul>
