@@ -12,7 +12,7 @@ permalink: /redux/
     <ol>
       <li><a href="#summary">Summary</a></li>
       <li><a href="#problems">Problems</a></li>
-      <li><a href="#design-choices">Proposal</a>** &mdash; a design that works better
+      <li><a href="#design-choices">Proposal</a> &mdash; a design that works better
         <ul>
          <li><a href="#transportation">Transportation proposal</a></li>
          <li><a href="#spatial-layout">Spatial layout proposal</a></li>
