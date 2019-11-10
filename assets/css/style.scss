@@ -7,7 +7,6 @@
   position: fixed;
   right: 0;
   top: 0;
-  /* background-color: #CFC; */
   font-size: x-large;
 }
 
@@ -16,6 +15,7 @@
 }
 
 #contents-title:hover #contents-entries {
+  background-color: #CFC;
   display: block;
 }
 
