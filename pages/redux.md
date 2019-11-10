@@ -6,41 +6,55 @@ permalink: /redux/
 <span style="font-size:24pt;">a 2019 design for <span style="color:#DF4911;">kinematic</span><sup style="font-size:12pt;"><a href="#kinematic">?</a></sup> cities</span>
 
 ---
-<div id="contents-title">**Contents**
-<span id="contents-entries" markdown="1">
-## Contents
-
-* **[Summary](#summary)**
-* **[Problems](#summary)**
-1. **[Proposal](#design-choices)** &mdash; a design that works better
-   * [Transportation proposal](#transportation)
-   * [Spatial layout proposal](#spatial-layout)
-   * [Ramp proposal](#ramp)
-   * [Safety proposal](#safety)
-   * [Comparisons](#better-outcomes) &mdash; San Francisco vs. Proposed Kinematic City
-1. **[What we want](#work-better)** &mdash; things that should work better
-   * [Design goals](#design-goals)
-   * [Constraints](#design-constraints)
-   * [Construction costs](#construction-costs)
-1. Circumstances
-   * **[Need](#need)** &mdash; the world needs new cities
-   * **[Money](#money)** &mdash; there is money available for new cities
-   * **[Timeframe](#precident)** &mdash; people are rapidly building new cities
-   * **[Cost-effectiveness](#cost-effective)**
-1. **[How cities work](#how-cities-work)**
-   * [Rules of thumb](#rules-of-thumb)
-   * [Units of measure](#units-of-measure)
-   * [Kinematic range](#kinematic-range)
-   * [Kinematic windfall](#kinematic-booster-effect)
-1. **[Design notes](#design-notes)** &mdash; why pick those design choices?
-   * [Transportation notes](#transportation-notes)
-   * [Spatial layout notes](#spatial-layout-notes)
-   * [Ramp notes](#ramp-notes)
-1. **[FAQ](#faq)**
-1. **[Glossary](#glossary)**
-1. **[References](#references)**
-
-</span>
+<div id="contents-title">Contents
+  <div id="contents-entries" markdown="1">
+    <ol>
+      <li markdown="1">[Summary](#summary)</li>
+      <li markdown="1">[Problems](#summary)</li>
+      <li markdown="1">[Proposal](#design-choices)** &mdash; a design that works better
+        <ul>
+         <li markdown="1">[Transportation proposal](#transportation)</li>
+         <li>[Spatial layout proposal](#spatial-layout)</li>
+         <li>[Ramp proposal](#ramp)</li>
+         <li>[Safety proposal](#safety)</li>
+         <li>[Comparisons](#better-outcomes) &mdash; San Francisco vs. Proposed Kinematic City</li>
+        </ul>
+      </li>
+      <li>[What we want](#work-better)** &mdash; things that should work better
+        <ul>
+         <li>[Design goals](#design-goals)</li>
+         <li>[Constraints](#design-constraints)</li>
+         <li>[Construction costs](#construction-costs)</li>
+        </ul>
+      </li>
+      <li>Circumstances
+        <ul>
+         <li>**[Need](#need)** &mdash; the world needs new cities</li>
+         <li>**[Money](#money)** &mdash; there is money available for new cities</li>
+         <li>**[Timeframe](#precident)** &mdash; people are rapidly building new cities</li>
+         <li>**[Cost-effectiveness](#cost-effective)**</li>
+        </ul>
+      </li>
+      <li>[How cities work](#how-cities-work)**
+        <ul>
+         <li>[Rules of thumb](#rules-of-thumb)</li>
+         <li>[Units of measure](#units-of-measure)</li>
+         <li>[Kinematic range](#kinematic-range)</li>
+         <li>[Kinematic windfall](#kinematic-booster-effect)</li>
+        </ul>
+      </li>
+      <li>[Design notes](#design-notes)** &mdash; why pick those design choices?
+        <ul>
+         <li>[Transportation notes](#transportation-notes)</li>
+         <li>[Spatial layout notes](#spatial-layout-notes)</li>
+         <li>[Ramp notes](#ramp-notes)</li>
+        </ul>
+      </li>
+      <li>[FAQ](#faq)</li>
+      <li>[Glossary](#glossary)</li>
+      <li>[References](#references)</li>
+    </ol>
+  </div>
 </div>
 ---
 
