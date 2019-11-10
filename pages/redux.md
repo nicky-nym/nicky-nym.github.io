@@ -11,7 +11,6 @@ permalink: /redux/
   <div id="contents-entries">
     <ol>
       <li><a href="#summary">Summary</a></li>
-      <li><a href="#problems">Problems</a></li>
       <li><a href="#proposal">Proposal</a> &mdash; a design that works better
         <ul>
          <li><a href="#transportation">Transportation</a></li>
@@ -44,16 +43,14 @@ permalink: /redux/
          <li><a href="#kinematic-booster-effect">Kinematic windfall</a></li>
         </ul>
       </li>
-      <li><a href="#design-notes">Design notes</a> &mdash; why pick those design choices?
+      <li>The long tail
         <ul>
-         <li><a href="#transportation-notes">Transportation</a></li>
-         <li><a href="#spatial-layout-notes">Spatial layout</a></li>
-         <li><a href="#ramp-notes">Ramp</a></li>
-        </ul>
-      </li>
-      <li><a href="#faq">FAQ</a></li>
-      <li><a href="#glossary">Glossary</a></li>
-      <li><a href="#references">References</a></li>
+          <li><a href="#faq">FAQ</a></li>
+	  <li><a href="#design-notes">Design notes</a> &mdash; why pick those design choices?</li>
+	  <li><a href="#glossary">Glossary</a></li>
+	  <li><a href="#references">References</a></li>
+	</ul>
+      </li>	
     </ol>
   </div>
 </div>
