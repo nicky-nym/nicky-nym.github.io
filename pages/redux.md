@@ -6,53 +6,54 @@ permalink: /redux/
 <span style="font-size:24pt;">a 2019 design for <span style="color:#DF4911;">kinematic</span><sup style="font-size:12pt;"><a href="#kinematic">?</a></sup> cities</span>
 
 ---
+
 <div id="contents-title">Contents
   <div id="contents-entries">
     <ol>
-      <li><span href="#summary">Summary</span></li>
-      <li><span href="#problems">Problems</span></li>
+      <li><a href="#summary">Summary</a></li>
+      <li><a href="#problems">Problems</a></li>
       <li>[Proposal](#design-choices)** &mdash; a design that works better
         <ul>
-         <li><span href="#transportation">Transportation proposal</span></li>
-         <li><span href="#spatial-layout">Spatial layout proposal</span></li>
-         <li><span href="#ramp">Ramp proposal</span></li>
-         <li><span href="#safety">Safety proposal</span></li>
-         <li><span href="#better-outcomes">Comparisons</span> &mdash; San Francisco vs. Proposed Kinematic City</li>
+         <li><a href="#transportation">Transportation proposal</a></li>
+         <li><a href="#spatial-layout">Spatial layout proposal</a></li>
+         <li><a href="#ramp">Ramp proposal</a></li>
+         <li><a href="#safety">Safety proposal</a></li>
+         <li><a href="#better-outcomes">Comparisons</a> &mdash; San Francisco vs. Proposed Kinematic City</li>
         </ul>
       </li>
-      <li>[What we want](#work-better)** &mdash; things that should work better
+      <li><a href="#work-better">What we want</a> &mdash; things that should work better
         <ul>
-         <li>[Design goals](#design-goals)</li>
-         <li>[Constraints](#design-constraints)</li>
-         <li>[Construction costs](#construction-costs)</li>
+         <li><a href="#design-goals">Design goals</a></li>
+         <li><a href="#design-constraints">Constraints</a></li>
+         <li><a href="#construction-costs">Construction costs</a></li>
         </ul>
       </li>
       <li>Circumstances
         <ul>
-         <li>**[Need](#need)** &mdash; the world needs new cities</li>
-         <li>**[Money](#money)** &mdash; there is money available for new cities</li>
-         <li>**[Timeframe](#precident)** &mdash; people are rapidly building new cities</li>
-         <li>**[Cost-effectiveness](#cost-effective)**</li>
+         <li><a href="#need">Need</a> &mdash; the world needs new cities</li>
+         <li><a href="#money">Money</a> &mdash; there is money available for new cities</li>
+         <li><a href="#precident">Timeframe</a> &mdash; people are rapidly building new cities</li>
+         <li><a href="#cost-effective">Cost-effectiveness</a></li>
         </ul>
       </li>
-      <li>[How cities work](#how-cities-work)**
+      <li><a href="#how-cities-work">How cities work</a>
         <ul>
-         <li>[Rules of thumb](#rules-of-thumb)</li>
-         <li>[Units of measure](#units-of-measure)</li>
-         <li>[Kinematic range](#kinematic-range)</li>
-         <li>[Kinematic windfall](#kinematic-booster-effect)</li>
+         <li><a href="#rules-of-thumb">Rules of thumb</a></li>
+         <li><a href="#units-of-measure">Units of measure</a></li>
+         <li><a href="#kinematic-range">Kinematic range</a></li>
+         <li><a href="#kinematic-booster-effect">Kinematic windfall</a></li>
         </ul>
       </li>
-      <li>[Design notes](#design-notes)** &mdash; why pick those design choices?
+      <li><a href="#design-notes">Design notes</a> &mdash; why pick those design choices?
         <ul>
-         <li>[Transportation notes](#transportation-notes)</li>
-         <li>[Spatial layout notes](#spatial-layout-notes)</li>
-         <li>[Ramp notes](#ramp-notes)</li>
+         <li><a href="#transportation-notes">Transportation notes</a></li>
+         <li><a href="#spatial-layout-notes">Spatial layout notes</a></li>
+         <li><a href="#ramp-notes">Ramp notes</a></li>
         </ul>
       </li>
-      <li>[FAQ](#faq)</li>
-      <li>[Glossary](#glossary)</li>
-      <li>[References](#references)</li>
+      <li><a href="#faq">FAQ</a></li>
+      <li><a href="#glossary">Glossary</a></li>
+      <li><a href="#references">References</a></li>
     </ol>
   </div>
 </div>
