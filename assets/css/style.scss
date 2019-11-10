@@ -3,6 +3,21 @@
 
 @import "{{ site.theme }}";
 
+#contents-title {
+  position: fixed;
+  right: 0;
+  top: 0;
+  background-color:#FCF;
+}
+
+#contents-title #contents-entries {
+  display: none;
+}
+
+#contents-title:hover #contents-entries {
+  display: block;
+}
+
 h1 a {
   color: #697d00;
 }
