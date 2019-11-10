@@ -12,7 +12,7 @@ permalink: /redux/
     <ol>
       <li><a href="#summary">Summary</a></li>
       <li><a href="#problems">Problems</a></li>
-      <li><a href="#design-choices">Proposal</a> &mdash; a design that works better
+      <li><a href="#proposal">Proposal</a> &mdash; a design that works better
         <ul>
          <li><a href="#transportation">Transportation proposal</a></li>
          <li><a href="#spatial-layout">Spatial layout proposal</a></li>
@@ -95,7 +95,7 @@ permalink: /redux/
 
 ---
 
-## <a name="what-is"></a>(1) The proposal for kinematic cities
+## <a name="proposal"></a>(1) The proposal for kinematic cities
 
 The proposal here is that new cities that are build from scratch could be built as "kinematic cities". **"Kinematic city"** is a newly made-up name for a specific set of ideas about ways to design cities. No one has yet built a kinematic city. The design revolves around striving to maximize "kinematic range", meaning the number of destinations that are in the daily range of travel for everybody. 
 
