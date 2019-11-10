@@ -8,6 +8,7 @@
   right: 0;
   top: 0;
   font-size: x-large;
+  font-weight: bold;
 }
 
 #contents-title #contents-entries {
@@ -15,7 +16,7 @@
 }
 
 #contents-title:hover #contents-entries {
-  background-color: #CFC;
+  background-color: #ffe2d6;
   display: block;
 }
 
@@ -30,7 +31,7 @@ h1 {
 }
 
 h1,h2,h3 {
-  color: #D2440C;
+  color: #DF4911; /* D2440C; */
 }
 
 a:hover {
@@ -43,7 +44,7 @@ a:hover {
 // footer {width:270px;float:right;position:fixed;bottom:50px;-webkit-font-smoothing:subpixel-antialiased}
 
 header {
-  max-height:30px;
+  max-height: 30px;
 }
 
 header a.logo {
@@ -52,61 +53,61 @@ header a.logo {
 }
 
 img.logo {
-  max-height:30px;
+  max-height: 30px;
 }
 
 @media print, screen {
   html,body {
-    margin:0;
-    padding:0;
+    margin: 0;
+    padding: 0;
   }
   div.wrapper {
-    width:auto;
-    margin:0;
+    width: auto;
+    margin: 0;
   }
   header,section,footer{
-    float:none;
-    position:static;
-    width:auto;
+    float: none;
+    position: static;
+    width: auto;
   }
   header {
-    padding:0;
-    margin:0;
+    padding: 0;
+    margin: 0;
     // background-color:#eeeeee;
   }
   header a {
     display: inline-block;
-    padding:0;
-    margin:0;
+    padding: 0;
+    margin: 0;
   }
   header a small {
-    display:inline;
+    display: inline;
   }
   header ul {
-    width:99%;
-    position:absolute;
-    right:50px;
-    top:52px;
+    width: 99%;
+    position: absolute;
+    right: 50px;
+    top: 52px;
   }
   header ul,header p.view {
-    position:static;
+    position: static;
   }
   header li,header ul li+li+li {
-    width:33%;
+    width: 33%;
   }
   section {
-    border:1px solid #e5e5e5;
-    border-width:1px 0;
-    padding:20px;
-    margin:0 0 20px;
+    border: 1px solid #e5e5e5;
+    border-width: 1px 0;
+    padding: 20px;
+    margin: 0 0 20px;
   }
   
   footer {
-    padding:20px;
+    padding: 20px;
   }
 
   body,pre,code {
-    word-wrap:normal;
+    word-wrap: normal;
   }
 
 }
