@@ -13,26 +13,27 @@ permalink: /redux/
       <li><a href="#summary">Summary</a></li>
     </ul>
     <ol start="1">
-      <li><a href="#proposal">Proposal</a> &mdash; a design that works better
+      <li><a href="#proposal">Proposal</a> &mdash; cities designed to work better
         <ul>
          <li><a href="#transportation">Transportation</a></li>
          <li><a href="#spatial-layout">Spatial layout</a></li>
-         <li><a href="#ramp">Ramps</a></li>
+         <li><a href="#ramp">Ramps vs. stairs</a></li>
          <li><a href="#safety">Safety</a></li>
          <li><a href="#better-outcomes">Comparisons</a> &mdash; San Francisco vs. Proposed</li>
         </ul>
       </li>
-      <li><a href="#work-better">What we want</a> &mdash; things that should work better
+      <li><a href="#work-better">What we want to achieve</a>
         <ul>
          <li><a href="#design-goals">Design goals</a></li>
          <li><a href="#design-constraints">Constraints</a></li>
          <li><a href="#construction-costs">Construction costs</a></li>
         </ul>
       </li>
-      <li>Circumstances
+      <li><a href="#market">Market context</a>
         <ul>
          <li><a href="#need">Need</a> &mdash; the world needs new cities</li>
          <li><a href="#money">Money</a> &mdash; money is available for new cities</li>
+         <li><a href="#tidal-wave">Tidal wave, impending</a></li>
          <li><a href="#precident">Timeframe</a> &mdash; they are already being built</li>
          <li><a href="#cost-effective">Cost-effectiveness</a></li>
         </ul>
@@ -381,7 +382,7 @@ Ideally the kinematic city buildings would all be built with standpipes and fire
 > "In the lowest-income countries, where construction is the cheapest, households would need to be able to afford at least US$6,000 for a studio of 12 square meters; US$6,000 is the global market commodity price for the basic construction materials of concrete and steel required to build 12 square meters."[^bertaud]
 
 
-
+## <a name="market"></a>Market context
 
 
 
@@ -455,7 +456,23 @@ Banks, real estate developers, and the construction industry are now operating a
 
 In the 2020s and 2030s, is will not be crazy to propose a $20 billion privately funded construction project. The project just needs to pencil out well, be low risk, and meet the needs of customers.
 
+## <a name="tidal-wave"></a>(3.1) Tidal wave
 
+> "The amount of floorspace in buildings around the world—currently about 2.5 trillion square feet—is set to double by 2060"
+> &mdash; Brian Bienkowski [^bienkowski]
+
+The current market size for new city construction is large:
+  * in the next 30 years, **another 2.5 billion people** will live cities
+  * "averaged over the next thirty-five years, about a million and a half people will be urbanized each week ... the equivalent of another New York metropolitan area [every two months]"[^scale]
+  * **120 new cities** are currently being built
+  * "China ... is on a fast track to build up to **three hundred new cities** each in excess of a million people over the next twenty to twenty-five years. ...  At the present rate it will be moving the equivalent of the entire U.S. population (more than 300 million people) to cities in the next twenty to twenty-five years."[^scale]
+  * spending is somewhere between the high hundreds of billions of dollars, and the low trillions of dollars
+  * real estate development projects now operate at a scale where it is possible to complete a coordinated, monolithic, **privately financed $10 billion construction project**
+
+> "We're going to develop more urban area in the next 100 years than currently exists on Earth"[^growth] 
+> &mdash; Paul Romer
+
+> "This will be by far the largest migration of human beings to have ever taken place on the planet ... The resulting challenges to the availability of energy and resources and the enormous stress on the social fabric across the globe are mind-boggling ... and the timescales to address them are very short."[^scale] &mdash; Geoffrey West
 ## <a name="precident"></a>(3.3) People are rapidly building new cities
 
 More than **120 new cities** are currently being built in 40 nations around the world[^growth], and 11,000 new buildings are built every day, meaning **4 million new buildings a year** [^metabuild].
@@ -758,23 +775,7 @@ The problems above could be greatly ameliorated by just making a handful of diff
   * **[elevator vs. wheelchair ramp choices](#ramp)**
     * stairs, elevators, and escalators vs. flights of wheelchair ramps
 
-### The market tidal wave
 
-> "The amount of floorspace in buildings around the world—currently about 2.5 trillion square feet—is set to double by 2060"
-> &mdash; Brian Bienkowski [^bienkowski]
-
-The current market size for new city construction is large:
-  * in the next 30 years, **another 2.5 billion people** will live cities
-  * "averaged over the next thirty-five years, about a million and a half people will be urbanized each week ... the equivalent of another New York metropolitan area [every two months]"[^scale]
-  * **120 new cities** are currently being built
-  * "China ... is on a fast track to build up to **three hundred new cities** each in excess of a million people over the next twenty to twenty-five years. ...  At the present rate it will be moving the equivalent of the entire U.S. population (more than 300 million people) to cities in the next twenty to twenty-five years."[^scale]
-  * spending is somewhere between the high hundreds of billions of dollars, and the low trillions of dollars
-  * real estate development projects now operate at a scale where it is possible to complete a coordinated, monolithic, **privately financed $10 billion construction project**
-
-> "We're going to develop more urban area in the next 100 years than currently exists on Earth"[^growth] 
-> &mdash; Paul Romer
-
-> "This will be by far the largest migration of human beings to have ever taken place on the planet ... The resulting challenges to the availability of energy and resources and the enormous stress on the social fabric across the globe are mind-boggling ... and the timescales to address them are very short."[^scale] &mdash; Geoffrey West
 
 ---
 ## <a name="faq"></a>FAQ: Frequently Asked Questions
