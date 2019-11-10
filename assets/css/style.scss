@@ -11,13 +11,19 @@
   font-weight: bold;
 }
 
+#contents-title:hover {
+  background-color: #ffe2d6;
+  margin: 5px;
+  padding: 15px;
+}
+
 #contents-title #contents-entries {
   display: none;
 }
 
 #contents-title:hover #contents-entries {
   background-color: #ffe2d6;
-  font-size: medium;
+  font-size: small;
   display: block;
 }
 
