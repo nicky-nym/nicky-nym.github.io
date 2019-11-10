@@ -9,7 +9,7 @@ permalink: /redux/
 
 <div id="contents-title">Contents
   <div id="contents-entries">
-    <ol>
+    <ol start="0">
       <li><a href="#summary">Summary</a></li>
       <li><a href="#proposal">Proposal</a> &mdash; a design that works better
         <ul>
@@ -43,7 +43,7 @@ permalink: /redux/
          <li><a href="#kinematic-booster-effect">Kinematic windfall</a></li>
         </ul>
       </li>
-      <li>The long tail
+      <li>The long tail...
         <ul>
           <li><a href="#faq">FAQ</a></li>
 	  <li><a href="#design-notes">Design notes</a> &mdash; why pick those design choices?</li>
@@ -76,9 +76,7 @@ permalink: /redux/
  
  1. We can get **[better outcomes](#better-outcomes)**.
 
----
-
-## <a name="problems"></a>(-1) The problems of existing cities
+### <a name="problems"></a> The problems of existing cities
 
   1. cities have too much **traffic congestion**
   2. have **housing costs** that are too high
