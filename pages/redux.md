@@ -9,15 +9,15 @@ permalink: /redux/
 <div id="contents-title">Contents
   <div id="contents-entries">
     <ol>
-      <li>[Summary](#summary)</li>
-      <li markdown="1">[Problems](#summary)</li>
-      <li markdown="1">[Proposal](#design-choices)** &mdash; a design that works better
+      <li><span href="#summary">Summary</span></li>
+      <li><span href="#problems">Problems</span></li>
+      <li>[Proposal](#design-choices)** &mdash; a design that works better
         <ul>
-         <li markdown="1">[Transportation proposal](#transportation)</li>
-         <li>[Spatial layout proposal](#spatial-layout)</li>
-         <li>[Ramp proposal](#ramp)</li>
-         <li>[Safety proposal](#safety)</li>
-         <li>[Comparisons](#better-outcomes) &mdash; San Francisco vs. Proposed Kinematic City</li>
+         <li><span href="#transportation">Transportation proposal</span></li>
+         <li><span href="#spatial-layout">Spatial layout proposal</span></li>
+         <li><span href="#ramp">Ramp proposal</span></li>
+         <li><span href="#safety">Safety proposal</span></li>
+         <li><span href="#better-outcomes">Comparisons</span> &mdash; San Francisco vs. Proposed Kinematic City</li>
         </ul>
       </li>
       <li>[What we want](#work-better)** &mdash; things that should work better
