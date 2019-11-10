@@ -10,6 +10,7 @@
   font-size: x-large;
   font-weight: bold;
   padding-right: 10px;
+  padding-left: 10px;
 }
 
 #contents-title:hover {
@@ -25,6 +26,7 @@
 #contents-title:hover #contents-entries {
   background-color: #ffe2d6;
   font-size: small;
+  font-weight: normal;
   display: block;
   padding-right: 5px;
 }
