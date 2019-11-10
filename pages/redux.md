@@ -12,7 +12,7 @@ permalink: /redux/
     <ol>
       <li><a href="#summary">Summary</a></li>
       <li><a href="#problems">Problems</a></li>
-      <li>[Proposal](#design-choices)** &mdash; a design that works better
+      <li><a href="#design-choices">Proposal</a>** &mdash; a design that works better
         <ul>
          <li><a href="#transportation">Transportation proposal</a></li>
          <li><a href="#spatial-layout">Spatial layout proposal</a></li>
@@ -59,7 +59,7 @@ permalink: /redux/
 </div>
 ---
 
-## Summary
+## <a name="summary"></a>Summary
 
  1. We **[need new cities](#need)** in the world.
  
@@ -81,7 +81,7 @@ permalink: /redux/
 
 ---
 
-## (-1) The problems of existing cities
+## <a name="problems"></a>(-1) The problems of existing cities
 
   1. cities have too much **traffic congestion**
   2. have **housing costs** that are too high
