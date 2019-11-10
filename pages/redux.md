@@ -9,8 +9,10 @@ permalink: /redux/
 
 <div id="contents-title">Contents
   <div id="contents-entries">
-    <ol start="0">
+    <ul>
       <li><a href="#summary">Summary</a></li>
+    </ul>
+    <ol start="1">
       <li><a href="#proposal">Proposal</a> &mdash; a design that works better
         <ul>
          <li><a href="#transportation">Transportation</a></li>
