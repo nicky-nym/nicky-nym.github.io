@@ -9,7 +9,7 @@ permalink: /redux/
 <div id="contents-title">Contents
   <div id="contents-entries">
     <ol>
-      <li markdown="1">[Summary](#summary)</li>
+      <li>[Summary](#summary)</li>
       <li markdown="1">[Problems](#summary)</li>
       <li markdown="1">[Proposal](#design-choices)** &mdash; a design that works better
         <ul>
