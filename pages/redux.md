@@ -7,7 +7,7 @@ permalink: /redux/
 
 ---
 <div id="contents-title">**Contents**
-<span id="contents-entries">
+<span id="contents-entries" markdown="1">
 ## Contents
 
 * **[Summary](#summary)**
