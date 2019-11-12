@@ -7,7 +7,8 @@ permalink: /redux/
 
 ---
 
-<div id="contents-title">Contents
+<div id="contents-title">
+  <div style="float:right;">Contents</div>
   <div id="contents-entries">
     <p>&nbsp;</p>
     <div>
