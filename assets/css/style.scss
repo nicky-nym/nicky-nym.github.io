@@ -35,6 +35,21 @@
   padding-top: 15px;
 }
 
+#contents-title:hover #contents-entries details {
+  margin-bottom: 15px;
+}
+
+#contents-title:hover #contents-entries summary {
+  font-size: medium;
+  font-weight: bold;
+}
+
+#contents-title:hover #contents-entries li {
+  font-size: medium;
+  font-weight: normal;
+}
+
+
 h1 a {
   color: #697d00;
 }
