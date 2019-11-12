@@ -18,7 +18,7 @@
 #contents-title:hover {
   background-color: #ffff80; /* #ffe2d6; */
   /* margin: 5px; */
-  padding: 5px;
+  /* padding: 5px; */
 }
 
 #contents-title #contents-entries {
@@ -27,8 +27,8 @@
 
 #contents-title:hover #contents-entries {
   background-color: #ffff80; /* #ffe2d6; */
-  font-size: small;
-  font-weight: normal;
+  font-size: medium;
+  font-weight: bold;
   display: block;
   float: left;
   padding-right: 5px;
