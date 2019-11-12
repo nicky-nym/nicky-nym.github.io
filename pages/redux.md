@@ -12,7 +12,7 @@ permalink: /redux/
     <p>&nbsp;</p>
     <div>
       <details>
-        <summary><a href="#summary">Summary</a></div></summary>
+        <summary><a href="#summary">Summary</a></summary>
         <ul>
           <li><a href="#problems">The problems of existing cities</a></li>
         </ul>
