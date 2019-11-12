@@ -918,7 +918,7 @@ A kinematic city could have a traditional city government structure, or it could
 > "About 15 percent of New York City households receive a package every day, according to the Sustainable Urban Freight Systems center at Rensselaer." [^haag]
 
 
-### <a name="spatial-layout-notes"></a>(5.2) Spatial layout notes
+### <a name="spatial-layout-notes"></a>Geometry and spatial layout
 
 > "Above six storeys, significant extra costs are incurred in sprinkler systems, and after ten storeys, the need for enhanced fire escape provision means that the extra costs can only be recouped if storey heights push up above 15 storeys."[^roaf] &mdash; Susan Roaf
 
@@ -936,7 +936,7 @@ A kinematic city could have a traditional city government structure, or it could
 
 > "In addition, there are higher operation and maintenance costs in taller buildings..."[^roaf] &mdash; Susan Roaf
 
-### <a name="ramp-notes"></a>(5.3) Ramp notes
+### <a name="ramp-notes"></a>Ramps vs. stairs
 
 The idea of having **no stairs** and **no elevators** sounds crazy to most people when they first hear it, because it's so different from all the normal buildings and cities that we're used to.
 
@@ -958,7 +958,9 @@ The kinematic city **ramp-only** design:
   > "Lifts also use a large amount of energy to run. For buildings that are largely served by lifts, you can add a rough figure of 5 to 15 per cent onto building energy running costs."[^roaf] &mdash; Susan Roaf
 
 
+### Economics
 
+> "With the right framework, astonishing prosperity is possible. The independent city of Singapore overtook the world’s GDP per capita in less than 30 years, and that of the USA in less than 50 years." [^free-private-cities]
 				
 ---
 
@@ -1003,6 +1005,8 @@ The kinematic city **ramp-only** design:
 
 
 ## <a name="references"></a>References
+
+[^free-private-cities]: [Free Private Cities](https://freeprivatecities.com/en/concept/)
 
 [^bertaud]: _[Order without Design](https://mitpress.mit.edu/books/order-without-design): How Markets Shape Cities_, by Alain Bertaud
 
