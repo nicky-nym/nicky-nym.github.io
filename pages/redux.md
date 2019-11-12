@@ -1,5 +1,5 @@
 ---
-permalink: /redux/
+permalink: /kinematic/
 ---
 # Kinematic Cities
 
@@ -477,7 +477,7 @@ Banks, real estate developers, and the construction industry are now operating a
 
 In the 2020s and 2030s, is will not be crazy to propose a $20 billion privately funded construction project. The project just needs to pencil out well, be low risk, and meet the needs of customers.
 
-## <a name="tidal-wave"></a>(3.1) Tidal wave
+## <a name="tidal-wave"></a>(3.3) Tidal wave
 
 > "The amount of floorspace in buildings around the world—currently about 2.5 trillion square feet—is set to double by 2060"
 > &mdash; Brian Bienkowski [^bienkowski]
@@ -494,7 +494,8 @@ The current market size for new city construction is large:
 > &mdash; Paul Romer
 
 > "This will be by far the largest migration of human beings to have ever taken place on the planet ... The resulting challenges to the availability of energy and resources and the enormous stress on the social fabric across the globe are mind-boggling ... and the timescales to address them are very short."[^scale] &mdash; Geoffrey West
-## <a name="precident"></a>(3.3) People are rapidly building new cities
+
+## <a name="precident"></a>(3.4) People are rapidly building new cities
 
 More than **120 new cities** are currently being built in 40 nations around the world[^growth], and 11,000 new buildings are built every day, meaning **4 million new buildings a year** [^metabuild].
 
@@ -505,7 +506,7 @@ More than **120 new cities** are currently being built in 40 nations around the 
   * and more than 100 others...
 
 
-## <a name="cost-effective"></a>(3.4) Building new cities is cost-effective
+## <a name="cost-effective"></a>(3.5) Building new cities is cost-effective
 
 > "Our biggest urban problems today—growing inequality, rampant gentrification, housing unaffordability, and increasing segregation—all have roots in the staggering cost of urban land."[^manhattan]
 
