@@ -69,8 +69,8 @@ permalink: /kinematic/
         <summary>The long tail...</summary>
         <ul>
           <li><a href="#faq">FAQ</a></li>
-          <li><a href="#design-notes">Design notes</a></li>
           <li><a href="#glossary">Glossary</a></li>
+          <li><a href="#notes">Notes</a></li>
           <li><a href="#references">References</a></li>
         </ul>
       </details>
@@ -858,9 +858,40 @@ Rome wasn't built in a day. Building a kinematic city would take a long time and
 
 A kinematic city could have a traditional city government structure, or it could experiment with less conventional structures. That's a big topic, and one for another author. Suffice it to say, the questions of governance are largely orthogonal to the ideas presented here about the physical layout of a city, the transportation choices, etc. An authoritarian government could build a kinematic city, or a utopian libertarian collective could build a kinematic city, and they would both be kinematic cities.
 
+
+
+## <a name="glossary"></a>Glossary
+
+* **charter city**
+  * a special jurisdiction with a blank slate in commercial law, to allow for the adoption of new practices in areas such as a business registration, labor law, tax administration, and commercial dispute resolution
+  * _typically built on greenfield sites to avoid the challenges of implementing such a wide array of reforms in an existing polity_
+  * _typically privately financed_
+  * see: special economic zone
+
+* **effective altruism**
+  * using empirical analysis to direct resources towards efforts that do the most possible good
+  * _anti-malaria efforts, deworming initiatives, and direct cash transfer programs are among the interventions most widely credited with providing the most cost-effective improvement in welfare for the global poor than any other intervention_ 
+  * see [GiveWell](https://www.givewell.org/)
+
+* **induced demand**
+  * if you add lanes to a freeway, it leads to more trips, not faster trips[^wiki_induced_demand]
+
+* **Jevons paradox**
+  * as **X** gets faster (and cheaper), people use more **X**[^wiki_jevons]
+
+* <a name="kinematic"></a>**kinematic**
+  * concerned with the motion of bodies, and their range of motion
+
+* **Marchetti constant**
+  * people will commute about 30 minutes each way per day [Marchetti constant](marchetti)
+
+* **special economic zone (SEZ)**
+  * a part of a country in which the business and trade laws are different from the rest of the country[^wiki_sez]
+  * there have been SEZs since the 1950s, and there are now thousands of SEZs around the world[^mason]
+
 ---
 
-## <a name="design-notes"></a>(5) Notes
+## <a name="notes"></a>(5) Notes
 
 ### <a name="transportation-notes"></a>(5.1) Transportation notes
 
@@ -962,6 +993,18 @@ The kinematic city **ramp-only** design:
 
 > "the average human walking speed at crosswalks is about 5.0 kilometres per hour (km/h), or about 1.4 meters per second (m/s), or about 3.1 miles per hour (mph). Specific studies have found pedestrian walking speeds at crosswalks ranging from 4.51 kilometres per hour (2.80 mph) to 4.75 kilometres per hour (2.95 mph) for older individuals and from 5.32 kilometres per hour (3.31 mph) to 5.43 kilometres per hour (3.37 mph) for younger individuals" [^wiki_walking]
 
+|---
+| Horizontal walking speeds (m/s)[^fujiyama] 
+| Stair<br>gradient<br>(degrees) | Ascending | Descending
+|       | over 50 | age 30 to 50 | over 50 | age 30 to 50
+|-:|-:|
+|  38.8 | 0.435 | 0.485 | 0.47 | 0.59 
+|  35.0 | 0.515 | 0.565 | 
+|  30.5 | 0.58  | 0.635 |
+|  24.6 | 0.72  | 0.76  |
+|  32   | 0.41  | 0.60  |
+|  27   | 0.43  | 0.73  |
+|---
 
 
 ### Economics
@@ -969,36 +1012,6 @@ The kinematic city **ramp-only** design:
 > "With the right framework, astonishing prosperity is possible. The independent city of Singapore overtook the world’s GDP per capita in less than 30 years, and that of the USA in less than 50 years." [^free-private-cities]
 				
 ---
-
-## <a name="glossary"></a>Glossary
-
-* **charter city**
-  * a special jurisdiction with a blank slate in commercial law, to allow for the adoption of new practices in areas such as a business registration, labor law, tax administration, and commercial dispute resolution
-  * _typically built on greenfield sites to avoid the challenges of implementing such a wide array of reforms in an existing polity_
-  * _typically privately financed_
-  * see: special economic zone
-
-* **effective altruism**
-  * using empirical analysis to direct resources towards efforts that do the most possible good
-  * _anti-malaria efforts, deworming initiatives, and direct cash transfer programs are among the interventions most widely credited with providing the most cost-effective improvement in welfare for the global poor than any other intervention_ 
-  * see [GiveWell](https://www.givewell.org/)
-
-* **induced demand**
-  * if you add lanes to a freeway, it leads to more trips, not faster trips[^wiki_induced_demand]
-
-* **Jevons paradox**
-  * as **X** gets faster (and cheaper), people use more **X**[^wiki_jevons]
-
-* <a name="kinematic"></a>**kinematic**
-  * concerned with the motion of bodies, and their range of motion
-
-* **Marchetti constant**
-  * people will commute about 30 minutes each way per day [Marchetti constant](marchetti)
-
-* **special economic zone (SEZ)**
-  * a part of a country in which the business and trade laws are different from the rest of the country[^wiki_sez]
-  * there have been SEZs since the 1950s, and there are now thousands of SEZs around the world[^mason]
-
 ## Further Reading
 
 * _[Carfree Cities](http://www.carfree.com/book/)_, by J.H. Crawford
@@ -1011,8 +1024,6 @@ The kinematic city **ramp-only** design:
 
 
 ## <a name="references"></a>References
-
-[^free-private-cities]: [Free Private Cities](https://freeprivatecities.com/en/concept/)
 
 [^bertaud]: _[Order without Design](https://mitpress.mit.edu/books/order-without-design): How Markets Shape Cities_, by Alain Bertaud
 
@@ -1033,6 +1044,10 @@ The kinematic city **ramp-only** design:
 [^fast-company]: ["Floating cities once seemed like sci-fi. Now the UN is getting on board"](https://www.fastcompany.com/90329294/floating-cities-once-seemed-like-sci-fi-now-the-un-is-getting-on-board). _Fast Company_. 4 April 2019.
 
 [^forbes]: ["The Power Of Purpose: Unlocking Africa's $10 Trillion Opportunity In Housing"](https://www.forbes.com/sites/afdhelaziz/2019/09/12/the-power-of-purpose-unlocking-africas-10-trillion-opportunity-in-housing/#1e1fa3b714a0). _Forbes_. 12 September 2019.
+
+[^free-private-cities]: [Free Private Cities](https://freeprivatecities.com/en/concept/)
+
+[^fujiyama]: ["An Explicit Study on Walking Speeds of Pedestrians on Stairs"](https://discovery.ucl.ac.uk/id/eprint/1243/1/2004_21.pdf), Taku Fujiyama and Nick Tyler, _University College London_.
 
 [^gadepalli]: "Even though women comprise nearly half of the population, it is surprising they account for less than one in five trips made in Indian cities." ["Delhi Will Improve When Women Get to Move"](https://newcities.org/delhithe-big-picture-will-improve-women-get-move/). Shreya Gadepalli, _NewCities_. 8 March 2019.
 
