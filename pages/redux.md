@@ -9,6 +9,64 @@ permalink: /redux/
 
 <div id="contents-title">Contents
   <div id="contents-entries">
+      <div><a href="#summary">Summary</a></div>
+      <div>
+        <details>
+          <summary><a href="#proposal">Proposal</a> &mdash; cities designed to work better</summary>
+          <ul>
+            <li><a href="#transportation">Transportation</a></li>
+            <li><a href="#spatial-layout">Spatial layout</a></li>
+            <li><a href="#ramp">Ramps vs. stairs</a></li>
+            <li><a href="#safety">Safety</a></li>
+            <li><a href="#better-outcomes">Comparisons</a> &mdash; San Francisco vs. Proposed</li>
+          </ul>
+        </details>
+      </div>
+      <div>
+        <details>
+          <summary><a href="#work-better">What we want to achieve</a></summary>
+          <ul>
+            <li><a href="#design-goals">Design goals</a></li>
+            <li><a href="#design-constraints">Constraints</a></li>
+            <li><a href="#construction-costs">Construction costs</a></li>
+          </ul>
+        </details>
+      </div>
+      <div>
+        <details>
+          <summary><a href="#market">Market context</a></summary>
+          <ul>
+            <li><a href="#need">Need</a> &mdash; the world needs new cities</li>
+            <li><a href="#money">Money</a> &mdash; money is available for new cities</li>
+            <li><a href="#tidal-wave">Tidal wave, impending</a></li>
+            <li><a href="#precident">Timeframe</a> &mdash; they are already being built</li>
+            <li><a href="#cost-effective">Cost-effectiveness</a></li>
+          </ul>
+        </details>
+      </div>
+      <div>
+        <details>
+          <summary><a href="#how-cities-work">How cities work</a></summary>
+          <ul>
+            <li><a href="#rules-of-thumb">Rules of thumb</a></li>
+            <li><a href="#units-of-measure">Units of measure</a></li>
+            <li><a href="#kinematic-range">Kinematic range</a></li>
+            <li><a href="#kinematic-booster-effect">Kinematic windfall</a></li>
+          </ul>
+        </details>
+      </div>
+      <div>
+        <details>
+          <summary>The long tail...</summary>
+          <ul>
+            <li><a href="#faq">FAQ</a></li>
+            <li><a href="#design-notes">Design notes</a></li>
+            <li><a href="#glossary">Glossary</a></li>
+            <li><a href="#references">References</a></li>
+          </ul>
+        </details>
+      </div>
+<!--
     <ul>
       <li><a href="#summary">Summary</a></li>
     </ul>
@@ -70,6 +128,7 @@ permalink: /redux/
         </details>
       </li>
     </ul>
+-->
   </div>
 </div>
 ---
