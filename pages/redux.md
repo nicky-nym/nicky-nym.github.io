@@ -9,7 +9,14 @@ permalink: /redux/
 
 <div id="contents-title">Contents
   <div id="contents-entries">
-      <div><a href="#summary">Summary</a></div>
+      <div>
+        <details>
+          <summary><a href="#summary">Summary</a></div></summary>
+	        <ul>
+            <li><a href="#problems">The problems of existing cities</a></li>
+          </ul>
+        </details>
+      </div>
       <div>
         <details>
           <summary><a href="#proposal">Proposal</a> &mdash; cities designed to work better</summary>
