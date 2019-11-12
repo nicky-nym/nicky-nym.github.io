@@ -860,7 +860,7 @@ A kinematic city could have a traditional city government structure, or it could
 
 ---
 
-## <a name="design-notes"></a>(5) Design notes &mdash; why pick those design choices?
+## <a name="design-notes"></a>(5) Notes
 
 ### <a name="transportation-notes"></a>(5.1) Transportation notes
 
@@ -900,6 +900,23 @@ A kinematic city could have a traditional city government structure, or it could
 |---
 
 > The emergence of small footprint, on-demand, shared vehicles ... will change the way urban transport is organized. The pattern of roads and arterials may also change to adapt to these new modes of urban transport. Instead of concentric traffic on a few high-capacity highways or arterials, numerous smaller low-capacity roads would allow the flexibility required by trips from dispersed origins to dispersed destinations.[^bertaud]
+
+### Congestion
+
+> "And New York City, where more than 1.5 million packages are delivered daily..." [^haag]
+
+> In New York City, "Delivery trucks operated by UPS and FedEx double-park on streets and block bus and bike lanes. They racked up more than 471,000 parking violations last year, a 34 percent increase from 2013." [^haag]
+
+> "The main entryway for packages into New York City, leading to the George Washington Bridge from New Jersey, has become the most congested interchange in the country. Trucks heading toward the bridge travel at 23 miles per hour, down from 30 m.p.h. five years ago." [^haag]
+
+> "cars in the busiest parts of Manhattan now move just above a jogger's pace, about 7 m.p.h., roughly 23 percent slower than at the beginning of the decade." [^haag]
+
+> "The average number of daily deliveries to households in New York City tripled to more than 1.1 million shipments from 2009 to 2017, the latest year for which data was available, according to the Rensselaer Polytechnic Institute [Center of Excellence for Sustainable Urban Freight Systems](https://coe-sufs.org/wordpress/). ... Households now receive more shipments than businesses." [^haag]
+
+> "And it could be just the beginning. Just 10 percent of all retail transactions in the United States during the first quarter of 2019 were made online, up from 4 percent a decade ago, according to the Census Bureau." [^haag]
+
+> "About 15 percent of New York City households receive a package every day, according to the Sustainable Urban Freight Systems center at Rensselaer." [^haag]
+
 
 ### <a name="spatial-layout-notes"></a>(5.2) Spatial layout notes
 
@@ -1014,6 +1031,8 @@ The kinematic city **ramp-only** design:
 [^gopal]: ["Affordable Housing"](https://www.bloomberg.com/quicktake/affordable-housing). Prashant Gopal and Rob Urban, _Bloomberg_. 21 Oct 2019.
 
 [^growth]: ["Should we build cities from scratch?"](https://www.theguardian.com/cities/2019/jul/10/should-we-build-cities-from-scratch). _The Guardian_. 10 July 2019.
+
+[^haag]: ["1.5 Million Packages a Day: The Internet Brings Chaos to N.Y. Streets"](https://www.nytimes.com/2019/10/27/nyregion/nyc-amazon-delivery.html). Matthew Haag and Winnie Hu, _New York Times_. 27 Oct 2019.
 
 [^kang]: ["Sound Environment: High- versus Low-Density Cities"], by Jian Kang, Chapter 12 of ["Designing High-Density Cities"](), edited by Edward Ng
 
