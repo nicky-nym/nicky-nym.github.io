@@ -46,18 +46,31 @@ permalink: /redux/
          <li><a href="#kinematic-booster-effect">Kinematic windfall</a></li>
         </ul>
       </li>
+      <li>
+        <details>
+          <summary>The long tail...</summary>
+          <ul>
+            <li><a href="#faq">FAQ</a></li>
+            <li><a href="#design-notes">Design notes</a></li>
+            <li><a href="#glossary">Glossary</a></li>
+            <li><a href="#references">References</a></li>
+          </ul>
+        </details>
+      </li>
       <li>The long tail...
         <ul>
           <li><a href="#faq">FAQ</a></li>
-	  <li><a href="#design-notes">Design notes</a></li>
-	  <li><a href="#glossary">Glossary</a></li>
-	  <li><a href="#references">References</a></li>
-	</ul>
+          <li><a href="#design-notes">Design notes</a></li>
+          <li><a href="#glossary">Glossary</a></li>
+          <li><a href="#references">References</a></li>
+        </ul>
       </li>	
     </ol>
   </div>
 </div>
 ---
+
+
 
 ## <a name="summary"></a>Summary
 
