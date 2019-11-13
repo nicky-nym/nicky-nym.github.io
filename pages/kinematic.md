@@ -993,6 +993,10 @@ The kinematic city **ramp-only** design:
 
 > "the average human walking speed at crosswalks is about 5.0 kilometres per hour (km/h), or about 1.4 meters per second (m/s), or about 3.1 miles per hour (mph). Specific studies have found pedestrian walking speeds at crosswalks ranging from 4.51 kilometres per hour (2.80 mph) to 4.75 kilometres per hour (2.95 mph) for older individuals and from 5.32 kilometres per hour (3.31 mph) to 5.43 kilometres per hour (3.37 mph) for younger individuals" [^wiki_walking]
 
+* walking speed: 2.17 mph up a 1:12 ADA ramp
+* walking speed: 2.6 mph UP or DOWN an 1:12 ADA ramp [^sun]
+
+
 |---
 |       | Walking speeds |
 |       | horizontal<br>m/s | horizontal<br>m/s | horizontal<br>m/s | horizontal<br>m/s
@@ -1009,6 +1013,7 @@ The kinematic city **ramp-only** design:
 
 ```
 tan(27 degrees) = 0.51 => 51% grade = 51 foot rise per 100 foot run
+
 0.73 m/s horizontal on 27 degree stairs => 0.37 m/s vertical = 1.22 feet/sec vertical
 ```
 
@@ -1099,6 +1104,8 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 [^sharma]: ["Greenfield Smart Cities Shaping the Future of India"](https://newcities.org/the-big-picture-greenfield-smart-cities-shaping-future-india/). _NewCities_. 23 July 2019.
 
 [^stouhi]: ["Winners of UED's Architecture Competition Imagine the City of the Future"](https://www.archdaily.com/927619/winners-of-ueds-architecture-competition-imagine-the-city-of-the-future). Dima Stouhi, _ArchDaily_. 1 Nov 2019.
+
+[^sun]: ["The influence of surface slope on human gait characteristics: a study of urban pedestrians walking on an inclined surface"](https://www.tandfonline.com/doi/abs/10.1080/00140139608964489). JIE SUN, MEGAN WALTERS, NOEL SVENSSON & DAVID LLOYD, _Ergonomics_ Volume 39, 1996 - Issue 4
 
 [^watts]: ["Concrete: the most destructive material on Earth"](https://www.theguardian.com/cities/2019/feb/25/concrete-the-most-destructive-material-on-earth). Jonathan Watts, _The Guardian_. 25 Feb 2019 
 
