@@ -1027,6 +1027,9 @@ tan(27 degrees) = 0.51 => 51% grade = 51 foot rise per 100 foot run
 
 _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning and Design Competition – Xingdong New Area Urban Design International Master Competition_ [^stouhi]
 
+### Bicycles
+
+> In 1896, Susan B. Anthony said bicycling was doing "more to emancipate women than anything else in the world." [^kamiya]
 
 
 ---
@@ -1076,6 +1079,8 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 [^growth]: ["Should we build cities from scratch?"](https://www.theguardian.com/cities/2019/jul/10/should-we-build-cities-from-scratch). _The Guardian_. 10 July 2019.
 
 [^haag]: ["1.5 Million Packages a Day: The Internet Brings Chaos to N.Y. Streets"](https://www.nytimes.com/2019/10/27/nyregion/nyc-amazon-delivery.html). Matthew Haag and Winnie Hu, _New York Times_. 27 Oct 2019.
+
+[^kamiya]: ["Sex and cycling: How bike craze aroused passions in 1890s San Francisco"](https://www.sfchronicle.com/bayarea/article/Sex-and-cycling-How-bike-craze-aroused-passions-14544576.php#photo-18459519). Gary Kamiya, _San Francisco Chronicle_. 18 Oct 2019.
 
 [^kang]: ["Sound Environment: High- versus Low-Density Cities"], by Jian Kang, Chapter 12 of ["Designing High-Density Cities"](), edited by Edward Ng
 
