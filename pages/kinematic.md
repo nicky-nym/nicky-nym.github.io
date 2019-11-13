@@ -423,6 +423,10 @@ It is estimated that **by 2050**:
 * there will be at least **nine African "megacities" of 10 million people or more** (and more than two dozen African cities of 5 million or more, about the size of metropolitan Washington), but currently 60 percent of Africa’s city dwellers live in slums [^bloomberg]
 * one-third of all of the French Polynesian islands will be submerged[^fast-company]
 
+In California alone, "to satisfy pent-up demand and meet the needs of a growing population, California needs to build 3.5 million homes by 2025."[^mckinsey]
+
+[^mckinsey]: ["A Tool Kit to Close California's Housing Gap: 3.5 Million Homes by 2025"](https://www.mckinsey.com/~/media/McKinsey/Featured%20Insights/Urbanization/Closing%20Californias%20housing%20gap/Closing-Californias-housing-gap-Full-report.ashx). _McKinsey & Company_ Oct 2016
+
 ### Doubling of urban area
 
 "Half of the urban area that will be needed [by 2050] hasn't been built yet."[^growth]
