@@ -1034,6 +1034,8 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 
 > In 1896, Susan B. Anthony said bicycling was doing "more to emancipate women than anything else in the world." [^kamiya]
 
+> "No technology holds as much promise as the humble bicycle—especially when we include its newfangled, electrified cousins—to solve the geometry problem that is getting people short distances around a big city." We don't need no flying cars. Just give us a place to ride, and watch e-bikes eat everything.[^alter]
+
 
 ---
 ## Further Reading
@@ -1048,6 +1050,8 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 
 
 ## <a name="references"></a>References
+
+[^alter]: ["6 month report: My e-bike ate my car"](https://www.treehugger.com/bikes/6-month-report-my-gazelle-e-bike-ate-my-car.html). Lloyd Alter, _TreeHugger_. 1 November 2019.
 
 [^bertaud]: _[Order without Design](https://mitpress.mit.edu/books/order-without-design): How Markets Shape Cities_, by Alain Bertaud
 
