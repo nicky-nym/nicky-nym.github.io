@@ -772,6 +772,7 @@ There are a huge number of metrics that people measure cities by. We're going to
   
   * On the **UC Berkeley campus**, traveling by foot, it takes about 25 minutes to walk between two buildings at opposite ends of the main campus. If it takes another 2 minutes to get from the lobby door of a building to a top-floor room, and vice-versa, that means any two rooms on the whole campus are within a 29-minute range. If the campus has about 10 million square feet of floorspace<sup>[citation needed]</sup>, then your **KR<sub>30</sub>** would be about **10 million square feet**.  
 
+  * In the **US Pentagon building**, it is possible to walk between any two points in less than seven minutes. The Pentagon has 6.6 million square feet of floorspace, so that's a **KR<sub>7</sub>** of **6.6 million square feet**.[^wiki_pentagon] 
 
 ### <a name="kinematic-booster-effect"></a>(4.4) Kinematic windfall
 
@@ -1165,6 +1166,8 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 [^wiki_new_york_city]: ["New York City"](https://en.wikipedia.org/wiki/New_York_City). _Wikipedia_.
 
 [^wiki_paris]: ["Paris"](https://en.wikipedia.org/wiki/Paris). _Wikipedia_.
+
+[^wiki_pentagon]: ["The_Pentagon"](https://en.wikipedia.org/wiki/The_Pentagon). _Wikipedia_.
 
 [^wiki_san_francisco]: ["San Francisco"](https://en.wikipedia.org/wiki/San_Francisco). _Wikipedia_.
 
