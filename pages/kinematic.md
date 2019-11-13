@@ -402,6 +402,11 @@ Ideally the kinematic city buildings would all be built with standpipes and fire
 
 > "In the lowest-income countries, where construction is the cheapest, households would need to be able to afford at least US$6,000 for a studio of 12 square meters; US$6,000 is the global market commodity price for the basic construction materials of concrete and steel required to build 12 square meters."[^bertaud]
 
+> "San Francisco has the world's second-highest construction costs... The city's average construction costs of $330 per square foot was second only to New York, according to a study last year by Turner and Townsend, a construction consultant. Apartments cost around $425,000 per unit to build." [^li]
+
+> "New York and San Francisco topped the list of the most expensive construction markets, costing respectively an average of $354 and $330 per square foot to build. Seattle, which faces many of the same labor market and housing supply pressures as San Francisco, came in at $280 per square foot."[^reid]
+
+
 
 ## <a name="market"></a>Market context
 
@@ -1106,6 +1111,8 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 
 [^levinson]: ["21 Solutions to Road Deaths"](https://transportist.org/2019/10/02/21-solutions-to-road-deaths/). David Levinson, _Transportist_. 2 Oct 2019.
 
+[^li]: ["Why San Francisco has the second-highest construction costs in the world"](https://www.bizjournals.com/sanfrancisco/news/2018/01/24/sf-construction-costs-2nd-highest-housing-crisis.html). Roland Li, _San Francisco Business Times_. 24 Jan 2018
+
 [^lutter]: ["Exponents Magazine: A Beginner's Guide to Building New Cities"](https://www.chartercitiesinstitute.org/post/a-beginners-guide-to-building-new-cities?utm_source=Charter+Cities+Institute&utm_campaign=c1b3cc2a39-EMAIL_CAMPAIGN_2019_11_04_11_59&utm_medium=email&utm_term=0_fccc97d8cc-c1b3cc2a39-223014821). Dr. Mark Lutter, _Charter Cities Institute_. 9 October 2019.
 
 [^manhattan]: ["What's Manhattan's Land Worth? Try 'Canada's Entire GDP'"](https://www.citylab.com/life/2018/04/what-manhattans-land-is-worth/558776/). _CityLab_. 24 April 2018.
@@ -1125,6 +1132,8 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 [^perez]: ["Apple commits $2.5 billion to address California’s housing crisis and homelessness issues"](https://techcrunch.com/2019/11/04/apple-commits-2-5-billion-to-address-californias-housing-crisis-and-homelessness-issues/). Sarah Perez, _TechCrunch_. 4 November 2019.
 
 [^quirk]: ["Outside the box truck: Innovations in delivery that could change our cities"](https://medium.com/sidewalk-talk/outside-the-box-truck-innovations-in-delivery-that-could-change-our-cities-a7c2170d8f9b). Vanessa Quirk, _Sidewalk Talk_. 13 Sept 2018.
+
+[^reid]: ["Perspectives: Practitioners Weigh in on Drivers of Rising Housing Construction Costs in San Francisco"](http://ternercenter.berkeley.edu/uploads/San_Francisco_Construction_Cost_Brief_-_Terner_Center_January_2018.pdf). Carolina Reid and Hayley Raetz, _Terner Center for Housing Innovation_. January 2018.
 
 [^roaf]: ["The Sustainability of High Density"](), by Susan Roaf, Chapter 3 of ["Designing High-Density Cities"](), edited by Edward Ng.
 
