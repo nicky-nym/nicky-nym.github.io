@@ -462,6 +462,9 @@ As of 2018, **70 million people** were currently displaced by war, persecution a
 
 > "Google pledged $1 billion to help create 15,000 homes in California."[^gopal]
 
+> "Apple commits $2.5 billion to address California’s housing crisis and homelessness issues"[^perez]
+
+
 In 2019, U.S. Presidential candidate Andrew Yang called for **$40 billion** in subsidies, grants, and loans for people in coastal communities who want to either move inland or elevate their homes.[^yang]
 
 ### Large private sector projects
@@ -1099,6 +1102,8 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 [^migrants]: ["Migration, Environment and Climate Change: Assessing the Evidence"](https://publications.iom.int/system/files/pdf/migration_and_environment.pdf). (PDF) _International Organization for Migration_. 2009.
 
 [^new-clark]: ["Resilient Growth: Building a Resilient City in the Philippines"](https://newcities.org/the-big-picture-resilient-growth-building-resilient-city-philippines/). _NewCities_. 2019.
+
+[^perez]: ["Apple commits $2.5 billion to address California’s housing crisis and homelessness issues"](https://techcrunch.com/2019/11/04/apple-commits-2-5-billion-to-address-californias-housing-crisis-and-homelessness-issues/). Sarah Perez, _TechCrunch_. 4 November 2019.
 
 [^quirk]: ["Outside the box truck: Innovations in delivery that could change our cities"](https://medium.com/sidewalk-talk/outside-the-box-truck-innovations-in-delivery-that-could-change-our-cities-a7c2170d8f9b). Vanessa Quirk, _Sidewalk Talk_. 13 Sept 2018.
 
