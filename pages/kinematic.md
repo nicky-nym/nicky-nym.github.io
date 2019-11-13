@@ -1013,17 +1013,16 @@ The kinematic city **ramp-only** design:
 
 
 |---
-|       |   | Walking speeds |
-|       |   | horizontal<br>m/s | horizontal<br>m/s | horizontal<br>m/s | horizontal<br>m/s
-| Stair<br>gradient<br>(degrees)[^fujiyama]  | grade | Up | Down | Up | Down |
-|       | rise:run | over 50 | age 30 to 50 | over 50 | age 30 to 50
-|     -:|  :-:  |  :-:  |  :-:  |  :-:  |  :-:  |
-|  38.8 |   80:100 | 0.435 | 0.485 | 0.47  | 0.59 
-|  35.0 |   70:100 | 0.515 | 0.565 | 0.585 | 0.645
-|  30.5 |   59:100 | 0.58  | 0.635 | 0.64  | 0.74
-|  24.6 |   46:100 | 0.72  | 0.76  | 0.80  | 0.865
-|  32   | 62.5:100 | 0.41  | 0.60  | 0.52  | 0.60
-|  27   |   51:100 | 0.43  | 0.73  | 0.58  | 0.73
+|       |   | Walking speeds, per horizontal distance[^fujiyama] |
+| Stair<br>gradient  | grade | Up stairs | Down stairs | Up stairs | Down stairs |
+| (degrees) | rise:run | over 50 | age 30 to 50 | over 50 | age 30 to 50
+|  :-:  |  :-:  |  :-:  |  :-:  |  :-:  |  :-:  |
+|  38.8 |   80:100 | 0.435 m/s | 0.485 m/s | 0.47 m/s  | 0.59 m/s  
+|  35.0 |   70:100 | 0.515 m/s | 0.565 m/s | 0.585 m/s | 0.645 m/s 
+|  30.5 |   59:100 | 0.58 m/s  | 0.635 m/s | 0.64 m/s  | 0.74 m/s 
+|  24.6 |   46:100 | 0.72 m/s  | 0.76 m/s  | 0.80 m/s  | 0.865 m/s 
+|  32   | 62.5:100 | 0.41 m/s  | 0.60 m/s  | 0.52 m/s  | 0.60 m/s 
+|  27   |   51:100 | 0.43 m/s  | 0.73 m/s  | 0.58 m/s  | 0.73 m/s 
 |---
 
 ```
