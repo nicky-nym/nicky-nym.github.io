@@ -498,6 +498,13 @@ The current market size for new city construction is large:
 
 > "This will be by far the largest migration of human beings to have ever taken place on the planet ... The resulting challenges to the availability of energy and resources and the enormous stress on the social fabric across the globe are mind-boggling ... and the timescales to address them are very short."[^scale] &mdash; Geoffrey West
 
+> "The UN estimates that each year cities across the world will gain more than 72 million new residents."[^lutter]
+
+> "India, for example, will be home to 7 cities with populations greater than 10 million residents by 2050."[^lutter]
+
+> "projections show that Kinshasa, the capital of the Democratic Republic of Congo, will reach 35 million residents by 2050."[^lutter]
+
+
 ## <a name="precident"></a>(3.4) People are rapidly building new cities
 
 More than **120 new cities** are currently being built in 40 nations around the world[^growth], and 11,000 new buildings are built every day, meaning **4 million new buildings a year** [^metabuild].
@@ -508,6 +515,11 @@ More than **120 new cities** are currently being built in 40 nations around the 
   * **Enyimba Economic City**, in Nigeria (1.5 million residents)
   * and more than 100 others...
 
+> "Neom is best described as a $500 billion ... plan for a 10,000 square mile area"[^lutter]
+
+> "New Cairo, ... when completed, it could house as many as 5 million residents"[^lutter]
+
+> "Forest City is a $100 billion new city development which will house 700,000 residents when completed. Forest city is a 5600-acre development."[^lutter]
 
 ## <a name="cost-effective"></a>(3.5) Building new cities is cost-effective
 
@@ -1037,6 +1049,8 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 > "No technology holds as much promise as the humble bicycle—especially when we include its newfangled, electrified cousins—to solve the geometry problem that is getting people short distances around a big city." We don't need no flying cars. Just give us a place to ride, and watch e-bikes eat everything.[^alter]
 
 
+
+
 ---
 ## Further Reading
 
@@ -1092,6 +1106,8 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 [^kang]: ["Sound Environment: High- versus Low-Density Cities"], by Jian Kang, Chapter 12 of ["Designing High-Density Cities"](), edited by Edward Ng
 
 [^levinson]: ["21 Solutions to Road Deaths"](https://transportist.org/2019/10/02/21-solutions-to-road-deaths/). David Levinson, _Transportist_. 2 Oct 2019.
+
+[^lutter]: ["Exponents Magazine: A Beginner's Guide to Building New Cities"](https://www.chartercitiesinstitute.org/post/a-beginners-guide-to-building-new-cities?utm_source=Charter+Cities+Institute&utm_campaign=c1b3cc2a39-EMAIL_CAMPAIGN_2019_11_04_11_59&utm_medium=email&utm_term=0_fccc97d8cc-c1b3cc2a39-223014821). Dr. Mark Lutter, _Charter Cities Institute_. 9 October 2019.
 
 [^manhattan]: ["What's Manhattan's Land Worth? Try 'Canada's Entire GDP'"](https://www.citylab.com/life/2018/04/what-manhattans-land-is-worth/558776/). _CityLab_. 24 April 2018.
 
