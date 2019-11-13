@@ -914,6 +914,11 @@ A kinematic city could have a traditional city government structure, or it could
   * a part of a country in which the business and trade laws are different from the rest of the country[^wiki_sez]
   * there have been SEZs since the 1950s, and there are now thousands of SEZs around the world[^mason]
 
+* **tax increment financing (TIF)**
+  * special tax districts around targeted redevelopment areas, where future tax revenues are diverted to finance infrastructure improvements or development[^schneider]
+  
+
+
 ---
 
 ## <a name="notes"></a>(5) Notes
@@ -1146,6 +1151,8 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 [^roaf]: ["The Sustainability of High Density"](), by Susan Roaf, Chapter 3 of ["Designing High-Density Cities"](), edited by Edward Ng.
 
 [^scale]: [_Scale_](https://www.penguinrandomhouse.com/books/314049/scale-by-geoffrey-west/), by Geoffrey West. 2018.
+
+[^schneider]: ["CityLab University: Tax Increment Financing"](https://www.citylab.com/equity/2019/10/tax-increment-financing-explained-tif-economic-development/597313/). Benjamin Schneider, _CityLab_. 24 Oct 2019.
 
 [^sharma]: ["Greenfield Smart Cities Shaping the Future of India"](https://newcities.org/the-big-picture-greenfield-smart-cities-shaping-future-india/). _NewCities_. 23 July 2019.
 
