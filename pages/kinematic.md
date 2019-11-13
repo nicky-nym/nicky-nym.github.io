@@ -1011,7 +1011,15 @@ The kinematic city **ramp-only** design:
 ### Economics
 
 > "With the right framework, astonishing prosperity is possible. The independent city of Singapore overtook the world’s GDP per capita in less than 30 years, and that of the USA in less than 50 years." [^free-private-cities]
-				
+		
+
+
+### Competitions
+
+_Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning and Design Competition – Xingdong New Area Urban Design International Master Competition_ [^stouhi]
+
+
+
 ---
 ## Further Reading
 
@@ -1085,6 +1093,8 @@ The kinematic city **ramp-only** design:
 [^scale]: [_Scale_](https://www.penguinrandomhouse.com/books/314049/scale-by-geoffrey-west/), by Geoffrey West. 2018.
 
 [^sharma]: ["Greenfield Smart Cities Shaping the Future of India"](https://newcities.org/the-big-picture-greenfield-smart-cities-shaping-future-india/). _NewCities_. 23 July 2019.
+
+[^stouhi]: ["Winners of UED's Architecture Competition Imagine the City of the Future"](https://www.archdaily.com/927619/winners-of-ueds-architecture-competition-imagine-the-city-of-the-future). Dima Stouhi, _ArchDaily_. 1 Nov 2019.
 
 [^watts]: ["Concrete: the most destructive material on Earth"](https://www.theguardian.com/cities/2019/feb/25/concrete-the-most-destructive-material-on-earth). Jonathan Watts, _The Guardian_. 25 Feb 2019 
 
