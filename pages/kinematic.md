@@ -1052,6 +1052,7 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 
 > "No technology holds as much promise as the humble bicycle—especially when we include its newfangled, electrified cousins—to solve the geometry problem that is getting people short distances around a big city." We don't need no flying cars. Just give us a place to ride, and watch e-bikes eat everything.[^alter]
 
+> "Nearly half of American kids walked or biked to school in 1950; today that figure is 13 percent."[^grabar]
 
 
 
@@ -1100,6 +1101,8 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 [^gonzalez]: "Evidence from Argentina shows that on average men and women’s commute time is roughly the same, but women travel at slower speeds and cover shorter distances." ["Transport is Not Gender Neutral"](https://newcities.org/the-big-picture-transport-is-not-gender-neutral-womens-mobility-and-accessibility-for-better-economic-opportunities/) Karla Dominguez Gonzalez, _NewCities_. 8 March 2019.
 
 [^gopal]: ["Affordable Housing"](https://www.bloomberg.com/quicktake/affordable-housing). Prashant Gopal and Rob Urban, _Bloomberg_. 21 Oct 2019.
+
+[^grabar]: ["The Hyperloop and the Self-Driving Car Are Not the Future of Transportation"](https://slate.com/technology/2019/10/future-of-transportation-bus-bike-elevator.html). Henry Grabar, _Slate.com_. 30 Oct 2019.
 
 [^growth]: ["Should we build cities from scratch?"](https://www.theguardian.com/cities/2019/jul/10/should-we-build-cities-from-scratch). _The Guardian_. 10 July 2019.
 
