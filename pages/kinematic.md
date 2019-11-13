@@ -1013,7 +1013,7 @@ The kinematic city **ramp-only** design:
 
 
 |---
-|       |   | Walking speeds, per horizontal distance[^fujiyama] |
+|       |   | Walking<br>speeds<b>per<br>horizontal<br>distance[^fujiyama] |
 | Stair<br>gradient  | grade | Up stairs | Down stairs | Up stairs | Down stairs |
 | (degrees) | rise:run | over 50 | age 30 to 50 | over 50 | age 30 to 50
 |  :-:  |  :-:  |  :-:  |  :-:  |  :-:  |  :-:  |
