@@ -1167,7 +1167,7 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 
 [^wiki_paris]: ["Paris"](https://en.wikipedia.org/wiki/Paris). _Wikipedia_.
 
-[^wiki_pentagon]: ["The_Pentagon"](https://en.wikipedia.org/wiki/The_Pentagon). _Wikipedia_.
+[^wiki_pentagon]: ["The Pentagon"](https://en.wikipedia.org/wiki/The_Pentagon). _Wikipedia_.
 
 [^wiki_san_francisco]: ["San Francisco"](https://en.wikipedia.org/wiki/San_Francisco). _Wikipedia_.
 
