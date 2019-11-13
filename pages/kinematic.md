@@ -994,16 +994,17 @@ The kinematic city **ramp-only** design:
 > "the average human walking speed at crosswalks is about 5.0 kilometres per hour (km/h), or about 1.4 meters per second (m/s), or about 3.1 miles per hour (mph). Specific studies have found pedestrian walking speeds at crosswalks ranging from 4.51 kilometres per hour (2.80 mph) to 4.75 kilometres per hour (2.95 mph) for older individuals and from 5.32 kilometres per hour (3.31 mph) to 5.43 kilometres per hour (3.37 mph) for younger individuals" [^wiki_walking]
 
 |---
-| Horizontal walking speeds (m/s)[^fujiyama] 
-| Stair<br>gradient<br>(degrees) | Ascending | Descending
+| Horizontal walking speeds (m/s)[^fujiyama] ||
+|                                | m/s | m/s | m/s | m/s
+| Stair<br>gradient<br>(degrees) | Up | Down | Up | Down |
 |       | over 50 | age 30 to 50 | over 50 | age 30 to 50
 |-:|-:|
-|  38.8 | 0.435 | 0.485 | 0.47 | 0.59 
-|  35.0 | 0.515 | 0.565 | 
-|  30.5 | 0.58  | 0.635 |
-|  24.6 | 0.72  | 0.76  |
-|  32   | 0.41  | 0.60  |
-|  27   | 0.43  | 0.73  |
+|  38.8 | 0.435 | 0.485 | 0.47  | 0.59 
+|  35.0 | 0.515 | 0.565 | 0.585 | 0.645
+|  30.5 | 0.58  | 0.635 | 0.64  | 0.74
+|  24.6 | 0.72  | 0.76  | 0.80  | 0.865
+|  32   | 0.41  | 0.60  | 0.52  | 0.60
+|  27   | 0.43  | 0.73  | 0.58  | 0.73
 |---
 
 
