@@ -493,9 +493,9 @@ In the 2020s and 2030s, is will not be crazy to propose a $20 billion privately 
 
 There are established public-sector mechanisms for funding development projects, such as Tax Increment Financing (TIF).
 
-> "Portland, Oregon, currently dedicates about 40 percent of its TIF revenues to affordable housing. Over nine years, the program generated nearly a quarter of a billion dollars for affordable housing..."[^schneider]
+> "Portland, Oregon, currently dedicates about 40 percent of its TIF revenues to affordable housing. Over nine years, the program generated nearly **a quarter of a billion dollars for affordable housing**..."[^schneider]
 
-> "The $6 billion Lincoln Yards development in Chicago ... stands to receive $1.3 billion in TIF funding"[^schneider]
+> "The $6 billion Lincoln Yards development in Chicago ... stands to receive **$1.3 billion in TIF funding**"[^schneider]
 
 
 
