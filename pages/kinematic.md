@@ -476,7 +476,7 @@ As of 2018, **70 million people** were currently displaced by war, persecution a
 
 In 2019, U.S. Presidential candidate Andrew Yang called for **$40 billion** in subsidies, grants, and loans for people in coastal communities who want to either move inland or elevate their homes.[^yang]
 
-### Large private sector projects
+### Large private-sector projects
 
 In recent decades we have begun to see the private sector take on very large scale projects, without government funding.
 
@@ -488,6 +488,16 @@ City Center, in Las Vegas, Nevada, is a good example
 Banks, real estate developers, and the construction industry are now operating at a level where they can coordinate the successful delivery of very large projects.
 
 In the 2020s and 2030s, is will not be crazy to propose a $20 billion privately funded construction project. The project just needs to pencil out well, be low risk, and meet the needs of customers.
+
+### Public-sector funding mechanisms
+
+There are established public-sector mechanisms for funding development projects, such as Tax Increment Financing (TIF).
+
+> "Portland, Oregon, currently dedicates about 40 percent of its TIF revenues to affordable housing. Over nine years, the program generated nearly a quarter of a billion dollars for affordable housing..."[^schneider]
+
+> "The $6 billion Lincoln Yards development in Chicago ... stands to receive $1.3 billion in TIF funding"[^schneider]
+
+
 
 ## <a name="tidal-wave"></a>(3.3) Tidal wave
 
