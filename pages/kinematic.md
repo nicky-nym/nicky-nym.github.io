@@ -974,6 +974,8 @@ A kinematic city could have a traditional city government structure, or it could
 
 ### Congestion
 
+> "In L.A., nothing concerns locals more than traffic—not personal safety, the cost of living, or even the housing market—according to a 2016 poll by the Los Angeles Times. Drivers there spend an average of 80 hours in gridlock every year, according to a report by Texas A&M University."[^bliss]
+
 > "And New York City, where more than 1.5 million packages are delivered daily..." [^haag]
 
 > In New York City, "Delivery trucks operated by UPS and FedEx double-park on streets and block bus and bike lanes. They racked up more than 471,000 parking violations last year, a 34 percent increase from 2013." [^haag]
@@ -1096,6 +1098,8 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 
 [^bienkowski]: ["We're building the equivalent of Paris every week. That's a problem."](https://www.dailyclimate.org/building-industry-climate-change-carbon-footprint-2516418302.html). Brian Bienkowski, _The Daily Climate_. 11 Dec 2017.
 
+[^bliss]: ["Navigation Apps Changed the Politics of Traffic"](https://www.citylab.com/transportation/2019/11/future-of-transportation-traffic-navigation-apps-google-maps/601684/). Laura Bliss, _City Lab_. 12 November 2019.
+
 [^bloomberg]: ["Africa’s Cities Are About to Boom – and Maybe Explode"](https://www.bloomberg.com/opinion/articles/2019-07-25/africa-s-cities-are-about-to-boom-and-maybe-explode). _Bloomberg_. 25 July 2019.
 
 [^caspar]: ["The Future of Greenfield Cities"](https://newcities.org/the-big-picture-the-future-of-greenfield-cities/). _NewCities_. 23 July 2019.
@@ -1138,7 +1142,7 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 
 [^lutter]: ["Exponents Magazine: A Beginner's Guide to Building New Cities"](https://www.chartercitiesinstitute.org/post/a-beginners-guide-to-building-new-cities?utm_source=Charter+Cities+Institute&utm_campaign=c1b3cc2a39-EMAIL_CAMPAIGN_2019_11_04_11_59&utm_medium=email&utm_term=0_fccc97d8cc-c1b3cc2a39-223014821). Dr. Mark Lutter, _Charter Cities Institute_. 9 October 2019.
 
-[^manhattan]: ["What's Manhattan's Land Worth? Try 'Canada's Entire GDP'"](https://www.citylab.com/life/2018/04/what-manhattans-land-is-worth/558776/). _CityLab_. 24 April 2018.
+[^manhattan]: ["What's Manhattan's Land Worth? Try 'Canada's Entire GDP'"](https://www.citylab.com/life/2018/04/what-manhattans-land-is-worth/558776/). Richard Florida, _CityLab_. 24 April 2018.
 
 [^mason]: ["The Case for Charter Cities Within the Effective Altruist Framework"](https://assets.website-files.com/5d253237e31f051057dc0a2b/5d88effe42420361c5e0c3c2_The%20Case%20for%20Charter%20Cities%20Within%20the%20Effective%20Altruist%20Framework.pdf). Jeffrey Mason, _Charter Cities Institute_. Sept 2019.
 
