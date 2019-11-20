@@ -471,6 +471,8 @@ As of 2018, **70 million people** were currently displaced by war, persecution a
 > that can be measured in the **trillions of dollars**."[^growth]
 > &mdash; Wade Shepard, author and columnist
 
+> "An estimated $100 billion is being invested in new city projects across Africa; [the city of] Diamniadio alone will cost the Senegalese government an estimated $2 billion."[^haas]
+
 > "Google pledged $1 billion to help create 15,000 homes in California."[^gopal]
 
 > "Apple commits $2.5 billion to address California’s housing crisis and homelessness issues"[^perez]
@@ -510,7 +512,7 @@ There are established public-sector mechanisms for funding development projects,
 The current market size for new city construction is large:
   * in the next 30 years, **another 2.5 billion people** will live cities
   * "averaged over the next thirty-five years, about a million and a half people will be urbanized each week ... the equivalent of another New York metropolitan area [every two months]"[^scale]
-  * **120 new cities** are currently being built
+  * **120 new cities** are currently being built, **in 40 countries**[^haas]
   * "China ... is on a fast track to build up to **three hundred new cities** each in excess of a million people over the next twenty to twenty-five years. ...  At the present rate it will be moving the equivalent of the entire U.S. population (more than 300 million people) to cities in the next twenty to twenty-five years."[^scale]
   * spending is somewhere between the high hundreds of billions of dollars, and the low trillions of dollars
   * real estate development projects now operate at a scale where it is possible to complete a coordinated, monolithic, **privately financed $10 billion construction project**
@@ -554,6 +556,8 @@ Projects in existing cities can be staggeringly expensive.
   * **$21 billion** for the **Big Dig** in Boston <sup>[citation needed]</sup>
   * **$23 billion** for the **Riyadh Metro** <sup>[citation needed]</sup>
   * **$32 billion** to rebuild the **World Trade Center** in New York <sup>[citation needed]</sup>
+
+> "Retrofitting cities, where cities already exist, can be up to three times more expensive than planning for infrastructure in advance of settlement."[^haas]
 
 Zoning restrictions in existing cities prevent any large-scale changes to their spatial layout.
 
@@ -1140,6 +1144,8 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 [^growth]: ["Should we build cities from scratch?"](https://www.theguardian.com/cities/2019/jul/10/should-we-build-cities-from-scratch). _The Guardian_. 10 July 2019.
 
 [^haag]: ["1.5 Million Packages a Day: The Internet Brings Chaos to N.Y. Streets"](https://www.nytimes.com/2019/10/27/nyregion/nyc-amazon-delivery.html). Matthew Haag and Winnie Hu, _New York Times_. 27 Oct 2019.
+
+[^haas]: ["African countries keep building new cities to meet rapid urbanization even if people won’t live in them"](https://qz.com/africa/1740068/african-countries-keep-building-cities-to-meet-rapid-urbanization/). Astrid R.N. Haas, _International Growth Centre_. 31 October 2019.
 
 [^kamiya]: ["Sex and cycling: How bike craze aroused passions in 1890s San Francisco"](https://www.sfchronicle.com/bayarea/article/Sex-and-cycling-How-bike-craze-aroused-passions-14544576.php#photo-18459519). Gary Kamiya, _San Francisco Chronicle_. 18 Oct 2019.
 
