@@ -475,6 +475,7 @@ As of 2018, **70 million people** were currently displaced by war, persecution a
 
 > "Apple commits $2.5 billion to address California’s housing crisis and homelessness issues"[^perez]
 
+> "South Sudan’s First Vice-President Taban Deng Gai said the government is working on a master plan for the proposed new capital city of Ramciel that will cost the nation 10 billion US dollars."[^tamazuj]
 
 In 2019, U.S. Presidential candidate Andrew Yang called for **$40 billion** in subsidies, grants, and loans for people in coastal communities who want to either move inland or elevate their homes.[^yang]
 
@@ -553,6 +554,10 @@ Projects in existing cities can be staggeringly expensive.
   * **$21 billion** for the **Big Dig** in Boston <sup>[citation needed]</sup>
   * **$23 billion** for the **Riyadh Metro** <sup>[citation needed]</sup>
   * **$32 billion** to rebuild the **World Trade Center** in New York <sup>[citation needed]</sup>
+
+Zoning restrictions in existing cities prevent any large-scale changes to their spatial layout.
+
+> "Three-quarters of the residential land in Los Angeles is restricted to single-family homes, according to UrbanFootprint, software that helps government and businesses understand cities and urban markets. In San Jose, the figure is 94%."[^buhayar]
 
 Building on a new empty, greenfield site is a lot less expensive than building in an existing city. New cities provide more space at lower cost per capita. New cities create value, and demand.<sup>[citation needed]</sup>
 
@@ -1179,6 +1184,8 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 [^stouhi]: ["Winners of UED's Architecture Competition Imagine the City of the Future"](https://www.archdaily.com/927619/winners-of-ueds-architecture-competition-imagine-the-city-of-the-future). Dima Stouhi, _ArchDaily_. 1 Nov 2019.
 
 [^sun]: ["The influence of surface slope on human gait characteristics: a study of urban pedestrians walking on an inclined surface"](https://www.tandfonline.com/doi/abs/10.1080/00140139608964489). JIE SUN, MEGAN WALTERS, NOEL SVENSSON & DAVID LLOYD, _Ergonomics_ Volume 39, 1996 - Issue 4
+
+[^tamazuj]: ["Proposed Ramciel city master plan to cost 10 billion USD"](https://radiotamazuj.org/en/news/article/proposed-ramciel-city-master-plan-to-cost-10-billion-usd). _Radio Tamazuj_. 30 October 2019.
 
 [^watts]: ["Concrete: the most destructive material on Earth"](https://www.theguardian.com/cities/2019/feb/25/concrete-the-most-destructive-material-on-earth). Jonathan Watts, _The Guardian_. 25 Feb 2019 
 
