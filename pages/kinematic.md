@@ -425,7 +425,9 @@ It is estimated that **by 2050**:
 
 In California alone, "to satisfy pent-up demand and meet the needs of a growing population, California needs to build 3.5 million homes by 2025."[^mckinsey]
 
-[^mckinsey]: ["A Tool Kit to Close California's Housing Gap: 3.5 Million Homes by 2025"](https://www.mckinsey.com/~/media/McKinsey/Featured%20Insights/Urbanization/Closing%20Californias%20housing%20gap/Closing-Californias-housing-gap-Full-report.ashx). _McKinsey & Company_ Oct 2016
+> "Broadly speaking, there is no solution to the California housing crisis without the construction of millions of new houses," said David Garcia, policy director for the Terner Center for Housing Innovation at the University of California, Berkeley.[^buhayar]
+
+
 
 ### Doubling of urban area
 
@@ -1102,6 +1104,8 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 
 [^bloomberg]: ["Africa’s Cities Are About to Boom – and Maybe Explode"](https://www.bloomberg.com/opinion/articles/2019-07-25/africa-s-cities-are-about-to-boom-and-maybe-explode). _Bloomberg_. 25 July 2019.
 
+[^buhayar]: ["How California Became America’s Housing Market Nightmare"](https://www.bloomberg.com/graphics/2019-california-housing-crisis/). Noah Buhayar and Christopher Cannon, _Bloomberg_. 6 November 2019
+
 [^caspar]: ["The Future of Greenfield Cities"](https://newcities.org/the-big-picture-the-future-of-greenfield-cities/). _NewCities_. 23 July 2019.
 
 [^crawford]: _[Carfree Cities](http://www.carfree.com/book/)_, by J.H. Crawford
@@ -1147,6 +1151,8 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 [^mason]: ["The Case for Charter Cities Within the Effective Altruist Framework"](https://assets.website-files.com/5d253237e31f051057dc0a2b/5d88effe42420361c5e0c3c2_The%20Case%20for%20Charter%20Cities%20Within%20the%20Effective%20Altruist%20Framework.pdf). Jeffrey Mason, _Charter Cities Institute_. Sept 2019.
 
 [^mccasland]: ["Cities Foster Equity by Improving Urban Mobility for Women"](https://newcities.org/the-big-picture-cities-foster-equity-by-improving-urban-mobility-for-women/). Hannah McCasland, _NewCities_. 8 March 2019.
+
+[^mckinsey]: ["A Tool Kit to Close California's Housing Gap: 3.5 Million Homes by 2025"](https://www.mckinsey.com/~/media/McKinsey/Featured%20Insights/Urbanization/Closing%20Californias%20housing%20gap/Closing-Californias-housing-gap-Full-report.ashx). _McKinsey & Company_. October 2016
 
 [^metabuild]: ["urbAIn – AI, Cities, and Climate Change"](https://www.metabuild.io/urbain-ai-cities-and-climate-change/). _Metabuild.io_. 15 June 2019.
 
