@@ -100,17 +100,24 @@ permalink: /kinematic/
  
  1. We can get **[better outcomes](#better-outcomes)**.
 
-### <a name="problems"></a> The problems of existing cities
+### <a name="problems"></a> Ten problems of existing cities
 
   1. cities have too much **traffic congestion**
   2. have **housing costs** that are too high
   3. have **transportation costs** that are too high
   4. are **not safe enough**
-  5. are **not resilient** after natural disasters and power failures
-  6. overly **limit mobility** of kids, elders, and people with disabilities
-  7. are **not quickly alterable** &mdash; making one significant change can take decades
-  8. are **not cheaply alterable** &mdash; it is staggeringly expensive to add subways or highways to an existing city
-  9. are **too few and too small**, by a factor of two, for everyone who will live in them by 2050
+  5. are **not good for people's mental health**
+  6. are **not resilient** after natural disasters and power failures
+  7. overly **limit mobility** of kids, elders, and people with disabilities
+  8. are **not quickly alterable** &mdash; making one significant change can take decades
+  9. are **not cheaply alterable** &mdash; it is staggeringly expensive to add subways or highways to an existing city
+  10. are **too few and too small**, by a factor of two, for everyone who will live in them by 2050
+
+> "Studies have consistently linked city living with poorer mental health. For example, growing up in an urban environment is correlated with twice the risk of developing schizophrenia as growing up in the countryside."[^macdonald]
+
+> "Mental health is almost uniformly worse in cities... that's just what the data shows," [Andreas] Meyer-Lindenberg says over the phone. "There isn't really a bright side to this."[^macdonald]
+
+> "Meyer-Lindenberg is currently tracking how different parts of the city affect our mental wellbeing, using a technique called ecological momentary assessment, in which participants repeatedly report on the environment around them in real time. Various studies have suggested that nature – be that a tree or a park – has an important impact on people’s mental health."[^macdonald]
 
 ---
 
@@ -1156,6 +1163,8 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 [^li]: ["Why San Francisco has the second-highest construction costs in the world"](https://www.bizjournals.com/sanfrancisco/news/2018/01/24/sf-construction-costs-2nd-highest-housing-crisis.html). Roland Li, _San Francisco Business Times_. 24 Jan 2018
 
 [^lutter]: ["Exponents Magazine: A Beginner's Guide to Building New Cities"](https://www.chartercitiesinstitute.org/post/a-beginners-guide-to-building-new-cities?utm_source=Charter+Cities+Institute&utm_campaign=c1b3cc2a39-EMAIL_CAMPAIGN_2019_11_04_11_59&utm_medium=email&utm_term=0_fccc97d8cc-c1b3cc2a39-223014821). Dr. Mark Lutter, _Charter Cities Institute_. 9 October 2019.
+
+[^macdonald]: ["Urban living makes us miserable. This city is trying to change that"](https://mosaicscience.com/story/urban-living-city-mental-health-glasgow-cities-happiness-regeneration/). Fleur Macdonald, _Mosaic_. 15 October 2019.
 
 [^manhattan]: ["What's Manhattan's Land Worth? Try 'Canada's Entire GDP'"](https://www.citylab.com/life/2018/04/what-manhattans-land-is-worth/558776/). Richard Florida, _CityLab_. 24 April 2018.
 
