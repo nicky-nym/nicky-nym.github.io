@@ -666,6 +666,14 @@ Building on a new empty, greenfield site is a lot less expensive than building i
   > Economic literature linking the wealth of cities to spatial concentrations is quite abundant and is no longer controversial in academic circles. ... The 2009 World Bank Development Report "Reshaping Economic Geography," and the report of the Commission on Growth and Development "Urbanization and Growth" (published the same year) exhaustively summarize and document the theoretical and empirical arguments justifying the economic advantage provided by the spatial concentration of economic activities in large cities.[^bertaud]
   > &mdash; Alain Bertaud
 
+  > "High-tech invention is extraordinarily concentrated in just a handful of cities. ... The top 10 city-regions account for nearly 60 percent of inventors in biology, chemistry and medicine, with greater New York and the San Francisco Bay Area accounting for more than 10 percent each. Seventy percent of inventors in computer science are in the top 10 regions; the Bay Area alone has more than one-quarter of them. And the top 10 regions account for almost 80 percent of inventors in semiconductors, with one-quarter again in the Bay Area and another 15 percent in greater New York." ... "This clustering of inventors has only increased over time, growing by about five percentage points for biology, chemistry, and medicine, 15 percentage points for computer science, and about 20 percentage points for semiconductors between 1971 and 2007."[^florida]
+  
+  > "The study finds that when inventors move from a smaller to a large cluster, they experience increases in both the number of patents they generate and the impact of those patents, based on their subsequent citations. For example, a computer scientist who moves from the median cluster to a cluster at the 75th percentile in size would experience a 12 percent increase in productivity, while an inventor in biology and chemistry doing the same would see an 8.4 percent productivity gain. Overall, a just a 10 percent increase in the size of a cluster leads to a 0.66 percent increase in the number of patents produced by a top inventor each year."[^florida]
+
+  > "Third, the clustering of high-tech inventors brings real benefits to the American economy as a whole. ... [Enrico Moretti] estimates that the U.S. would produce about 11 percent fewer patents each year under such a scenario. The country would see a roughly 15 percent annual decline in semiconductor patents, a 13 percent decline in computer science, and a 10 percent decline in biology and chemistry, if the geography of inventors was more equal."[^florida]
+
+
+  
 * <a name="sublinear"></a>**15% economies of scale** is the phenomenon where if a city population grows by 100% (meaning it doubles in population size), then the network of roads, electrical cables, and other supporting infrastructure of the city tends to grow by about 85% (meaning it **less than doubles** in size), so that there is effectively a 15% "bonus" economy of scale, both economically and environmentally.[^scale] 
 
   > "Once one starts to think about (the causes of economic growth),
@@ -1137,6 +1145,8 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 [^facc]: ["Key Facts"](https://www.faccsf.com/info/key-facts.html). _French American Chamber of Commerce_.
 
 [^fast-company]: ["Floating cities once seemed like sci-fi. Now the UN is getting on board"](https://www.fastcompany.com/90329294/floating-cities-once-seemed-like-sci-fi-now-the-un-is-getting-on-board). _Fast Company_. 4 April 2019.
+
+[^florida]: ["Why U.S. Tech Inventors Are So Highly Clustered"](https://www.citylab.com/life/2019/10/technology-inventions-where-work-patents-agglomeration-data/599089/). Richard Florida, _CityLab_. 1 October 2019.
 
 [^forbes]: ["The Power Of Purpose: Unlocking Africa's $10 Trillion Opportunity In Housing"](https://www.forbes.com/sites/afdhelaziz/2019/09/12/the-power-of-purpose-unlocking-africas-10-trillion-opportunity-in-housing/#1e1fa3b714a0). _Forbes_. 12 September 2019.
 
