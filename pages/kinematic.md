@@ -434,7 +434,11 @@ In California alone, "to satisfy pent-up demand and meet the needs of a growing 
 
 > "Broadly speaking, there is no solution to the California housing crisis without the construction of millions of new houses," said David Garcia, policy director for the Terner Center for Housing Innovation at the University of California, Berkeley.[^buhayar]
 
+> "The infrastructure here is really tapped," Zuckerberg said Thursday. "Housing prices are way up. Traffic is bad." He added that while Facebook is trying to do what it can to help with what he called the region’s policy challenges, "at this point we’re primarily growing outside of the Bay Area." ... The CEO said he prefers big hubs where Facebook engineering teams could be around one another, and that he doesn’t want to have a lot of small offices around the world, except for where sales teams need to be in the markets they’re serving.[^sumagaysay]
 
+> "58 of the 89 biggest — with headquarters of 100,000 square feet and above — tech and life science companies based in the Bay Area have leased 30.4 million square feet of office space in other U.S. cities since January 2010"[^sumagaysay]
+
+[^sumagaysay]: ["Bay Area housing, traffic have Facebook looking elsewhere for expansion"](https://www.mercurynews.com/2019/10/04/bay-area-housing-traffic-have-facebook-looking-elsewhere-for-expansion/). Levi Sumagaysay, _Bay Area News Group_. 4 October 2019.
 
 ### Doubling of urban area
 
