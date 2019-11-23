@@ -957,7 +957,9 @@ A kinematic city could have a traditional city government structure, or it could
 * **tax increment financing (TIF)**
   * special tax districts around targeted redevelopment areas, where future tax revenues are diverted to finance infrastructure improvements or development[^schneider]
   
-
+* **urban consolidation center (UCC)**
+  * neighborhood-level freight hubs, place around the edge of a town, where trucks or large vehicles drop off packages to be loaded into small vehicles, like electric cargo bikes, for last-mile delivery
+  
 
 ---
 
