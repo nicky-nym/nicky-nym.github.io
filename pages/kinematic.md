@@ -468,6 +468,13 @@ In California alone, "to satisfy pent-up demand and meet the needs of a growing 
 
 As of 2018, **70 million people** were currently displaced by war, persecution and conflict. Of the total, 51 million were Internally Displaced People (IDPs), and 26 million were refugees (including **13 million refugee children**). Most refugees live in towns and cities, not rural areas or refugee camps. Nearly 4 in every 5 refugees are in displacement situations that have lasted for at least five years.[^displaced]
 
+> "Indonesia has already announced a $34 billion plan to move its sinking, flood-prone 30-million-person capital to higher ground"[^shepard]
+
+> "There are billions of people living on coastlines that are going to be flooded. It’s going to be worse and worse and worse year by year and they are going to have to move eventually, and where are they going to move to? ... we're going to have to deal with that on a large scale" &mdash Dr. Tom Goreau, president of the Global Coral Reef Alliance.[^shepard]
+
+> "it has been estimated that it’s going to cost the USA alone around $400 billion over the next two decades in sea level rise damage control"[^shepard]
+
+
 ### New cities can help
 
 > "We are at the beginning of the next wave of urbanization — a period of 
@@ -1226,6 +1233,8 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 [^schneider]: ["CityLab University: Tax Increment Financing"](https://www.citylab.com/equity/2019/10/tax-increment-financing-explained-tif-economic-development/597313/). Benjamin Schneider, _CityLab_. 24 Oct 2019.
 
 [^sharma]: ["Greenfield Smart Cities Shaping the Future of India"](https://newcities.org/the-big-picture-greenfield-smart-cities-shaping-future-india/). _NewCities_. 23 July 2019.
+
+[^shepard]: ["Waterworld? Floating Cities Turn Hollywood Sci-fi Into Reality As Sea Levels Rise"](https://www.forbes.com/sites/wadeshepard/2019/10/23/waterworld-floating-cities-turn-hollywood-sci-fi-into-reality-as-sea-levels-rise/#2da78d07655c). Wade Shepard, _Forbes_. 23 Oct 2019.
 
 [^stouhi]: ["Winners of UED's Architecture Competition Imagine the City of the Future"](https://www.archdaily.com/927619/winners-of-ueds-architecture-competition-imagine-the-city-of-the-future). Dima Stouhi, _ArchDaily_. 1 Nov 2019.
 
