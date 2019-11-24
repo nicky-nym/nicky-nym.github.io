@@ -967,6 +967,9 @@ A kinematic city could have a traditional city government structure, or it could
 * <a name="kinematic"></a>**kinematic**
   * concerned with the motion of bodies, and their range of motion
 
+* **limited equity housing cooperatives**
+  * TODO: ???
+
 * **Marchetti constant**
   * people will commute about 30 minutes each way per day [Marchetti constant](marchetti)
 
