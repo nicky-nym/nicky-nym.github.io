@@ -1006,7 +1006,7 @@ A kinematic city could have a traditional city government structure, or it could
 
 ## <a name="notes"></a>(5) Notes
 
-### <a name="transportation-notes"></a>(5.1) Transportation notes
+### <a name="transportation-notes"></a>Transportation notes
 
 > "...the population in Wuhan is 8.3 million, much greater than that in Sheffield, at 0.6 million. ... For Wuhan, given that the number of vehicles per person is still much lower than that in Sheffield by tenfold ... it is very interesting to note that the average noise levels in all of the sampled areas are lower than those in Sheffield by 2dBA to 11dBA. ... In terms of L<sub>min</sub> and L<sub>90</sub> ... the difference is even greater -- for example, up to 15dBA in the area with a motorway."[^kang] &mdash; Jian Kang
 
@@ -1133,10 +1133,14 @@ tan(27 degrees) = 0.51 => 51% grade = 51 foot rise per 100 foot run
 0.73 m/s horizontal on 27 degree stairs => 0.37 m/s vertical = 1.22 feet/sec vertical
 ```
 
+### Population
+
+> "More recent data, however, reveal substantial urban‐rural fertility gaps (i.e. of one child or more per woman) that tend to be wider at more advanced stages of the fertility transition" [^lerch]
+
 ### Economics
 
 > "With the right framework, astonishing prosperity is possible. The independent city of Singapore overtook the world’s GDP per capita in less than 30 years, and that of the USA in less than 50 years." [^free-private-cities]
-		
+	
 ### HVAC
 
 > "The simulations show that the cooling energy demand of the analyzed building in the Greater Accra region is 113.9 kWh/m2 for the recent climate, and this increases by 31% and 50% for the projected climates for 2030 and 2050, respectively. For the analyzed building in the Ashanti region, the cooling energy demand is 104.4 kWh/m2 for the recent climate, and this increases by 6% and 15% for the 2030 and 2050 climates, respectively." [^dodoo]
@@ -1226,6 +1230,8 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 [^levinson]: ["21 Solutions to Road Deaths"](https://transportist.org/2019/10/02/21-solutions-to-road-deaths/). David Levinson, _Transportist_. 2 Oct 2019.
 
 [^li]: ["Why San Francisco has the second-highest construction costs in the world"](https://www.bizjournals.com/sanfrancisco/news/2018/01/24/sf-construction-costs-2nd-highest-housing-crisis.html). Roland Li, _San Francisco Business Times_. 24 Jan 2018
+
+[^lerch]: ["Fertility Decline in Urban and Rural Areas of Developing Countries"](https://onlinelibrary.wiley.com/doi/full/10.1111/padr.12220). Mathias Lerch. 19 December 2018.
 
 [^lutter]: ["Exponents Magazine: A Beginner's Guide to Building New Cities"](https://www.chartercitiesinstitute.org/post/a-beginners-guide-to-building-new-cities?utm_source=Charter+Cities+Institute&utm_campaign=c1b3cc2a39-EMAIL_CAMPAIGN_2019_11_04_11_59&utm_medium=email&utm_term=0_fccc97d8cc-c1b3cc2a39-223014821). Dr. Mark Lutter, _Charter Cities Institute_. 9 October 2019.
 
