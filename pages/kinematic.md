@@ -183,6 +183,16 @@ Instead, we have
       * underpowered &mdash; **2 horsepower power limit**
       * slow &mdash; **15 mph speed limit** city-wide, with automatic speed governors, and automated ticketing
         > below 18 mph "pedestrians are more likely to survive being hit by a car than die, while at higher speeds the reverse is true"[^levinson]
+    * mixed-use vehicles
+      * Some people may own their own bikes, wheelchairs, or other vehicles, which they can park at home or in parking spaces at their destination.
+      * Some people may choose not to own their own vehicles, and instead use vehicle rental services such as Mobike, Lime, Motivate, or JUMP Bikes.
+      * Some people may choose to travel in pedicabs or other small vehicles that have a human driver or are self-driving.
+    * Innovation is NOT REQUIRED
+      * A kinematic city could be built today using off-the-shelf bikes and other vehicles purchased from amazon.com.
+    * Innovation IS POSSIBLE
+      * The kinematic city can incorporate new products as they emerge on the market, like new electric bikes.
+      * One promising technology is scooters and bicycles that can autonomously reposition themselves from where they are left to where they are needed. Companies like Tortoise are working on developing that.[^dickey]
+      * Another promising technology would be small vehicles that are fully self-driving, like self-driving wheelchairs, go-karts, or other single-person vehicles
   * **covered laneways**
     * rain-sheltered pedestrian sidewalks
     * rain-sheltered bike-sized lanes &mdash; 5-foot wide lanes, not 10' or 12' wide lines
@@ -1141,6 +1151,8 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 [^crawford]: _[Carfree Cities](http://www.carfree.com/book/)_, by J.H. Crawford
 
 [^densityatlas]: ["Manhattan, Grand Street Neighborhood"](http://densityatlas.org/casestudies/profile.php?id=121). _Density Atlas_.
+
+[^dickey]: ["Ex-Uber exec launches startup to autonomously reposition electric scooters and bikes"](https://techcrunch.com/2019/10/15/ex-uber-exec-launches-startup-to-autonomously-reposition-electric-scooters-and-bikes/). Megan Rose Dickey, _TechCrunch_. 15 October 2019.
 
 [^displaced]: ["Worldwide displacement tops 70 million, UN Refugee Chief urges greater solidarity in response"](https://www.unhcr.org/uk/news/press/2019/6/5d03b22b4/worldwide-displacement-tops-70-million-un-refugee-chief-urges-greater-solidarity.html). _UNHCR: The UN Refugee Agency_. 19 June 2019.
 
