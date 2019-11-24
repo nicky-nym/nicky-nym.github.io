@@ -956,6 +956,12 @@ A kinematic city could have a traditional city government structure, or it could
 
 ## <a name="glossary"></a>Glossary
 
+* **Architectural, Engineering and Construction (AEC)**
+  * the entire industry of companies and people who build structures
+  
+* **Building Information Modeling (BIM)**
+  * TODO: ???
+  
 * **charter city**
   * a special jurisdiction with a blank slate in commercial law, to allow for the adoption of new practices in areas such as a business registration, labor law, tax administration, and commercial dispute resolution
   * _typically built on greenfield sites to avoid the challenges of implementing such a wide array of reforms in an existing polity_
