@@ -610,6 +610,13 @@ Building on a new empty, greenfield site is a lot less expensive than building i
 
 > "Corner lots are significantly more valuable than mid-block lots, according to the study, and lots in close proximity to Broadway, which runs the length of the island, also have higher values."[^manhattan]
 
+### San Francisco land value
+
+> "The San Francisco metro area [the counties of San Francisco, Alameda, Marin, Contra Costa, and San Mateo] is the third most valuable region in America based on the value of its residential real estate. The area's total residential real estate value hit an astonishing $1.3 trillion and it's outranked only by the Los Angeles and New York metro areas, with total residential real estate values of $2.2 trillion and $2.6 trillion, respectively." ... "San Francisco is one of three cities nationwide that can claim a market value higher than Apple Inc.'s $1 trillion."[^hoeven]
+
+[^hoeven]: ["What's worth more: All of San Francisco's residential real estate or Apple Inc.?"](https://www.bizjournals.com/sanfrancisco/news/2018/08/29/value-sf-real-estate-homes.html). Emily Hoeven, _San Francisco Business Times_. 29 August 2018.
+
+
 ### African land value
 
 > In Africa "we should be building 40 million new homes or 160 Atlantas every year. ... 
