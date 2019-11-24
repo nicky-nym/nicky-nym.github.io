@@ -189,10 +189,13 @@ Instead, we have
       * Some people may choose to travel in pedicabs or other small vehicles that have a human driver or are self-driving.
     * Innovation is NOT REQUIRED
       * A kinematic city could be built today using off-the-shelf bikes and other vehicles purchased from amazon.com.
-    * Innovation IS POSSIBLE
-      * The kinematic city can incorporate new products as they emerge on the market, like new electric bikes.
-      * One promising technology is scooters and bicycles that can autonomously reposition themselves from where they are left to where they are needed. Companies like Tortoise are working on developing that.[^dickey]
-      * Another promising technology would be small vehicles that are fully self-driving, like self-driving wheelchairs, go-karts, or other single-person vehicles
+    * Innovation IS POSSIBLE &mdash; a kinematic city can incorporate new products as they emerge on the market, sush as
+      * new models of electric bikes, scooters, etc.
+      * scooters and bicycles that can autonomously reposition themselves from where they are left to where they are needed. (Companies like Tortoise and Uber are working on autonomous scooters.[^dickey])
+      * small vehicles that are fully self-driving, like self-driving wheelchairs, go-karts, or other single-person vehicles
+      * wireless charging stations at public parking spaces
+      * automated congestion pricing
+      * battery swapping services
   * **covered laneways**
     * rain-sheltered pedestrian sidewalks
     * rain-sheltered bike-sized lanes &mdash; 5-foot wide lanes, not 10' or 12' wide lines
