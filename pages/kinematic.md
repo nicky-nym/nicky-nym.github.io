@@ -578,6 +578,8 @@ More than **120 new cities** are currently being built in 40 nations around the 
 
 ## <a name="cost-effective"></a>(3.5) Building new cities is cost-effective
 
+> "when planned, built, and governed well, cities can be massive agents of positive change," ... "They can be catalysts for inclusion and powerhouses of equitable economic growth. They can help us protect the environment and limit climate change. That is why we need a new vision for urbanization." &mdash; UN Secretary-General Ban Ki-moon [^totaro]
+
 > "Our biggest urban problems today—growing inequality, rampant gentrification, housing unaffordability, and increasing segregation—all have roots in the staggering cost of urban land."[^manhattan]
 
 Projects in existing cities can be staggeringly expensive.
@@ -588,11 +590,11 @@ Projects in existing cities can be staggeringly expensive.
   * **$23 billion** for the **Riyadh Metro** <sup>[citation needed]</sup>
   * **$32 billion** to rebuild the **World Trade Center** in New York <sup>[citation needed]</sup>
 
-> "Retrofitting cities, where cities already exist, can be up to three times more expensive than planning for infrastructure in advance of settlement."[^haas]
+> "Retrofitting cities, where cities already exist, can be up to three times more expensive than planning for infrastructure in advance of settlement." [^haas]
 
 Zoning restrictions in existing cities prevent any large-scale changes to their spatial layout.
 
-> "Three-quarters of the residential land in Los Angeles is restricted to single-family homes, according to UrbanFootprint, software that helps government and businesses understand cities and urban markets. In San Jose, the figure is 94%."[^buhayar]
+> "Three-quarters of the residential land in Los Angeles is restricted to single-family homes, according to UrbanFootprint, software that helps government and businesses understand cities and urban markets. In San Jose, the figure is 94%." [^buhayar]
 
 Building on a new empty, greenfield site is a lot less expensive than building in an existing city. New cities provide more space at lower cost per capita. New cities create value, and demand.<sup>[citation needed]</sup>
 
@@ -1254,6 +1256,8 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 [^sun]: ["The influence of surface slope on human gait characteristics: a study of urban pedestrians walking on an inclined surface"](https://www.tandfonline.com/doi/abs/10.1080/00140139608964489). JIE SUN, MEGAN WALTERS, NOEL SVENSSON & DAVID LLOYD, _Ergonomics_ Volume 39, 1996 - Issue 4
 
 [^tamazuj]: ["Proposed Ramciel city master plan to cost 10 billion USD"](https://radiotamazuj.org/en/news/article/proposed-ramciel-city-master-plan-to-cost-10-billion-usd). _Radio Tamazuj_. 30 October 2019.
+
+[^totaro]: ["Slumscapes: How the world's five biggest slums are shaping their futures"](https://uk.reuters.com/article/uk-slums-united-nations-world-insight-idUKKBN12H1GK). Paola Totaro, _Reuters_. 17 October 2016.
 
 [^watts]: ["Concrete: the most destructive material on Earth"](https://www.theguardian.com/cities/2019/feb/25/concrete-the-most-destructive-material-on-earth). Jonathan Watts, _The Guardian_. 25 Feb 2019 
 
