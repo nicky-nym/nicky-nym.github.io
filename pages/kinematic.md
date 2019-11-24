@@ -953,6 +953,9 @@ A kinematic city could have a traditional city government structure, or it could
   * _typically privately financed_
   * see: special economic zone
 
+* **community land trust**
+  * TODO: ???
+
 * **effective altruism**
   * using empirical analysis to direct resources towards efforts that do the most possible good
   * _anti-malaria efforts, deworming initiatives, and direct cash transfer programs are among the interventions most widely credited with providing the most cost-effective improvement in welfare for the global poor than any other intervention_ 
