@@ -1131,7 +1131,9 @@ tan(27 degrees) = 0.51 => 51% grade = 51 foot rise per 100 foot run
 
 > "With the right framework, astonishing prosperity is possible. The independent city of Singapore overtook the world’s GDP per capita in less than 30 years, and that of the USA in less than 50 years." [^free-private-cities]
 		
+### HVAC
 
+> "The simulations show that the cooling energy demand of the analyzed building in the Greater Accra region is 113.9 kWh/m2 for the recent climate, and this increases by 31% and 50% for the projected climates for 2030 and 2050, respectively. For the analyzed building in the Ashanti region, the cooling energy demand is 104.4 kWh/m2 for the recent climate, and this increases by 6% and 15% for the 2030 and 2050 climates, respectively." [^dodoo]
 
 ### Competitions
 
@@ -1141,9 +1143,9 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 
 > In 1896, Susan B. Anthony said bicycling was doing "more to emancipate women than anything else in the world." [^kamiya]
 
-> "No technology holds as much promise as the humble bicycle—especially when we include its newfangled, electrified cousins—to solve the geometry problem that is getting people short distances around a big city." We don't need no flying cars. Just give us a place to ride, and watch e-bikes eat everything.[^alter]
+> "No technology holds as much promise as the humble bicycle—especially when we include its newfangled, electrified cousins—to solve the geometry problem that is getting people short distances around a big city." We don't need no flying cars. Just give us a place to ride, and watch e-bikes eat everything. [^alter]
 
-> "Nearly half of American kids walked or biked to school in 1950; today that figure is 13 percent."[^grabar]
+> "Nearly half of American kids walked or biked to school in 1950; today that figure is 13 percent." [^grabar]
 
 
 
@@ -1182,6 +1184,8 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 [^dickey]: ["Ex-Uber exec launches startup to autonomously reposition electric scooters and bikes"](https://techcrunch.com/2019/10/15/ex-uber-exec-launches-startup-to-autonomously-reposition-electric-scooters-and-bikes/). Megan Rose Dickey, _TechCrunch_. 15 October 2019.
 
 [^displaced]: ["Worldwide displacement tops 70 million, UN Refugee Chief urges greater solidarity in response"](https://www.unhcr.org/uk/news/press/2019/6/5d03b22b4/worldwide-displacement-tops-70-million-un-refugee-chief-urges-greater-solidarity.html). _UNHCR: The UN Refugee Agency_. 19 June 2019.
+
+[^dodoo]: ["Effects of Climate Change for Thermal Comfort and Energy Performance of Residential Buildings in a Sub-Saharan African Climate"](https://www.mdpi.com/2075-5309/9/10/215). Ambrose Dodoo and Joshua Ayarkwa, _Linnaeus University_ and _Kwame Nkrumah University of Science and Technology_. 4 October 2019.
 
 [^facc]: ["Key Facts"](https://www.faccsf.com/info/key-facts.html). _French American Chamber of Commerce_.
 
