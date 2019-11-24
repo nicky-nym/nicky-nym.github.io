@@ -1041,6 +1041,8 @@ A kinematic city could have a traditional city government structure, or it could
 
 ### Congestion
 
+> "In a study last year, Inrix estimated that the cost of congestion in the United States alone was $305 billion (USD)" [^turbot]
+
 > "In L.A., nothing concerns locals more than traffic—not personal safety, the cost of living, or even the housing market—according to a 2016 poll by the Los Angeles Times. Drivers there spend an average of 80 hours in gridlock every year, according to a report by Texas A&M University."[^bliss]
 
 > "And New York City, where more than 1.5 million packages are delivered daily..." [^haag]
@@ -1258,6 +1260,8 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 [^tamazuj]: ["Proposed Ramciel city master plan to cost 10 billion USD"](https://radiotamazuj.org/en/news/article/proposed-ramciel-city-master-plan-to-cost-10-billion-usd). _Radio Tamazuj_. 30 October 2019.
 
 [^totaro]: ["Slumscapes: How the world's five biggest slums are shaping their futures"](https://uk.reuters.com/article/uk-slums-united-nations-world-insight-idUKKBN12H1GK). Paola Totaro, _Reuters_. 17 October 2016.
+
+[^turbot]: ["Living Together, Happier Together"](https://newcities.org/blog-living-together-happier-together/). Sébastien Turbot, _NewCities_. 20 March 2019.
 
 [^watts]: ["Concrete: the most destructive material on Earth"](https://www.theguardian.com/cities/2019/feb/25/concrete-the-most-destructive-material-on-earth). Jonathan Watts, _The Guardian_. 25 Feb 2019 
 
