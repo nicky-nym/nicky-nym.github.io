@@ -372,7 +372,8 @@ Ideally the kinematic city buildings would all be built with standpipes and fire
 
 * **Accessibility.**
   - stroller-friendly buildings and stroller-friendly transportation
-  - wheelchair accessible routes in every building
+  - wheelchair accessible routes to every part of every building
+  - make everything accessible to a variety of wheeled vehicles, from delivery robots to ambulance gurnies
   - predictable navigation for people with limited vision
   - frequent pathside seating for elderly people
 
@@ -402,7 +403,11 @@ Ideally the kinematic city buildings would all be built with standpipes and fire
 
   > "Because its location and design were deliberately chosen to withstand natural calamities, New Clark City will serve as the government’s continuity hub, disaster and risk recovery center – an alternative capital city in case a disaster strikes Manila"[^new-clark]
 
+* **Durability.** Make infrastructure durable and easy to maintain.
 
+* **Simplicity.** Keep systems simple, which helps keep them resilient, durable, and affordable.
+
+* **Impossibility.** Enable new experiences that were not possible before. Enable more people to get to more places. Make more different places to live affordable for more people. Make it safe for little kids to walk to school on their own, without having to cross the street.
 
 ### <a name="design-constraints"></a>(2.2) Design constraints
 
@@ -968,9 +973,15 @@ A kinematic city could have a traditional city government structure, or it could
   * _typically privately financed_
   * see: special economic zone
 
+* **co-design**
+  * an design approach where stakeholders and end users are partners in the design process 
+
 * **community land trust**
   * TODO: ???
 
+* **curb-cut effect**
+  * systems designed to benefit vulnerable groups, such as the disabled, often end up benefiting all of society
+  
 * **effective altruism**
   * using empirical analysis to direct resources towards efforts that do the most possible good
   * _anti-malaria efforts, deworming initiatives, and direct cash transfer programs are among the interventions most widely credited with providing the most cost-effective improvement in welfare for the global poor than any other intervention_ 
