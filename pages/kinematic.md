@@ -1142,7 +1142,10 @@ tan(27 degrees) = 0.51 => 51% grade = 51 foot rise per 100 foot run
 ### Economics
 
 > "With the right framework, astonishing prosperity is possible. The independent city of Singapore overtook the world’s GDP per capita in less than 30 years, and that of the USA in less than 50 years." [^free-private-cities]
-	
+
+> "Cities generate roughly 80% of global GDP and are home to more than half of the world's population today, a share that the United Nations projects will reach two-thirds by 2050," the report said. About 40% of the population lives within 100 kilometers of a coast, and one in 10 people live in areas less than 10 meters above sea level, it said. [^khan]
+
+
 ### HVAC
 
 > "The simulations show that the cooling energy demand of the analyzed building in the Greater Accra region is 113.9 kWh/m2 for the recent climate, and this increases by 31% and 50% for the projected climates for 2030 and 2050, respectively. For the analyzed building in the Ashanti region, the cooling energy demand is 104.4 kWh/m2 for the recent climate, and this increases by 6% and 15% for the 2030 and 2050 climates, respectively." [^dodoo]
@@ -1231,6 +1234,8 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 [^kamiya]: ["Sex and cycling: How bike craze aroused passions in 1890s San Francisco"](https://www.sfchronicle.com/bayarea/article/Sex-and-cycling-How-bike-craze-aroused-passions-14544576.php#photo-18459519). Gary Kamiya, _San Francisco Chronicle_. 18 Oct 2019.
 
 [^kang]: ["Sound Environment: High- versus Low-Density Cities"], by Jian Kang, Chapter 12 of ["Designing High-Density Cities"](), edited by Edward Ng
+
+[^khan]: ["Goldman Sachs released a 34-page analysis of the effects of climate change. And the results are terrifying."](https://markets.businessinsider.com/news/stocks/goldman-sachs-climate-change-threatens-new-york-tokyo-lagos-cities-2019-9-1028552494). Yusuf Khan, _Markets Insider_. 25 September 2019.
 
 [^levinson]: ["21 Solutions to Road Deaths"](https://transportist.org/2019/10/02/21-solutions-to-road-deaths/). David Levinson, _Transportist_. 2 Oct 2019.
 
