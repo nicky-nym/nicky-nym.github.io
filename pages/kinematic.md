@@ -1159,6 +1159,9 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 
 > "Nearly half of American kids walked or biked to school in 1950; today that figure is 13 percent." [^grabar]
 
+### Freight
+
+> "urban planners historically focused on residential travel and personal behavior, failing to integrate the movement of goods into their planning." [^wenzel]
 
 
 ---
@@ -1282,6 +1285,8 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 [^turbot]: ["Living Together, Happier Together"](https://newcities.org/blog-living-together-happier-together/). Sébastien Turbot, _NewCities_. 20 March 2019.
 
 [^watts]: ["Concrete: the most destructive material on Earth"](https://www.theguardian.com/cities/2019/feb/25/concrete-the-most-destructive-material-on-earth). Jonathan Watts, _The Guardian_. 25 Feb 2019 
+
+[^wenzel]: ["How the Urban Freight Lab seeks to fix the last 50 feet of shipping"](https://www.greenbiz.com/article/how-urban-freight-lab-seeks-fix-last-50-feet-shipping). Elsa Wenzel, _GreenBiz Group_. 15 October 2019.
 
 [^west]: ["The Origins of Scaling in Cities"](), by Luis Bettencourt & Geoffrey West at the Santa Fe Institute. _Science (volume 340, issue 6139, page 1438)_. 21 June 2013.
 
