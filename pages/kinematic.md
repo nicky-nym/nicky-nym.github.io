@@ -976,11 +976,17 @@ A kinematic city could have a traditional city government structure, or it could
   * _anti-malaria efforts, deworming initiatives, and direct cash transfer programs are among the interventions most widely credited with providing the most cost-effective improvement in welfare for the global poor than any other intervention_ 
   * see [GiveWell](https://www.givewell.org/)
 
+* **Global Compact on Refugees (GCR)**
+  * a 2018 United Nations draft agreement on refugees
+
+* **Global Compact on Safe, Orderly and Regular Migration (GCM)**
+  * a 2018 United Nations agreement about international migration [^wiki_gcm]
+
 * **induced demand**
-  * if you add lanes to a freeway, it leads to more trips, not faster trips[^wiki_induced_demand]
+  * if you add lanes to a freeway, it leads to more trips, not faster trips [^wiki_induced_demand]
 
 * **Jevons paradox**
-  * as **X** gets faster (and cheaper), people use more **X**[^wiki_jevons]
+  * as **X** gets faster (and cheaper), people use more **X** [^wiki_jevons]
 
 * <a name="kinematic"></a>**kinematic**
   * concerned with the motion of bodies, and their range of motion
@@ -991,12 +997,15 @@ A kinematic city could have a traditional city government structure, or it could
 * **Marchetti constant**
   * people will commute about 30 minutes each way per day [Marchetti constant](marchetti)
 
+* **New Urban Agenda (NUA)**
+  * a 2016 United Nations agreement serving as a guideline for global urban development from 2016 to 2036 [^wiki_habitat_iii]
+
 * **special economic zone (SEZ)**
-  * a part of a country in which the business and trade laws are different from the rest of the country[^wiki_sez]
-  * there have been SEZs since the 1950s, and there are now thousands of SEZs around the world[^mason]
+  * a part of a country in which the business and trade laws are different from the rest of the country [^wiki_sez]
+  * there have been SEZs since the 1950s, and there are now thousands of SEZs around the world [^mason]
 
 * **tax increment financing (TIF)**
-  * special tax districts around targeted redevelopment areas, where future tax revenues are diverted to finance infrastructure improvements or development[^schneider]
+  * special tax districts around targeted redevelopment areas, where future tax revenues are diverted to finance infrastructure improvements or development [^schneider]
   
 * **urban consolidation center (UCC)**
   * neighborhood-level freight hubs, place around the edge of a town, where trucks or large vehicles drop off packages to be loaded into small vehicles, like electric cargo bikes, for last-mile delivery
@@ -1294,6 +1303,10 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 [^wenzel]: ["How the Urban Freight Lab seeks to fix the last 50 feet of shipping"](https://www.greenbiz.com/article/how-urban-freight-lab-seeks-fix-last-50-feet-shipping). Elsa Wenzel, _GreenBiz Group_. 15 October 2019.
 
 [^west]: ["The Origins of Scaling in Cities"](), by Luis Bettencourt & Geoffrey West at the Santa Fe Institute. _Science (volume 340, issue 6139, page 1438)_. 21 June 2013.
+
+[^wiki_gcm]: ["Global Compact for Migration"](https://en.wikipedia.org/wiki/Global_Compact_for_Migration). _Wikipedia_.
+
+[^wiki_habitat_iii]: ["Habitat III: New Urban Agenda"](https://en.wikipedia.org/wiki/Habitat_III#New_Urban_Agenda). _Wikipedia_.
 
 [^wiki_induced_demand]: ["Induced demand"](https://en.wikipedia.org/wiki/Induced_demand). _Wikipedia_.
 
