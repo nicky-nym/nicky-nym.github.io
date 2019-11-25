@@ -1000,14 +1000,17 @@ A kinematic city could have a traditional city government structure, or it could
 * **New Urban Agenda (NUA)**
   * a 2016 United Nations agreement serving as a guideline for global urban development from 2016 to 2036 [^wiki_habitat_iii]
 
-* **special economic zone (SEZ)**
+* **Special Economic Zone (SEZ)**
   * a part of a country in which the business and trade laws are different from the rest of the country [^wiki_sez]
   * there have been SEZs since the 1950s, and there are now thousands of SEZs around the world [^mason]
 
-* **tax increment financing (TIF)**
+* **Sustainable Development Zone (SDZ)**
+  * a proposal for designated areas that are designed to promote economic development via a combination of governance and physical infrastructure, in economies composed of displaced people [^sustainable_development_zones]
+
+* **Tax Increment Financing (TIF)**
   * special tax districts around targeted redevelopment areas, where future tax revenues are diverted to finance infrastructure improvements or development [^schneider]
   
-* **urban consolidation center (UCC)**
+* **Urban Consolidation Center (UCC)**
   * neighborhood-level freight hubs, place around the edge of a town, where trucks or large vehicles drop off packages to be loaded into small vehicles, like electric cargo bikes, for last-mile delivery
   
 
@@ -1291,6 +1294,8 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 [^stouhi]: ["Winners of UED's Architecture Competition Imagine the City of the Future"](https://www.archdaily.com/927619/winners-of-ueds-architecture-competition-imagine-the-city-of-the-future). Dima Stouhi, _ArchDaily_. 1 Nov 2019.
 
 [^sun]: ["The influence of surface slope on human gait characteristics: a study of urban pedestrians walking on an inclined surface"](https://www.tandfonline.com/doi/abs/10.1080/00140139608964489). JIE SUN, MEGAN WALTERS, NOEL SVENSSON & DAVID LLOYD, _Ergonomics_ Volume 39, 1996 - Issue 4
+
+[^sustainable_development_zones]: ["Sustainable Development Zones"](https://refugeecities.files.wordpress.com/2018/07/sdz-concept-proposal-071118-final.pdf). July 2018.
 
 [^tamazuj]: ["Proposed Ramciel city master plan to cost 10 billion USD"](https://radiotamazuj.org/en/news/article/proposed-ramciel-city-master-plan-to-cost-10-billion-usd). _Radio Tamazuj_. 30 October 2019.
 
