@@ -405,7 +405,7 @@ Ideally the kinematic city buildings would all be built with standpipes and fire
 
 * **Durability** & **Reliability.** Make infrastructure durable and easy to maintain.
 
-> "even when a [New York City subway] station has an elevator, workers have struggled to keep them working properly. Only about 94 percent of elevators were available in August, according to the transit agency. The rate is worse for escalators -- 87 percent were working." [^fitzsimmons]
+  > "even when a [New York City subway] station has an elevator, workers have struggled to keep them working properly. Only about 94 percent of elevators were available in August, according to the transit agency. The rate is worse for escalators -- 87 percent were working." [^fitzsimmons]
 
 
 
