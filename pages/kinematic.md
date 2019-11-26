@@ -182,7 +182,8 @@ Instead, we have
       * lightweight &mdash; **111 pound weight limit**
       * underpowered &mdash; **2 horsepower power limit**
       * slow &mdash; **15 mph speed limit** city-wide, with automatic speed governors, and automated ticketing
-        > below 18 mph "pedestrians are more likely to survive being hit by a car than die, while at higher speeds the reverse is true"[^levinson]
+        > below 18 mph "pedestrians are more likely to survive being hit by a car than die, while at higher speeds the reverse is true" [^levinson]
+        > "Small changes in speed have big impacts on fatality rates: a person is 70 percent more likely to be killed by a car moving at 30 mph versus 25 mph." [^ng]
     * mixed-use vehicles
       * Some people may own their own bikes, wheelchairs, or other vehicles, which they can park at home or in parking spaces at their destination.
       * Some people may choose not to own their own vehicles, and instead use vehicle rental services such as Mobike, Lime, Motivate, or JUMP Bikes.
@@ -1293,6 +1294,8 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 [^migrants]: ["Migration, Environment and Climate Change: Assessing the Evidence"](https://publications.iom.int/system/files/pdf/migration_and_environment.pdf). (PDF) _International Organization for Migration_. 2009.
 
 [^new-clark]: ["Resilient Growth: Building a Resilient City in the Philippines"](https://newcities.org/the-big-picture-resilient-growth-building-resilient-city-philippines/). _NewCities_. 2019.
+
+[^ng]: ["We ran traffic simulations on our people-first street designs. Here’s what we found"](https://medium.com/sidewalk-talk/https-medium-com-sidewalk-talk-street-sim-33da7e1a8ffb). Willa Ng, _Sidewalk Labs_. 9 September 2019.
 
 [^perez]: ["Apple commits $2.5 billion to address California’s housing crisis and homelessness issues"](https://techcrunch.com/2019/11/04/apple-commits-2-5-billion-to-address-californias-housing-crisis-and-homelessness-issues/). Sarah Perez, _TechCrunch_. 4 November 2019.
 
