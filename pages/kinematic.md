@@ -403,7 +403,11 @@ Ideally the kinematic city buildings would all be built with standpipes and fire
 
   > "Because its location and design were deliberately chosen to withstand natural calamities, New Clark City will serve as the government’s continuity hub, disaster and risk recovery center – an alternative capital city in case a disaster strikes Manila"[^new-clark]
 
-* **Durability.** Make infrastructure durable and easy to maintain.
+* **Durability** & **Reliability.** Make infrastructure durable and easy to maintain.
+
+> "even when a [New York City subway] station has an elevator, workers have struggled to keep them working properly. Only about 94 percent of elevators were available in August, according to the transit agency. The rate is worse for escalators -- 87 percent were working." [^fitzsimmons]
+
+
 
 * **Simplicity.** Keep systems simple, which helps keep them resilient, durable, and affordable.
 
@@ -596,6 +600,8 @@ Projects in existing cities can be staggeringly expensive.
   * **$32 billion** to rebuild the **World Trade Center** in New York <sup>[citation needed]</sup>
 
 > "Retrofitting cities, where cities already exist, can be up to three times more expensive than planning for infrastructure in advance of settlement." [^haas]
+
+> "only about a quarter of New York City's 472 subway stations are wheelchair accessible" ... "subway officials ... plan to add elevators at 70 stations in the next five years." ... "The Metropolitan Transportation Authority ... estimates that accessibility fixes will cost about $78 million per station." [^fitzsimmons]
 
 Zoning restrictions in existing cities prevent any large-scale changes to their spatial layout.
 
@@ -1231,6 +1237,8 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 [^facc]: ["Key Facts"](https://www.faccsf.com/info/key-facts.html). _French American Chamber of Commerce_.
 
 [^fast-company]: ["Floating cities once seemed like sci-fi. Now the UN is getting on board"](https://www.fastcompany.com/90329294/floating-cities-once-seemed-like-sci-fi-now-the-un-is-getting-on-board). _Fast Company_. 4 April 2019.
+
+[^fitzsimmons]: ["M.T.A. Pledges $5 Billion for Subway Elevators. Guess How Many."](https://www.nytimes.com/2019/10/07/nyregion/mta-nyc-subway-elevators.html). Emma G. Fitzsimmons & Rebecca Liebson, _New York Times_. 7 October 2019.
 
 [^florida]: ["Why U.S. Tech Inventors Are So Highly Clustered"](https://www.citylab.com/life/2019/10/technology-inventions-where-work-patents-agglomeration-data/599089/). Richard Florida, _CityLab_. 1 October 2019.
 
