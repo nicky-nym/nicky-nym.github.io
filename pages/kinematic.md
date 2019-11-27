@@ -983,8 +983,8 @@ A kinematic city could have a traditional city government structure, or it could
 * **co-design**
   * an design approach where stakeholders and end users are partners in the design process 
 
-* **community land trust**
-  * TODO: ???
+* **Community Land Trust (CLT)**
+  * A nonprofit organization that owns land and sells or rents housing units (or retail or office space) built on the land, usually with the goal of providing affordable housing. A household typically leases a unit for a 99-year term, rather than buying a house outright, or may buy a house outright but leases the land that the house built on. Members elect a board so that the CLT is democratically self-governing. When a member sells a unit, the CLT may collect a cut of the sales price (in practice, as high as 75%), which it can use to subside purchases for new homeowners. [^schneider_2019-04-29]
 
 * **curb-cut effect**
   * systems designed to benefit vulnerable groups, such as the disabled, often end up benefiting all of society
@@ -999,6 +999,12 @@ A kinematic city could have a traditional city government structure, or it could
 
 * **Global Compact on Safe, Orderly and Regular Migration (GCM)**
   * a 2018 United Nations agreement about international migration [^wiki_gcm]
+
+* **Housing co-op**
+  * A group of households in a multi-family building, where each household owns a share of the whole building co-op and has the right to occupy a single unit, rather than owning that unit outright. An elected board makes decisions. [^schneider_2019-04-29]
+
+* **Inclusionary Zoning (IZ)**
+  * city zoning restrictions that requires (or incentivizes) private developers to private some portion of the units in a new building at a below market rate
 
 * **induced demand**
   * if you add lanes to a freeway, it leads to more trips, not faster trips [^wiki_induced_demand]
@@ -1306,6 +1312,8 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 [^roaf]: ["The Sustainability of High Density"](), by Susan Roaf, Chapter 3 of ["Designing High-Density Cities"](), edited by Edward Ng.
 
 [^scale]: [_Scale_](https://www.penguinrandomhouse.com/books/314049/scale-by-geoffrey-west/), by Geoffrey West. 2018.
+
+[^schneider_2019-04-29]: ["CityLab University: Shared-Equity Homeownership"](https://www.citylab.com/equity/2019/04/home-ownership-ideas-housing-co-ops-shared-equity-land-trust/585658/). Benjamin Schneider, _CityLab_. 29 April 2019.
 
 [^schneider]: ["CityLab University: Tax Increment Financing"](https://www.citylab.com/equity/2019/10/tax-increment-financing-explained-tif-economic-development/597313/). Benjamin Schneider, _CityLab_. 24 Oct 2019.
 
