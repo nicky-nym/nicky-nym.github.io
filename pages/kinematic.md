@@ -1024,12 +1024,17 @@ A kinematic city could have a traditional city government structure, or it could
 * **New Urban Agenda (NUA)**
   * a 2016 United Nations agreement serving as a guideline for global urban development from 2016 to 2036 [^wiki_habitat_iii]
 
+* **Refugee City**
+  * a proposal for a type of Special Economic Zone (SEZ) for displaced people [^castle-miller]
+  * see also: Sustainable Development Zone (SDZ)
+
 * **Special Economic Zone (SEZ)**
   * a part of a country in which the business and trade laws are different from the rest of the country [^wiki_sez]
   * there have been SEZs since the 1950s, and there are now thousands of SEZs around the world [^mason]
 
 * **Sustainable Development Zone (SDZ)**
   * a proposal for designated areas that are designed to promote economic development via a combination of governance and physical infrastructure, in economies composed of displaced people [^sustainable_development_zones]
+  * see also: **Refugee City**
 
 * **Tax Increment Financing (TIF)**
   * special tax districts around targeted redevelopment areas, where future tax revenues are diverted to finance infrastructure improvements or development [^schneider]
@@ -1231,6 +1236,7 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 
 [^caspar]: ["The Future of Greenfield Cities"](https://newcities.org/the-big-picture-the-future-of-greenfield-cities/). _NewCities_. 23 July 2019.
 
+[^castle-miller]: ["The Law and Policy of Refugee Cities: Special Economic Zones for Migrants"](https://refugeecities.files.wordpress.com/2018/07/refugee-cities-law-review-article.pdf). Michael Castle-Miller, _Politas Consulting_. July 2018.
 [^crawford]: _[Carfree Cities](http://www.carfree.com/book/)_, by J.H. Crawford
 
 [^densityatlas]: ["Manhattan, Grand Street Neighborhood"](http://densityatlas.org/casestudies/profile.php?id=121). _Density Atlas_.
