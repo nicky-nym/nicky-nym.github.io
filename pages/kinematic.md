@@ -1009,6 +1009,9 @@ A kinematic city could have a traditional city government structure, or it could
 * **induced demand**
   * if you add lanes to a freeway, it leads to more trips, not faster trips [^wiki_induced_demand]
 
+* **isochrone map**
+  * a map with concentric isochrone lines around a center location, where all the points on any given line represent places that are equally distant, in terms of travel time, from the center location [^wiki_isochrone]
+
 * **Jevons paradox**
   * as **X** gets faster (and cheaper), people use more **X** [^wiki_jevons]
 
@@ -1209,6 +1212,13 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 
 
 ---
+## Software Tools
+
+* [SUMO](http://sumo.sourceforge.net/): Simulation of Urban MObility. An open source traffic simulation package designed to handle large road networks.
+
+* [TravelTime platform](https://www.traveltimeplatform.com/blog/commute-time-visualization-map), by iGeolise, Ltd
+
+---
 ## Further Reading
 
 * _[Carfree Cities](http://www.carfree.com/book/)_, by J.H. Crawford
@@ -1350,6 +1360,8 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 [^wiki_habitat_iii]: ["Habitat III: New Urban Agenda"](https://en.wikipedia.org/wiki/Habitat_III#New_Urban_Agenda). _Wikipedia_.
 
 [^wiki_induced_demand]: ["Induced demand"](https://en.wikipedia.org/wiki/Induced_demand). _Wikipedia_.
+
+[^wiki_isochrone]: ["Isochrone map"](https://en.wikipedia.org/wiki/Isochrone_map). _Wikipedia_.
 
 [^wiki_jevons]: ["Jevons paradox"](https://en.wikipedia.org/wiki/Jevons_paradox). _Wikipedia_.
 
