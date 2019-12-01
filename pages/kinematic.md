@@ -1089,6 +1089,9 @@ A kinematic city could have a traditional city government structure, or it could
 
 > The emergence of small footprint, on-demand, shared vehicles ... will change the way urban transport is organized. The pattern of roads and arterials may also change to adapt to these new modes of urban transport. Instead of concentric traffic on a few high-capacity highways or arterials, numerous smaller low-capacity roads would allow the flexibility required by trips from dispersed origins to dispersed destinations.[^bertaud]
 
+TODO: include on this web page some animated images of traffic simulations for the kinematic city design, maybe somewhat like the SUMO simulation output images on this page:
+https://medium.com/sidewalk-talk/https-medium-com-sidewalk-talk-street-sim-33da7e1a8ffb
+
 ### Congestion
 
 > "In a study last year, Inrix estimated that the cost of congestion in the United States alone was $305 billion (USD)" [^turbot]
