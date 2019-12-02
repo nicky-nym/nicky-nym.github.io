@@ -1076,24 +1076,24 @@ A kinematic city could have a traditional city government structure, or it could
 | 5,500 | **bicycles** on entire lane width
 |---
 
-
-|---
-| Throughput[^nacto] | Width | Lane type 
-|-:|:-
-| people per hour
-| 10,000 | one 12' to 15' wide | **sidewalk**
-| 10,000 | one 12' to 15' wide | **protected bike lane** 
-| 10,000 | two lanes, totaling about 23' wide | **bus-only lanes**, with 80 buses per lane per hour
-| 10,000 | 13 lanes of conventional arterial, at about 156' wide |**mostly cars**, with 800 vehicles per lane per hour
-| 5,500 | **bicycles** on entire lane width
-|---
-
-
-
-
 > Because of their higher speed and increased comfort, electric bicycles, where they are authorized (as in Chengdu, China), could meaningfully compete with buses or cars as a means of commuting in larger cities.[^bertaud]
 
 > By contrast, compared to the motorcycle, compact Smart car performance (except for energy use) in terms of road capacity is not much better than that of an ordinary car. ... The width of the vehicle, not its length, is the important parameter to consider when trying to reduce street area consumption.[^bertaud]
+
+|---
+| Throughput[^nacto] | Width | Mode 
+|-:|-:|:-
+| people per hour
+| 10,000 | one lane, **12' to 15'** wide | **sidewalk**
+| 10,000 | one lane, **12' to 15'** wide | **protected bike lane** 
+| 10,000 | two lanes, totaling about **23'** wide | **bus-only lanes**, with 80 buses per lane per hour
+| 10,000 | 13 lanes of conventional arterial, at about **156'** wide |**mostly cars**, with 800 vehicles per lane per hour
+|---
+
+
+> The emergence of small footprint, on-demand, shared vehicles ... will change the way urban transport is organized. The pattern of roads and arterials may also change to adapt to these new modes of urban transport. Instead of concentric traffic on a few high-capacity highways or arterials, numerous smaller low-capacity roads would allow the flexibility required by trips from dispersed origins to dispersed destinations.[^bertaud]
+
+
 
 |---
 | CO2-e emissions[^bertaud] | Vehicle type
@@ -1106,7 +1106,6 @@ A kinematic city could have a traditional city government structure, or it could
 | 180 | US urban bus
 |---
 
-> The emergence of small footprint, on-demand, shared vehicles ... will change the way urban transport is organized. The pattern of roads and arterials may also change to adapt to these new modes of urban transport. Instead of concentric traffic on a few high-capacity highways or arterials, numerous smaller low-capacity roads would allow the flexibility required by trips from dispersed origins to dispersed destinations.[^bertaud]
 
 TODO: include on this web page some animated images of traffic simulations for the kinematic city design, maybe somewhat like the SUMO simulation output images on this page:
 https://medium.com/sidewalk-talk/https-medium-com-sidewalk-talk-street-sim-33da7e1a8ffb
