@@ -1050,6 +1050,10 @@ A kinematic city could have a traditional city government structure, or it could
 
 ## <a name="notes"></a>(5) Notes
 
+### <a name="traffic-safety"></a>Traffic safety
+
+> "over 1.35 million [traffic] deaths and up to 50 million injuries occur every year, with 90% of these fatalities occurring in low- and middle-income countries" [^road-safety]
+
 ### <a name="transportation-notes"></a>Transportation notes
 
 > "...the population in Wuhan is 8.3 million, much greater than that in Sheffield, at 0.6 million. ... For Wuhan, given that the number of vehicles per person is still much lower than that in Sheffield by tenfold ... it is very interesting to note that the average noise levels in all of the sampled areas are lower than those in Sheffield by 2dBA to 11dBA. ... In terms of L<sub>min</sub> and L<sub>90</sub> ... the difference is even greater -- for example, up to 15dBA in the area with a motorway."[^kang] &mdash; Jian Kang
@@ -1327,6 +1331,8 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 [^quirk]: ["Outside the box truck: Innovations in delivery that could change our cities"](https://medium.com/sidewalk-talk/outside-the-box-truck-innovations-in-delivery-that-could-change-our-cities-a7c2170d8f9b). Vanessa Quirk, _Sidewalk Talk_. 13 Sept 2018.
 
 [^reid]: ["Perspectives: Practitioners Weigh in on Drivers of Rising Housing Construction Costs in San Francisco"](http://ternercenter.berkeley.edu/uploads/San_Francisco_Construction_Cost_Brief_-_Terner_Center_January_2018.pdf). Carolina Reid and Hayley Raetz, _Terner Center for Housing Innovation_. January 2018.
+
+[^road-safety]: ["HELPING TO SAVE LIVES THROUGH PROVEN INTERVENTIONS THAT REDUCE ROAD TRAFFIC FATALITIES"](https://www.bloomberg.org/program/public-health/road-safety/). _Bloomberg Philanthropies_
 
 [^roaf]: ["The Sustainability of High Density"](), by Susan Roaf, Chapter 3 of ["Designing High-Density Cities"](), edited by Edward Ng.
 
