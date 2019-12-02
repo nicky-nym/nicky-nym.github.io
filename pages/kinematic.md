@@ -1076,6 +1076,21 @@ A kinematic city could have a traditional city government structure, or it could
 | 5,500 | **bicycles** on entire lane width
 |---
 
+
+|---
+| Throughput[^nacto] | Width | Lane type 
+|-:|:-
+| people per hour
+| 10,000 | one 12' to 15' wide | **sidewalk**
+| 10,000 | one 12' to 15' wide | **protected bike lane** 
+| 10,000 | two lanes, totaling about 23' wide | **bus-only lanes**, with 80 buses per lane per hour
+| 10,000 | 13 lanes of conventional arterial, at about 156' wide |**mostly cars**, with 800 vehicles per lane per hour
+| 5,500 | **bicycles** on entire lane width
+|---
+
+
+
+
 > Because of their higher speed and increased comfort, electric bicycles, where they are authorized (as in Chengdu, China), could meaningfully compete with buses or cars as a means of commuting in larger cities.[^bertaud]
 
 > By contrast, compared to the motorcycle, compact Smart car performance (except for energy use) in terms of road capacity is not much better than that of an ordinary car. ... The width of the vehicle, not its length, is the important parameter to consider when trying to reduce street area consumption.[^bertaud]
@@ -1321,6 +1336,8 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 [^metrocosm]: ["A Striking Perspective on New York City Property Values"](http://metrocosm.com/new-york-city-property-values-in-perspective/). _Metrocosm_. 24 June 2015.
 
 [^migrants]: ["Migration, Environment and Climate Change: Assessing the Evidence"](https://publications.iom.int/system/files/pdf/migration_and_environment.pdf). (PDF) _International Organization for Migration_. 2009.
+
+[^nacto]: ["Blueprint for Autonomous Urbanism"](https://nacto.org/publication/bau2/), Second Edition. _National Association of City Transportation Officials (NACTO)_.
 
 [^new-clark]: ["Resilient Growth: Building a Resilient City in the Philippines"](https://newcities.org/the-big-picture-resilient-growth-building-resilient-city-philippines/). _NewCities_. 2019.
 
