@@ -289,24 +289,27 @@ Ideally the kinematic city buildings would all be built with standpipes and fire
 
 ### <a name="better-outcomes"></a>(1.5) Comparisons &mdash; San Francisco vs. Proposed Kinematic City
 
+[^google_eie]: [Environmental Insights Explorer](https://insights.sustainability.google/places/ChIJIQBpAG2ahYAR_6128GcTUEo/transportation). _Google_. 2018.
+
 |---
 |  | Proposed Kinematic City | San Francisco | New York |
 |-:|:-:|:-:|:-:|:-:
-| **Cars**<br>per million people | 100 | 450,000 | 220,000	
-| **Trucks**<br>per million people | 100 | 60,000 | 	
-| **Buses, etc.**<br>buses, streetcars, light rail vehicles, etc.<br>per million people | 1 | 1,380 | 	
-| **Traffic fatalities**<br>annual, per million people | 1 | 30 | 23
-| **Cost to city to subsidize public transit**<br>annual dollars per capita | $0 | $720
-| **Cost of public transit paid by riders**<br>annual dollars per capita | $0 | $360
-| **Cost of car ownership**<br>gas, insurance, repairs, payments, etc.<br>annual dollars per capita | $0 | $4,000 | $2,000
-| **Cost of bike ownership**<br>bicycles, mopeds, scooters, segways, trikes, etc.<br>annual dollars per capita | $1,000 | $100
-| **CO<sub>2</sub> footprint for transportation**<br>annual per capita | 1 kg | 2,000 kg | 1,000 kg
+| **Trips**<br>annual, per million people | 1.2 billion | 1.2 billion[^google_eie] |  |
 | **Commute time**<br>minutes per day<br>(average per commuter) | 60 minutes | 60 minutes | 76 minutes |
+| **Traffic fatalities**<br>annual, per million people | 1 | 30 | 23
+| **CO<sub>2</sub> footprint for transportation**<br>annual per capita | 1 kg | 2,000 kg | 1,000 kg
 | **Commute kinematic range**<br>square feet | 5 billion | 1.25 billion |   |
 | **Kinematic windfall**<br>wages, GDP, patents per capita, etc. | 1.3x | 1x |   |
 | **Proximity to friends**<br>number of neighbors within 15 minutes | 2 million<br>(without car) | 1 million<br>(requires car) |
 | **Proximity to places**<br>number of places within 15 minutes<br>library, coffee shop, playground, groceries | 2x<br>(without car) | 1x<br>(requires car)
 | **Proximity to trees**<br>number of trees within 15 minutes | > 125,000 trees | > 125,000 trees |		
+| **Cars**<br>per million people | 100 | 450,000 | 220,000	
+| **Trucks**<br>per million people | 100 | 60,000 | 	
+| **Buses, etc.**<br>buses, streetcars, light rail vehicles, etc.<br>per million people | 1 | 1,380 | 	
+| **Cost to city to subsidize public transit**<br>annual dollars per capita | $0 | $720
+| **Cost of public transit paid by riders**<br>annual dollars per capita | $0 | $360
+| **Cost of car ownership**<br>gas, insurance, repairs, payments, etc.<br>annual dollars per capita | $0 | $4,000 | $2,000
+| **Cost of bike ownership**<br>bicycles, mopeds, scooters, segways, trikes, etc.<br>annual dollars per capita | $1,000 | $100
 | **Exercise while commuting**<br>minutes per day<br>(average per commuter) | 15 minutes<br>(if 3 of 4 bikes<br>are e-bikes) | 5 minutes | 	
 | **Air quality** | _really_ good | good 
 | **Noise levels** | slightly lower than<br>San Francisco | slightly more than<br>proposed city 
