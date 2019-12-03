@@ -1250,6 +1250,7 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 
 * _[Velotopia](https://www.nai010.com/en/publicaties/velotopia/130528)_, by Steven Fleming
 
+* _[Urban Bikeway Design Guide](https://nacto.org/publication/urban-bikeway-design-guide/)_, and the [other street design guides](https://nacto.org/publications/design-guides/), by the The National Association of City Transportation Officials (NACTO)
 
 ## <a name="references"></a>References
 
