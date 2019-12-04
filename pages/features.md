@@ -19,4 +19,9 @@ permalink: /features/
   * {{ term.term }}: {{ term.definition }}
 {% endfor %}
 
+{% for term in site.data.features.terms %}
+  * **{{ term.term }}**
+    * {{ term.definition }}
+{% endfor %}
+
   
