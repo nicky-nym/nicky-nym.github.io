@@ -5,12 +5,12 @@ permalink: /features/
 
 
 <ul>
-{% for feature in site.data.features %}
+{% for term in site.data.features.terms %}
   <li>
-      {{ feature.name }}
+      {{ term.term }}
   </li>
   <li>
-      {{ feature.definition }}
+      {{ term.definition }}
   </li>
 {% endfor %}
 </ul>
