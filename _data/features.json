@@ -26,5 +26,59 @@
     term: 'attic',
     also: [],
     idea: 'the top-floor, under the roof'
+  }, {
+    term: '',
+    also: [],
+    idea: ''
+  }, {
+    term: 'three-centered arch',
+    also: ['arch'],
+    idea: ''
+  }, {
+    term: 'abutment',
+    also: ['arch', 'skewback'],
+    idea: 'the structure just below an arch that supports the thrust of the arch / a stone with a sloping face to support a segmental arch'
+  }, {
+    term: 'skewback',
+    also: ['arch', 'abutment'],
+    idea: 'the structure just below an arch that supports the thrust of the arch / a stone with a sloping face to support a segmental arch'
+  }, {
+    term: 'anse de panier',
+    also: ['arch'],
+    idea: 'aka a "basket-handle arch": a three-centered arch with a relatively long middle section'
+  }, {
+    term: 'gauged arch',
+    also: ['arch'],
+    idea: 'brick arch where the bricks are radially aligned, pointing toward the center of the arched opening'
+  }, {
+    term: 'main arch',
+    also: ['arch', 'minor arch'],
+    idea: 'e.g. the big arch above the center of a cathedral'
+  }, {
+    term: 'minor arch',
+    also: ['arch', 'main arch'],
+    idea: 'e.g. one of the little arches that runs along the side of the Main arch'
+  }, {
+    term: 'round arch',
+    also: ['arch'],
+    idea: ''
+  }, {
+    term: 'segmental arch',
+    also: ['arch'],
+    idea: 'e.g. where the span of the arch is like a 120-degree segment of a circle, rather than say a 180-degree half-circle'
+  }, {
+    term: 'skew arch',
+    also: ['arch'],
+    idea: 'a tunnel-like arch, where the vector of the tunnel is not perpendicular to the plane of the front entrance wall'
+  }, {
+    term: '',
+    also: [],
+    idea: ''
+  }, {
+    term: '',
+    also: [],
+    idea: ''
   }]
 }
+
+
