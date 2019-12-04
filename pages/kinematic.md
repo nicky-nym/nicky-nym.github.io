@@ -289,7 +289,6 @@ Ideally the kinematic city buildings would all be built with standpipes and fire
 
 ### <a name="better-outcomes"></a>(1.5) Comparisons &mdash; San Francisco vs. Proposed Kinematic City
 
-[^google_eie]: [Environmental Insights Explorer](https://insights.sustainability.google/places/ChIJIQBpAG2ahYAR_6128GcTUEo/transportation). _Google_. 2018.
 
 |---
 |  | Proposed Kinematic City | San Francisco | New York |
@@ -464,7 +463,6 @@ In California alone, "to satisfy pent-up demand and meet the needs of a growing 
 
 > "58 of the 89 biggest — with headquarters of 100,000 square feet and above — tech and life science companies based in the Bay Area have leased 30.4 million square feet of office space in other U.S. cities since January 2010"[^sumagaysay]
 
-[^sumagaysay]: ["Bay Area housing, traffic have Facebook looking elsewhere for expansion"](https://www.mercurynews.com/2019/10/04/bay-area-housing-traffic-have-facebook-looking-elsewhere-for-expansion/). Levi Sumagaysay, _Bay Area News Group_. 4 October 2019.
 
 ### Doubling of urban area
 
@@ -630,8 +628,6 @@ Building on a new empty, greenfield site is a lot less expensive than building i
 ### San Francisco land value
 
 > "The San Francisco metro area [the counties of San Francisco, Alameda, Marin, Contra Costa, and San Mateo] is the third most valuable region in America based on the value of its residential real estate. The area's total residential real estate value hit an astonishing $1.3 trillion and it's outranked only by the Los Angeles and New York metro areas, with total residential real estate values of $2.2 trillion and $2.6 trillion, respectively." ... "San Francisco is one of three cities nationwide that can claim a market value higher than Apple Inc.'s $1 trillion."[^hoeven]
-
-[^hoeven]: ["What's worth more: All of San Francisco's residential real estate or Apple Inc.?"](https://www.bizjournals.com/sanfrancisco/news/2018/08/29/value-sf-real-estate-homes.html). Emily Hoeven, _San Francisco Business Times_. 29 August 2018.
 
 
 ### African land value
@@ -1257,8 +1253,6 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 
 
 ## <a name="references"></a>References
-<details>
- <summary>click to expand...</summary>
 
 [^alter]: ["6 month report: My e-bike ate my car"](https://www.treehugger.com/bikes/6-month-report-my-gazelle-e-bike-ate-my-car.html). Lloyd Alter, _TreeHugger_. 1 November 2019.
 
@@ -1303,6 +1297,8 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 
 [^gonzalez]: "Evidence from Argentina shows that on average men and women’s commute time is roughly the same, but women travel at slower speeds and cover shorter distances." ["Transport is Not Gender Neutral"](https://newcities.org/the-big-picture-transport-is-not-gender-neutral-womens-mobility-and-accessibility-for-better-economic-opportunities/) Karla Dominguez Gonzalez, _NewCities_. 8 March 2019.
 
+[^google_eie]: [Environmental Insights Explorer](https://insights.sustainability.google/places/ChIJIQBpAG2ahYAR_6128GcTUEo/transportation). _Google_. 2018.
+
 [^gopal]: ["Affordable Housing"](https://www.bloomberg.com/quicktake/affordable-housing). Prashant Gopal and Rob Urban, _Bloomberg_. 21 Oct 2019.
 
 [^grabar]: ["The Hyperloop and the Self-Driving Car Are Not the Future of Transportation"](https://slate.com/technology/2019/10/future-of-transportation-bus-bike-elevator.html). Henry Grabar, _Slate.com_. 30 Oct 2019.
@@ -1312,6 +1308,8 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 [^haag]: ["1.5 Million Packages a Day: The Internet Brings Chaos to N.Y. Streets"](https://www.nytimes.com/2019/10/27/nyregion/nyc-amazon-delivery.html). Matthew Haag and Winnie Hu, _New York Times_. 27 Oct 2019.
 
 [^haas]: ["African countries keep building new cities to meet rapid urbanization even if people won’t live in them"](https://qz.com/africa/1740068/african-countries-keep-building-cities-to-meet-rapid-urbanization/). Astrid R.N. Haas, _International Growth Centre_. 31 October 2019.
+
+[^hoeven]: ["What's worth more: All of San Francisco's residential real estate or Apple Inc.?"](https://www.bizjournals.com/sanfrancisco/news/2018/08/29/value-sf-real-estate-homes.html). Emily Hoeven, _San Francisco Business Times_. 29 August 2018.
 
 [^kamiya]: ["Sex and cycling: How bike craze aroused passions in 1890s San Francisco"](https://www.sfchronicle.com/bayarea/article/Sex-and-cycling-How-bike-craze-aroused-passions-14544576.php#photo-18459519). Gary Kamiya, _San Francisco Chronicle_. 18 Oct 2019.
 
@@ -1371,6 +1369,8 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 
 [^stouhi]: ["Winners of UED's Architecture Competition Imagine the City of the Future"](https://www.archdaily.com/927619/winners-of-ueds-architecture-competition-imagine-the-city-of-the-future). Dima Stouhi, _ArchDaily_. 1 Nov 2019.
 
+[^sumagaysay]: ["Bay Area housing, traffic have Facebook looking elsewhere for expansion"](https://www.mercurynews.com/2019/10/04/bay-area-housing-traffic-have-facebook-looking-elsewhere-for-expansion/). Levi Sumagaysay, _Bay Area News Group_. 4 October 2019.
+
 [^sun]: ["The influence of surface slope on human gait characteristics: a study of urban pedestrians walking on an inclined surface"](https://www.tandfonline.com/doi/abs/10.1080/00140139608964489). JIE SUN, MEGAN WALTERS, NOEL SVENSSON & DAVID LLOYD, _Ergonomics_ Volume 39, 1996 - Issue 4
 
 [^sustainable_development_zones]: ["Sustainable Development Zones"](https://refugeecities.files.wordpress.com/2018/07/sdz-concept-proposal-071118-final.pdf). July 2018.
@@ -1413,5 +1413,4 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 
 [^yang]: ["Andrew Yang’s plan to tackle climate change, explained"](https://www.vox.com/future-perfect/2019/8/26/20833263/andrew-yang-climate-plan). _Vox.com_. 26 August 2019.
 
-</details>
 
