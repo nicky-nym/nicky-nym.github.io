@@ -1,15 +1,30 @@
 { 
   terms: [{
     term: 'alley',
+    also: [],
     idea: 'a narrow passageway between buildings'
   }, {
     term: 'arcade',
+    also: [],
     idea: 'a sheltered walkway formed of arches, maybe lined with retail stores'
   }, {
-    term: 'alley',
-    idea: 'a narrow passageway between buildings'
+    term: 'arch',
+    also: [
+      'three-centered arch',
+      'abutment',
+      'skewback',
+      'anse de panier',
+      'gauged arch',
+      'main arch',
+      'minor arch',
+      'round arch',
+      'segmental arch',
+      'skew arch'
+    ],
+    idea: ''
   }, {
-    term: 'alley',
-    idea: 'a narrow passageway between buildings'
+    term: 'attic',
+    also: [],
+    idea: 'the top-floor, under the roof'
   }]
 }
