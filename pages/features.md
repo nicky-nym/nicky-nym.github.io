@@ -3,6 +3,12 @@ permalink: /features/
 ---
 # Architectural features
 
+{% for term in site.data.features.terms %}
+  * **{{ term.term }}**
+    * {{ term.idea }}
+    * {% for also in term.also %} __{{ also }}__, {% endfor %}
+{% endfor %}
+  
 <!--
 <ul>
 {% for term in site.data.features.terms %}
@@ -16,14 +22,10 @@ permalink: /features/
 </ul>
 -->
 
+<!--
 {% for term in site.data.features.terms %}
   * {{ term.term }}: {{ term.definition }}
 {% endfor %}
+-->
 
-{% for term in site.data.features.terms %}
-  * **{{ term.term }}**
-    * {{ term.idea }}
-    * {% for also in term.also %} __{{ term.idea }}__, {% endfor %}
-{% endfor %}
 
-  
