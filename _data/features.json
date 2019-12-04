@@ -1,12 +1,15 @@
 { 
-  "terms": [{
-    "term": "foo",
-    "definition": "An example term."
+  terms: [{
+    term: 'alley',
+    idea: 'a narrow passageway between buildings'
   }, {
-    "term": "bar",
-    "definition": "An second example."
+    term: 'arcade',
+    idea: 'a sheltered walkway formed of arches, maybe lined with retail stores'
   }, {
     term: 'alley',
-    definition: 'a narrow passageway between buildings'
+    idea: 'a narrow passageway between buildings'
+  }, {
+    term: 'alley',
+    idea: 'a narrow passageway between buildings'
   }]
 }
