@@ -22,7 +22,8 @@ permalink: /features/
 
 {% for term in site.data.features.terms %}
   * **{{ term.term }}**
-    * {{ term.definition }}
+    * {{ term.idea }}
+    * {% for also in term.also %} __{{ term.idea }}__, {% endfor %}
 {% endfor %}
 
   
