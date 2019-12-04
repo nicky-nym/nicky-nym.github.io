@@ -1,3 +1,9 @@
+---
+permalink: /features/
+---
+# Architectural features
+
+
 <ul>
 {% for member in site.data.features %}
   <li>
