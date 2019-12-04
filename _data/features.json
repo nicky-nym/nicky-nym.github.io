@@ -5,5 +5,8 @@
   }, {
     "term": "bar",
     "definition": "An second example."
+  }, {
+    term: 'alley',
+    definition: 'a narrow passageway between buildings'
   }]
 }
