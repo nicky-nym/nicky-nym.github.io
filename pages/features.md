@@ -14,3 +14,9 @@ permalink: /features/
   </li>
 {% endfor %}
 </ul>
+
+{% for term in site.data.features.terms %}
+  * {{ term.term }}: {{ term.definition }}
+{% endfor %}
+
+  
