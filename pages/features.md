@@ -3,7 +3,7 @@ permalink: /features/
 ---
 # Architectural features
 
-
+<!--
 <ul>
 {% for term in site.data.features.terms %}
   <li>
@@ -14,6 +14,7 @@ permalink: /features/
   </li>
 {% endfor %}
 </ul>
+-->
 
 {% for term in site.data.features.terms %}
   * {{ term.term }}: {{ term.definition }}
