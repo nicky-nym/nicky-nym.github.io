@@ -27,7 +27,7 @@
     also: [],
     idea: 'the top-floor, under the roof'
   }, {
-    term: '~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~',
+    term: '~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~',
     also: [],
     idea: ''
   }, {
@@ -119,265 +119,517 @@
     also: ['low-rise', 'mid-rise'],
     idea: 'has elevators'
   }, {
-    term: '~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ',
+    term: '~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~',
     also: [],
     idea: ''
   }, {
-    term: 'Attic',
-  }, {
-    term: 'Awning',
-  }, {
-    term: 'Baluster',
-  }, {
-    term: 'Attached baluster',
-  }, {
-    term: 'Balustrade',
-  }, {
-    term: 'Projecting balustrade',
-  }, {
-    term: 'Barge board',
-  }, {
-    term: 'Belvedere',
-  }, {
-    term: 'Blind arcade',
-  }, {
-    term: 'Blind door',
-  }, {
-    term: 'Beam',
-  }, {
-    term: 'Haunch',
-  }, {
-    term: 'Brace',
-  }, {
-    term: 'Arched brace',
-  }, {
-    term: 'Coathanger truss',
-  }, {
-    term: 'Scissor brace',
-  }, {
-    term: 'Bracket',
-  }, {
-    term: 'Conical corbel',
-  }, {
-    term: 'Corbel',
-  }, {
-    term: 'Modillion',
-  }, {
-    term: 'Buttress',
-  }, {
-    term: 'Angle buttress',
-  }, {
-    term: 'Curved buttress',
-  }, {
-    term: 'Triangular buttress',
-  }, {
-    term: 'Capriccio',
-  }, {
-    term: 'Carriage House',
-  }, {
-    term: 'Cellar',
-  }, {
-    term: 'Bulkhead',
-  }, {
-    term: 'Chamfered',
-  }, {
-    term: 'Chimney Pot',
-  }, {
-    term: 'Cincture',
-  }, {
-    term: 'Clerestory window',
-  }, {
-    term: 'Cloister',
-  }, {
-    term: 'Coffer',
-  }, {
-    term: 'Colonnade',
-  }, {
-    term: 'Column',
-  }, {
-    term: 'Barley-sugar column',
-  }, {
-    term: 'Engaged column',
-  }, {
-    term: 'Entasis',
-	}, {
-    term: 'Fluted column',
-  }, {
-    term: 'Solomonic column',
-  }, {
-    term: 'Water-cooled fire-resistant column',
-  }, {
-    term: 'Crane',
-  }, {
-    term: 'Construction crane',
-  }, {
-    term: 'Maintenance crane',
-  }, {
-    term: 'Crenel',
-  }, {
-    term: 'Crenellations',
-  }, {
-    term: 'Crest',
-  }, {
-    term: 'Cross-bracing',
-  }, {
-    term: 'Deep set window',
-  }, {
-    term: 'Dentil ornament',
-  }, {
-    term: 'Drawbridge',
-  }, {
-    term: 'Drone landing pad',
-  }, {
-    term: 'Ear',
-  }, {
-    term: 'Finial',
-  }, {
-    term: 'Baluster finial',
-  }, {
-    term: 'Blind finial',
-  }, {
-    term: 'Fretwork',
-  }, {
-    term: 'Gable',
-  }, {
-    term: 'Gangway',
-  }, {
-    term: 'Ground floor',
-  }, {
-    term: 'Hypostyle',
-  }, {
-    term: 'Impost',
-  }, {
-    term: 'Jettied',
-  }, {
-    term: 'Keystone',
-  }, {
-    term: 'Lantern',
-  }, {
-    term: 'Lintel',
+    term: 'awning',
+    also: [],
+    idea: ''
+  }, {
+    term: 'baluster',
+    also: ['attached baluster'],
+    idea: ''
+  }, {
+    term: 'attached baluster',
+    also: ['baluster'],
+    idea: ''
+  }, {
+    term: 'balustrade',
+    also: ['projecting balustrade'],
+    idea: ''
+  }, {
+    term: 'projecting balustrade',
+    also: ['balustrade'],
+    idea: ''
+  }, {
+    term: 'barge board',
+    also: [],
+    idea: ''
+  }, {
+    term: 'belvedere',
+    also: [],
+    idea: ''
+  }, {
+    term: 'blind arcade',
+    also: [],
+    idea: ''
+  }, {
+    term: 'blind door',
+    also: [],
+    idea: ''
+  }, {
+    term: 'beam',
+     also: ['haunch'],
+    idea: ''
+  }, {
+    term: 'haunch',
+    also: ['beam'],
+    idea: ''
+  }, {
+    term: 'brace',
+    also: ['arched brace', 'coathanger truss', 'scissor brace'],
+    idea: ''
+  }, {
+    term: 'arched brace',
+    also: ['brace'],
+    idea: ''
+  }, {
+    term: 'coathanger truss',
+    also: ['brace'],
+    idea: ''
+  }, {
+    term: 'scissor brace',
+    also: ['brace'],
+    idea: ''
+  }, {
+    term: 'bracket',
+    also: ['corbel', 'conical corbel', 'modillion'],
+    idea: ''
+  }, {
+    term: 'conical corbel',
+    also: ['bracket', 'corbel'],
+    idea: ''
+  }, {
+    term: 'corbel',
+    also: ['bracket', 'conical corbel'],
+    idea: ''
+  }, {
+    term: 'modillion',
+    also: ['bracket'],
+    idea: ''
+  }, {
+    term: 'buttress',
+    also: ['angle buttress', 'curved buttress', 'triangular buttress',],
+    idea: ''
+  }, {
+    term: 'angle buttress',
+    also: ['buttress'],
+    idea: ''
+  }, {
+    term: 'curved buttress',
+    also: ['buttress'],
+    idea: ''
+  }, {
+    term: 'triangular buttress',
+    also: ['buttress'],
+    idea: ''
+  }, {
+    term: 'capriccio',
+    also: [],
+    idea: ''
+  }, {
+    term: 'carriage House',
+    also: [],
+    idea: ''
+  }, {
+    term: 'cellar',
+    also: ['bulkhead'],
+    idea: ''
+  }, {
+    term: 'bulkhead',
+    also: ['cellar'],
+    idea: ''
+  }, {
+    term: 'chamfered',
+    also: [],
+    idea: ''
+  }, {
+    term: 'chimney Pot',
+    also: [],
+    idea: ''
+  }, {
+    term: 'cincture',
+    also: [],
+    idea: ''
+  }, {
+    term: 'clerestory window',
+    also: [],
+    idea: ''
+  }, {
+    term: 'cloister',
+    also: [],
+    idea: ''
+  }, {
+    term: 'coffer',
+    also: [],
+    idea: ''
+  }, {
+    term: 'colonnade',
+    also: [],
+    idea: ''
+  }, {
+    term: 'column',
+    also: ['barley-sugar column', 'engaged column', 'entasis', 'fluted column', 'solomonic column', 'water-cooled fire-resistant column'],
+    idea: ''
+  }, {
+    term: 'barley-sugar column',
+    also: ['column'],
+    idea: ''
+  }, {
+    term: 'engaged column',
+    also: ['column'],
+    idea: ''
+  }, {
+    term: 'entasis',
+    also: ['column'],
+    idea: ''
+  }, {
+    term: 'fluted column',
+    also: ['column'],
+    idea: ''
+  }, {
+    term: 'solomonic column',
+    also: ['column'],
+    idea: ''
+  }, {
+    term: 'water-cooled fire-resistant column',
+    also: ['column'],
+    idea: ''
+  }, {
+    term: 'crane',
+    also: ['construction crane', 'maintenance crane'],
+    idea: ''
+  }, {
+    term: 'construction crane',
+    also: ['crane'],
+    idea: ''
+  }, {
+    term: 'maintenance crane',
+    also: ['crane'],
+    idea: ''
+  }, {
+    term: 'crenel',
+    also: [],
+    idea: ''
+  }, {
+    term: 'crenellations',
+    also: [],
+    idea: ''
+  }, {
+    term: 'crest',
+    also: [],
+    idea: ''
+  }, {
+    term: 'cross-bracing',
+    also: [],
+    idea: ''
+  }, {
+    term: 'deep set window',
+    also: [],
+    idea: ''
+  }, {
+    term: 'dentil ornament',
+    also: [],
+    idea: ''
+  }, {
+    term: 'drawbridge',
+    also: [],
+    idea: ''
+  }, {
+    term: 'drone landing pad',
+    also: [],
+    idea: ''
+  }, {
+    term: 'ear',
+    also: [],
+    idea: ''
+  }, {
+    term: 'finial',
+    also: ['baluster finial', 'blind finial'],
+    idea: ''
+  }, {
+    term: 'baluster finial',
+    also: ['finial'],
+    idea: ''
+  }, {
+    term: 'blind finial',
+    also: ['finial'],
+    idea: ''
+  }, {
+    term: 'fretwork',
+    also: [],
+    idea: ''
+  }, {
+    term: 'gable',
+    also: [],
+    idea: ''
+  }, {
+    term: 'gangway',
+    also: [],
+    idea: ''
+  }, {
+    term: 'ground floor',
+     also: [],
+    idea: ''
+  }, {
+    term: 'hypostyle',
+    also: [],
+    idea: ''
+  }, {
+    term: 'impost',
+    also: [],
+    idea: ''
+  }, {
+    term: 'jettied',
+    also: [],
+    idea: ''
+  }, {
+    term: 'keystone',
+    also: [],
+    idea: ''
+  }, {
+    term: 'lantern',
+    also: [],
+    idea: ''
+  }, {
+    term: 'lintel',
+    also: [],
+    idea: ''
   }, {
     term: 'Loggia',
+    also: [],
+    idea: ''
   }, {
-    term: 'Lucarne window',
+    term: 'lucarne window',
+    also: ['circular lucarne window', 'wasted-oval lucarne window'],
+    idea: ''
   }, {
-    term: 'Circular lucarne window',
+    term: 'circular lucarne window',
+    also: ['lucarne window'],
+    idea: ''
   }, {
-    term: 'Wasted-oval lucarne window',
+    term: 'wasted-oval lucarne window',
+    also: ['lucarne window'],
+    idea: ''
   }, {
-    term: 'Middle rail',
+    term: 'middle rail',
+    also: [],
+    idea: ''
   }, {
-    term: 'Mill wheel',
+    term: 'mill wheel',
+    also: [],
+    idea: ''
   }, {
-    term: 'Moat',
+    term: 'moat',
+    also: [],
+    idea: ''
   }, {
-    term: 'Niche',
+    term: 'niche',
+    also: [],
+    idea: ''
   }, {
-    term: 'Oculus',
+    term: 'oculus',
+    also: [],
+    idea: ''
   }, {
-    term: 'Oeil-de-boeuf',
+    term: 'oeil-de-boeuf',
+    also: [],
+    idea: ''
   }, {
-    term: 'Orb',
+    term: 'orb',
+    also: [],
+    idea: ''
   }, {
-    term: 'Oriel window',
+    term: 'oriel window',
+     also: [],
+    idea: ''
   }, {
-    term: 'Paneling',
+    term: 'paneling',
+     also: [],
+    idea: ''
   }, {
-    term: 'Parapet',
+    term: 'parapet',
+    also: [],
+    idea: ''
   }, {
-    term: 'Passageway',
+    term: 'passageway',
+    also: [],
+    idea: ''
   }, {
-    term: 'Pediment',
+    term: 'pediment',
+    also: ['arched (segmental) pediment', 'triangular pediment'],
+    idea: ''
   }, {
-    term: 'Arched (segmental) pediment',
+    term: 'arched (segmental) pediment',
+    also: ['pediment'],
+    idea: ''
   }, {
-    term: 'Triangular pediment',
+    term: 'triangular pediment',
+    also: ['pediment'],
+    idea: ''
   }, {
-    term: 'Pendentive',
+    term: 'pendentive',
+    also: [],
+    idea: ''
   }, {
-    term: 'Pennant flag',
+    term: 'pennant flag',
+    also: [],
+    idea: ''
   }, {
-    term: 'Peristyle',
+    term: 'peristyle',
+    also: [],
+    idea: ''
   }, {
-    term: 'Pilaster',
+    term: 'pilaster',
+    also: [],
+    idea: ''
   }, {
-    term: 'Pile foundation',
+    term: 'pile foundation',
+     also: [],
+    idea: ''
   }, {
-    term: 'Poche',
+    term: 'poche',
+    also: [],
+    idea: ''
   }, {
-    term: 'Portico',
+    term: 'portico',
+    also: [],
+    idea: ''
   }, {
-    term: 'Raised bed',
+    term: 'raised bed',
+    also: [],
+    idea: ''
   }, {
-    term: 'Roof',
+    term: 'roof',
+    also: ['gable-and-valley roof', 'hipped roof', 'pavillion roof', 'pitched roof', 'thatched roof'],
+    idea: ''
   }, {
-    term: 'Gable-and-valley roof',
+    term: 'gable-and-valley roof',
+    also: ['roof'],
+    idea: ''
   }, {
-    term: 'Hipped roof',
+    term: 'hipped roof',
+    also: ['roof'],
+    idea: ''
   }, {
-    term: 'Pavillion roof',
+    term: 'pavillion roof',
+    also: ['roof'],
+    idea: ''
   }, {
-    term: 'Pitched roof',
+    term: 'pitched roof',
+    also: ['roof'],
+    idea: ''
   }, {
-    term: 'Thatched roof',
+    term: 'thatched roof',
+    also: ['roof'],
+    idea: ''
   }, {
-    term: 'Rustication',
+    term: 'rustication',
+    also: [],
+    idea: ''
   }, {
-    term: 'Shop stall',
+    term: 'shop stall',
+    also: [],
+    idea: ''
   }, {
-    term: 'Solar panel',
+    term: 'solar panel',
+    also: [],
+    idea: ''
   }, {
-    term: 'Sottoportego',
+    term: 'sottoportego',
+    also: [],
+    idea: ''
   }, {
-    term: 'Spire',
+    term: 'spire',
+    also: [],
+    idea: ''
   }, {
-    term: 'Squinch',
+    term: 'squinch',
+     also: [],
+    idea: ''
+ }, {
+    term: 'stepped stories',
+     also: [],
+    idea: ''
+ }, {
+    term: 'string course',
+    also: [],
+    idea: ''
   }, {
-    term: 'Stepped stories',
+    term: 'subbasement',
+    also: [],
+    idea: ''
   }, {
-    term: 'String course',
+    term: 'terrace',
+    also: [],
+    idea: ''
   }, {
-    term: 'Subbasement',
+    term: 'tower',
+    also: ['circular tower', 'semi-circular tower', 'spiral minaret', 'square', 'terraced tower'],
+    idea: ''
   }, {
-    term: 'Terrace',
+    term: 'circular tower',
+    also: ['tower'],
+    idea: ''
   }, {
-    term: 'Tower',
+    term: 'semi-circular tower',
+    also: ['tower'],
+    idea: ''
   }, {
-    term: 'Circular',
+    term: 'spiral minaret',
+    also: ['tower'],
+    idea: ''
   }, {
-    term: 'Semi-circular',
+    term: 'square',
+    also: ['tower'],
+    idea: ''
   }, {
-    term: 'Spiral minaret',
+    term: 'terraced tower',
+    also: ['tower'],
+    idea: ''
   }, {
-    term: 'Square',
+    term: 'transom',
+    also: [],
+    idea: ''
   }, {
-    term: 'Terraced tower',
+    term: 'turret',
+    also: [],
+    idea: ''
   }, {
-    term: 'Transom',
+    term: 'undercroft',
+    also: [],
+    idea: ''
   }, {
-    term: 'Turret',
+    term: 'vault',
+    also: ['barrel vault', 'fan vault', 'groin vault', 'rib vault'],
+    idea: ''
   }, {
-    term: 'Undercroft',
+    term: 'barrel vault',
+    also: ['vault'],
+    idea: ''
   }, {
-    term: 'Vault',
+    term: 'fan vault',
+    also: ['vault'],
+    idea: ''
   }, {
-    term: 'Barrel vault',
+    term: 'groin vault',
+    also: ['vault'],
+    idea: ''
   }, {
-    term: 'Fan vault',
+    term: 'rib vault',
+    also: ['vault'],
+    idea: ''
   }, {
-    term: 'Groin vault',
+    term: 'vaulting shaft',
+    also: [],
+    idea: ''
   }, {
-    term: 'Rib vault',
+    term: 'voussoir',
+    also: [],
+    idea: ''
   }, {
-    term: 'Vaulting shaft',
+    term: 'weathering',
+    also: [],
+    idea: ''
   }, {
-    term: 'Voussoir',
+    term: 'wimperg',
+    also: [],
+    idea: ''
   }, {
-    term: 'Weathering',
-  }, {
-    term: 'Wimperg',
-  }, {
-    term: 'Ziggurat-style set-back',
+    term: 'ziggurat-style set-back',
+    also: [],
+    idea: ''
   }, {
     term: '',
     also: [],
