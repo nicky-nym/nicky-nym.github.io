@@ -71,6 +71,110 @@
     also: ['arch'],
     idea: 'a tunnel-like arch, where the vector of the tunnel is not perpendicular to the plane of the front entrance wall'
   }, {
+    term: '~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~',
+    also: [],
+    idea: ''
+  }, {
+    term: 'trompe',
+    also: [],
+    idea: ''
+  }, {
+    term: 'rabattement',
+    also: [],
+    idea: ''
+  }, {
+    term: 'rusticated',
+    also: [],
+    idea: ''
+  }, {
+    term: 'vitruvian',
+    also: [],
+    idea: ''
+  }, {
+    term: 'rotation',
+    also: [],
+    idea: ''
+  }, {
+    term: 'pedestrian revivalist',
+    also: [],
+    idea: ''
+  }, {
+    term: 'dreambulatory',
+    also: [],
+    idea: ''
+  }, {
+    term: 'xylo',
+    also: ['xylograph'],
+    idea: ''
+  }, {
+    term: 'low-rise',
+    also: ['mid-rise', 'high-rise'],
+    idea: '1, 2, or 3 floors'
+  }, {
+    term: 'mid-rise',
+    also: ['low-rise', 'high-rise'],
+    idea: '5 to 10 stories'
+  }, {
+    term: 'high-rise',
+    also: ['low-rise', 'mid-rise'],
+    idea: 'has elevators'
+  }, {
+    term: '~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~',
+    also: [],
+    idea: ''
+  }, {
+    term: '',
+    also: [],
+    idea: ''
+  }, {
+    term: '',
+    also: [],
+    idea: ''
+  }, {
+    term: '',
+    also: [],
+    idea: ''
+  }, {
+    term: '',
+    also: [],
+    idea: ''
+  }, {
+    term: '',
+    also: [],
+    idea: ''
+  }, {
+    term: '',
+    also: [],
+    idea: ''
+  }, {
+    term: '',
+    also: [],
+    idea: ''
+  }, {
+    term: '',
+    also: [],
+    idea: ''
+  }, {
+    term: '',
+    also: [],
+    idea: ''
+  }, {
+    term: '',
+    also: [],
+    idea: ''
+  }, {
+    term: '',
+    also: [],
+    idea: ''
+  }, {
+    term: '',
+    also: [],
+    idea: ''
+  }, {
+    term: '',
+    also: [],
+    idea: ''
+  }, {
     term: '',
     also: [],
     idea: ''
