@@ -1255,7 +1255,10 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 
 * _[Urban Bikeway Design Guide](https://nacto.org/publication/urban-bikeway-design-guide/)_, and the [other street design guides](https://nacto.org/publications/design-guides/), by the The National Association of City Transportation Officials (NACTO)
 
+
 ## <a name="references"></a>References
+<details>
+ <summary>click to expand...</summary>
 
 [^alter]: ["6 month report: My e-bike ate my car"](https://www.treehugger.com/bikes/6-month-report-my-gazelle-e-bike-ate-my-car.html). Lloyd Alter, _TreeHugger_. 1 November 2019.
 
@@ -1410,5 +1413,5 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 
 [^yang]: ["Andrew Yang’s plan to tackle climate change, explained"](https://www.vox.com/future-perfect/2019/8/26/20833263/andrew-yang-climate-plan). _Vox.com_. 26 August 2019.
 
-
+</details>
 
