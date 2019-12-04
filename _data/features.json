@@ -1,0 +1,9 @@
+{ 
+  "terms": [{
+    "term": "foo",
+    "definition": "An example term."
+  }, {
+    "term": "bar",
+    "definition": "An second example."
+  }]
+}
