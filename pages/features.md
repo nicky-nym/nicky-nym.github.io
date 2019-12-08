@@ -17,7 +17,7 @@ permalink: /features/
 {% endfor %}
 {% capture num_pics %} {{ term.pics | size | minus:1 }} {% endcapture %}
 {% unless num_pics contains '-' %}
-<details>
+<details style='margin-left: 50px'>
 <summary>examples</summary>
 {% for pic in term.pics %}
 <img src="{{ pic }}">
