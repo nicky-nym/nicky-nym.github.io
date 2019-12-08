@@ -17,7 +17,7 @@
   terms: [{
     term: 'trompe',
     also: [],
-    idea: ''
+    idea: 'a splaying, conic surface of masonry (like a trumpet), upon which projecting towers are usually supported'
   }, {
     term: 'rabattement',
     also: [],
@@ -35,6 +35,38 @@
     also: [],
     idea: ''
   }, {
+    term: 'prosopopoeia',
+    also: [],
+    idea: 'something in the garden/landscape that speaks directly to the passerby'
+  }, {
+    term: 'forced perspective',
+    also: [],
+    idea: '(e.g. stone wall where upper courses are narrower than lower courses, or flight of stairs where treads and risers gradually diminish in size)'
+  }, {
+    term: 'post-occupancy studies',
+    also: [],
+    idea: ''
+  }, {
+    term: 'building science',
+    also: [],
+    idea: ''
+  }, {
+    term: 'humble architecture',
+    also: ['humanist architecture'],
+    idea: ''
+  }, {
+    term: 'severy',
+    also: [],
+    idea: 'a bay or compartment in a vaulted ceiling'
+  }, {
+    term: 'arriere-voussoirs',
+    also: [],
+    idea: 'non-rectangular blocks in an arch, like those to the left and right of the keystone at the top'
+  }, {
+    term: 'tiercerons',
+    also: [],
+    idea: ''
+  }, {
     term: 'pedestrian revivalist',
     also: [],
     idea: ''
@@ -42,6 +74,14 @@
     term: 'dreambulatory',
     also: [],
     idea: ''
+  }, {
+    term: 'anamorphosis',
+    also: [],
+    idea: 'a distorted projection (e.g. around a mirrored cylinder)'
+  }, {
+    term: 'stereotomy',
+    also: [],
+    idea: 'the cutting of solids'
   }, {
     term: 'xylo',
     also: ['xylograph'],
@@ -607,7 +647,7 @@
     idea: 'a cellar or storage room, often with a vaulted ceiling -- or a ground area with open sides but which is covered by a building above'
   }, {
     term: 'vault',
-    also: ['barrel vault', 'fan vault', 'groin vault', 'rib vault'],
+    also: ['barrel vault', 'fan vault', 'groin vault', 'rib vault', 'net vault', 'lierne vault'],
     idea: ''
   }, {
     term: 'barrel vault',
