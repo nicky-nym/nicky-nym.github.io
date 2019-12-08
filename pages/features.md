@@ -15,8 +15,11 @@ permalink: /features/
   * <a name="{{ term.term }}"></a>**{{ term.term }}** -- {{ term.idea }}
 {% for also in term.also %}     * __[{{ also }}](#{{ also }})__
 {% endfor %}
-{% for pic in term.pics %}     ![]({{ pic }})
+<details>
+{% for pic in term.pics %}
+<img src="({{ pic }}>
 {% endfor %}
+</details>
 {% endfor %}
 {% endfor %}
   
