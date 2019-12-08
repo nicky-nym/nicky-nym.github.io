@@ -6,7 +6,7 @@
   }, {
     book: 'Illustrated Architecture Dictionary',
     by: 'Chuck LaChiusa',
-    link: 'http://www.buffaloah.com/a/DCTNRY/d____.html'
+    link: 'http://www.buffaloah.com/a/DCTNRY/vocab.html'
   }, {
     book: 'The Visual Dictionary of Buildings',
     by: 'Eyewitness Visual Dictionaries'
@@ -15,93 +15,25 @@
     by: 'Francis D.K. Ching'
   }],
   terms: [{
-    term: 'trompe',
-    also: [],
-    idea: 'a splaying, conic surface of masonry (like a trumpet), upon which projecting towers are usually supported'
-  }, {
-    term: 'rabattement',
+    term: '~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~',
     also: [],
     idea: ''
   }, {
-    term: 'rusticated',
+    term: '~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ',
     also: [],
     idea: ''
   }, {
-    term: 'vitruvian',
+    term: '~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~',
     also: [],
     idea: ''
-  }, {
-    term: 'rotation',
-    also: [],
-    idea: ''
-  }, {
-    term: 'prosopopoeia',
-    also: [],
-    idea: 'something in the garden/landscape that speaks directly to the passerby'
-  }, {
-    term: 'forced perspective',
-    also: [],
-    idea: '(e.g. stone wall where upper courses are narrower than lower courses, or flight of stairs where treads and risers gradually diminish in size)'
-  }, {
-    term: 'post-occupancy studies',
-    also: [],
-    idea: ''
-  }, {
-    term: 'building science',
-    also: [],
-    idea: ''
-  }, {
-    term: 'humble architecture',
-    also: ['humanist architecture'],
-    idea: ''
-  }, {
-    term: 'severy',
-    also: [],
-    idea: 'a bay or compartment in a vaulted ceiling'
-  }, {
-    term: 'arriere-voussoirs',
-    also: [],
-    idea: 'non-rectangular blocks in an arch, like those to the left and right of the keystone at the top'
-  }, {
-    term: 'tiercerons',
-    also: [],
-    idea: ''
-  }, {
-    term: 'pedestrian revivalist',
-    also: [],
-    idea: ''
-  }, {
-    term: 'dreambulatory',
-    also: [],
-    idea: ''
-  }, {
-    term: 'anamorphosis',
-    also: [],
-    idea: 'a distorted projection (e.g. around a mirrored cylinder)'
-  }, {
-    term: 'stereotomy',
-    also: [],
-    idea: 'the cutting of solids'
-  }, {
-    term: 'xylo',
-    also: ['xylograph'],
-    idea: ''
-  }, {
-    term: 'low-rise',
-    also: ['mid-rise', 'high-rise'],
-    idea: '1, 2, or 3 floors'
-  }, {
-    term: 'mid-rise',
-    also: ['low-rise', 'high-rise'],
-    idea: '5 to 10 stories'
-  }, {
-    term: 'high-rise',
-    also: ['low-rise', 'mid-rise'],
-    idea: 'has elevators'
   }, {
     term: 'alley',
     also: [],
     idea: 'a narrow passageway between buildings'
+  }, {
+    term: 'anamorphosis',
+    also: [],
+    idea: 'a distorted projection (e.g. around a mirrored cylinder)'
   }, {
     term: 'arcade',
     also: [],
@@ -109,28 +41,20 @@
   }, {
     term: 'arch',
     also: [
-      'three-centered arch',
+      'arch, three-centered',
       'abutment',
       'skewback',
       'anse de panier',
-      'gauged arch',
-      'main arch',
-      'minor arch',
-      'round arch',
-      'segmental arch',
-      'skew arch'
+      'arch, gauged',
+      'arch, main',
+      'arch, minor',
+      'arch, round',
+      'arch, segmental',
+      'arch, skew'
     ],
     idea: ''
   }, {
-    term: 'attic',
-    also: [],
-    idea: 'the top-floor, under the roof'
-  }, {
-    term: '~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~',
-    also: [],
-    idea: ''
-  }, {
-    term: 'three-centered arch',
+    term: 'arch, three-centered',
     also: ['arch'],
     idea: ''
   }, {
@@ -146,37 +70,41 @@
     also: ['arch'],
     idea: 'aka a "basket-handle arch": a three-centered arch with a relatively long middle section'
   }, {
-    term: 'gauged arch',
+    term: 'arch, gauged',
     also: ['arch'],
     idea: 'brick arch where the bricks are radially aligned, pointing toward the center of the arched opening'
   }, {
-    term: 'main arch',
-    also: ['arch', 'minor arch'],
+    term: 'arch, main',
+    also: ['arch', 'arch, minor'],
     idea: 'e.g. the big arch above the center of a cathedral'
   }, {
-    term: 'minor arch',
-    also: ['arch', 'main arch'],
+    term: 'arch, minor',
+    also: ['arch', 'arch, main'],
     idea: 'e.g. one of the little arches that runs along the side of the Main arch'
   }, {
-    term: 'round arch',
+    term: 'arch, round',
     also: ['arch'],
     idea: ''
   }, {
-    term: 'segmental arch',
+    term: 'arch, segmental',
     also: ['arch'],
     idea: 'e.g. where the span of the arch is like a 120-degree segment of a circle, rather than say a 180-degree half-circle'
   }, {
-    term: 'skew arch',
+    term: 'arch, skew',
     also: ['arch'],
     idea: 'a tunnel-like arch, where the vector of the tunnel is not perpendicular to the plane of the front entrance wall'
   }, {
-    term: '~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ',
-    also: [],
+    term: 'architecture, humble',
+    also: ['architecture, humanist'],
     idea: ''
   }, {
-    term: '~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~',
+    term: 'arriere-voussoirs',
     also: [],
-    idea: ''
+    idea: 'non-rectangular blocks in an arch, like those to the left and right of the keystone at the top'
+  }, {
+    term: 'attic',
+    also: [],
+    idea: 'the top-floor, under the roof'
   }, {
     term: 'awning',
     also: [],
@@ -239,20 +167,24 @@
     idea: 'a brace that looks like an X, often spanning two stories'
   }, {
     term: 'bracket',
-    also: ['corbel', 'conical corbel', 'modillion'],
+    also: ['bracket: corbel', 'bracket: conical corbel', 'bracket: modillion'],
     idea: 'a piece of wood or stone (or metal) that juts out from a wall to support something above (a ceiling, a bay window, etc.)'
   }, {
-    term: 'conical corbel',
+    term: 'bracket: conical corbel',
     also: ['bracket', 'corbel'],
     idea: 'e.g. under a round bay window, or a round turret'
   }, {
-    term: 'corbel',
+    term: 'bracket: corbel',
     also: ['bracket', 'conical corbel'],
     idea: 'a bracket that is built into a wall and juts out from it'
   }, {
-    term: 'modillion',
+    term: 'bracket: modillion',
     also: ['bracket'],
     idea: 'like dentils, but bigger and more elaborate'
+  }, {
+    term: 'building science',
+    also: [],
+    idea: ''
   }, {
     term: 'buttress',
     also: ['angle buttress', 'curved buttress', 'triangular buttress',],
@@ -315,42 +247,42 @@
     idea: '"a series of columns, often two rows of columns, supporting a roof'
   }, {
     term: 'column',
-    also: ['barley-sugar column', 'engaged column', 'entasis', 'fluted column', 'solomonic column', 'water-cooled fire-resistant column'],
+    also: ['column, barley-sugar', 'column, engaged', 'column, entasis', 'column, fluted', 'column, solomonic', 'column, water-cooled fire-resistant'],
     idea: ''
   }, {
-    term: 'barley-sugar column',
+    term: 'column, barley-sugar',
     also: ['column'],
     idea: 'aka: Solomonic column'
   }, {
-    term: 'engaged column',
+    term: 'column, engaged',
     also: ['column'],
     idea: 'a column that is halfway (or part way) embedded in a wall'
   }, {
-    term: 'entasis',
+    term: 'column, entasis',
     also: ['column'],
     idea: 'slight curve of a column (not the same diamater at all heights)'
   }, {
-    term: 'fluted column',
+    term: 'column, fluted',
     also: ['column'],
     idea: ''
   }, {
-    term: 'solomonic column',
+    term: 'column, solomonic',
     also: ['column'],
     idea: 'helical, spiraling corkscrew shaped column'
   }, {
-    term: 'water-cooled fire-resistant column',
+    term: 'column, water-cooled fire-resistant',
     also: ['column'],
     idea: 'a structural column -- example: the Pompidou center in Paris (which also has water storage tanks)'
   }, {
     term: 'crane',
-    also: ['construction crane', 'maintenance crane'],
+    also: ['crane, construction', 'crane, maintenance'],
     idea: ''
   }, {
-    term: 'construction crane',
+    term: 'crane, construction',
     also: ['crane'],
     idea: 'temporary crane used while building the building'
   }, {
-    term: 'maintenance crane',
+    term: 'crane, maintenance',
     also: ['crane'],
     idea: 'e.g. crane attached to the top of building, used for window washing or facade repairs, or to bring HVAC equipment to roof'
   }, {
@@ -382,6 +314,10 @@
     also: [],
     idea: ''
   }, {
+    term: 'dreambulatory',
+    also: [],
+    idea: ''
+  }, {
     term: 'drone landing pad',
     also: [],
     idea: 'like a heli-pad, but maybe smaller'
@@ -391,20 +327,24 @@
     idea: 'aka "horn": a decorative bit poking off the side of the top of a cabinet, chair back, window, or something'
   }, {
     term: 'finial',
-    also: ['baluster finial', 'blind finial'],
+    also: ['finial, baluster', 'finial, blind'],
     idea: 'ornamental post at the peak of a roof'
   }, {
-    term: 'baluster finial',
+    term: 'finial, baluster',
     also: ['finial'],
     idea: 'finials spaced along posts of a balustrade'
   }, {
-    term: 'blind finial',
+    term: 'finial, blind',
     also: ['finial'],
     idea: 'finial at the peak of a blind gable'
   }, {
     term: 'fretwork',
     also: [],
     idea: 'ornamental, interlaced geometric patterns cut into a flat solid such as a gable end or heating vent duct cover'
+  }, {
+    term: 'forced perspective',
+    also: [],
+    idea: '(e.g. stone wall where upper courses are narrower than lower courses, or flight of stairs where treads and risers gradually diminish in size)'
   }, {
     term: 'gable',
     also: [],
@@ -502,15 +442,15 @@
     also: [],
     idea: 'a hall or walkway, often narrow, that connects two buildings (or rooms), (typically without doors except at the two ends?)'
   }, {
+    term: 'pedestrian revivalist',
+    also: [],
+    idea: ''
+  }, {
     term: 'pediment',
     also: ['arched (segmental) pediment', 'triangular pediment'],
     idea: 'ornamental "hat" above a door, window, or niche'
   }, {
     term: 'arched (segmental) pediment',
-    also: ['pediment'],
-    idea: ''
-  }, {
-    term: 'triangular pediment',
     also: ['pediment'],
     idea: ''
   }, {
@@ -542,37 +482,69 @@
     also: [],
     idea: 'a porch or colonnade leading to an entrance, with a roof over a walkway'
   }, {
+    term: 'post-occupancy studies',
+    also: [],
+    idea: ''
+  }, {
+    term: 'prosopopoeia',
+    also: [],
+    idea: 'something in the garden/landscape that speaks directly to the passerby'
+  }, {
+    term: 'rabattement',
+    also: [],
+    idea: ''
+  }, {
     term: 'raised bed',
     also: [],
     idea: 'a planter where the soil is about 18" above ground level, often with a sitting wall around the edge'
   }, {
+    term: 'rise, low-rise',
+    also: ['rise, mid-rise', 'rise, high-rise'],
+    idea: '1, 2, or 3 floors'
+  }, {
+    term: 'rise, mid-rise',
+    also: ['rise, low-rise', 'rise, high-rise'],
+    idea: '5 to 10 stories'
+  }, {
+    term: 'rise, high-rise',
+    also: ['rise, low-rise', 'rise, mid-rise'],
+    idea: 'has elevators'
+  }, {
     term: 'roof',
-    also: ['gable-and-valley roof', 'hipped roof', 'pavillion roof', 'pitched roof', 'thatched roof'],
+    also: ['roof, gable-and-valley', 'roof, hipped', 'roof, pavillion', 'roof, pitched', 'roof, thatched'],
     idea: ''
   }, {
-    term: 'gable-and-valley roof',
+    term: 'roof, gable-and-valley',
     also: ['roof'],
     idea: 'e.g. a square building with gables on all four faces, with a roof that looks like four giant dormer window roofs wedged together'
   }, {
-    term: 'hipped roof',
+    term: 'roof, hipped',
     also: ['roof'],
     idea: 'like a pavillion roof, but on a rectangular building, so that there is an apex line at the top'
   }, {
-    term: 'pavillion roof',
+    term: 'roof, pavillion',
     also: ['roof'],
     idea: '4 sloped sides on a square building, meeting at an apex point, like a pyramid'
   }, {
-    term: 'pitched roof',
+    term: 'roof, pitched',
     also: ['roof'],
     idea: '2 sloped sides, meeting at an apex line, with gables at the ends'
   }, {
-    term: 'thatched roof',
+    term: 'roof, thatched',
     also: ['roof'],
     idea: 'made from layers of thatch'
+  }, {
+    term: 'rotation',
+    also: [],
+    idea: ''
   }, {
     term: 'rustication',
     also: [],
     idea: 'in stone buildings, a style of stone cutting where the outer faces of the stone are rough, and bulging out'
+  }, {
+    term: 'severy',
+    also: [],
+    idea: 'a bay or compartment in a vaulted ceiling'
   }, {
     term: 'shop stall',
     also: [],
@@ -591,13 +563,17 @@
     idea: 'a very, very steep roof on a tower'
   }, {
     term: 'squinch',
-     also: ['pendentive'],
+    also: ['pendentive'],
     idea: 'an arch-like thing above the corner of a square room, so that the room can have an octagonal (or circular) roof/dome on top (an alternative to a "pendentive")'
- }, {
+  }, {
     term: 'stepped stories',
-     also: ['ziggurat-style set-back'],
+    also: ['ziggurat-style set-back'],
     idea: 'upper story walls are stepped back from lower story walls -- the opposite of "Jettied"'
- }, {
+  }, {
+    term: 'stereotomy',
+    also: [],
+    idea: 'the cutting of solids'
+  }, {
     term: 'string course',
     also: [],
     idea: 'in a brick or stone wall, a horizontal row (of bricks or stones) that juts out a couple inches, typically at something above head height'
@@ -610,27 +586,39 @@
     also: [],
     idea: ''
   }, {
+    term: 'tiercerons',
+    also: [],
+    idea: ''
+  }, {
     term: 'tower',
-    also: ['circular tower', 'semi-circular tower', 'spiral minaret', 'square', 'terraced tower'],
+    also: ['tower, circular', 'tower, semi-circular', 'tower, spiral minaret', 'tower, square', 'tower, terraced'],
     idea: ''
   }, {
-    term: 'circular tower',
+    term: 'triangular pediment',
+    also: ['pediment'],
+    idea: ''
+  }, {
+    term: 'trompe',
+    also: [],
+    idea: 'a splaying, conic surface of masonry (like a trumpet), upon which projecting towers are usually supported'
+  }, {
+    term: 'tower, circular',
     also: ['tower'],
     idea: ''
   }, {
-    term: 'semi-circular tower',
+    term: 'tower, semi-circular',
     also: ['tower'],
     idea: ''
   }, {
-    term: 'spiral minaret',
+    term: 'tower, spiral minaret',
     also: ['tower'],
     idea: ''
   }, {
-    term: 'square',
+    term: 'tower, square',
     also: ['tower'],
     idea: ''
   }, {
-    term: 'terraced tower',
+    term: 'tower, terraced',
     also: ['tower'],
     idea: ''
   }, {
@@ -647,28 +635,32 @@
     idea: 'a cellar or storage room, often with a vaulted ceiling -- or a ground area with open sides but which is covered by a building above'
   }, {
     term: 'vault',
-    also: ['barrel vault', 'fan vault', 'groin vault', 'rib vault', 'net vault', 'lierne vault'],
+    also: ['vault, barrel', 'vault, fan', 'vault, groin', 'vault, rib', 'vault, net', 'vault, lierne'],
     idea: ''
   }, {
-    term: 'barrel vault',
+    term: 'vault, barrel',
     also: ['vault'],
     idea: 'often semicircular, like an extruded half-cylinder -- aka a "tunnel vault" or "wagon vault"'
   }, {
-    term: 'fan vault',
+    term: 'vault, fan',
     also: ['vault'],
     idea: 'like a groin vault, but where the ceiling fans out with radial symmetry from the top of each column'
   }, {
-    term: 'groin vault',
+    term: 'vault, groin',
     also: ['vault'],
     idea: 'the 90-degree intersection of two barrel vaults'
   }, {
-    term: 'rib vault',
+    term: 'vault, rib',
     also: ['vault'],
     idea: 'a complicated Groin vault, where the two intersecting barrel vaults are of different widths (diameters)'
   }, {
     term: 'vaulting shaft',
     also: [],
     idea: 'Small shaft or colonnette which supports a vault rib or group of ribs at their springing. It may rise from the ground or from a corbel set in the masonry.'
+  }, {
+    term: 'vitruvian',
+    also: [],
+    idea: ''
   }, {
     term: 'voussoir',
     also: [],
@@ -681,6 +673,10 @@
     term: 'wimperg',
     also: [],
     idea: 'a gable with decorative carved stuff above the gable, sort of the opposite of having a decorative bargeboard below'
+  }, {
+    term: 'xylograph',
+    also: ['xylo'],
+    idea: ''
   }, {
     term: 'ziggurat-style set-back',
     also: ['stepped stories'],
