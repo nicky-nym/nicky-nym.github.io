@@ -20,6 +20,7 @@
     terms: [{
       term: 'arcade',
       also: [],
+      pics: [],
       idea: 'a sheltered walkway formed of arches, maybe lined with retail stores'
     }, {
       term: 'arch',
@@ -35,54 +36,67 @@
         'arch, segmental',
         'arch, skew'
       ],
+      pics: [],
       idea: ''
     }, {
       term: 'arch, three-centered',
       also: ['arch'],
+      pics: [],
       idea: ''
     }, {
       term: 'arch: abutment',
       also: ['arch', 'skewback'],
+      pics: [],
       idea: 'the structure just below an arch that supports the thrust of the arch / a stone with a sloping face to support a segmental arch'
     }, {
       term: 'arch: skewback',
       also: ['arch', 'abutment'],
+      pics: [],
       idea: 'the structure just below an arch that supports the thrust of the arch / a stone with a sloping face to support a segmental arch'
     }, {
       term: 'arch: anse de panier',
       also: ['arch'],
+      pics: [],
       idea: 'aka a "basket-handle arch": a three-centered arch with a relatively long middle section'
     }, {
       term: 'arch, gauged',
       also: ['arch'],
+      pics: [],
       idea: 'brick arch where the bricks are radially aligned, pointing toward the center of the arched opening'
     }, {
       term: 'arch, main',
       also: ['arch', 'arch, minor'],
+      pics: [],
       idea: 'e.g. the big arch above the center of a cathedral'
     }, {
       term: 'arch, minor',
       also: ['arch', 'arch, main'],
+      pics: [],
       idea: 'e.g. one of the little arches that runs along the side of the Main arch'
     }, {
       term: 'arch, round',
       also: ['arch'],
+      pics: [],
       idea: ''
     }, {
       term: 'arch, segmental',
       also: ['arch'],
+      pics: [],
       idea: 'e.g. where the span of the arch is like a 120-degree segment of a circle, rather than say a 180-degree half-circle'
     }, {
       term: 'arch, skew',
       also: ['arch'],
+      pics: [],
       idea: 'a tunnel-like arch, where the vector of the tunnel is not perpendicular to the plane of the front entrance wall'
     }, {
       term: 'arriere-voussoirs',
       also: [],
+      pics: [],
       idea: 'non-rectangular blocks in an arch, like those to the left and right of the keystone at the top'
     }, {
       term: 'voussoir',
       also: [],
+      pics: [],
       idea: 'wedge-shaped stone in an arch (such as the keystone at the top)'
     }]
   }, {
@@ -91,6 +105,7 @@
     terms: [{
       term: 'vault',
       also: ['vault, barrel', 'vault, fan', 'vault, groin', 'vault, rib', 'vault, net', 'vault, lierne'],
+      pics: [],
       idea: ''
     }, {
       term: 'vault, barrel',
@@ -109,6 +124,7 @@
     }, {
       term: 'vault, fan',
       also: ['vault'],
+      pics: [],
       idea: 'like a groin vault, but where the ceiling fans out with radial symmetry from the top of each column'
     }, {
       term: 'vault, groin',
@@ -120,6 +136,7 @@
     }, {
       term: 'vault, rib',
       also: ['vault'],
+      pics: [],
       idea: 'a complicated Groin vault, where the two intersecting barrel vaults are of different widths (diameters)'
     }]
   }, {
@@ -128,42 +145,52 @@
     terms: [{
       term: 'cincture',
       also: [],
+      pics: [],
       idea: 'a ring or fillet that juts out near the top of a column'
     }, {
       term: 'colonnade',
       also: ['Peristyle'],
+      pics: [],
       idea: '"a series of columns, often two rows of columns, supporting a roof'
     }, {
       term: 'column',
       also: ['column, barley-sugar', 'column, engaged', 'column, entasis', 'column, fluted', 'column, solomonic', 'column, water-cooled fire-resistant'],
+      pics: [],
       idea: ''
     }, {
       term: 'column, barley-sugar',
       also: ['column'],
+      pics: [],
       idea: 'aka: Solomonic column'
     }, {
       term: 'column, engaged',
       also: ['column'],
+      pics: [],
       idea: 'a column that is halfway (or part way) embedded in a wall'
     }, {
       term: 'column, entasis',
       also: ['column'],
+      pics: [],
       idea: 'slight curve of a column (not the same diamater at all heights)'
     }, {
       term: 'column, fluted',
       also: ['column'],
+      pics: [],
       idea: ''
     }, {
       term: 'column, solomonic',
       also: ['column'],
+      pics: [],
       idea: 'helical, spiraling corkscrew shaped column'
     }, {
       term: 'column, water-cooled fire-resistant',
       also: ['column'],
+      pics: [],
       idea: 'a structural column -- example: the Pompidou center in Paris (which also has water storage tanks)'
     }, {
       term: 'pilaster',
       also: [],
+      pics: [],
       idea: 'like an engaged column, but purely ornamental, and never actually supporting anything -- always flat (rectangular), not round '
     }]
   }, {
@@ -188,22 +215,27 @@
     terms: [{
       term: 'bulkhead',
       also: ['cellar'],
+      pics: [],
       idea: 'a hurricane door, on the outside of a building, sloped, at ground level'
     }, {
       term: 'cellar',
       also: ['bulkhead'],
+      pics: [],
       idea: 'a room(s), wholly or partly underground, for storage of food or fuel'
     }, {
       term: 'pile foundation',
       also: [],
+      pics: [],
       idea: 'a foundation made up of a grid of columns sunk into the ground, with no basement, no crawspace, no slab foundation'
     }, {
       term: 'subbasement',
       also: [],
+      pics: [],
       idea: 'a floor below the basement'
     }, {
       term: 'undercroft',
       also: [],
+      pics: [],
       idea: 'a cellar or storage room, often with a vaulted ceiling -- or a ground area with open sides but which is covered by a building above'
     }]
   }, {
@@ -212,6 +244,7 @@
     terms: [{
       term: 'moat',
       also: [],
+      pics: [],
       idea: 'the thing with the drawbridge over it!'
     }]
   }, {
@@ -236,54 +269,67 @@
     terms: [{
       term: 'barge board',
       also: [],
+      pics: [],
       idea: 'on a pitched roof, a decorative piece of wood (often carved or shaped) at the edge of the roof, in front of a gable'
     }, {
       term: 'crenel',
       also: ['merlon'],
+      pics: [],
       idea: 'one of the gaps between the blocks ("merlons") in a crenellated stone battlement'
     }, {
       term: 'crenellations',
       also: ['crenel', 'merlon'],
+      pics: [],
       idea: 'stone battlements on a roof (looks like a square wave)'
     }, {
       term: 'crest',
       also: [],
+      pics: [],
       idea: 'e.g. ornamental wood or iron ridge crest that runs along the top of a pitched roof, or around the side of flat roof '
     }, {
       term: 'gable',
       also: [],
+      pics: [],
       idea: 'the triangular portion of a wall, beneath a pitched roof'
     }, {
       term: 'lantern',
       also: ['roof lantern'],
+      pics: [],
       idea: 'aka: Roof Lantern'
     }, {
       term: 'roof',
       also: ['roof, gable-and-valley', 'roof, hipped', 'roof, pavillion', 'roof, pitched', 'roof, thatched'],
+      pics: [],
       idea: ''
     }, {
       term: 'roof, gable-and-valley',
       also: ['roof'],
+      pics: [],
       idea: 'e.g. a square building with gables on all four faces, with a roof that looks like four giant dormer window roofs wedged together'
     }, {
       term: 'roof, hipped',
       also: ['roof'],
+      pics: [],
       idea: 'like a pavillion roof, but on a rectangular building, so that there is an apex line at the top'
     }, {
       term: 'roof, pavillion',
       also: ['roof'],
+      pics: [],
       idea: '4 sloped sides on a square building, meeting at an apex point, like a pyramid'
     }, {
       term: 'roof, pitched',
       also: ['roof'],
+      pics: [],
       idea: '2 sloped sides, meeting at an apex line, with gables at the ends'
     }, {
       term: 'roof, thatched',
       also: ['roof'],
+      pics: [],
       idea: 'made from layers of thatch'
     }, {
       term: 'wimperg',
       also: [],
+      pics: [],
       idea: 'a gable with decorative carved stuff above the gable, sort of the opposite of having a decorative bargeboard below'
     }]
   }, {
@@ -292,38 +338,47 @@
     terms: [{
       term: 'carriage house',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: 'crane',
       also: ['crane, construction', 'crane, maintenance'],
+      pics: [],
       idea: ''
     }, {
       term: 'crane, construction',
       also: ['crane'],
+      pics: [],
       idea: 'temporary crane used while building the building'
     }, {
       term: 'crane, maintenance',
       also: ['crane'],
+      pics: [],
       idea: 'e.g. crane attached to the top of building, used for window washing or facade repairs, or to bring HVAC equipment to roof'
     }, {
       term: 'drawbridge',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: 'drone landing pad',
       also: [],
+      pics: [],
       idea: 'like a heli-pad, but maybe smaller'
     }, {
       term: 'rise, low-rise',
       also: ['rise, mid-rise', 'rise, high-rise'],
+      pics: [],
       idea: '1, 2, or 3 floors'
     }, {
       term: 'rise, mid-rise',
       also: ['rise, low-rise', 'rise, high-rise'],
+      pics: [],
       idea: '5 to 10 stories'
     }, {
       term: 'rise, high-rise',
       also: ['rise, low-rise', 'rise, mid-rise'],
+      pics: [],
       idea: 'has elevators'
     }]
   }, {
@@ -332,34 +387,42 @@
     terms: [{
       term: 'tower',
       also: ['tower, circular', 'tower, semi-circular', 'tower, spiral minaret', 'tower, square', 'tower, terraced'],
+      pics: [],
       idea: ''
     }, {
       term: 'trompe',
       also: [],
+      pics: [],
       idea: 'a splaying, conic surface of masonry (like a trumpet), upon which projecting towers are usually supported'
     }, {
       term: 'tower, circular',
       also: ['tower'],
+      pics: [],
       idea: ''
     }, {
       term: 'tower, semi-circular',
       also: ['tower'],
+      pics: [],
       idea: ''
     }, {
       term: 'tower, spiral minaret',
       also: ['tower'],
+      pics: [],
       idea: ''
     }, {
       term: 'tower, square',
       also: ['tower'],
+      pics: [],
       idea: ''
     }, {
       term: 'tower, terraced',
       also: ['tower'],
+      pics: [],
       idea: ''
     }, {
       term: 'turret',
       also: [],
+      pics: [],
       idea: 'a mini-tower glued onto the side of a bigger tower'
     }]
   }, {
@@ -368,58 +431,72 @@
     terms: [{
       term: 'brace',
       also: ['brace, arched', 'brace: coathanger truss', 'brace: scissor brace'],
+      pics: [],
       idea: 'like a bracket, but often larger, less decorative and more structural, and often inside the wall structure'
     }, {
       term: 'brace, arched',
       also: ['brace'],
+      pics: [],
       idea: ''
     }, {
       term: 'brace: coathanger truss',
       also: ['brace'],
+      pics: [],
       idea: 'a brace that looks like a wide ^, often spanning two stories'
     }, {
       term: 'brace: scissor brace',
       also: ['brace'],
+      pics: [],
       idea: 'a brace that looks like an X, often spanning two stories'
     }, {
       term: 'bracket',
       also: ['bracket: corbel', 'bracket: conical corbel', 'bracket: modillion'],
+      pics: [],
       idea: 'a piece of wood or stone (or metal) that juts out from a wall to support something above (a ceiling, a bay window, etc.)'
     }, {
       term: 'bracket: conical corbel',
       also: ['bracket', 'corbel'],
+      pics: [],
       idea: 'e.g. under a round bay window, or a round turret'
     }, {
       term: 'bracket: corbel',
       also: ['bracket', 'conical corbel'],
+      pics: [],
       idea: 'a bracket that is built into a wall and juts out from it'
     }, {
       term: 'bracket: modillion',
       also: ['bracket'],
+      pics: [],
       idea: 'like dentils, but bigger and more elaborate'
     }, {
       term: 'buttress',
       also: ['buttress, angle', 'buttress, curved', 'buttress, triangular'],
+      pics: [],
       idea: ''
     }, {
       term: 'buttress, angle',
       also: ['buttress'],
+      pics: [],
       idea: 'a buttress with one or more sections of angled weathering? '
     }, {
       term: 'buttress, curved',
       also: ['buttress'],
+      pics: [],
       idea: 'a buttress with a curved profile rather than a straight or angled profile: e.g. like a J instead of a / or I'
     }, {
       term: 'buttress, triangular',
       also: ['buttress'],
+      pics: [],
       idea: 'a buttress with a profile that looks like a /'
     }, {
       term: 'cross-bracing',
       also: [],
+      pics: [],
       idea: 'X-shaped support beams that are one, two, or many stories tall'
     }, {
       term: 'string course',
       also: [],
+      pics: [],
       idea: 'in a brick or stone wall, a horizontal row (of bricks or stones) that juts out a couple inches, typically at something above head height'
     }]
   }, {
@@ -428,30 +505,37 @@
     terms: [{
       term: 'clerestory window',
       also: [],
+      pics: [],
       idea: 'series of windows near the roofline (often above the neighboring roof)'
     }, {
       term: 'deep set window',
       also: [],
+      pics: [],
       idea: 'a window in a thick wall, where the window glass is set back from the plane of the wall'
     }, {
       term: 'lucarne window',
       also: ['dormer window', 'lucarne window, circular', 'lucarne window, wasted-oval'],
+      pics: [],
       idea: 'synonym for "dormer window"'
     }, {
       term: 'lucarne window, circular',
       also: ['lucarne window', 'oeil-de-boeuf', 'ox-eye window'],
+      pics: [],
       idea: 'see also: oeil-de-boeuf'
     }, {
       term: 'lucarne window, wasted-oval',
       also: ['lucarne window'],
+      pics: [],
       idea: ''
     }, {
       term: 'oeil-de-boeuf',
       also: ['ox-eye window', 'circular lucarne window'],
+      pics: [],
       idea: 'aka "ox-eye window" -- a small oval (or round) window, on an upper story or on a dormer'
     }, {
       term: 'transom',
       also: [],
+      pics: [],
       idea: 'horizontal beam between lower window (or door) and transom window'
     }]
   }, {
@@ -460,38 +544,47 @@
     terms: [{
       term: 'anamorphosis',
       also: [],
+      pics: [],
       idea: 'a distorted projection (e.g. around a mirrored cylinder)'
     }, {
       term: 'architecture, humble',
       also: ['architecture, humanist'],
+      pics: [],
       idea: ''
     }, {
       term: 'building science',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: 'capriccio',
       also: [],
+      pics: [],
       idea: 'an architectural fantasy'
     }, {
       term: 'dreambulatory',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: 'forced perspective',
       also: [],
+      pics: [],
       idea: '(e.g. stone wall where upper courses are narrower than lower courses, or flight of stairs where treads and risers gradually diminish in size)'
     }, {
       term: 'pedestrian revivalist',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: 'stereotomy',
       also: [],
+      pics: [],
       idea: 'the cutting of solids'
     }, {
       term: 'xylograph',
       also: ['xylo'],
+      pics: [],
       idea: ''
     }]
   }, {
@@ -500,562 +593,702 @@
     terms: [{
       term: '~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: 'alley',
       also: [],
+      pics: [],
       idea: 'a narrow passageway between buildings'
     }, {
       term: 'attic',
       also: [],
+      pics: [],
       idea: 'the top-floor, under the roof'
     }, {
       term: 'awning',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: 'baluster',
       also: ['baluster, attached'],
+      pics: [],
       idea: ''
     }, {
       term: 'baluster, attached',
       also: ['baluster'],
+      pics: [],
       idea: 'like an "engaged column", but for a baluster'
     }, {
       term: 'balustrade',
       also: ['balustrade, projecting'],
+      pics: [],
       idea: ''
     }, {
       term: 'balustrade, projecting',
       also: ['balustrade'],
+      pics: [],
       idea: 'a section of a balustrade that juts out from the rest so that it looks a bit like a balcony'
     }, {
       term: 'belvedere',
       also: [],
+      pics: [],
       idea: 'any architectural structure sited to take advantage of a nice view (could be a whole building, or just a turret or balcony)'
     }, {
       term: 'blind arcade',
       also: [],
+      pics: [],
       idea: 'a row of columns and arches set directly against a flat wall, as decoration'
     }, {
       term: 'blind door',
       also: [],
+      pics: [],
       idea: 'a doorway set against a flat wall, with no door, as decoration'
     }, {
       term: 'beam',
       also: ['beam: haunch'],
+      pics: [],
       idea: ''
     }, {
       term: 'beam: haunch',
       also: ['beam'],
+      pics: [],
       idea: 'a section of a beam that has been made thicker to support more load (which may make the beam look arched)'
     }, {
       term: 'chamfered',
       also: [],
+      pics: [],
       idea: 'a corner (of a building, or wall, or column) with a 45 degree cut-away, or with a rounded corner'
     }, {
       term: 'chimney pot',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: 'cloister',
       also: [],
+      pics: [],
       idea: 'a covered walkway, typically with a wall on one side and a colonnade on the other -- a rectangular open space surrounded by covered walkways'
     }, {
       term: 'coffer',
       also: [],
+      pics: [],
       idea: 'a series of sunken panels in a vault, soffit, or ceiling'
     }, {
       term: 'dentil ornament',
       also: [],
+      pics: [],
       idea: 'horizontal row of little blocks with gaps between blocks'
     }, {
       term: 'ear',
       also: ['horn'],
+      pics: [],
       idea: 'aka "horn": a decorative bit poking off the side of the top of a cabinet, chair back, window, or something'
     }, {
       term: 'finial',
       also: ['finial, baluster', 'finial, blind'],
+      pics: [],
       idea: 'ornamental post at the peak of a roof'
     }, {
       term: 'finial, baluster',
       also: ['finial'],
+      pics: [],
       idea: 'finials spaced along posts of a balustrade'
     }, {
       term: 'finial, blind',
       also: ['finial'],
+      pics: [],
       idea: 'finial at the peak of a blind gable'
     }, {
       term: 'fretwork',
       also: [],
+      pics: [],
       idea: 'ornamental, interlaced geometric patterns cut into a flat solid such as a gable end or heating vent duct cover'
     }, {
       term: 'gangway',
       also: [],
+      pics: [],
       idea: 'a narrow passage, or a temporary raised walkway made of planks'
     }, {
       term: 'ground floor',
       also: [],
+      pics: [],
       idea: 'floor at (or nearest) ground level'
     }, {
       term: 'hypostyle',
       also: [],
+      pics: [],
       idea: 'a hall with a roof supported by rows of pillars'
     }, {
       term: 'impost',
       also: [],
+      pics: [],
       idea: 'horizontal slab (or block) at the top of a column or wall, projecting into open space, to support an arch above'
     }, {
       term: 'jettied',
       also: [],
+      pics: [],
       idea: 'in tudor buildings, when an upper floor projects beyond the dimensions of a lower floor'
     }, {
       term: 'keystone',
       also: [],
+      pics: [],
       idea: 'stone wedge at the top of an arch'
     }, {
       term: 'lintel',
       also: ['architrave'],
+      pics: [],
       idea: 'horizontal stone (or wood) beam that holds up the rest of the wall above a doorway (or window)'
     }, {
       term: 'loggia',
       also: [],
+      pics: [],
       idea: 'a room, gallery, or corrider, usually on an upper level, that is open to the outdoors on one side, with a series of arches or columns'
     }, {
       term: 'middle rail',
       also: [],
+      pics: [],
       idea: 'in tudor buildings, a horizontal beam running under a set of windows, sort of like a big sturdy chair-rail'
     }, {
       term: 'mill wheel',
       also: [],
+      pics: [],
       idea: 'like a paddlewheel on a riverboat, but attached to the side of a mill'
     }, {
       term: 'niche',
       also: [],
+      pics: [],
       idea: 'a little recessed alcove in a wall, typically with an arched ceiling above'
     }, {
       term: 'oculus',
       also: [],
+      pics: [],
       idea: 'horizontal hole at the apex of a dome, to let in light, or vertical hole near the top of a dome or vault, or a horizontal hole in a domed ceiling'
     }, {
       term: 'orb',
       also: [],
+      pics: [],
       idea: 'a spherical finial'
     }, {
       term: 'oriel window',
       also: [],
+      pics: [],
       idea: 'a window that pokes out from the side of a wall, like a bay window or a dormer window?'
     }, {
       term: 'paneling',
       also: [],
+      pics: [],
       idea: 'decorative wall panels, typically wooden'
     }, {
       term: 'parapet',
       also: [],
+      pics: [],
       idea: 'a low wall along the edge of a roof'
     }, {
       term: 'passageway',
       also: [],
+      pics: [],
       idea: 'a hall or walkway, often narrow, that connects two buildings (or rooms), (typically without doors except at the two ends?)'
     }, {
       term: 'pediment',
       also: ['pediment, arched (segmental) ', 'pediment, triangular'],
+      pics: [],
       idea: 'ornamental "hat" above a door, window, or niche'
     }, {
       term: 'pediment, arched (segmental)',
       also: ['pediment'],
+      pics: [],
       idea: ''
     }, {
       term: 'pendentive',
       also: ['squinch'],
+      pics: [],
       idea: 'an arch-like thing above the corner of a square room, so that the room can have an octagonal (or circular) roof/dome on top (an alternative to a "squinch")'
     }, {
       term: 'pennant flag',
       also: [],
+      pics: [],
       idea: 'a long, thin, triangular flag -- on a finial, or in a row on a parapet'
     }, {
       term: 'peristyle',
       also: ['colonnade'],
+      pics: [],
       idea: 'a porch with a row of columns surrounding a courtyard'
     }, {
       term: 'poche',
       also: [],
+      pics: [],
       idea: 'solid places inside walls, as they appear in solid fill ink on a blueprint'
     }, {
       term: 'portico',
       also: [],
+      pics: [],
       idea: 'a porch or colonnade leading to an entrance, with a roof over a walkway'
     }, {
       term: 'post-occupancy studies',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: 'prosopopoeia',
       also: [],
+      pics: [],
       idea: 'something in the garden/landscape that speaks directly to the passerby'
     }, {
       term: 'rabattement',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: 'raised bed',
       also: [],
+      pics: [],
       idea: 'a planter where the soil is about 18" above ground level, often with a sitting wall around the edge'
     }, {
       term: 'rotation',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: 'rustication',
       also: [],
+      pics: [],
       idea: 'in stone buildings, a style of stone cutting where the outer faces of the stone are rough, and bulging out'
     }, {
       term: 'severy',
       also: [],
+      pics: [],
       idea: 'a bay or compartment in a vaulted ceiling'
     }, {
       term: 'shop stall',
       also: [],
+      pics: [],
       idea: 'a wooden shutter with a hinge on the bottom instead of the side, so that it opens down from a window to form a shelf'
     }, {
       term: 'solar panel',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: 'sottoportego',
       also: [],
+      pics: [],
       idea: 'an alley that passes underneath a building'
     }, {
       term: 'spire',
       also: [],
+      pics: [],
       idea: 'a very, very steep roof on a tower'
     }, {
       term: 'squinch',
       also: ['pendentive'],
+      pics: [],
       idea: 'an arch-like thing above the corner of a square room, so that the room can have an octagonal (or circular) roof/dome on top (an alternative to a "pendentive")'
     }, {
       term: 'stepped stories',
       also: ['ziggurat-style set-back'],
+      pics: [],
       idea: 'upper story walls are stepped back from lower story walls -- the opposite of "Jettied"'
     }, {
       term: 'terrace',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: 'tiercerons',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: 'triangular pediment',
       also: ['pediment'],
+      pics: [],
       idea: ''
     }, {
       term: 'vaulting shaft',
       also: [],
+      pics: [],
       idea: 'Small shaft or colonnette which supports a vault rib or group of ribs at their springing. It may rise from the ground or from a corbel set in the masonry.'
     }, {
       term: 'vitruvian',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: 'weathering',
       also: [],
+      pics: [],
       idea: 'a small pitched surface on an otherwise vertical wall (like the "water-table" band that runs around the outside of house, say 4 feet from the ground, where the top of the foundation skirting meets the bottom of the ground-story wall'
     }, {
       term: 'ziggurat-style set-back',
       also: ['stepped stories'],
+      pics: [],
       idea: 'upper walls of tall building are stepped back from lower walls'
     }, {
       term: '~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }, {
       term: '',
       also: [],
+      pics: [],
       idea: ''
     }]
   }]
