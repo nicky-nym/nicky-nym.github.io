@@ -87,6 +87,43 @@
     }]
   }, {
     comment: '# =========================================',
+    topic: 'ceiling',
+    terms: [{
+      term: 'vault',
+      also: ['vault, barrel', 'vault, fan', 'vault, groin', 'vault, rib', 'vault, net', 'vault, lierne'],
+      idea: ''
+    }, {
+      term: 'vault, barrel',
+      also: ['vault'],
+      pics: [
+        'https://buffaloah.com/a/DCTNRY/v/barrelvault.jpg',
+        'https://buffaloah.com/a/east/149/int/image/05.jpg',
+        'https://buffaloah.com/a/HAMB/emain/239/int/image/01.jpg',
+        'https://buffaloah.com/a/LACK/ridge/767/int/image/07.jpg',
+        'https://buffaloah.com/a/northland/407/int/image/08.jpg',
+        'https://buffaloah.com/a/virtual/italy/flor/pitti/image/05130075.jpg',
+        'https://buffaloah.com/a/virtual/italy/flor/osp/image/05130116.jpg',
+        'https://buffaloah.com/a/virtual/italy/rome/stpeter/int/jpegs/10.jpg'
+      ],
+      idea: 'often semicircular, like an extruded half-cylinder -- aka a "tunnel vault" or "wagon vault"'
+    }, {
+      term: 'vault, fan',
+      also: ['vault'],
+      idea: 'like a groin vault, but where the ceiling fans out with radial symmetry from the top of each column'
+    }, {
+      term: 'vault, groin',
+      also: ['vault'],
+      pics: [
+        'https://buffaloah.com/a/DCTNRY/v/groin_StG.jpg'
+      ],
+      idea: 'the 90-degree intersection of two barrel vaults'
+    }, {
+      term: 'vault, rib',
+      also: ['vault'],
+      idea: 'a complicated Groin vault, where the two intersecting barrel vaults are of different widths (diameters)'
+    }]
+  }, {
+    comment: '# =========================================',
     topic: 'column',
     terms: [{
       term: 'cincture',
@@ -712,39 +749,6 @@
       term: 'triangular pediment',
       also: ['pediment'],
       idea: ''
-    }, {
-      term: 'vault',
-      also: ['vault, barrel', 'vault, fan', 'vault, groin', 'vault, rib', 'vault, net', 'vault, lierne'],
-      idea: ''
-    }, {
-      term: 'vault, barrel',
-      also: ['vault'],
-      pics: [
-        'https://buffaloah.com/a/DCTNRY/v/barrelvault.jpg',
-        'https://buffaloah.com/a/east/149/int/image/05.jpg',
-        'https://buffaloah.com/a/HAMB/emain/239/int/image/01.jpg',
-        'https://buffaloah.com/a/LACK/ridge/767/int/image/07.jpg',
-        'https://buffaloah.com/a/northland/407/int/image/08.jpg',
-        'https://buffaloah.com/a/virtual/italy/flor/pitti/image/05130075.jpg',
-        'https://buffaloah.com/a/virtual/italy/flor/osp/image/05130116.jpg',
-        'https://buffaloah.com/a/virtual/italy/rome/stpeter/int/jpegs/10.jpg'
-      ],
-      idea: 'often semicircular, like an extruded half-cylinder -- aka a "tunnel vault" or "wagon vault"'
-    }, {
-      term: 'vault, fan',
-      also: ['vault'],
-      idea: 'like a groin vault, but where the ceiling fans out with radial symmetry from the top of each column'
-    }, {
-      term: 'vault, groin',
-      also: ['vault'],
-      pics: [
-        'https://buffaloah.com/a/DCTNRY/v/groin_StG.jpg'
-      ],
-      idea: 'the 90-degree intersection of two barrel vaults'
-    }, {
-      term: 'vault, rib',
-      also: ['vault'],
-      idea: 'a complicated Groin vault, where the two intersecting barrel vaults are of different widths (diameters)'
     }, {
       term: 'vaulting shaft',
       also: [],
