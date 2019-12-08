@@ -15,15 +15,15 @@ permalink: /features/
   * <a name="{{ term.term }}"></a>**{{ term.term }}** -- {{ term.idea }}
 {% for also in term.also %}     * __[{{ also }}](#{{ also }})__
 {% endfor %}
-{% capture num_pics %} {{ term.pics | length }} {% endcapture %}
-{% if num_pics > 0 %}
+{% capture num_pics %} {{ term.pics | size | minus:1 }} {% endcapture %}
+{% unless num_pics contains '-' %}
 <details>
 <summary>examples</summary>
 {% for pic in term.pics %}
 <img src="{{ pic }}">
 {% endfor %}
 </details>
-{% endif %}
+{% endunless %}
 {% endfor %}
 {% endfor %}
   
