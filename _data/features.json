@@ -255,7 +255,59 @@
   }, {
     comment: '# =========================================',
     topic: 'fire',
-    terms: []
+    terms: [{
+      term: 'fire load'
+    }, {
+      term: 'flame-spread rating'
+    }, {
+      term: 'fuel-contribution rating'
+    }, {
+      term: 'smoke-developed rating'
+    }, {
+      term: 'liquid-filled column'
+    }, {
+      term: 'intumescent paint'
+    }, {
+      term: 'fire-resistance rating'
+    }, {
+      term: 'fire-rated'
+    }, {
+      term: 'fireproofing'
+    }, {
+      term: 'draft-stop'
+    }, {
+      term: 'firebreak'
+    }, {
+      term: 'automatic-closing fire assembly'
+    }, {
+      term: 'class A, B, C, D, E'
+    }, {
+      term: 'fire wall'
+    }, {
+      term: 'fire separation'
+    }, {
+      term: 'occupancy separation'
+    }, {
+      term: 'fire area'
+    }, {
+      term: 'standpipe'
+    }, {
+      term: 'fire hydrant'
+    }, {
+      term: 'sprinkler system'
+    }, {
+      term: 'preaction system'
+    }, {
+      term: 'exit'
+    }, {
+      term: 'fire escape'
+    }, {
+      term: 'exit light'
+    }, {
+      term: 'emergency lighting'
+    }, {
+      term: 'well'
+    }]
   }, {
     comment: '# =========================================',
     topic: 'floor',
