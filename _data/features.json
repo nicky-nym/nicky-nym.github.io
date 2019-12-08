@@ -19,7 +19,7 @@
     also: [],
     idea: ''
   }, {
-    term: '~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ',
+    term: '~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~',
     also: [],
     idea: ''
   }, {
@@ -42,9 +42,9 @@
     term: 'arch',
     also: [
       'arch, three-centered',
-      'abutment',
-      'skewback',
-      'anse de panier',
+      'arch: abutment',
+      'arch: skewback',
+      'arch: anse de panier',
       'arch, gauged',
       'arch, main',
       'arch, minor',
@@ -58,15 +58,15 @@
     also: ['arch'],
     idea: ''
   }, {
-    term: 'abutment',
+    term: 'arch: abutment',
     also: ['arch', 'skewback'],
     idea: 'the structure just below an arch that supports the thrust of the arch / a stone with a sloping face to support a segmental arch'
   }, {
-    term: 'skewback',
+    term: 'arch: skewback',
     also: ['arch', 'abutment'],
     idea: 'the structure just below an arch that supports the thrust of the arch / a stone with a sloping face to support a segmental arch'
   }, {
-    term: 'anse de panier',
+    term: 'arch: anse de panier',
     also: ['arch'],
     idea: 'aka a "basket-handle arch": a three-centered arch with a relatively long middle section'
   }, {
