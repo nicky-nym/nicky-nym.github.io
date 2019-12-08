@@ -15,7 +15,8 @@ permalink: /features/
   * <a name="{{ term.term }}"></a>**{{ term.term }}** -- {{ term.idea }}
 {% for also in term.also %}     * __[{{ also }}](#{{ also }})__
 {% endfor %}
-{% if term.pics.length > 0 %}
+{% capture num_pics %}{{ term.pics | size }}{% endcapture %}
+{% if num_pics > 0 %}
 <details>
 <summary>examples</summary>
 {% for pic in term.pics %}
