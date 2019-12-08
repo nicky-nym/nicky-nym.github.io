@@ -11,7 +11,7 @@ permalink: /features/
 
 {% for term in site.data.features.terms %}
   * <a name="{{ term.term }}"></a>**{{ term.term }}**
-    * {{ term.idea }}
+{{ if term.idea }}    * {{ term.idea }}{% endif %}
 {% for also in term.also %}     * __[{{ also }}](#{{ also }})__
 {% endfor %}
 {% endfor %}
