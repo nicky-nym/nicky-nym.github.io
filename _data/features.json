@@ -111,18 +111,18 @@
     idea: ''
   }, {
     term: 'baluster',
-    also: ['attached baluster'],
+    also: ['baluster, attached'],
     idea: ''
   }, {
-    term: 'attached baluster',
+    term: 'baluster, attached',
     also: ['baluster'],
     idea: 'like an "engaged column", but for a baluster'
   }, {
     term: 'balustrade',
-    also: ['projecting balustrade'],
+    also: ['balustrade, projecting'],
     idea: ''
   }, {
-    term: 'projecting balustrade',
+    term: 'balustrade, projecting',
     also: ['balustrade'],
     idea: 'a section of a balustrade that juts out from the rest so that it looks a bit like a balcony'
   }, {
@@ -143,26 +143,26 @@
     idea: 'a doorway set against a flat wall, with no door, as decoration'
   }, {
     term: 'beam',
-     also: ['haunch'],
+     also: ['beam: haunch'],
     idea: ''
   }, {
-    term: 'haunch',
+    term: 'beam: haunch',
     also: ['beam'],
     idea: 'a section of a beam that has been made thicker to support more load (which may make the beam look arched)'
   }, {
     term: 'brace',
-    also: ['arched brace', 'coathanger truss', 'scissor brace'],
+    also: ['brace, arched', 'brace: coathanger truss', 'brace: scissor brace'],
     idea: 'like a bracket, but often larger, less decorative and more structural, and often inside the wall structure'
   }, {
-    term: 'arched brace',
+    term: 'brace, arched ',
     also: ['brace'],
     idea: ''
   }, {
-    term: 'coathanger truss',
+    term: 'brace: coathanger truss',
     also: ['brace'],
     idea: 'a brace that looks like a wide ^, often spanning two stories'
   }, {
-    term: 'scissor brace',
+    term: 'brace: scissor brace',
     also: ['brace'],
     idea: 'a brace that looks like an X, often spanning two stories'
   }, {
@@ -186,19 +186,23 @@
     also: [],
     idea: ''
   }, {
+    term: 'bulkhead',
+    also: ['cellar'],
+    idea: 'a hurricane door, on the outside of a building, sloped, at ground level'
+  }, {
     term: 'buttress',
-    also: ['angle buttress', 'curved buttress', 'triangular buttress',],
+    also: ['buttress, angle', 'buttress, curved', 'buttress, triangular',],
     idea: ''
   }, {
-    term: 'angle buttress',
+    term: 'buttress, angle',
     also: ['buttress'],
     idea: 'a buttress with one or more sections of angled weathering? '
   }, {
-    term: 'curved buttress',
+    term: 'buttress, curved',
     also: ['buttress'],
     idea: 'a buttress with a curved profile rather than a straight or angled profile: e.g. like a J instead of a / or |'
   }, {
-    term: 'triangular buttress',
+    term: 'buttress, triangular',
     also: ['buttress'],
     idea: 'a buttress with a profile that looks like a /'
   }, {
@@ -214,15 +218,11 @@
     also: ['bulkhead'],
     idea: 'a room(s), wholly or partly underground, for storage of food or fuel'
   }, {
-    term: 'bulkhead',
-    also: ['cellar'],
-    idea: 'a hurricane door, on the outside of a building, sloped, at ground level'
-  }, {
     term: 'chamfered',
     also: [],
     idea: 'a corner (of a building, or wall, or column) with a 45 degree cut-away, or with a rounded corner'
   }, {
-    term: 'chimney Pot',
+    term: 'chimney pot',
     also: [],
     idea: ''
   }, {
@@ -382,19 +382,19 @@
     also: ['architrave'],
     idea: 'horizontal stone (or wood) beam that holds up the rest of the wall above a doorway (or window)'
   }, {
-    term: 'Loggia',
+    term: 'loggia',
     also: [],
     idea: 'a room, gallery, or corrider, usually on an upper level, that is open to the outdoors on one side, with a series of arches or columns'
   }, {
     term: 'lucarne window',
-    also: ['dormer window', 'circular lucarne window', 'wasted-oval lucarne window'],
+    also: ['dormer window', 'lucarne window, circular', 'lucarne window, wasted-oval'],
     idea: 'synonym for "dormer window"'
   }, {
-    term: 'circular lucarne window',
+    term: 'lucarne window, circular',
     also: ['lucarne window', 'oeil-de-boeuf', 'ox-eye window'],
     idea: 'see also: oeil-de-boeuf'
   }, {
-    term: 'wasted-oval lucarne window',
+    term: 'lucarne window, wasted-oval',
     also: ['lucarne window'],
     idea: ''
   }, {
