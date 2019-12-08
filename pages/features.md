@@ -4,7 +4,7 @@ permalink: /features/
 # Books
 
 {% for book in site.data.features.books %}
-  * **[{{ book.book }}]( book.link )**, by {{ book.by }}
+  * **[{{ book.book }}]({{ book.link }})**, by {{ book.by }}
 {% endfor %}
 
 # Architectural features
