@@ -1,12 +1,19 @@
 ---
 permalink: /features/
 ---
+# Books
+
+{% for book in site.data.features.books %}
+  * **[{{ book.book }}]( book.link )**, by {{ book.by }}
+{% endfor %}
+
 # Architectural features
 
 {% for term in site.data.features.terms %}
   * <a name="{{ term.term }}"></a>**{{ term.term }}**
     * {{ term.idea }}
-    * {% for also in term.also %} __[{{ also }}](#{{ also }})__, {% endfor %}
+{% for also in term.also %}     * __[{{ also }}](#{{ also }})__
+{% endfor %}
 {% endfor %}
   
 <!--
