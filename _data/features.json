@@ -6,13 +6,13 @@
   }, {
     book: 'Illustrated Architecture Dictionary',
     by: 'Chuck LaChiusa',
-    link: 'http://www.buffaloah.com/a/DCTNRY/d____.html',
+    link: 'http://www.buffaloah.com/a/DCTNRY/d____.html'
   }, {
     book: 'The Visual Dictionary of Buildings',
-    by: 'Eyewitness Visual Dictionaries',
+    by: 'Eyewitness Visual Dictionaries'
   }, {
     book: 'A Visual Dictionary of Architecture',
-    by: 'Francis D.K. Ching',
+    by: 'Francis D.K. Ching'
   }],
   terms: [{
     term: 'trompe',
