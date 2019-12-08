@@ -10,8 +10,7 @@ permalink: /features/
 # Architectural features
 
 {% for term in site.data.features.terms %}
-  * <a name="{{ term.term }}"></a>**{{ term.term }}**
-{{ if term.idea }}    * {{ term.idea }}{% endif %}
+  * <a name="{{ term.term }}"></a>**{{ term.term }}** &mdash; {{ term.idea }}
 {% for also in term.also %}     * __[{{ also }}](#{{ also }})__
 {% endfor %}
 {% endfor %}
