@@ -99,6 +99,11 @@
       pics: [],
       idea: 'horizontal slab (or block) at the top of a column or wall, projecting into open space, to support an arch above'
     }, {
+      term: 'keystone',
+      also: [],
+      pics: [],
+      idea: 'stone wedge at the top of an arch'
+    }, {
       term: 'voussoir',
       also: [],
       pics: [],
@@ -108,10 +113,40 @@
     comment: '# =========================================',
     topic: 'ceiling',
     terms: [{
+      term: 'beam',
+      also: ['beam: haunch'],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'beam: haunch',
+      also: ['beam'],
+      pics: [],
+      idea: 'a section of a beam that has been made thicker to support more load (which may make the beam look arched)'
+    }, {
+      term: 'coffer',
+      also: [],
+      pics: [],
+      idea: 'a series of sunken panels in a vault, soffit, or ceiling'
+    }, {
+      term: 'pendentive',
+      also: ['squinch'],
+      pics: [],
+      idea: 'an arch-like thing above the corner of a square room, so that the room can have an octagonal (or circular) roof/dome on top (an alternative to a "squinch")'
+    }, {
       term: 'severy',
       also: [],
       pics: [],
       idea: 'a bay or compartment in a vaulted ceiling'
+    }, {
+      term: 'squinch',
+      also: ['pendentive'],
+      pics: [],
+      idea: 'an arch-like thing above the corner of a square room, so that the room can have an octagonal (or circular) roof/dome on top (an alternative to a "pendentive")'
+    }, {
+      term: 'tiercerons',
+      also: [],
+      pics: [],
+      idea: 'one of the types of major rib in a ribbed vault'
     }, {
       term: 'vault',
       also: ['vault, barrel', 'vault, fan', 'vault, groin', 'vault, rib', 'vault, net', 'vault, lierne'],
@@ -203,6 +238,11 @@
       pics: [],
       idea: 'a structural column -- example: the Pompidou center in Paris (which also has water storage tanks)'
     }, {
+      term: 'hypostyle',
+      also: [],
+      pics: [],
+      idea: 'a hall with a roof supported by rows of pillars'
+    }, {
       term: 'pilaster',
       also: [],
       pics: [],
@@ -238,6 +278,11 @@
       pics: [],
       idea: 'a room(s), wholly or partly underground, for storage of food or fuel'
     }, {
+      term: 'ground floor',
+      also: [],
+      pics: [],
+      idea: 'floor at (or nearest) ground level'
+    }, {
       term: 'pile foundation',
       also: [],
       pics: [],
@@ -255,6 +300,20 @@
     }]
   }, {
     comment: '# =========================================',
+    topic: 'fresh air',
+    terms: [{
+      term: 'loggia',
+      also: [],
+      pics: [],
+      idea: 'a room, gallery, or corrider, usually on an upper level, that is open to the outdoors on one side, with a series of arches or columns'
+    }, {
+      term: 'peristyle',
+      also: ['colonnade'],
+      pics: [],
+      idea: 'a porch with a row of columns surrounding a courtyard'
+    }]
+  }, {
+    comment: '# =========================================',
     topic: 'landscape',
     terms: [{
       term: 'moat',
@@ -266,15 +325,79 @@
       also: [],
       pics: [],
       idea: 'a planter where the soil is about 18" above ground level, often with a sitting wall around the edge'
+    }, {
+      term: 'terrace',
+      also: [],
+      pics: [],
+      idea: 'flat areas on sloped ground, perhaps paved, with seating and with railings'
     }]
   }, {
     comment: '# =========================================',
     topic: 'light',
-    terms: []
+    terms: [{
+      term: 'oculus',
+      also: [],
+      pics: [],
+      idea: 'horizontal hole at the apex of a dome, to let in light, or vertical hole near the top of a dome or vault, or a horizontal hole in a domed ceiling'
+    }]
+  }, {
+    comment: '# =========================================',
+    topic: 'massing',
+    terms: [{
+      term: 'jettied',
+      also: [],
+      pics: [],
+      idea: 'in tudor buildings, when an upper floor projects beyond the dimensions of a lower floor'
+    }, {
+      term: 'poche',
+      also: [],
+      pics: [],
+      idea: 'solid places inside walls, as they appear in solid fill ink on a blueprint'
+    }, {
+      term: 'stepped stories',
+      also: ['ziggurat-style set-back'],
+      pics: [],
+      idea: 'upper story walls are stepped back from lower story walls -- the opposite of "Jettied"'
+    }, {
+      term: 'ziggurat-style set-back',
+      also: ['stepped stories'],
+      pics: [],
+      idea: 'upper walls of tall building are stepped back from lower walls'
+    }]
   }, {
     comment: '# =========================================',
     topic: 'ornament',
-    terms: []
+    terms: [{
+      term: 'chamfered',
+      also: [],
+      pics: [],
+      idea: 'a corner (of a building, or wall, or column) with a 45 degree cut-away, or with a rounded corner'
+    }, {
+      term: 'dentil ornament',
+      also: [],
+      pics: [],
+      idea: 'horizontal row of little blocks with gaps between blocks'
+    }, {
+      term: 'ear',
+      also: ['horn'],
+      pics: [],
+      idea: 'aka "horn": a decorative bit poking off the side of the top of a cabinet, chair back, window, or something'
+    }, {
+      term: 'fretwork',
+      also: [],
+      pics: [],
+      idea: 'ornamental, interlaced geometric patterns cut into a flat solid such as a gable end or heating vent duct cover'
+    }, {
+      term: 'rustication',
+      also: [],
+      pics: [],
+      idea: 'in stone buildings, a style of stone cutting where the outer faces of the stone are rough, and bulging out'
+    }, {
+      term: 'vitruvian scroll',
+      also: [],
+      pics: [],
+      idea: 'scroll pattern used on moldings and borders'
+    }]
   }, {
     comment: '# =========================================',
     topic: 'passage',
@@ -289,15 +412,26 @@
       pics: [],
       idea: 'a covered walkway, typically with a wall on one side and a colonnade on the other -- a rectangular open space surrounded by covered walkways'
     }, {
+      term: 'gangway',
+      also: [],
+      pics: [],
+      idea: 'a narrow passage, or a temporary raised walkway made of planks'
+    }, {
+      term: 'passageway',
+      also: [],
+      pics: [],
+      idea: 'a hall or walkway, often narrow, that connects two buildings (or rooms), (typically without doors except at the two ends?)'
+    }, {
+      term: 'portico',
+      also: [],
+      pics: [],
+      idea: 'a porch or colonnade leading to an entrance, with a roof over a walkway'
+    }, {
       term: 'sottoportego',
       also: [],
       pics: [],
       idea: 'an alley that passes underneath a building'
     }]
-  }, {
-    comment: '# =========================================',
-    topic: '______________',
-    terms: []
   }, {
     comment: '# =========================================',
     topic: '______________',
@@ -469,6 +603,11 @@
       pics: [],
       idea: 'like a heli-pad, but maybe smaller'
     }, {
+      term: 'mill wheel',
+      also: [],
+      pics: [],
+      idea: 'like a paddlewheel on a riverboat, but attached to the side of a mill'
+    }, {
       term: 'rise, low-rise',
       also: ['rise, mid-rise', 'rise, high-rise'],
       pics: [],
@@ -617,10 +756,25 @@
       pics: [],
       idea: 'X-shaped support beams that are one, two, or many stories tall'
     }, {
+      term: 'niche',
+      also: [],
+      pics: [],
+      idea: 'a little recessed alcove in a wall, typically with an arched ceiling above'
+    }, {
+      term: 'paneling',
+      also: [],
+      pics: [],
+      idea: 'decorative wall panels, typically wooden'
+    }, {
       term: 'string course',
       also: [],
       pics: [],
       idea: 'in a brick or stone wall, a horizontal row (of bricks or stones) that juts out a couple inches, typically at something above head height'
+    }, {
+      term: 'weathering',
+      also: [],
+      pics: [],
+      idea: 'a small pitched surface on an otherwise vertical wall (like the "water-table" band that runs around the outside of house, say 4 feet from the ground, where the top of the foundation skirting meets the bottom of the ground-story wall'
     }]
   }, {
     comment: '# =========================================',
@@ -745,10 +899,20 @@
       pics: [],
       idea: ''
     }, {
+      term: 'post-occupancy studies',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
       term: 'prosopopoeia',
       also: [],
       pics: [],
       idea: 'something in the garden/landscape that speaks directly to the passerby'
+    }, {
+      term: 'rotation',
+      also: [],
+      pics: [],
+      idea: ''
     }, {
       term: 'stereotomy',
       also: [],
@@ -768,171 +932,6 @@
       also: [],
       pics: [],
       idea: ''
-    }, {
-      term: 'beam',
-      also: ['beam: haunch'],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'beam: haunch',
-      also: ['beam'],
-      pics: [],
-      idea: 'a section of a beam that has been made thicker to support more load (which may make the beam look arched)'
-    }, {
-      term: 'chamfered',
-      also: [],
-      pics: [],
-      idea: 'a corner (of a building, or wall, or column) with a 45 degree cut-away, or with a rounded corner'
-    }, {
-      term: 'coffer',
-      also: [],
-      pics: [],
-      idea: 'a series of sunken panels in a vault, soffit, or ceiling'
-    }, {
-      term: 'dentil ornament',
-      also: [],
-      pics: [],
-      idea: 'horizontal row of little blocks with gaps between blocks'
-    }, {
-      term: 'ear',
-      also: ['horn'],
-      pics: [],
-      idea: 'aka "horn": a decorative bit poking off the side of the top of a cabinet, chair back, window, or something'
-    }, {
-      term: 'fretwork',
-      also: [],
-      pics: [],
-      idea: 'ornamental, interlaced geometric patterns cut into a flat solid such as a gable end or heating vent duct cover'
-    }, {
-      term: 'gangway',
-      also: [],
-      pics: [],
-      idea: 'a narrow passage, or a temporary raised walkway made of planks'
-    }, {
-      term: 'ground floor',
-      also: [],
-      pics: [],
-      idea: 'floor at (or nearest) ground level'
-    }, {
-      term: 'hypostyle',
-      also: [],
-      pics: [],
-      idea: 'a hall with a roof supported by rows of pillars'
-    }, {
-      term: 'jettied',
-      also: [],
-      pics: [],
-      idea: 'in tudor buildings, when an upper floor projects beyond the dimensions of a lower floor'
-    }, {
-      term: 'keystone',
-      also: [],
-      pics: [],
-      idea: 'stone wedge at the top of an arch'
-    }, {
-      term: 'loggia',
-      also: [],
-      pics: [],
-      idea: 'a room, gallery, or corrider, usually on an upper level, that is open to the outdoors on one side, with a series of arches or columns'
-    }, {
-      term: 'mill wheel',
-      also: [],
-      pics: [],
-      idea: 'like a paddlewheel on a riverboat, but attached to the side of a mill'
-    }, {
-      term: 'niche',
-      also: [],
-      pics: [],
-      idea: 'a little recessed alcove in a wall, typically with an arched ceiling above'
-    }, {
-      term: 'oculus',
-      also: [],
-      pics: [],
-      idea: 'horizontal hole at the apex of a dome, to let in light, or vertical hole near the top of a dome or vault, or a horizontal hole in a domed ceiling'
-    }, {
-      term: 'paneling',
-      also: [],
-      pics: [],
-      idea: 'decorative wall panels, typically wooden'
-    }, {
-      term: 'passageway',
-      also: [],
-      pics: [],
-      idea: 'a hall or walkway, often narrow, that connects two buildings (or rooms), (typically without doors except at the two ends?)'
-    }, {
-      term: 'pendentive',
-      also: ['squinch'],
-      pics: [],
-      idea: 'an arch-like thing above the corner of a square room, so that the room can have an octagonal (or circular) roof/dome on top (an alternative to a "squinch")'
-    }, {
-      term: 'peristyle',
-      also: ['colonnade'],
-      pics: [],
-      idea: 'a porch with a row of columns surrounding a courtyard'
-    }, {
-      term: 'poche',
-      also: [],
-      pics: [],
-      idea: 'solid places inside walls, as they appear in solid fill ink on a blueprint'
-    }, {
-      term: 'portico',
-      also: [],
-      pics: [],
-      idea: 'a porch or colonnade leading to an entrance, with a roof over a walkway'
-    }, {
-      term: 'post-occupancy studies',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'rabattement',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'rotation',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'rustication',
-      also: [],
-      pics: [],
-      idea: 'in stone buildings, a style of stone cutting where the outer faces of the stone are rough, and bulging out'
-    }, {
-      term: 'squinch',
-      also: ['pendentive'],
-      pics: [],
-      idea: 'an arch-like thing above the corner of a square room, so that the room can have an octagonal (or circular) roof/dome on top (an alternative to a "pendentive")'
-    }, {
-      term: 'stepped stories',
-      also: ['ziggurat-style set-back'],
-      pics: [],
-      idea: 'upper story walls are stepped back from lower story walls -- the opposite of "Jettied"'
-    }, {
-      term: 'terrace',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'tiercerons',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'vitruvian',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'weathering',
-      also: [],
-      pics: [],
-      idea: 'a small pitched surface on an otherwise vertical wall (like the "water-table" band that runs around the outside of house, say 4 feet from the ground, where the top of the foundation skirting meets the bottom of the ground-story wall'
-    }, {
-      term: 'ziggurat-style set-back',
-      also: ['stepped stories'],
-      pics: [],
-      idea: 'upper walls of tall building are stepped back from lower walls'
     }, {
       term: '~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~',
       also: [],
