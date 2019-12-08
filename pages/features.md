@@ -16,13 +16,13 @@ permalink: /features/
 {% for also in term.also %}     * __[{{ also }}](#{{ also }})__
 {% endfor %}
 {% capture num_pics %} {{ term.pics | size | minus:1 }} {% endcapture %}
-{% unless num_pics contains '-' %}
-<details style='margin-left: 50px'>
+{% unless num_pics contains '-' %} <details style='margin-left: 60px'>
 <summary>examples</summary>
 {% for pic in term.pics %}
 <img src="{{ pic }}">
 {% endfor %}
 </details>
+&nbsp;
 {% endunless %}
 {% endfor %}
 {% endfor %}
