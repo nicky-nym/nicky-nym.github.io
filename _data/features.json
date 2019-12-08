@@ -447,10 +447,10 @@
     idea: ''
   }, {
     term: 'pediment',
-    also: ['arched (segmental) pediment', 'triangular pediment'],
+    also: ['pediment, arched (segmental) ', 'pediment, triangular'],
     idea: 'ornamental "hat" above a door, window, or niche'
   }, {
-    term: 'arched (segmental) pediment',
+    term: 'pediment, arched (segmental)',
     also: ['pediment'],
     idea: ''
   }, {
