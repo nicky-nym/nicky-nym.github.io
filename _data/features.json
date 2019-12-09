@@ -256,57 +256,135 @@
     comment: '# =========================================',
     topic: 'fire',
     terms: [{
-      term: 'fire load'
+      term: 'fire load',
+      also: [],
+      pics: [],
+      idea: 'a metric, in pounds per square foot, of combustible material per floor area'
     }, {
-      term: 'flame-spread rating'
+      term: 'flame-spread rating',
+      also: [],
+      pics: [],
+      idea: 'a metric, with 0 for cement-asbestos board and 100 for wood floors, representing how fast a fire spreads along a surface in a room'
     }, {
-      term: 'fuel-contribution rating'
+      term: 'fuel-contribution rating',
+      also: [],
+      pics: [],
+      idea: 'a metric for how much an interior finish material can contribute to a fire'
     }, {
-      term: 'smoke-developed rating'
+      term: 'smoke-developed rating',
+      also: [],
+      pics: [],
+      idea: 'a metric for how much smoke an interior finish material gives off when it burns'
     }, {
-      term: 'liquid-filled column'
+      term: 'liquid-filled column',
+      also: [],
+      pics: [],
+      idea: 'a hollow steel column, filled with water, which helps absorb heat in a fire'
     }, {
-      term: 'intumescent paint'
+      term: 'intumescent paint',
+      also: [],
+      pics: [],
+      idea: 'paint that swells up into a thick insulating layer when exposed to high heat in a fire'
     }, {
-      term: 'fire-resistance rating'
+      term: 'fire-resistance rating',
+      also: ['fire-rated'],
+      pics: [],
+      idea: 'number of hours that a part in a building can withstand fire exposure before collapsing or failing as a smoke and hot gas barrier'
     }, {
-      term: 'fire-rated'
+      term: 'fire-rated',
+      also: ['fire-resistance rating'],
+      pics: [],
+      idea: 'a part in a building with an acceptable "fire-resistance rating"'
     }, {
-      term: 'fireproofing'
+      term: 'fireproofing',
+      also: [],
+      pics: [],
+      idea: 'materials like gypsum and concrete that are used to make parts of a building more resistant to fire'
     }, {
-      term: 'draft-stop'
+      term: 'draft-stop',
+      also: [],
+      pics: [],
+      idea: 'a partition within an attic space or above a suspended ceiling'
     }, {
-      term: 'firebreak'
+      term: 'firebreak',
+      also: [],
+      pics: [],
+      idea: 'an open space around a building (or district)'
     }, {
-      term: 'automatic-closing fire assembly'
+      term: 'automatic-closing fire assembly',
+      also: [],
+      pics: [],
+      idea: 'any type of fire-door or fire-window that will close automatically in the event of a fire'
     }, {
-      term: 'class A, B, C, D, E'
+      term: 'class A, B, C, D, E',
+      also: [],
+      pics: [],
+      idea: 'class A is a fire-door or fire-window with a 3-hour rating, while class E has a 45-minute rating'
     }, {
-      term: 'fire wall'
+      term: 'fire wall',
+      also: [],
+      pics: [],
+      idea: 'a fire-resistant wall that extends from the foundation up to a parapet above the roof line'
     }, {
-      term: 'fire separation'
+      term: 'fire separation',
+      also: ['occupancy separation'],
+      pics: [],
+      idea: 'a fire-resistant floor, wall, roof, or ceiling, to confine the spread of a fire'
     }, {
-      term: 'occupancy separation'
+      term: 'occupancy separation',
+      also: ['fire separation'],
+      pics: [],
+      idea: 'in a mixed-occupancy building, a "fire separation" between occupant spaces'
     }, {
-      term: 'fire area'
+      term: 'fire area',
+      also: [],
+      pics: [],
+      idea: 'a region of a building enclosed by fire-rated construction'
     }, {
-      term: 'standpipe'
+      term: 'standpipe',
+      also: [],
+      pics: [],
+      idea: 'vertical water pipe to supply fire hoses on every storey'
     }, {
-      term: 'fire hydrant'
+      term: 'fire hydrant',
+      also: [],
+      pics: [],
+      idea: 'the thing on the sidewalk that dogs like'
     }, {
-      term: 'sprinkler system'
+      term: 'sprinkler system',
+      also: [],
+      pics: [],
+      idea: 'ceiling-mounted network of pipes and sprinkler heads'
     }, {
-      term: 'preaction system'
+      term: 'preaction system',
+      also: [],
+      pics: [],
+      idea: 'a "sprinkler system" where the pipes are filled with pressurized air instead of water, which is filled with water when a fire is detected'
     }, {
-      term: 'exit'
+      term: 'exit',
+      also: [],
+      pics: [],
+      idea: 'an enclosed, protected route, from an "exit access" point to an "exit discharge" point outside'
     }, {
-      term: 'fire escape'
+      term: 'fire escape',
+      also: [],
+      pics: [],
+      idea: 'a fire-rated stairway outside a building'
     }, {
-      term: 'exit light'
+      term: 'exit light',
+      also: [],
+      pics: [],
+      idea: 'those signs that say "EXIT"'
     }, {
-      term: 'emergency lighting'
+      term: 'emergency lighting',
+      also: [],
+      pics: [],
+      idea: 'lights that work during a power failure'
     }, {
-      term: 'well'
+      term: 'well',
+      also: [],
+      pics: [],
+      idea: 'a shaft in building (for stairs, elevators, air or light)'
     }]
   }, {
     comment: '# =========================================',
