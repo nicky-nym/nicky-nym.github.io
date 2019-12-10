@@ -1539,7 +1539,15 @@
       idea: ''
     }, {
       term: 'stop chamfer',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
       term: "Lambert's law",
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
       term: 'albedo',
       also: [],
       pics: [],
@@ -1791,7 +1799,15 @@
       idea: ''
     }, {
       term: 'arabesque',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
       term: "calf's tongue",
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
       term: 'scallop',
       also: [],
       pics: [],
@@ -1808,7 +1824,15 @@
       idea: ''
     }, {
       term: 'boltel',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
       term: "Arron's rod",
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
       term: 'cable molding',
       also: [],
       pics: [],
@@ -2160,8 +2184,15 @@
       idea: ''
     }, {
       term: 'outrigger',
-
-      term: 'staggered course of shingles,
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'staggered course of shingles',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
       term: 'rafter tail',
       also: [],
       pics: [],
