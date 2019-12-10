@@ -1063,367 +1063,1631 @@
       pics: [],
       idea: ''
     }, {
-      term: '~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~',
+      term: 'pavilion',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~',
+      term: 'porch',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'porte',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'postern',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'portal',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'cortile',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'atrium',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'courtyard',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'court',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'piloti',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'quad',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'pedestrian mall',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'promenade',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'alameda',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'galleria',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'allee',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'arbor',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'trellis',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'pergola',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'bagh',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'beam ceiling',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'plafond',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'luminous ceiling',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'rammed earth',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'hermitage',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'interlacing/intersecting arcade',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'gargoyle',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'alure/allure',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'parametric modeling',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'insulating concrete (pearlite)',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'vermiculite',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'air-entraining agent',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'sonotube',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'feasibility study',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: '4-inch cubical module coordinates',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'restrictive covenant (mutual agreement between neighbors? e.g. no fossil fuels)',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'heavy-timber construction/mill construction (vs. balloon frame)',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'building area (vs. floor area)',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'mall (as a building code term)',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'organic (vs. geometric)',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'anomaly',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'barrier-free ergonomics',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'universal design',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'detectable warning',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'proposal (design proposal)',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'amenity',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'archetype (e.g. midrise quad archetype)',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'overdoor',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'sconcheon / esconson / scuncheon',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'louvered door',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'dutch door',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'batten door',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'jib door / gib door',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'sketch',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'transformer vault',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'substation',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'raceway (surface or underfloor)',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'outlet',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'switch',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'rivet',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'inglenook',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'chimney',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'subfloor',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'underlayment',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'metal decking',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'acoustic decking',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'raised flooring system (access flooring system)',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'linoleum',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'rubber tile',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'turret',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'bartizau',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'postern',
       also: [],
       pics: [],
       idea: ''
     }, {
-      term: '',
+      term: 'barbicon',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'drawbridge',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'moat',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'machicolation',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'pile foundation',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'batter pile',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'stilt',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'arcuate',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'cant',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'quadrant',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'helix',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'mail slot',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'doorplate',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'panic bar',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'stepwell',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'insula',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'dogtrot',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'breezeway',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'crescent',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'terrace',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'mew',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'easement',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'chamfer',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'stop chamfer',
+      term: "Lambert's law",
+      term: 'albedo',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'parabolic reflector',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'collimate',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'baffle',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'sconce',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'coefficient of utilization',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'average maintained illuminance',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'daylighting',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'crosslight',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'counterlight',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'daylight factor',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'heliodon',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'light shelf',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'light pipe (solar tube, light tube)',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'corbeling (corbel)',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'corbie gable',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'corbiestop',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'fractable',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'dripstone',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'embrasure',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'water course',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'scarcement',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'string course',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'patina',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'intercolumnation (pycnostyle, systyle, eustyle, diastyle, araeostyle)',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'accouplement',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'fluting',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'mutule',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'metope',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'triglyph',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'taenia',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'dentil',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'egg and dart',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'fillet',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'sgraffito',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'relief (bas-relief, alto-relief)',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'mural',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'applique',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'emboss',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'engrave',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'openwork',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'filigree',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'medallion',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'cartouche',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'grotesque',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'antic',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'gargoyle',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'imbrication',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'herringbone',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'strapwork',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'arabesque',
+      term: "calf's tongue",
+      term: 'scallop',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'purfle',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'cove',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'boltel',
+      term: "Arron's rod",
+      term: 'cable molding',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'bead',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'astragal',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'baguette',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'reeding',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'picture rail',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'plate rail',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'chair rail',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'broken pediment',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'console',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'return',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'coronet',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'cistern',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'aquaduct',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'reservoir',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'water tower',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'water main',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'water meter',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'shutoff valve',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'riser',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'water heater',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'sweep fitting',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'wye',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'tee',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'cross',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'crossover',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'drainage system',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'stack vent',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'building sewer',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'public sewer',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'sanitary sewer',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'storm sewer',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'septic tank',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'gable',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'pitch (rise:run)',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'rise vs run',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'hipped gable',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'gambrel roof',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'mansard roof',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'hipped roof',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'barrel roof',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'lean-to',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'appentice',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'sawtooth roof',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'skylight',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'eaves',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'monitor',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'ridge',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'valley',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'hip',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'dormer',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'shed dormer',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'gable dormer',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'link dormer',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'eyebrow',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'saddle',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'cricket',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'cheek',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'gutter',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'scupper',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'king post (king truss)',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'queen post (queen truss)',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'arch brace',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'hammer-beam roof',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'knee wall',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'plumb',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'fly rafter',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'barge couple',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'bargeboard',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'vergeboard',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'outrigger',
+
+      term: 'staggered course of shingles,
+      term: 'rafter tail',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'tail cut',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'box cornice (vs. open cornice)',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'cornice return',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'diminishing course',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'standing seam',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'alcove',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'tight fit (vs. loose fit)',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'enfilade',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'interstice',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'headwall (and endwall)',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'cobblestone',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'pea gravel',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'preferred angle',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'newel drop',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'double grid',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'tributary',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'diagonal bracing',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'knee brace',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'bearing (and azimuth)',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'berm',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'trombe wall',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'solar chimney',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'green roof',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'green wall',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'living wall',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'biowall',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'green facade',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'dromos',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'rock-cut tomb',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'causeway',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'syrinx',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'pediment',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'monopteron',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'caravansary',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'rath',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'kairo',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'supercolumniation',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'aisle',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'pipe batten',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'gallery',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'tier',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'lounge',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'marquee',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'vault',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'severy',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'buttress',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'pinnacle',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'amortizement',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'nosing',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'barrel vault',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'conical vault',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'annular vault',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'compound vault',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'engaged column',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'canton',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'return',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'parapet',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'saddle coping',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'splayed coping',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'partition',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'interior wall',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'exterior wall',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'dwarf wall',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'corner board',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'rake',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'dado',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'spandrel',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'batter',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'gabion',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'window unit',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'frame',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'sash',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'dressing',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'mullion',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'muntin',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'apron',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'skirt',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'stool',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'horn',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'sill',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'box-head window',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'drop window',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'casement',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'jalousie',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'french window',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'cremorne bolt',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'balconet',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'ribbon window',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'clerestory',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'borrowed light',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'gable window',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'oriel',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'awning',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'window box',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'aedicule (aedicula, edicule)',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'oxeye',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'lucarne',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'internal dormer',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'bow window',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'can bay window',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'bay window',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'window setInterval',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'tracery',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'cinquefoil',
+      also: [],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'ferrule',
       also: [],
       pics: [],
       idea: ''
