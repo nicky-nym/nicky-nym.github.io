@@ -89,6 +89,11 @@
       pics: [],
       idea: 'a tunnel-like arch, where the vector of the tunnel is not perpendicular to the plane of the front entrance wall'
     }, {
+      term: 'arcuate',
+      also: ['arch'],
+      pics: [],
+      idea: 'something that done using arches'
+    }, {
       term: 'arriere-voussoirs',
       also: [],
       pics: [],
@@ -123,6 +128,11 @@
       pics: [],
       idea: 'a section of a beam that has been made thicker to support more load (which may make the beam look arched)'
     }, {
+      term: 'beam ceiling',
+      also: [],
+      pics: [],
+      idea: 'a ceiling supported by visible cross beams'
+    }, {
       term: 'coffer',
       also: [],
       pics: [],
@@ -132,6 +142,16 @@
       also: ['squinch'],
       pics: [],
       idea: 'an arch-like thing above the corner of a square room, so that the room can have an octagonal (or circular) roof/dome on top (an alternative to a "squinch")'
+    }, {
+      term: 'plafond',
+      also: [],
+      pics: [],
+      idea: 'an ornamental ceiling, flat or vaulted'
+    }, {
+      term: 'galleria',
+      also: [],
+      pics: [],
+      idea: 'a "pedestrian mall" with a vaulted ceiling'
     }, {
       term: 'severy',
       also: [],
@@ -251,7 +271,82 @@
   }, {
     comment: '# =========================================',
     topic: 'door',
-    terms: []
+    terms: [{
+      term: 'door, swinging',
+      also: ['door'],
+      pics: [],
+      idea: 'any regular hinged door'
+    }, {
+      term: 'door, folding',
+      also: ['door'],
+      pics: [],
+      idea: 'an accoriaon door, like the ones between sections of a hotel conference room'
+    }, {
+      term: 'door, sliding',
+      also: ['door', 'door, pocket'],
+      pics: [],
+      idea: 'a pocket door, or a sliding barn door'
+    }, {
+      term: 'door, pocket',
+      also: ['door', 'door, sliding'],
+      pics: [],
+      idea: ''
+    }, {
+      term: 'door, double',
+      also: ['door'],
+      pics: [],
+      idea: 'a pair of doors hung in the same doorframe'
+    }, {
+      term: 'door, revolving',
+      also: ['door'],
+      pics: [],
+      idea: 'four door wings (or door leaves), at 90 degree angles, that rotate on a center point'
+    }, {
+      term: 'door wing',
+      also: ['door leaf'],
+      pics: ['door'],
+      idea: 'one of leaves of a revolving door or a double door'
+    }, {
+      term: 'door, overhead',
+      also: ['door'],
+      pics: [],
+      idea: 'like a garage door, that either rolls up or swings up'
+    }, {
+      term: 'door, louvered',
+      also: [],
+      pics: [],
+      idea: 'a door with angled slats that let air through'
+    }, {
+      term: 'door, dutch',
+      also: [],
+      pics: [],
+      idea: 'top and bottom half each swing separately'
+    }, {
+      term: 'door, batten',
+      also: [],
+      pics: [],
+      idea: 'a wood door with diagonal bracing, like a barn-style door or old-fashioned garage door'
+    }, {
+      term: 'door, jib',
+      also: ['door, gib'],
+      pics: [],
+      idea: 'swinging door that is flush with the wall and concealed by matching the wall paneling'
+    }, {
+      term: 'doorframe',
+      also: ['door'],
+      pics: [],
+      idea: 'the frame around the opening for the door(s)'
+    }, {
+      term: 'overdoor',
+      also: ['door'],
+      pics: [],
+      idea: 'an ornamental panel place where a transom window would be'
+    }, {
+      term: 'sconcheon',
+      also: ['esconson', 'scuncheon'],
+      pics: [],
+      idea: 'the part of the door frame visible between the door opening and the wall'
+    }]
   }, {
     comment: '# =========================================',
     topic: 'fire',
@@ -389,7 +484,47 @@
   }, {
     comment: '# =========================================',
     topic: 'floor',
-    terms: []
+    terms: [{
+      term: 'acoustic decking',
+      also: ['floor', 'metal decking'],
+      pics: [],
+      idea: 'metal decking with sound-absorbing fiber inserts in the ribs'
+    }, {
+      term: 'detectable warning',
+      also: [],
+      pics: [],
+      idea: 'those bumpy yellow mats in the pavement at wheelchair curb cuts and by train tracks or other hazards'
+    }, {
+      term: 'linoleum',
+      also: ['floor'],
+      pics: [],
+      idea: 'flooring material: burlap or canvas coated with linseed oil, cork, rosin, etc.'
+    }, {
+      term: 'metal decking',
+      also: ['floor', 'acoustic decking'],
+      pics: [],
+      idea: 'steel sheet bent into series of ribs, for use as a floor deck'
+    }, {
+      term: 'raised flooring system',
+      also: ['floor', 'access flooring system'],
+      pics: [],
+      idea: 'grid of movable floor tiles that sit on top of vertical support pedestals'
+    }, {
+      term: 'rubber tile',
+      also: ['floor'],
+      pics: [],
+      idea: 'flooring material: either natural rubber or synthetic rubber'
+    }, {
+      term: 'subfloor',
+      also: ['floor', 'underlayment'],
+      pics: [],
+      idea: 'e.g. bare plywood floor platform nailed to floor joists, on which the finished floor is attached'
+    }, {
+      term: 'underlayment',
+      also: ['floor', 'subfloor'],
+      pics: [],
+      idea: 'e.g. plywood laid over a subfloor to make a smooth, even surface for carpet or other finished floor'
+    }]
   }, {
     comment: '# =========================================',
     topic: 'fort',
@@ -398,6 +533,16 @@
     comment: '# =========================================',
     topic: 'foundation',
     terms: [{
+      term: 'batter pile',
+      also: ['pile'],
+      pics: [],
+      idea: 'a pile driven at an angle, instead of vertically'
+    }, {
+      term: 'stilt',
+      also: ['pile'],
+      pics: [],
+      idea: 'a pile that supports a building over water (or land)'
+    }, {
       term: 'bulkhead',
       also: ['cellar'],
       pics: [],
@@ -414,9 +559,14 @@
       idea: 'floor at (or nearest) ground level'
     }, {
       term: 'pile foundation',
-      also: [],
+      also: ['pile', 'micropile', 'stilt'],
       pics: [],
       idea: 'a foundation made up of a grid of columns sunk into the ground, with no basement, no crawspace, no slab foundation'
+    }, {
+      term: 'piloti',
+      also: [],
+      pics: [],
+      idea: 'columns from the ground to 2nd floor of a building with an open ground floor'
     }, {
       term: 'subbasement',
       also: [],
@@ -432,15 +582,80 @@
     comment: '# =========================================',
     topic: 'fresh air',
     terms: [{
+      term: 'alameda',
+      also: ['promenade', 'allee'],
+      pics: [],
+      idea: 'a "promenade" lined with shade trees'
+    }, {
+      term: 'allee',
+      also: ['alameda', 'promenade'],
+      pics: [],
+      idea: 'a wide "promenade" lined with trees'
+    }, {
+      term: 'arbor',
+      also: ['trellis', 'pergola'],
+      pics: [],
+      idea: 'a latticework arch or shelter covered in climbing plants'
+    }, {
+      term: 'atrium',
+      also: ['courtyard'],
+      pics: [],
+      idea: 'an open courtyard in the middle of a building'
+    }, {
+      term: 'bagh',
+      also: [],
+      pics: [],
+      idea: 'an enclosed garden (in India)'
+    }, {
+      term: 'cortile',
+      also: ['palazzo'],
+      pics: [],
+      idea: 'the big, main courtyard in a palazzo'
+    }, {
+      term: 'court',
+      also: ['courtyard'],
+      pics: [],
+      idea: 'an outdoor area mostly (or fully) surrounded by walls or buildings'
+    }, {
+      term: 'courtyard',
+      also: ['court', 'atrium', 'quad'],
+      pics: [],
+      idea: 'an outdoor area fully surrounded by walls or buildings'
+    }, {
       term: 'loggia',
       also: [],
       pics: [],
       idea: 'a room, gallery, or corrider, usually on an upper level, that is open to the outdoors on one side, with a series of arches or columns'
     }, {
+      term: 'pedestrian mall',
+      also: ['galleria'],
+      pics: [],
+      idea: 'a shopping district street (sometimes covered) where no cars or bikes are ever allowed'
+    }, {
+      term: 'pergola',
+      also: ['trellis', 'arbor', 'colonnade'],
+      pics: [],
+      idea: 'two rows of columns supporting an open trelliswork roof, with climbing plants'
+    }, {
       term: 'peristyle',
       also: ['colonnade'],
       pics: [],
       idea: 'a porch with a row of columns surrounding a courtyard'
+    }, {
+      term: 'promenade',
+      also: ['alameda'],
+      pics: [],
+      idea: 'a public place for leisurely strolling'
+    }, {
+      term: 'quad',
+      also: ['courtyard', 'quadrangle'],
+      pics: [],
+      idea: 'a rectangular courtyard'
+    }, {
+      term: 'trellis',
+      also: ['arbor', 'pergola'],
+      pics: [],
+      idea: 'a frame supporting latticework for growing climbing plants'
     }]
   }, {
     comment: '# =========================================',
@@ -449,7 +664,7 @@
       term: 'moat',
       also: [],
       pics: [],
-      idea: 'the thing with the drawbridge over it!'
+      idea: 'trench filled with water, with a drawbridge over it!'
     }, {
       term: 'raised bed',
       also: [],
@@ -465,10 +680,85 @@
     comment: '# =========================================',
     topic: 'light',
     terms: [{
+      term: 'albedo',
+      also: [],
+      pics: [],
+      idea: 'ratio, 0 (pitch black) to 1 (bright white): light reflected by a surface divided by total incoming light'
+    }, {
+      term: 'average maintained illuminance (AMI)',
+      also: ['coefficient of utilization (CU)'],
+      pics: [],
+      idea: 'AMI = (source lumens) * CU * (light loss factor) / work area, [where light loss factor includes things like dirty surfaces, furniture partitions, etc.]'
+    }, {
+      term: 'baffle',
+      also: [],
+      pics: [],
+      idea: 'a louver to reflect light so that it shines mostly one direction'
+    }, {
+      term: 'coefficient of utilization (CU)',
+      also: ['average maintained illuminance (AMI)'],
+      pics: [],
+      idea: 'ratio: light reaching a work surface divided by total light from a fixture, accounting for size and shape of a room, and for the albedo of its walls'
+    }, {
+      term: 'collimate',
+      also: ['parabolic reflector'],
+      pics: [],
+      idea: 'collimated light is light where photons are travelling in parallel lines'
+    }, {
+      term: 'counterlight',
+      also: ['crosslight'],
+      pics: [],
+      idea: 'light from windows in opposite walls (not adjacent walls)'
+    }, {
+      term: 'crosslight',
+      also: ['counterlight'],
+      pics: [],
+      idea: 'light from windows in adjacent walls (not opposite walls)'
+    }, {
+      term: 'daylighting',
+      also: [],
+      pics: [],
+      idea: 'using sunlight to light a building'
+    }, {
+      term: 'daylight factor',
+      also: [],
+      pics: [],
+      idea: 'ratio: amount of sunlight on the floor of a room divided by the amount there would be without any walls or ceiling above the floor'
+    }, {
+      term: 'heliodon',
+      also: [],
+      pics: [],
+      idea: 'mechanical device to rotate a carboard model of a building towards a light source that represents the sun, to simulate time-of-year and time-of-day'
+    }, {
+      term: "Lambert's law",
+      also: [],
+      pics: [],
+      idea: 'illumination on a face is proportional to the cosine of the angle of incidence of light'
+    }, {
+      term: 'light pipe',
+      also: ['solar tube', 'light tube'],
+      pics: [],
+      idea: 'tube with reflective lining to bring light from a roof skylight down into a lower room ceiling'
+    }, {
+      term: 'light shelf',
+      also: [],
+      pics: [],
+      idea: 'horizontal awning, not right above a window, but set slightly lower, mid-window, so that reflects light into the upper window while shading the lower window (example: Wurster Hall)'
+    }, {
       term: 'oculus',
       also: [],
       pics: [],
       idea: 'horizontal hole at the apex of a dome, to let in light, or vertical hole near the top of a dome or vault, or a horizontal hole in a domed ceiling'
+    }, {
+      term: 'parabolic reflector',
+      also: ['collimate'],
+      pics: [],
+      idea: 'a lighting reflector with a parabolic shape'
+    }, {
+      term: 'sconce',
+      also: [],
+      pics: [],
+      idea: 'a wall-mounted light (e.g. with an ornamental fixture)'
     }]
   }, {
     comment: '# =========================================',
@@ -484,6 +774,16 @@
       pics: [],
       idea: 'solid places inside walls, as they appear in solid fill ink on a blueprint'
     }, {
+      term: 'pavilion',
+      also: [],
+      pics: [],
+      idea: 'a part of a facade that projects out, often with a higher roof, and more ornamentation'
+    }, {
+      term: 'porch',
+      also: [],
+      pics: [],
+      idea: 'a covered entrance area outside a door'
+    }, {
       term: 'stepped stories',
       also: ['ziggurat-style set-back'],
       pics: [],
@@ -496,8 +796,32 @@
     }]
   }, {
     comment: '# =========================================',
+    topic: 'MEP (mechanical, electrical, plumbing)',
+    terms: [{
+      term: 'raceway,underfloor',
+      also: ['raceway, wall surface'],
+      pics: [],
+      idea: 'a channel to run electrical wires and data cables through'
+    }, {
+      term: 'outlet',
+      also: [],
+      pics: [],
+      idea: 'a 2-prong or 3-prong electrical outlet'
+    }, {
+      term: 'switch',
+      also: [],
+      pics: [],
+      idea: 'a light switch (or other switch)'
+    }]
+  }, {
+    comment: '# =========================================',
     topic: 'ornament',
     terms: [{
+      term: 'anomaly',
+      also: [],
+      pics: [],
+      idea: 'an intentional break in a regular layout or pattern (of tiles, columns, windows, etc.)'
+    }, {
       term: 'chamfered',
       also: [],
       pics: [],
@@ -518,6 +842,11 @@
       pics: [],
       idea: 'ornamental, interlaced geometric patterns cut into a flat solid such as a gable end or heating vent duct cover'
     }, {
+      term: 'gargoyle',
+      also: [],
+      pics: [],
+      idea: 'carved figure of a creature that projects from a gutter'
+    }, {
       term: 'rustication',
       also: [],
       pics: [],
@@ -537,6 +866,11 @@
       pics: [],
       idea: 'a narrow passageway between buildings'
     }, {
+      term: 'alure',
+      also: ['allure', 'parapet', 'cloister'],
+      pics: [],
+      idea: 'a passageway behind parapets, or along a cloister'
+    }, {
       term: 'cloister',
       also: [],
       pics: [],
@@ -552,6 +886,21 @@
       pics: [],
       idea: 'a hall or walkway, often narrow, that connects two buildings (or rooms), (typically without doors except at the two ends?)'
     }, {
+      term: 'portal',
+      also: [],
+      pics: [],
+      idea: 'a big, fancy doorway or gateway entrance'
+    }, {
+      term: 'porte cochere',
+      also: ['postern'],
+      pics: [],
+      idea: 'a driveway that runs through a building into a courtyard'
+    }, {
+      term: 'postern',
+      also: ['porte cochere'],
+      pics: [],
+      idea: 'a pedestrian side entrance next to a "porte cochere"'
+    }, {
       term: 'portico',
       also: [],
       pics: [],
@@ -562,10 +911,6 @@
       pics: [],
       idea: 'an alley that passes underneath a building'
     }]
-  }, {
-    comment: '# =========================================',
-    topic: '______________',
-    terms: []
   }, {
     comment: '# =========================================',
     topic: 'railing',
@@ -703,6 +1048,11 @@
     comment: '# =========================================',
     topic: 'structures',
     terms: [{
+      term: 'barbicon',
+      also: [],
+      pics: [],
+      idea: 'an outer building, like a drawbridge gate or watchtower, on the approach to a town or castle'
+    }, {
       term: 'carriage house',
       also: [],
       pics: [],
@@ -726,12 +1076,17 @@
       term: 'drawbridge',
       also: [],
       pics: [],
-      idea: ''
+      idea: 'bridge that can be raised up'
     }, {
       term: 'drone landing pad',
       also: [],
       pics: [],
       idea: 'like a heli-pad, but maybe smaller'
+    }, {
+      term: 'hermitage',
+      also: [],
+      pics: [],
+      idea: 'a secluded dwelling'
     }, {
       term: 'mill wheel',
       also: [],
@@ -752,15 +1107,40 @@
       also: ['rise, low-rise', 'rise, mid-rise'],
       pics: [],
       idea: 'has elevators'
+    }, {
+      term: 'substation',
+      also: [],
+      pics: [],
+      idea: 'a smaller power station where current is converted from DC to AC, or voltage is converted'
+    }, {
+      term: 'transformer vault',
+      also: [],
+      pics: [],
+      idea: 'a fire-rated room for transformer equipment, ususally ventilated to the outside, and usually at or below grade'
     }]
   }, {
     comment: '# =========================================',
     topic: 'tower',
     terms: [{
+      term: 'bartizau',
+      also: ['turret'],
+      pics: [],
+      idea: 'an overhanging turret that juts out from a wall, often at a corner or near a gate'
+    }, {
+      term: 'chimney',
+      also: ['fireplace'],
+      pics: [],
+      idea: 'vertical shaft to carry fireplace smoke outside'
+    }, {
       term: 'chimney pot',
       also: [],
       pics: [],
-      idea: ''
+      idea: 'ornamental hat at the top of a chimney'
+    }, {
+      term: 'machicolation',
+      also: [],
+      pics: [],
+      idea: 'an parapet that overhangs an exterior wall, supported by corbeled arches'
     }, {
       term: 'spire',
       also: [],
@@ -803,7 +1183,7 @@
       idea: ''
     }, {
       term: 'turret',
-      also: [],
+      also: ['tourelle'],
       pics: [],
       idea: 'a mini-tower glued onto the side of a bigger tower'
     }]
@@ -812,7 +1192,7 @@
     topic: 'wall',
     terms: [{
       term: 'blind arcade',
-      also: [],
+      also: ['interlacing arcade'],
       pics: [],
       idea: 'a row of columns and arches set directly against a flat wall, as decoration'
     }, {
@@ -881,10 +1261,50 @@
       pics: [],
       idea: 'a buttress with a profile that looks like a /'
     }, {
+      term: 'corbeling',
+      also: ['corbel'],
+      pics: [],
+      idea: 'row(s) of brick (or stone) that project out slightly over the row(s) below'
+    }, {
+      term: 'corbie gable',
+      also: ['corbiestep', 'fractable'],
+      pics: [],
+      idea: 'a roof gable with "corbiestep" coping'
+    }, {
+      term: 'corbiestep',
+      also: ['corbie gable'],
+      pics: [],
+      idea: 'ornamental step-like coping on a gable wall above a roof line'
+    }, {
       term: 'cross-bracing',
       also: [],
       pics: [],
       idea: 'X-shaped support beams that are one, two, or many stories tall'
+    }, {
+      term: 'dripstone',
+      also: ['label'],
+      pics: [],
+      idea: 'a slanted stone projection, on a cornice over a door or window'
+    }, {
+      term: 'embrasure',
+      also: [],
+      pics: [],
+      idea: 'an interior widening of the wall opening for door or window, so the opening area is larger on the inside of the wall than on the outside'
+    }, {
+      term: 'fractable',
+      also: ['corbie gable'],
+      pics: [],
+      idea: 'ornamental gable wall coping above a roof line'
+    }, {
+      term: 'interlacing arcade',
+      also: ['intersecting arcade', 'blind arcade', 'arcade'],
+      pics: [],
+      idea: 'a blind arcade with arches that span the even columns, and interlaced arches spanning the odd columns'
+    }, {
+      term: 'label',
+      also: ['dripstone'],
+      pics: [],
+      idea: 'a molding or dripstone, with a horizontal part over a door or window, and then shorter vertical segments down a bit on the sides'
     }, {
       term: 'niche',
       also: [],
@@ -896,10 +1316,25 @@
       pics: [],
       idea: 'decorative wall panels, typically wooden'
     }, {
-      term: 'string course',
+      term: 'rammed earth',
+      also: ['pise', 'pisay'],
+      pics: [],
+      idea: 'a wall made of compressed dirt, clay, sand, etc.'
+    }, {
+      term: 'scarcement',
       also: [],
       pics: [],
+      idea: 'ledge on a wall where there is a setback in the wall'
+    }, {
+      term: 'string course',
+      also: ['water course'],
+      pics: [],
       idea: 'in a brick or stone wall, a horizontal row (of bricks or stones) that juts out a couple inches, typically at something above head height'
+    }, {
+      term: 'water course',
+      also: ['string course', 'water table'],
+      pics: [],
+      idea: 'a string course or ledge with a downward slanted top surface'
     }, {
       term: 'weathering',
       also: [],
@@ -989,6 +1424,16 @@
     comment: '# =========================================',
     topic: 'not-parts-of-a-building',
     terms: [{
+      term: '4-inch cubical module coordinates',
+      also: ['modular coordination'],
+      pics: [],
+      idea: 'a building component planning grid based on 4" or 100mm cubical voxels'
+    }, {
+      term: 'amenity',
+      also: [],
+      pics: [],
+      idea: 'a convenient feature'
+    }, {
       term: 'anamorphosis',
       also: [],
       pics: [],
@@ -999,10 +1444,25 @@
       pics: [],
       idea: ''
     }, {
+      term: 'archetype',
+      also: [],
+      pics: [],
+      idea: 'the pattern that all instances of a kind are based on (e.g. midrise quad archetype)'
+    }, {
+      term: 'barrier-free ergonomics',
+      also: ['ergonomics', 'accessibility', 'universal design'],
+      pics: [],
+      idea: 'buildings (and places) that are fully accessible by everyone'
+    }, {
       term: 'belvedere',
       also: [],
       pics: [],
       idea: 'any architectural structure sited to take advantage of a nice view (could be a whole building, or just a turret or balcony)'
+    }, {
+      term: 'building area',
+      also: ['floor area'],
+      pics: [],
+      idea: 'total area inside the exterior walls of the building, excluding courts (and vent shafts), but including other areas covered by the ceiling above'
     }, {
       term: 'building science',
       also: [],
@@ -1019,10 +1479,25 @@
       pics: [],
       idea: ''
     }, {
+      term: 'feasibility study',
+      also: [],
+      pics: [],
+      idea: 'analysis of the cost and technical feasibility of a proposed project'
+    }, {
       term: 'forced perspective',
       also: [],
       pics: [],
       idea: '(e.g. stone wall where upper courses are narrower than lower courses, or flight of stairs where treads and risers gradually diminish in size)'
+    }, {
+      term: 'organic',
+      also: ['geometric'],
+      pics: [],
+      idea: 'irregular shapes that look like plants or animals'
+    }, {
+      term: 'parametric modeling',
+      also: ['feature-based modeling'],
+      pics: [],
+      idea: 'systems of rules and constraints to define 3D objects'
     }, {
       term: 'pedestrian revivalist',
       also: [],
@@ -1030,30 +1505,54 @@
       idea: ''
     }, {
       term: 'post-occupancy studies',
-      also: [],
+      also: ['postoccupancy evalution'],
       pics: [],
-      idea: ''
+      idea: "study of a completed building's functionality"
+    }, {
+      term: 'proposal',
+      also: ['design proposal'],
+      pics: [],
+      idea: 'offering a plan for consideration'
     }, {
       term: 'prosopopoeia',
       also: [],
       pics: [],
       idea: 'something in the garden/landscape that speaks directly to the passerby'
     }, {
+      term: 'restrictive covenant',
+      also: [],
+      pics: [],
+      idea: 'agreement (e.g. among property owners) that restricts the uses of a property (e.g. no burning fossil fuels)'
+    }, {
       term: 'rotation',
       also: [],
       pics: [],
       idea: ''
+    }, {
+      term: 'sketch',
+      also: [],
+      pics: [],
+      idea: 'quickly done preliminary representation of the main features of something, without exact details'
     }, {
       term: 'stereotomy',
       also: [],
       pics: [],
       idea: 'the cutting of solids'
     }, {
+      term: 'universal design',
+      also: ['barrier-free ergonomics', 'ergonomics', 'accessibility'],
+      pics: [],
+      idea: 'designing products and buildings to be accessible to everyone'
+    }, {
       term: 'xylograph',
       also: ['xylo'],
       pics: [],
       idea: ''
     }]
+  }, {
+    comment: '# =========================================',
+    topic: '______________',
+    terms: []
   }, {
     comment: '# =========================================',
     topic: 'TODO',
@@ -1063,605 +1562,130 @@
       pics: [],
       idea: ''
     }, {
-      term: 'pavilion',
-      also: [],
+      term: 'insulating concrete',
+      also: ['concrete', 'pearlite', 'air-entraining agent'],
       pics: [],
-      idea: ''
-    }, {
-      term: 'porch',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'porte',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'postern',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'portal',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'cortile',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'atrium',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'courtyard',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'court',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'piloti',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'quad',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'pedestrian mall',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'promenade',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'alameda',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'galleria',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'allee',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'arbor',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'trellis',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'pergola',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'bagh',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'beam ceiling',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'plafond',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'luminous ceiling',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'rammed earth',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'hermitage',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'interlacing/intersecting arcade',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'gargoyle',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'alure/allure',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'parametric modeling',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'insulating concrete (pearlite)',
-      also: [],
-      pics: [],
-      idea: ''
+      idea: 'concrete made with a foaming agent or lightweight aggregate (like perlite) that gives low thermal conductivity'
     }, {
       term: 'vermiculite',
-      also: [],
+      also: ['concrete'],
       pics: [],
-      idea: ''
+      idea: 'a lightweight aggregate of mica that has been expanded into threads'
     }, {
       term: 'air-entraining agent',
-      also: [],
+      also: ['insulating concrete'],
       pics: [],
-      idea: ''
+      idea: 'substance added to concrete to disperse air in insulating concrete'
     }, {
-      term: 'sonotube',
+      term: 'Sonotube',
       also: [],
-      pics: [],
-      idea: ''
+      pics: ['https://www.sonotube.com/UserFiles/ManagedContent/Image-5126b6f7-ee17-4259-9151-260f0e66ab08.jpg'],
+      idea: 'brand name for cardboard tubes used as forms for columns'
     }, {
-      term: 'feasibility study',
-      also: [],
+      term: 'heavy-timber construction',
+      also: ['mill construction', 'balloon frame'],
       pics: [],
-      idea: ''
+      idea: 'thick noncombustible exterior walls, and interior construction without concealed airspaces'
     }, {
-      term: '4-inch cubical module coordinates',
-      also: [],
+      term: 'mall',
+      also: ['shopping mall'],
       pics: [],
-      idea: ''
-    }, {
-      term: 'restrictive covenant (mutual agreement between neighbors? e.g. no fossil fuels)',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'heavy-timber construction/mill construction (vs. balloon frame)',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'building area (vs. floor area)',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'mall (as a building code term)',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'organic (vs. geometric)',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'anomaly',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'barrier-free ergonomics',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'universal design',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'detectable warning',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'proposal (design proposal)',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'amenity',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'archetype (e.g. midrise quad archetype)',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'overdoor',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'sconcheon / esconson / scuncheon',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'louvered door',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'dutch door',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'batten door',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'jib door / gib door',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'sketch',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'transformer vault',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'substation',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'raceway (surface or underfloor)',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'outlet',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'switch',
-      also: [],
-      pics: [],
-      idea: ''
+      idea: 'a building code term describing a complex of adjacent, connected buildings that operate as one building'
     }, {
       term: 'rivet',
       also: [],
       pics: [],
-      idea: ''
+      idea: 'round metal pin for rivetting (metal) plates together'
     }, {
       term: 'inglenook',
-      also: [],
+      also: ['chimney', 'chimney corner', 'fireplace'],
       pics: [],
-      idea: ''
-    }, {
-      term: 'chimney',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'subfloor',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'underlayment',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'metal decking',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'acoustic decking',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'raised flooring system (access flooring system)',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'linoleum',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'rubber tile',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'turret',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'bartizau',
-      also: [],
-      pics: [],
-      idea: ''
+      idea: 'a nook, often with built-in seats, next to a big open fireplace'
     }, {
       term: 'postern',
       also: [],
       pics: [],
-      idea: ''
-    }, {
-      term: 'barbicon',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'drawbridge',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'moat',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'machicolation',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'pile foundation',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'batter pile',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'stilt',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'arcuate',
-      also: [],
-      pics: [],
-      idea: ''
+      idea: 'a small rear gate on a castle or fort'
     }, {
       term: 'cant',
-      also: [],
+      also: ['chamfered'],
       pics: [],
-      idea: ''
+      idea: 'the angled surface (or line) at a chamfered corner'
     }, {
       term: 'quadrant',
       also: [],
       pics: [],
-      idea: ''
+      idea: 'a 90-degree arc of a circle, or one of the four quarters of a plane, numbered 1,2,3,4 counterclockwise from the upper right'
     }, {
       term: 'helix',
       also: [],
       pics: [],
-      idea: ''
+      idea: 'a spiral shape going up the side of a column or tube'
     }, {
       term: 'mail slot',
       also: [],
       pics: [],
-      idea: ''
+      idea: 'opening in a wall or door to drop mail through'
     }, {
       term: 'doorplate',
       also: [],
       pics: [],
-      idea: ''
+      idea: 'door sign with a street address number (or nameplate)'
     }, {
       term: 'panic bar',
       also: [],
       pics: [],
-      idea: ''
+      idea: 'push-bar across the inside of an emergency exit door'
     }, {
       term: 'stepwell',
       also: [],
       pics: [],
-      idea: ''
+      idea: 'water well in India with lots of flights of stairs on the sides of an open atrium'
     }, {
       term: 'insula',
       also: [],
       pics: [],
-      idea: ''
+      idea: 'common Roman apartment building, mixed-use, with retail ground floor'
     }, {
       term: 'dogtrot',
-      also: [],
+      also: ['breezeway'],
       pics: [],
-      idea: ''
+      idea: 'a breezeway between two halves of a house'
     }, {
       term: 'breezeway',
-      also: [],
+      also: ['dogtrot'],
       pics: [],
-      idea: ''
+      idea: 'a covered passage, open to the sides, that connects buildings'
     }, {
       term: 'crescent',
       also: [],
       pics: [],
-      idea: ''
+      idea: 'a curved street with a single curved building along it, or matching rowhouses that look like one structure'
     }, {
       term: 'terrace',
       also: [],
       pics: [],
-      idea: ''
+      idea: 'a row of houses on the top of a slope'
     }, {
       term: 'mew',
       also: [],
       pics: [],
-      idea: ''
+      idea: 'a cul-de-sac of old stables converted to little apartments'
     }, {
       term: 'easement',
-      also: [],
+      also: ['chamfer', 'cant'],
       pics: [],
-      idea: ''
+      idea: 'curved transition between two faces that meet at an angle'
     }, {
       term: 'chamfer',
-      also: [],
+      also: ['cant'],
       pics: [],
-      idea: ''
+      idea: 'beveled surface between two other faces, e.g. a 45-degree chamfer at the corner of a rectangle'
     }, {
       term: 'stop chamfer',
-      also: [],
+      also: ['chamfer'],
       pics: [],
-      idea: ''
-    }, {
-      term: "Lambert's law",
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'albedo',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'parabolic reflector',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'collimate',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'baffle',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'sconce',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'coefficient of utilization',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'average maintained illuminance',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'daylighting',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'crosslight',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'counterlight',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'daylight factor',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'heliodon',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'light shelf',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'light pipe (solar tube, light tube)',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'corbeling (corbel)',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'corbie gable',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'corbiestop',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'fractable',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'dripstone',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'embrasure',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'water course',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'scarcement',
-      also: [],
-      pics: [],
-      idea: ''
-    }, {
-      term: 'string course',
-      also: [],
-      pics: [],
-      idea: ''
+      idea: "a lark's tongue, at the end of a chamfer"
     }, {
       term: 'patina',
       also: [],
