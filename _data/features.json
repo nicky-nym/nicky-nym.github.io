@@ -168,6 +168,11 @@
       pics: [],
       idea: 'one of the types of major rib in a ribbed vault'
     }, {
+      term: 'pipe batten',
+      also: [],
+      pics: [],
+      idea: 'like a shower-curtain rod: a horizontal metal rod, hung from the ceiling, used for hanging other things on (lights, curtains, etc.)'
+    }, {
       term: 'vault',
       also: ['vault, barrel', 'vault, fan', 'vault, groin', 'vault, rib', 'vault, net', 'vault, lierne'],
       pics: [],
@@ -208,6 +213,31 @@
       also: [],
       pics: [],
       idea: 'Small shaft or colonnette which supports a vault rib or group of ribs at their springing. It may rise from the ground or from a corbel set in the masonry.'
+    }, {
+      term: 'vault',
+      also: [],
+      pics: [],
+      idea: 'an arched ceiling/roof over a big room'
+    }, {
+      term: 'barrel vault',
+      also: [],
+      pics: [],
+      idea: 'a vault shaped like half of cylinder (an extruded half-circle)'
+    }, {
+      term: 'conical vault',
+      also: [],
+      pics: [],
+      idea: 'like a barrel vault, but where the radius increase linearly as it is extruded'
+    }, {
+      term: 'annular vault',
+      also: [],
+      pics: [],
+      idea: 'like the top half of a donut: a barrel vault extruded along the path of a circle instead of a line'
+    }, {
+      term: 'compound vault',
+      also: [],
+      pics: [],
+      idea: 'a space where two (or more) vaults intersect (e.g. the vaulted roof over the intersection of two barrel vaulted tunnels)'
     }]
   }, {
     comment: '# =========================================',
@@ -263,6 +293,11 @@
       pics: [],
       idea: 'a structural column -- example: the Pompidou center in Paris (which also has water storage tanks)'
     }, {
+      term: 'double grid',
+      also: [],
+      pics: [],
+      idea: 'structural columns arrangement where rather than being spaced identically, instead every even column is closely spaced and every odd column is fully spaced, so that the columns end up in little 2-by-2 clusters'
+    }, {
       term: 'hypostyle',
       also: [],
       pics: [],
@@ -272,6 +307,16 @@
       also: ['column', 'pycnostyle', 'systyle', 'eustyle', 'diastyle', 'araeostyle'],
       pics: [],
       idea: 'the spacing between columns in a row of columns (systele spacing has the gap twice as wide as the columns, diastyle is three times as wide, and araeostyle is four times'
+    }, {
+      term: 'knee brace',
+      also: [],
+      pics: [],
+      idea: 'a little brace up in the corner between a vertical post and a horizontal beam'
+    }, {
+      term: 'severy',
+      also: ['buttress'],
+      pics: [],
+      idea: 'one of the bays between the two end columns (or buttresses) of two parallel arches'
     }, {
       term: 'pilaster',
       also: [],
@@ -701,6 +746,16 @@
     comment: '# =========================================',
     topic: 'landscape',
     terms: [{
+      term: 'berm',
+      also: [],
+      pics: [],
+      idea: 'a mound of earth (sometimes on its own, and sometimes pushed up against a wall of a building)'
+    }, {
+      term: 'gabion',
+      also: [],
+      pics: [],
+      idea: 'in a retaining wall, a big block of heavy stones bundled together in a sturdy wire cage'
+    }, {
       term: 'moat',
       also: [],
       pics: [],
@@ -828,6 +883,36 @@
       also: [],
       pics: [],
       idea: 'a covered entrance area outside a door'
+    }, {
+      term: 'rock-cut tomb',
+      also: ['syrinx'],
+      pics: [],
+      idea: 'an underground tomb of rooms and passages entirely made by carving into solid stone (like in D&D)'
+    }, {
+      term: 'alcove',
+      also: [],
+      pics: [],
+      idea: 'a little nook off of a larger space'
+    }, {
+      term: 'solar chimney',
+      also: [],
+      pics: [],
+      idea: 'a vertical ventilation shaft that uses thermal convection to pull cooler air in from an opening at the bottom and expell hot air at top opening'
+    }, {
+      term: 'gallery',
+      also: ['tier'],
+      pics: [],
+      idea: 'an upper floor that projects out over ground floor in a theater'
+    }, {
+      term: 'tier',
+      also: ['gallery'],
+      pics: [],
+      idea: 'one of the levels of galleries in a theater'
+    }, {
+      term: 'lounge',
+      also: [],
+      pics: [],
+      idea: 'a big waiting room in an airport, hotel, etc.'
     }, {
       term: 'stepped stories',
       also: ['ziggurat-style set-back'],
@@ -971,6 +1056,11 @@
       also: [],
       pics: [],
       idea: 'an intentional break in a regular layout or pattern (of tiles, columns, windows, etc.)'
+    }, {
+      term: 'aedicule',
+      also: ['aedicula', 'edicule'],
+      pics: [],
+      idea: 'a little feature (like a wall niche) that looks like a mini-big-building thing, with fancy columns or pediments'
     }, {
       term: 'applique',
       also: [],
@@ -1247,6 +1337,31 @@
       pics: [],
       idea: 'an ornamental pediment over a window or door'
     }, {
+      term: 'marquee',
+      also: [],
+      pics: [],
+      idea: 'an awning-like sign thing above the entrance to a theater or hotel'
+    }, {
+      term: 'newel drop',
+      also: [],
+      pics: [],
+      idea: 'an ornamental post projecting down from an upstairs newel post'
+    }, {
+      term: 'tracery',
+      also: [],
+      pics: [],
+      idea: 'lacy ornamental openwork in the top part of a gothic window'
+    }, {
+      term: 'cinquefoil',
+      also: [],
+      pics: [],
+      idea: 'a round tracery opening with a scalloped interior edge so that it looks like a little five-leaf clover'
+    }, {
+      term: 'ferrule',
+      also: [],
+      pics: [],
+      idea: 'a metal band (or cap) near the end of wood post, to prevent splitting (and to look steampunk)'
+    }, {
       term: 'vitruvian scroll',
       also: [],
       pics: [],
@@ -1300,6 +1415,36 @@
       also: [],
       pics: [],
       idea: 'a porch or colonnade leading to an entrance, with a roof over a walkway'
+    }, {
+      term: 'enfilade',
+      also: [],
+      pics: [],
+      idea: 'doorways that line up in a row, so that you can see down through a series of rooms'
+    }, {
+      term: 'dromos',
+      also: [],
+      pics: [],
+      idea: 'a long underground passageway into an underground tomb'
+    }, {
+      term: 'causeway',
+      also: [],
+      pics: [],
+      idea: 'a raised passageway (like an aquaduct for people)'
+    }, {
+      term: 'syrinx',
+      also: ['rock-cut tomb'],
+      pics: [],
+      idea: 'a narrow rock-cut passage'
+    }, {
+      term: 'kairo',
+      also: [],
+      pics: [],
+      idea: 'a covered gallery surrounding a Japanese temple'
+    }, {
+      term: 'aisle',
+      also: [],
+      pics: [],
+      idea: 'walkway between rows of seats in a theater, church, etc.'
     }, {
       term: 'sottoportego',
       also: [],
@@ -1388,6 +1533,11 @@
       also: [],
       pics: [],
       idea: 'a spherical finial'
+    }, {
+      term: 'pediment',
+      also: [],
+      pics: [],
+      idea: 'a low, wide gable, sometimes over a door or window, or sometimes over a whole front of a facade (e.g. the front of the Jefferson Memorial)'
     }, {
       term: 'parapet',
       also: [],
@@ -1619,6 +1769,11 @@
       pics: [],
       idea: 'the end of a horizontal roof-support beam that projects out past a (gable) wall to support a projecting roof'
     }, {
+      term: 'green roof',
+      also: [],
+      pics: [],
+      idea: 'a roof with a layer of soil and plants'
+    }, {
       term: 'staggered course of shingles',
       also: [],
       pics: [],
@@ -1763,6 +1918,21 @@
       pics: [],
       idea: 'a row of houses on the top of a slope'
     }, {
+      term: 'monopteron',
+      also: [],
+      pics: [],
+      idea: 'a round building with a ring of columns around a central building or courtyard (e.g. the back of the Jefferson Memorial)'
+    }, {
+      term: 'caravansary',
+      also: [],
+      pics: [],
+      idea: 'an inn for caravans, with a large courtyard surounded by solid walls and a big gate'
+    }, {
+      term: 'rath',
+      also: [],
+      pics: [],
+      idea: 'a Hindu temple carved out of solid rock to stand as a single piece'
+    }, {
       term: 'transformer vault',
       also: [],
       pics: [],
@@ -1791,6 +1961,11 @@
       also: [],
       pics: [],
       idea: 'an parapet that overhangs an exterior wall, supported by corbeled arches'
+    }, {
+      term: 'pinnacle',
+      also: [],
+      pics: [],
+      idea: 'a little solid (stone) tower (spire) to add weight at the top of a buttress or flying buttress'
     }, {
       term: 'spire',
       also: [],
@@ -1990,6 +2165,146 @@
       also: [],
       pics: [],
       idea: 'a small pitched surface on an otherwise vertical wall (like the "water-table" band that runs around the outside of house, say 4 feet from the ground, where the top of the foundation skirting meets the bottom of the ground-story wall'
+    }, {
+      term: 'engaged column',
+      also: [],
+      pics: [],
+      idea: 'a column built half way into a wall'
+    }, {
+      term: 'canton',
+      also: ['anta'],
+      pics: [],
+      idea: 'a feature like a pilaster that projects out from the corner of a building'
+    }, {
+      term: 'return',
+      also: [],
+      pics: [],
+      idea: 'short perpendicular end-most section of something (e.g. a wall)'
+    }, {
+      term: 'parapet',
+      also: [],
+      pics: [],
+      idea: 'a low wall at the edge of a roof, or a party wall between buildings that projects up above the roof'
+    }, {
+      term: 'saddle coping',
+      also: ['splayed coping'],
+      pics: [],
+      idea: 'a ^ shape to shed rain, at the top of a wall or top of a railing'
+    }, {
+      term: 'splayed coping',
+      also: ['saddle coping'],
+      pics: [],
+      idea: 'a / shape to shed rain, at the top of a wall'
+    }, {
+      term: 'partition',
+      also: ['interior wall'],
+      pics: [],
+      idea: 'an interior wall'
+    }, {
+      term: 'interior wall',
+      also: ['partition', 'exterior wall'],
+      pics: [],
+      idea: 'a wall in a space that is entirely enclosed by exterior walls'
+    }, {
+      term: 'exterior wall',
+      also: ['interior wall'],
+      pics: [],
+      idea: 'a wall that is not entirely enclosed by other exterior walls'
+    }, {
+      term: 'dwarf wall',
+      also: [],
+      pics: [],
+      idea: 'a short wall (less than a full story tall)'
+    }, {
+      term: 'corner board',
+      also: ['rake'],
+      pics: [],
+      idea: 'a vertical board at the corner of an exterior wall'
+    }, {
+      term: 'rake',
+      also: ['corner board'],
+      pics: [],
+      idea: 'a board at the top of a gable, flat against the gable, just under the roof eaves'
+    }, {
+      term: 'dado',
+      also: [],
+      pics: [],
+      idea: 'the part of an interior wall below about chair rail height'
+    }, {
+      term: 'supercolumniation',
+      also: [],
+      pics: [],
+      idea: 'the columns on a multi-story building, where the upper-story columns and arches line up with the lower-story columns and arches'
+    }, {
+      term: 'anchor',
+      also: [],
+      pics: [],
+      idea: 'a metal plate fastened to the outside of a brick wall (sometimes star shaped)'
+    }, {
+      term: 'anta',
+      also: ['canton'],
+      pics: [],
+      idea: 'a thick engaged column at the corner of two exterior walls'
+    }, {
+      term: 'buttress',
+      also: ['severy', 'nosing'],
+      pics: [],
+      idea: 'like an engaged column, but with a splayed out "nosing" so that it is wider near the ground'
+    }, {
+      term: 'amortizement',
+      also: ['buttress', 'pier', 'drip course', 'nosing'],
+      pics: [],
+      idea: 'an outward sloping section, to shed rainwater, on a buttress or pier'
+    }, {
+      term: 'nosing',
+      also: ['amortizement'],
+      pics: [],
+      idea: 'a projecting edge of a buttress'
+    }, {
+      term: 'green wall',
+      also: ['biowall', 'living wall', 'living wall'],
+      pics: [],
+      idea: 'a wall covered in plants'
+    }, {
+      term: 'diagonal bracing',
+      also: [],
+      pics: [],
+      idea: 'any sort of cross-brace or knee-brace or diagonally oriented brace'
+    }, {
+      term: 'living wall',
+      also: ['biowall'],
+      pics: [],
+      idea: 'a green wall with its own soil, independent of the ground, and an automatic irrigation system'
+    }, {
+      term: 'biowall',
+      also: ['living wall'],
+      pics: [],
+      idea: 'aka living wall'
+    }, {
+      term: 'green facade',
+      also: [],
+      pics: [],
+      idea: 'a green wall with climbing plants that have their roots in the ground below'
+    }, {
+      term: 'trombe wall',
+      also: [],
+      pics: [],
+      idea: 'a thermal mass wall with a glass facade for absorbing solar radiation'
+    }, {
+      term: 'headwall',
+      also: ['endwall'],
+      pics: [],
+      idea: 'a retaining wall at one end of a culvert, where water flows into a big drain pipe to go under a road'
+    }, {
+      term: 'spandrel',
+      also: [],
+      pics: [],
+      idea: 'in a multi-story office building, a panel between the top of the window on one story and the bottom of the window on the next story'
+    }, {
+      term: 'batter',
+      also: ['butress'],
+      pics: [],
+      idea: 'a slight inward slope on the face of a wall'
     }]
   }, {
     comment: '# =========================================',
@@ -2124,6 +2439,111 @@
       also: [],
       pics: [],
       idea: 'the bottom part of a window frame'
+    }, {
+      term: 'box-head window',
+      also: ['drop window'],
+      pics: [],
+      idea: 'a double-hung window where the top sash can slide into a wall pocket above the window frame'
+    }, {
+      term: 'drop window',
+      also: ['box-head window'],
+      pics: [],
+      idea: 'a double-hung window where the bottom sash can slide into a wall pocket below the window sill'
+    }, {
+      term: 'casement',
+      also: [],
+      pics: [],
+      idea: 'a window with a sash that has hinges on one side'
+    }, {
+      term: 'jalousie',
+      also: [],
+      pics: [],
+      idea: 'a window blind, like a venetian blind, with slats that can be adjusted'
+    }, {
+      term: 'french window',
+      also: ['cremorne bolt'],
+      pics: [],
+      idea: 'like french door: a pair of casement windows that go all the way to the floor'
+    }, {
+      term: 'cremorne bolt',
+      also: ['french window'],
+      pics: [],
+      idea: 'a vertical locking rod (actually a pair) on a French window, with a knob at the middle'
+    }, {
+      term: 'balconet',
+      also: [],
+      pics: [],
+      idea: 'a little railing or balustrade that projects only a tiny bit out from a wall in front of a window'
+    }, {
+      term: 'ribbon window',
+      also: [],
+      pics: [],
+      idea: 'a horizontal band of windows'
+    }, {
+      term: 'clerestory',
+      also: [],
+      pics: [],
+      idea: 'windows in the top of wall, above adjacent rooftops'
+    }, {
+      term: 'borrowed light',
+      also: [],
+      pics: [],
+      idea: 'light coming through a window in an interior wall or partition into an interior room'
+    }, {
+      term: 'gable window',
+      also: [],
+      pics: [],
+      idea: 'a window in a gable'
+    }, {
+      term: 'oriel',
+      also: [],
+      pics: [],
+      idea: 'a bay window with brackets or corbels under it'
+    }, {
+      term: 'awning',
+      also: [],
+      pics: [],
+      idea: 'a little roof above a door or window (or porch)'
+    }, {
+      term: 'window box',
+      also: [],
+      pics: [],
+      idea: 'a little planter box just below a windowsill'
+    }, {
+      term: 'oxeye',
+      also: [],
+      pics: [],
+      idea: 'a little round (or oval) window, often in dormer'
+    }, {
+      term: 'lucarne',
+      also: [],
+      pics: [],
+      idea: 'a dormer window'
+    }, {
+      term: 'internal dormer',
+      also: [],
+      pics: [],
+      idea: 'a dormer that is cut back into the roof, so that it has no external walls of its own, and no added roof surfaces'
+    }, {
+      term: 'bow window',
+      also: [],
+      pics: [],
+      idea: 'a bay window in an rounded arc shape'
+    }, {
+      term: 'cant bay window',
+      also: [],
+      pics: [],
+      idea: 'a bay window with two canted sides and flat front: \\__/'
+    }, {
+      term: 'bay window',
+      also: [],
+      pics: [],
+      idea: 'a window that projects out from a wall, making a window alcove in the room inside'
+    }, {
+      term: 'window seat',
+      also: [],
+      pics: [],
+      idea: 'a bench seat built into a window alcove (e.g. in a bay window)'
     }]
   }, {
     comment: '# =========================================',
@@ -2219,6 +2639,11 @@
       pics: [],
       idea: "study of a completed building's functionality"
     }, {
+      term: 'preferred angle',
+      also: [],
+      pics: [],
+      idea: 'an angle for a flight of stairs between 28 and 36 degrees, or an angle for a ramp less than 5 degrees'
+    }, {
       term: 'proposal',
       also: ['design proposal'],
       pics: [],
@@ -2269,6 +2694,16 @@
       pics: [],
       idea: 'designing products and buildings to be accessible to everyone'
     }, {
+      term: 'bearing',
+      also: ['azimuth'],
+      pics: [],
+      idea: 'horizontal direction, measured in degrees east (or west) of north'
+    }, {
+      term: 'interstice',
+      also: [],
+      pics: [],
+      idea: 'little gap spaces between things (as in "intersticial")'
+    }, {
       term: 'xylograph',
       also: ['xylo'],
       pics: [],
@@ -2276,16 +2711,17 @@
     }]
   }, {
     comment: '# =========================================',
-    topic: '______________',
-    terms: []
-  }, {
-    comment: '# =========================================',
-    topic: 'TODO',
+    topic: 'construction',
     terms: [{
-      term: '~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~',
+      term: 'cobblestone',
       also: [],
       pics: [],
-      idea: ''
+      idea: 'roundish stones used for paving (or walls)'
+    }, {
+      term: 'pea gravel',
+      also: [],
+      pics: [],
+      idea: 'small gravel, about 1/4 inch each'
     }, {
       term: 'insulating concrete',
       also: ['concrete', 'pearlite', 'air-entraining agent'],
@@ -2311,451 +2747,6 @@
       also: ['mill construction', 'balloon frame'],
       pics: [],
       idea: 'thick noncombustible exterior walls, and interior construction without concealed airspaces'
-    }, {
-      term: 'alcove',
-      also: [],
-      pics: [],
-      idea: 'a little nook off of a larger space'
-    }, {
-      term: 'enfilade',
-      also: [],
-      pics: [],
-      idea: 'doorways that line up in a row, so that you can see down through a series of rooms'
-    }, {
-      term: 'interstice',
-      also: [],
-      pics: [],
-      idea: 'little gap spaces between things (as in "intersticial")'
-    }, {
-      term: 'headwall',
-      also: ['endwall'],
-      pics: [],
-      idea: 'a retaining wall at one end of a culvert, where water flows into a big drain pipe to go under a road'
-    }, {
-      term: 'cobblestone',
-      also: [],
-      pics: [],
-      idea: 'roundish stones used for paving (or walls)'
-    }, {
-      term: 'pea gravel',
-      also: [],
-      pics: [],
-      idea: 'small gravel, about 1/4 inch each'
-    }, {
-      term: 'preferred angle',
-      also: [],
-      pics: [],
-      idea: 'an angle for a flight of stairs between 28 and 36 degrees, or an angle for a ramp less than 5 degrees'
-    }, {
-      term: 'newel drop',
-      also: [],
-      pics: [],
-      idea: 'an ornamental post projecting down from an upstairs newel post'
-    }, {
-      term: 'double grid',
-      also: [],
-      pics: [],
-      idea: 'structural columns arrangement where rather than being spaced identically, instead every even column is closely spaced and every odd column is fully spaced, so that the columns end up in little 2-by-2 clusters'
-    }, {
-      term: 'diagonal bracing',
-      also: [],
-      pics: [],
-      idea: 'any sort of cross-brace or knee-brace or diagonally oriented brace'
-    }, {
-      term: 'knee brace',
-      also: [],
-      pics: [],
-      idea: 'a little brace up in the corner between a vertical post and a horizontal beam'
-    }, {
-      term: 'bearing',
-      also: ['azimuth'],
-      pics: [],
-      idea: 'horizontal direction, measured in degrees east (or west) of north'
-    }, {
-      term: 'berm',
-      also: [],
-      pics: [],
-      idea: 'a mound of earth (sometimes on its own, and sometimes pushed up against a wall of a building)'
-    }, {
-      term: 'trombe wall',
-      also: [],
-      pics: [],
-      idea: 'a thermal mass wall with a glass facade for absorbing solar radiation'
-    }, {
-      term: 'solar chimney',
-      also: [],
-      pics: [],
-      idea: 'a vertical ventilation shaft that uses thermal convection to pull cooler air in from an opening at the bottom and expell hot air at top opening'
-    }, {
-      term: 'green roof',
-      also: [],
-      pics: [],
-      idea: 'a roof with a layer of soil and plants'
-    }, {
-      term: 'green wall',
-      also: ['biowall', 'living wall', 'living wall'],
-      pics: [],
-      idea: 'a wall covered in plants'
-    }, {
-      term: 'living wall',
-      also: ['biowall'],
-      pics: [],
-      idea: 'a green wall with its own soil, independent of the ground, and an automatic irrigation system'
-    }, {
-      term: 'biowall',
-      also: ['living wall'],
-      pics: [],
-      idea: 'aka living wall'
-    }, {
-      term: 'green facade',
-      also: [],
-      pics: [],
-      idea: 'a green wall with climbing plants that have their roots in the ground below'
-    }, {
-      term: 'dromos',
-      also: [],
-      pics: [],
-      idea: 'a long underground passageway into an underground tomb'
-    }, {
-      term: 'rock-cut tomb',
-      also: ['syrinx'],
-      pics: [],
-      idea: 'an underground tomb of rooms and passages entirely made by carving into solid stone (like in D&D)'
-    }, {
-      term: 'causeway',
-      also: [],
-      pics: [],
-      idea: 'a raised passageway (like an aquaduct for people)'
-    }, {
-      term: 'syrinx',
-      also: ['rock-cut tomb'],
-      pics: [],
-      idea: 'a narrow rock-cut passage'
-    }, {
-      term: 'pediment',
-      also: [],
-      pics: [],
-      idea: 'a low, wide gable, sometimes over a door or window, or sometimes over a whole front of a facade (e.g. the front of the Jefferson Memorial)'
-    }, {
-      term: 'monopteron',
-      also: [],
-      pics: [],
-      idea: 'a round building with a ring of columns around a central building or courtyard (e.g. the back of the Jefferson Memorial)'
-    }, {
-      term: 'caravansary',
-      also: [],
-      pics: [],
-      idea: 'an inn for caravans, with a large courtyard surounded by solid walls and a big gate'
-    }, {
-      term: 'rath',
-      also: [],
-      pics: [],
-      idea: 'a Hindu temple carved out of solid rock to stand as a single piece'
-    }, {
-      term: 'kairo',
-      also: [],
-      pics: [],
-      idea: 'a covered gallery surrounding a Japanese temple'
-    }, {
-      term: 'supercolumniation',
-      also: [],
-      pics: [],
-      idea: 'the columns on a multi-story building, where the upper-story columns and arches line up with the lower-story columns and arches'
-    }, {
-      term: 'anchor',
-      also: [],
-      pics: [],
-      idea: 'a metal plate fastened to the outside of a brick wall (sometimes star shaped)'
-    }, {
-      term: 'anta',
-      also: ['canton'],
-      pics: [],
-      idea: 'a thick engaged column at the corner of two exterior walls'
-    }, {
-      term: 'aisle',
-      also: [],
-      pics: [],
-      idea: 'walkway between rows of seats in a theater, church, etc.'
-    }, {
-      term: 'pipe batten',
-      also: [],
-      pics: [],
-      idea: 'like a shower-curtain rod: a horizontal metal rod, hung from the ceiling, used for hanging other things on (lights, curtains, etc.)'
-    }, {
-      term: 'gallery',
-      also: ['tier'],
-      pics: [],
-      idea: 'an upper floor that projects out over ground floor in a theater'
-    }, {
-      term: 'tier',
-      also: ['gallery'],
-      pics: [],
-      idea: 'one of a number of galleries in a theater'
-    }, {
-      term: 'lounge',
-      also: [],
-      pics: [],
-      idea: 'a big waiting room in an airport, hotel, etc.'
-    }, {
-      term: 'marquee',
-      also: [],
-      pics: [],
-      idea: 'an awning-like sign thing above the entrance to a theater or hotel'
-    }, {
-      term: 'vault',
-      also: [],
-      pics: [],
-      idea: 'an arched ceiling/roof over a big room'
-    }, {
-      term: 'severy',
-      also: ['buttress'],
-      pics: [],
-      idea: 'one of the bays between the two end columns (or buttresses) of two parallel arches'
-    }, {
-      term: 'buttress',
-      also: ['severy', 'nosing'],
-      pics: [],
-      idea: 'like an engaged column, but with a splayed out "nosing" so that it is wider near the ground'
-    }, {
-      term: 'pinnacle',
-      also: [],
-      pics: [],
-      idea: 'a little solid (stone) tower (spire) to add weight at the top of a buttress or flying buttress'
-    }, {
-      term: 'amortizement',
-      also: ['buttress', 'pier', 'drip course', 'nosing'],
-      pics: [],
-      idea: 'an outward sloping section, to shed rainwater, on a buttress or pier'
-    }, {
-      term: 'nosing',
-      also: ['amortizement'],
-      pics: [],
-      idea: 'a projecting edge of a buttress'
-    }, {
-      term: 'barrel vault',
-      also: [],
-      pics: [],
-      idea: 'a vault shaped like half of cylinder (an extruded half-circle)'
-    }, {
-      term: 'conical vault',
-      also: [],
-      pics: [],
-      idea: 'like a barrel vault, but where the radius increase linearly as it is extruded'
-    }, {
-      term: 'annular vault',
-      also: [],
-      pics: [],
-      idea: 'like the top half of a donut: a barrel vault extruded along the path of a circle instead of a line'
-    }, {
-      term: 'compound vault',
-      also: [],
-      pics: [],
-      idea: 'a space where two (or more) vaults intersect (e.g. the vaulted roof over the intersection of two barrel vaulted tunnels)'
-    }, {
-      term: 'engaged column',
-      also: [],
-      pics: [],
-      idea: 'a column built half way into a wall'
-    }, {
-      term: 'canton',
-      also: ['anta'],
-      pics: [],
-      idea: 'a feature like a pilaster that projects out from the corner of a building'
-    }, {
-      term: 'return',
-      also: [],
-      pics: [],
-      idea: 'short perpendicular end-most section of something (e.g. a wall)'
-    }, {
-      term: 'parapet',
-      also: [],
-      pics: [],
-      idea: 'a low wall at the edge of a roof, or a party wall between buildings that projects up above the roof'
-    }, {
-      term: 'saddle coping',
-      also: ['splayed coping'],
-      pics: [],
-      idea: 'a ^ shape to shed rain, at the top of a wall or top of a railing'
-    }, {
-      term: 'splayed coping',
-      also: ['saddle coping'],
-      pics: [],
-      idea: 'a / shape to shed rain, at the top of a wall'
-    }, {
-      term: 'partition',
-      also: ['interior wall'],
-      pics: [],
-      idea: 'an interior wall'
-    }, {
-      term: 'interior wall',
-      also: ['partition', 'exterior wall'],
-      pics: [],
-      idea: 'a wall in a space that is entirely enclosed by exterior walls'
-    }, {
-      term: 'exterior wall',
-      also: ['interior wall'],
-      pics: [],
-      idea: 'a wall that is not entirely enclosed by other exterior walls'
-    }, {
-      term: 'dwarf wall',
-      also: [],
-      pics: [],
-      idea: 'a short wall (less than a full story tall)'
-    }, {
-      term: 'corner board',
-      also: ['rake'],
-      pics: [],
-      idea: 'a vertical board at the corner of an exterior wall'
-    }, {
-      term: 'rake',
-      also: ['corner board'],
-      pics: [],
-      idea: 'a board at the top of a gable, flat against the gable, just under the roof eaves'
-    }, {
-      term: 'dado',
-      also: [],
-      pics: [],
-      idea: 'the part of an interior wall below about chair rail height'
-    }, {
-      term: 'spandrel',
-      also: [],
-      pics: [],
-      idea: 'in a multi-story office building, a panel between the top of the window on one story and the bottom of the window on the next story'
-    }, {
-      term: 'batter',
-      also: ['butress'],
-      pics: [],
-      idea: 'a slight inward slope on the face of a wall'
-    }, {
-      term: 'gabion',
-      also: [],
-      pics: [],
-      idea: 'in a retaining wall, a big block of heavy stones bundled together in a sturdy wire cage'
-    }, {
-      term: 'box-head window',
-      also: ['drop window'],
-      pics: [],
-      idea: 'a double-hung window where the top sash can slide into a wall pocket above the window frame'
-    }, {
-      term: 'drop window',
-      also: ['box-head window'],
-      pics: [],
-      idea: 'a double-hung window where the bottom sash can slide into a wall pocket below the window sill'
-    }, {
-      term: 'casement',
-      also: [],
-      pics: [],
-      idea: 'a window with a sash that has hinges on one side'
-    }, {
-      term: 'jalousie',
-      also: [],
-      pics: [],
-      idea: 'a window blind, like a venetian blind, with slats that can be adjusted'
-    }, {
-      term: 'french window',
-      also: ['cremorne bolt'],
-      pics: [],
-      idea: 'like french door: a pair of casement windows that go all the way to the floor'
-    }, {
-      term: 'cremorne bolt',
-      also: ['french window'],
-      pics: [],
-      idea: 'a vertical locking rod (actually a pair) on a French window, with a knob at the middle'
-    }, {
-      term: 'balconet',
-      also: [],
-      pics: [],
-      idea: 'a little railing or balustrade that projects only a tiny bit out from a wall in front of a window'
-    }, {
-      term: 'ribbon window',
-      also: [],
-      pics: [],
-      idea: 'a horizontal band of windows'
-    }, {
-      term: 'clerestory',
-      also: [],
-      pics: [],
-      idea: 'windows in the top of wall, above adjacent rooftops'
-    }, {
-      term: 'borrowed light',
-      also: [],
-      pics: [],
-      idea: 'light coming through a window in an interior wall or partition into an interior room'
-    }, {
-      term: 'gable window',
-      also: [],
-      pics: [],
-      idea: 'a window in a gable'
-    }, {
-      term: 'oriel',
-      also: [],
-      pics: [],
-      idea: 'a bay window with brackets or corbels under it'
-    }, {
-      term: 'awning',
-      also: [],
-      pics: [],
-      idea: 'a little roof above a door or window (or porch)'
-    }, {
-      term: 'window box',
-      also: [],
-      pics: [],
-      idea: 'a little planter box just below a windowsill'
-    }, {
-      term: 'aedicule',
-      also: ['aedicula', 'edicule'],
-      pics: [],
-      idea: 'a little feature (like a wall niche) that looks like a mini-big-building thing, with fancy columns or pediments'
-    }, {
-      term: 'oxeye',
-      also: [],
-      pics: [],
-      idea: 'a little round (or oval) window, often in dormer'
-    }, {
-      term: 'lucarne',
-      also: [],
-      pics: [],
-      idea: 'a dormer window'
-    }, {
-      term: 'internal dormer',
-      also: [],
-      pics: [],
-      idea: 'a dormer that is cut back into the roof, so that it has no external walls of its own, and no added roof surfaces'
-    }, {
-      term: 'bow window',
-      also: [],
-      pics: [],
-      idea: 'a bay window in an rounded arc shape'
-    }, {
-      term: 'cant bay window',
-      also: [],
-      pics: [],
-      idea: 'a bay window with two canted sides and flat front: \__/'
-    }, {
-      term: 'bay window',
-      also: [],
-      pics: [],
-      idea: 'a window that projects out from a wall, making a window alcove in the room inside'
-    }, {
-      term: 'window seat',
-      also: [],
-      pics: [],
-      idea: 'a bench seat built into a window alcove (e.g. in a bay window)'
-    }, {
-      term: 'tracery',
-      also: [],
-      pics: [],
-      idea: 'lacy ornamental openwork in the top part of a gothic window'
-    }, {
-      term: 'cinquefoil',
-      also: [],
-      pics: [],
-      idea: 'a round tracery opening with a scalloped interior edge so that it looks like a little five-leaf clover'
-    }, {
-      term: 'ferrule',
-      also: [],
-      pics: [],
-      idea: 'a metal band (or cap) near the end of wood post, to prevent splitting (and to look steampunk)'
     }]
   }]
 }
