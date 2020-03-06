@@ -51721,7 +51721,7 @@ class Ray$1 {
     let ray = new Ray$1(rotated, { x, y, z }, { mirror: mirrored });
     while (subPose) {
       const subXyz = ray.applyRay(subPose);
-      ray = new Ray$1(ray.az + subPose.rotated || 0, subXyz);
+      ray = new Ray$1(ray.az + (subPose.rotated || 0), subXyz);
       subPose = subPose.subPose;
     }
     return ray
@@ -53958,8 +53958,8 @@ class District extends Model {
       y: i * offset.y,
       z: i * offset.z
     };
-    const iAt = xyzAdd(copySpec.pose, iOffset);
-    const mergedPose = Pose.combine(pose, iAt);
+    const copyPose = Pose.combine(copySpec.pose, iOffset);
+    const mergedPose = Pose.combine(pose, copyPose);
     const modelObject = specReader.makeModelFromSpecName(specName, mergedPose);
     this.add(modelObject);
   }
@@ -60981,6 +60981,394 @@ class Catalog {
   }
 }
 
+var CARRIAGE_HOUSE = /* eslint-disable */
+{
+  context: 'city3d',
+  type: 'building.schema.json',
+  name: 'Carriage House',
+  metadata: {
+    license: 'UNLICENSE: This is free and unencumbered software released into the public domain. For more information, please refer to <http://unlicense.org>',
+    creator: 'Authored at <https://github.com/nicky-nym/city3d>',
+    date: '2020'
+  },
+  unit: 'feet',
+  comments: [
+    '                                     ',
+    '                                     ',
+    '          H------G                   ',
+    '      J---I      F---E               ',
+    '      |      dc      |               ',
+    '      |      ab      |               ',
+    '      K---L      C---D               ',
+    '          A------B                   ',
+    '                                     ',
+    ' 960 square feet ground floor        ',
+    ' 840 square feet upperstairs (about) ',
+    '                                     '
+  ],
+  anchorPoint: { x: 0, y: 0, z: 0 },
+  def: {
+    A: { x: -12, y: -14 },
+    B: { x: +12, y: -14 },
+    C: { x: +12, y: -12 },
+    D: { x: +18, y: -12 },
+    E: { x: +18, y: +12 },
+    F: { x: +12, y: +12 },
+    G: { x: +12, y: +14 },
+    H: { x: -12, y: +14 },
+    I: { x: -12, y: +12 },
+    J: { x: -18, y: +12 },
+    K: { x: -18, y: -12 },
+    L: { x: -12, y: -12 },
+    /* cupola */
+    a: { x: -2, y: -2 },
+    b: { x: +2, y: -2 },
+    c: { x: +2, y: +2 },
+    d: { x: -2, y: +2 },
+    DODECAGON: {
+      shape: 'polygon',
+      corners: [
+        { "$ref": "#/def/A" },
+        { "$ref": "#/def/B" },
+        { "$ref": "#/def/C" },
+        { "$ref": "#/def/D" },
+        { "$ref": "#/def/E" },
+        { "$ref": "#/def/F" },
+        { "$ref": "#/def/G" },
+        { "$ref": "#/def/H" },
+        { "$ref": "#/def/I" },
+        { "$ref": "#/def/J" },
+        { "$ref": "#/def/K" },
+        { "$ref": "#/def/L" }
+      ]
+    }
+  },
+  storeys: [{
+    name: 'ground storey',
+    height: 7,
+    floors: [{
+      outline: { "$ref": "#/def/DODECAGON" },
+      surface: { material: 'wood' }
+    }],
+    walls: {
+      exterior: [{
+        name: 'front wall',
+        begin: { $ref: '#/def/A' },
+        end: { $ref: '#/def/B' },
+        doors: [{
+          name: 'garage door, left',
+          motion: 'sliding',
+          outline: { shape: 'rectangle', size: { x: 9, y: 6 + 8 / 12 } },
+          at: { x: -5.5, from: 'center' },
+          casing: { width: 0.5 }
+        }, {
+          name: 'garage door, right',
+          motion: 'sliding',
+          outline: { shape: 'rectangle', size: { x: 9, y: 6 + 8 / 12 } },
+          at: { x: +5.5, from: 'center' },
+          casing: { width: 0.5 }
+        }],
+      }, {
+        end: { $ref: '#/def/C' },
+      }, {
+        end: { $ref: '#/def/D' },
+        windows: [{
+          motion: 'hung',
+          outline: { shape: 'rectangle', size: { x: 2, y: 4 } },
+          at: { x: 0, y: 5, from: 'center' },
+          casing: { width: 0.5 }
+        }]
+      }, {
+        end: { $ref: '#/def/E' },
+        windows: [{
+          motion: 'hung',
+          outline: { shape: 'rectangle', size: { x: 2.5, y: 4 } },
+          at: { x: -6, y: 5, from: 'center' },
+          casing: { width: 0.5 }
+        }, {
+          motion: 'hung',
+          outline: { shape: 'rectangle', size: { x: 2.5, y: 4 } },
+          at: { x: -3, y: 5, from: 'center' },
+          casing: { width: 0.5 }
+        }, {
+          motion: 'hung',
+          outline: { shape: 'rectangle', size: { x: 2.5, y: 4 } },
+          at: { x: +3, y: 5, from: 'center' },
+          casing: { width: 0.5 }
+        }, {
+          motion: 'hung',
+          outline: { shape: 'rectangle', size: { x: 2.5, y: 4 } },
+          at: { x: +6, y: 5, from: 'center' },
+          casing: { width: 0.5 }
+        }]
+      }, {
+        end: { $ref: '#/def/F' },
+        windows: [{
+          motion: 'hung',
+          outline: { shape: 'rectangle', size: { x: 2, y: 4 } },
+          at: { x: 0, y: 5, from: 'center' },
+          casing: { width: 0.5 }
+        }]
+      }, {
+        end: { $ref: '#/def/G' },
+      }, {
+        end: { $ref: '#/def/H' },
+        doors: [{
+          name: 'back door',
+          motion: 'swinging',
+          handleSide: 'right',
+          outline: { shape: 'rectangle', size: { x: 2.5, y: 6 + 8 / 12 } },
+          at: { x: 0, from: 'center' },
+          casing: { width: 0.5 }
+        }],
+        windows: [{
+          motion: 'hung',
+          outline: { shape: 'rectangle', size: { x: 2.5, y: 4 } },
+          at: { x: -6.5, y: 5, from: 'center' },
+          casing: { width: 0.5 }
+        }, {
+          motion: 'hung',
+          outline: { shape: 'rectangle', size: { x: 2.5, y: 4 } },
+          at: { x: -3.5, y: 5, from: 'center' },
+          casing: { width: 0.5 }
+        }, {
+          motion: 'hung',
+          outline: { shape: 'rectangle', size: { x: 2.5, y: 4 } },
+          at: { x: +3.5, y: 5, from: 'center' },
+          casing: { width: 0.5 }
+        }, {
+          motion: 'hung',
+          outline: { shape: 'rectangle', size: { x: 2.5, y: 4 } },
+          at: { x: +6.5, y: 5, from: 'center' },
+          casing: { width: 0.5 }
+        }]
+      }, {
+        end: { $ref: '#/def/I' },
+      }, {
+        end: { $ref: '#/def/J' },
+        windows: [{
+          motion: 'hung',
+          outline: { shape: 'rectangle', size: { x: 2, y: 4 } },
+          at: { x: 0, y: 5, from: 'center' },
+          casing: { width: 0.5 }
+        }]
+      }, {
+        end: { $ref: '#/def/K' },
+        windows: [{
+          motion: 'hung',
+          outline: { shape: 'rectangle', size: { x: 2.5, y: 4 } },
+          at: { x: -6, y: 5, from: 'center' },
+          casing: { width: 0.5 }
+        }, {
+          motion: 'hung',
+          outline: { shape: 'rectangle', size: { x: 2.5, y: 4 } },
+          at: { x: -3, y: 5, from: 'center' },
+          casing: { width: 0.5 }
+        }, {
+          motion: 'hung',
+          outline: { shape: 'rectangle', size: { x: 2.5, y: 4 } },
+          at: { x: +3, y: 5, from: 'center' },
+          casing: { width: 0.5 }
+        }, {
+          motion: 'hung',
+          outline: { shape: 'rectangle', size: { x: 2.5, y: 4 } },
+          at: { x: +6, y: 5, from: 'center' },
+          casing: { width: 0.5 }
+        }]
+      }, {
+        end: { $ref: '#/def/L' },
+        windows: [{
+          motion: 'hung',
+          outline: { shape: 'rectangle', size: { x: 2, y: 4 } },
+          at: { x: 0, y: 5, from: 'center' },
+          casing: { width: 0.5 }
+        }]
+      }, {
+        end: { $ref: '#/def/A' },
+      }]
+    }
+  }, {
+    name: 'upper floor',
+    height: 1,
+    floors: [{
+      outline: { "$ref": "#/def/DODECAGON" },
+      surface: { material: 'wood' }
+    }],
+  }, {
+    name: 'upper north/south',
+    altitude: 7,
+    height: 1,
+    roof: {
+      form: 'pitched',
+      pitch: { rise: 12, run: 12 },
+      eaves: 1,
+      surface: {
+        style: 'shingled',
+        material: 'asphalt composition'
+      }
+    },
+    walls: {
+      exterior: [{
+        name: 'front wall',
+        begin: { $ref: '#/def/A' },
+        end: { $ref: '#/def/B' },
+        roofline: 'gabled',
+        windows: [{
+          motion: 'hung',
+          outline: { shape: 'rectangle', size: { x: 2.5, y: 4 } },
+          at: { x: -3.5, y: 5, from: 'center' },
+          casing: { width: 0.5 }
+        }, {
+          motion: 'hung',
+          outline: { shape: 'rectangle', size: { x: 2.5, y: 4 } },
+          at: { x: 0, y: 5, from: 'center' },
+          casing: { width: 0.5 }
+        }, {
+          motion: 'hung',
+          outline: { shape: 'rectangle', size: { x: 2.5, y: 4 } },
+          at: { x: +3.5, y: 5, from: 'center' },
+          casing: { width: 0.5 }
+        }]
+      }, {
+        end: { $ref: '#/def/G' },
+        roofline: 'pitched'
+      }, {
+        end: { $ref: '#/def/H' },
+        roofline: 'gabled',
+        windows: [{
+          motion: 'hung',
+          outline: { shape: 'rectangle', size: { x: 2.5, y: 4 } },
+          at: { x: -3.5, y: 5, from: 'center' },
+          casing: { width: 0.5 }
+        }, {
+          motion: 'hung',
+          outline: { shape: 'rectangle', size: { x: 2.5, y: 4 } },
+          at: { x: 0, y: 5, from: 'center' },
+          casing: { width: 0.5 }
+        }, {
+          motion: 'hung',
+          outline: { shape: 'rectangle', size: { x: 2.5, y: 4 } },
+          at: { x: +3.5, y: 5, from: 'center' },
+          casing: { width: 0.5 }
+        }]
+      }, {
+        end: { $ref: '#/def/A' },
+        roofline: 'pitched'
+      }]
+    }
+  }, {
+    name: 'upper east/west',
+    altitude: 7,
+    height: 1,
+    roof: {
+      form: 'pitched',
+      pitch: { rise: 12, run: 12 },
+      eaves: 1,
+      surface: {
+        style: 'shingled',
+        material: 'asphalt composition'
+      }
+    },
+    walls: {
+      exterior: [{
+        begin: { $ref: '#/def/D' },
+        end: { $ref: '#/def/E' },
+        roofline: 'gabled',
+        windows: [{
+          motion: 'hung',
+          outline: { shape: 'rectangle', size: { x: 2.5, y: 5 } },
+          at: { x: -3, y: 5, from: 'center' },
+          casing: { width: 0.5 }
+        }, {
+          motion: 'hung',
+          outline: { shape: 'rectangle', size: { x: 2.5, y: 5 } },
+          at: { x: +3, y: 5, from: 'center' },
+          casing: { width: 0.5 }
+        }]
+      }, {
+        end: { $ref: '#/def/J' },
+        roofline: 'pitched'
+      }, {
+        end: { $ref: '#/def/K' },
+        roofline: 'gabled',
+        windows: [{
+          motion: 'hung',
+          outline: { shape: 'rectangle', size: { x: 2.5, y: 5 } },
+          at: { x: -3, y: 5, from: 'center' },
+          casing: { width: 0.5 }
+        }, {
+          motion: 'hung',
+          outline: { shape: 'rectangle', size: { x: 2.5, y: 5 } },
+          at: { x: +3, y: 5, from: 'center' },
+          casing: { width: 0.5 }
+        }]
+      }, {
+        end: { $ref: '#/def/D' },
+        roofline: 'pitched'
+      }]
+    }
+  }, {
+    name: 'cupola',
+    altitude: 16,
+    height: 6,
+    roof: {
+      form: 'pitched',
+      pitch: { rise: 12, run: 12 },
+      eaves: 0.5,
+      surface: {
+        style: 'shingled',
+        material: 'asphalt composition'
+      }
+    },
+    walls: {
+      exterior: [{
+        begin: { $ref: '#/def/a' },
+        end: { $ref: '#/def/b' },
+        roofline: 'gabled',
+        windows: [{
+          name: 'cupola windows',
+          leafCount: { cols: 2 },
+          motion: 'hung',
+          outline: { shape: 'rectangle', size: { x: 0.8, y: 2 } },
+          at: { x: -0.7, y: 5.4, from: 'center' },
+          casing: { width: 0.5 }
+        }, {
+          name: 'cupola windows',
+          leafCount: { cols: 2 },
+          motion: 'hung',
+          outline: { shape: 'rectangle', size: { x: 0.8, y: 2 } },
+          at: { x: +0.7, y: 5.4, from: 'center' },
+          casing: { width: 0.5 }
+        }]
+      }, {
+        end: { $ref: '#/def/c' },
+        roofline: 'pitched'
+      }, {
+        end: { $ref: '#/def/d' },
+        roofline: 'gabled',
+        windows: [{
+          name: 'cupola windows',
+          leafCount: { cols: 2 },
+          motion: 'hung',
+          outline: { shape: 'rectangle', size: { x: 0.8, y: 2 } },
+          at: { x: -0.7, y: 5.4, from: 'center' },
+          casing: { width: 0.5 }
+        }, {
+          name: 'cupola windows',
+          leafCount: { cols: 2 },
+          motion: 'hung',
+          outline: { shape: 'rectangle', size: { x: 0.8, y: 2 } },
+          at: { x: +0.7, y: 5.4, from: 'center' },
+          casing: { width: 0.5 }
+        }]
+      }, {
+        end: { $ref: '#/def/a' },
+        roofline: 'pitched'
+      }]
+    }
+  }]
+};
+
 var COTTAGE = /* eslint-disable */
 {
   context: 'city3d',
@@ -61643,14 +62031,14 @@ var HIGHROAD_BRIDGE = /* eslint-disable */
     }
   },
   routes: [
-    { waypoints: [ { x: 6, y: 0, z: 22.5 }, { x: 6, y: 60, z: 22.5 } ]},
-    { waypoints: [ { x: 12, y: 0, z: 22.5 }, { x: 12, y: 60, z: 22.5 } ]},
-    { waypoints: [ { x: 18, y: 0, z: 22.5 }, { x: 18, y: 60, z: 22.5 } ]},
-    { waypoints: [ { x: 24, y: 0, z: 22.5 }, { x: 24, y: 60, z: 22.5 } ]},
+    { waypoints: [ { x: 6, y: 0, z: 30 }, { x: 6, y: 60, z: 30 } ]},
+    { waypoints: [ { x: 12, y: 0, z: 30 }, { x: 12, y: 60, z: 30 } ]},
+    { waypoints: [ { x: 18, y: 0, z: 30 }, { x: 18, y: 60, z: 30 } ]},
+    { waypoints: [ { x: 24, y: 0, z: 30 }, { x: 24, y: 60, z: 30 } ]},
   ],
   storeys: [{
     name: 'boulevard',
-    altitude: 22.5,
+    altitude: 30,
     height: 15,
     floors: [{ 
       outline: {
@@ -61687,7 +62075,7 @@ var HIGHROAD_BRIDGE = /* eslint-disable */
     }
   }, {
     name: 'roof parapet',
-    altitude: 41.5,
+    altitude: 49,
     height: 4,
     walls: {
       exterior: [{
@@ -61724,15 +62112,15 @@ var HIGHROAD_LONGHOUSE = /* eslint-disable */
         spacing: 5,
         feature: {
           motion: 'awning',
-          outline: { shape: 'rectangle', size: { x: 4, y: 7 } },
-          at: { x: 0, y: 7, from: 'center'}
+          outline: { shape: 'rectangle', size: { x: 4, y: 6 } },
+          at: { x: 0, y: 6, from: 'center'}
         }
       }
     },
-    LONGHOUSE_END_OPENING: {
+    LONGHOUSE_END_WINDOW: {
       motion: 'awning',
-      outline: { shape: 'rectangle', size: { x: 29, y: 11.25 } },
-      at: { x: 0, from: 'center'}
+      outline: { shape: 'rectangle', size: { x: 29, y: 3 } },
+      at: { x: 0, y: 7.5, from: 'center'}
     },
     BOULEVARD_WINDOWS: {
       repeat: {
@@ -61751,15 +62139,15 @@ var HIGHROAD_LONGHOUSE = /* eslint-disable */
     }
   },
   routes: [
-    { waypoints: [ { x: 6, y: 0, z: 22.5 }, { x: 6, y: 590, z: 22.5 } ]},
-    { waypoints: [ { x: 12, y: 0, z: 22.5 }, { x: 12, y: 590, z: 22.5 } ]},
-    { waypoints: [ { x: 18, y: 0, z: 22.5 }, { x: 18, y: 590, z: 22.5 } ]},
-    { waypoints: [ { x: 24, y: 0, z: 22.5 }, { x: 24, y: 590, z: 22.5 } ]},
+    { waypoints: [ { x: 6, y: 0, z: 30 }, { x: 6, y: 590, z: 30 } ]},
+    { waypoints: [ { x: 12, y: 0, z: 30 }, { x: 12, y: 590, z: 30 } ]},
+    { waypoints: [ { x: 18, y: 0, z: 30 }, { x: 18, y: 590, z: 30 } ]},
+    { waypoints: [ { x: 24, y: 0, z: 30 }, { x: 24, y: 590, z: 30 } ]},
   ],
   storeys: [{
     name: 'lower floors (north-south)',
-    repeat: 2,
-    height: 11.25,
+    repeat: 3,
+    height: 10,
     floors: [{ 
       outline: {
         shape: 'polygon',
@@ -61777,13 +62165,13 @@ var HIGHROAD_LONGHOUSE = /* eslint-disable */
         name: 'front wall',
         begin: { $ref: '#/def/A' },
         end: { $ref: '#/def/B' },
-        doors: [{ $ref: '#/def/LONGHOUSE_END_OPENING' }]
+        windows: [{ $ref: '#/def/LONGHOUSE_END_WINDOW' }]
       }, {
         end: { $ref: '#/def/C' },
         windows: [{ $ref: '#/def/LONGHOUSE_WINDOWS' }]
       }, {
         end: { $ref: '#/def/D' },
-        doors: [{ $ref: '#/def/LONGHOUSE_END_OPENING' }]
+        windows: [{ $ref: '#/def/LONGHOUSE_END_WINDOW' }]
       }, {
         end: { $ref: '#/def/A' },
         windows: [{ $ref: '#/def/LONGHOUSE_WINDOWS' }]
@@ -61827,7 +62215,7 @@ var HIGHROAD_LONGHOUSE = /* eslint-disable */
     }
   }, {
     name: 'roof parapet',
-    altitude: 41.5,
+    altitude: 49,
     height: 4,
     walls: {
       exterior: [{
@@ -62645,6 +63033,673 @@ var HOUSE_353 = /* eslint-disable */
   }]
 };
 
+var HOUSE_1127 = /* eslint-disable */
+{
+  context: 'city3d',
+  type: 'building.schema.json',
+  name: 'House 1127',
+  metadata: {
+    license: 'UNLICENSE: This is free and unencumbered software released into the public domain. For more information, please refer to <http://unlicense.org>',
+    creator: 'Authored at <https://github.com/nicky-nym/city3d>',
+    date: '2020'
+  },
+  unit: 'feet',
+  anchorPoint: { x: 0, y: 0, z: 0 },
+  comments: [
+    '                                              ',
+    '     Y--X                                     ',
+    '     |  |                                     ',
+    '     V--W                                     ',
+    '                                              ',
+    '                                              ',
+    '       U-----T                                ',
+    '       |    /                                 ',
+    '       |     | H-------- -------GH---------G  ',
+    '       R-----S |        \       |          |  ',
+    '               |              dc|          |  ',
+    '               |              abZZ     EE  |  ',
+    '          J----I        /       Z-------E--F  ',
+    '          K----L - - - - - - - -M       |     ',
+    '  Q----PQ-----P|                |      /      ',
+    '  |    |     / A----------------B       |     ',
+    '  |    |      |                 C-------D     ',
+    '  |    |      |                               ',
+    '  N----NO-----O                               ',
+    '                                              ',
+    '                                              '
+  ],
+  anchorPoint: { x: 0, y: 0, z: 0 },
+  def: {
+    A: { x: 10, y: 5 },
+    B: { x: 45, y: 5 },
+    C: { x: 45, y: 0 },
+    D: { x: 60, y: 0 },
+    E: { x: 60, y: 17 },
+    EE: { x: 60, y: 25 },
+    F: { x: 69, y: 17 },
+    G: { x: 69, y: 37 },
+    GH: { x: 45, y: 37 },
+    Z: { x: 45, y: 17 },
+    ZZ: { x: 45, y: 25 },
+    H: { x: 10, y: 37 },
+    I: { x: 10, y: 16 },
+    J: { x: 0, y: 16 },
+    K: { x: 0, y: 12 },
+    L: { x: 10, y: 12 },
+    M: { x: 45, y: 12 },
+    N: { x: -22, y: -12 },
+    NO: { x: -8, y: -12 },
+    O: { x: 7, y: -12 },
+    P: { x: 7, y: 10 },
+    Q: { x: -22, y: 10 },
+    PQ: { x: -8, y: 10 },
+    R: { x: -5, y: 32 },
+    S: { x: 5, y: 32 },
+    T: { x: 5, y: 44 },
+    U: { x: -5, y: 44 },
+    V: { x: -9, y: 56 },
+    W: { x: -1, y: 56 },
+    X: { x: -1, y: 65 },
+    Y: { x: -9, y: 65 },
+    /* chimney */
+    a: { x: 43, y: 28 },
+    b: { x: 44.5, y: 28 },
+    c: { x: 44.5, y: 30 },
+    d: { x: 43, y: 30 }
+  },
+  storeys: [{
+    name: 'old house',
+    height: 10,
+    roof: {
+      form: 'pitched',
+      pitch: { rise: 8, run: 12 },
+      eaves: 1,
+      surface: {
+        style: 'shingled',
+        material: 'asphalt composition'
+      }
+    },
+    floors: [{
+      surface: { material: 'wood' },
+      outline: {
+        shape: 'polygon',
+        corners: [
+          { $ref: '#/def/C' },
+          { $ref: '#/def/D' },
+          { $ref: '#/def/EE' },
+          { $ref: '#/def/ZZ' }
+        ]
+      }
+    }],
+    walls: {
+      exterior: [{
+        begin: { $ref: '#/def/C' },
+        end: { $ref: '#/def/D' },
+        roofline: 'gabled',
+        windows: [{
+          name: 'bedroom window, south',
+          motion: 'hung',
+          outline: { shape: 'rectangle', size: { x: 2.5, y: 5 } },
+          at: { x: 0, y: 5, from: 'center' },
+          casing: { width: 0.5 }
+        }]
+      }, {
+        end: { $ref: '#/def/EE' },
+        roofline: 'pitched',
+        windows: [{
+          name: 'bedroom window, east',
+          motion: 'hung',
+          outline: { shape: 'rectangle', size: { x: 2.5, y: 5 } },
+          at: { x: 5, y: 5, from: 'left' },
+          casing: { width: 0.5 }
+        }],
+        doors: [{
+          name: 'office door',
+          motion: 'swinging',
+          handleSide: 'left',
+          outline: { shape: 'rectangle', size: { x: 2.5, y: 7 } },
+          at: { x: -6.5, from: 'right' },
+          casing: { width: 0.5 }
+        }]
+      }, {
+        end: { $ref: '#/def/ZZ' },
+        roofline: 'gabled',
+        doors: [{
+          name: 'living room door',
+          motion: 'swinging',
+          handleSide: 'left',
+          outline: { shape: 'rectangle', size: { x: 2.5, y: 7 } },
+          at: { x: 4, from: 'left' },
+          casing: { width: 0.5 }
+        }]
+      }, {
+        end: { $ref: '#/def/C' },
+        roofline: 'pitched',
+        windows: [{
+          name: 'office window, porch',
+          motion: 'hung',
+          outline: { shape: 'rectangle', size: { x: 2.5, y: 5 } },
+          at: { x: -11, y: 5, from: 'right' },
+          casing: { width: 0.5 }
+        }]
+      }]
+    }
+  }, {
+    name: 'living room',
+    altitude: 0,
+    height: 10,
+    roof: {
+      form: 'pitched',
+      pitch: { rise: 8, run: 12 },
+      eaves: 1,
+      surface: {
+        style: 'shingled',
+        material: 'asphalt composition'
+      }
+    },
+    floors: [{
+      surface: { material: 'wood' },
+      outline: {
+        shape: 'polygon',
+        corners: [
+          { $ref: '#/def/Z' },
+          { $ref: '#/def/F' },
+          { $ref: '#/def/G' },
+          { $ref: '#/def/GH' }
+        ]
+      }
+    }],
+    walls: {
+      exterior: [{ 
+        begin: { $ref: '#/def/Z' },
+        end: { $ref: '#/def/F' },
+        roofline: 'pitched',
+        doors: [{
+          name: 'living room door',
+          motion: 'swinging',
+          handleSide: 'left',
+          outline: { shape: 'rectangle', size: { x: 2.5, y: 7 } },
+          at: { x: -6, from: 'right' },
+          casing: { width: 0.5 }
+        }]
+      }, {
+        end: { $ref: '#/def/G' },
+        roofline: 'gabled',
+        windows: [{
+          name: 'living room windows, east',
+          motion: 'hung',
+          outline: { shape: 'rectangle', size: { x: 2.5, y: 5 } },
+          at: { x: -3, y: 5, from: 'center' },
+          casing: { width: 0.5 }
+        }, {
+          name: 'living room windows, east',
+          motion: 'hung',
+          outline: { shape: 'rectangle', size: { x: 2.5, y: 5 } },
+          at: { x: +3, y: 5, from: 'center' },
+          casing: { width: 0.5 }
+        }]
+      }, {
+        end: { $ref: '#/def/GH' },
+        roofline: 'pitched',
+        windows: [{
+          name: 'living room windows, north',
+          motion: 'hung',
+          outline: { shape: 'rectangle', size: { x: 2.5, y: 5 } },
+          at: { x: -4, y: 5, from: 'center' },
+          casing: { width: 0.5 }
+        }, {
+          name: 'living room windows, north',
+          motion: 'hung',
+          outline: { shape: 'rectangle', size: { x: 2.5, y: 5 } },
+          at: { x: +4, y: 5, from: 'center' },
+          casing: { width: 0.5 }
+        }]
+      }, {
+        end: { $ref: '#/def/Z' },
+        roofline: 'gabled',
+      }]
+    }
+  }, {
+    name: '1960s addition',
+    altitude: 0,
+    height: 8,
+    roof: {
+      form: 'pitched',
+      pitch: { rise: 8, run: 12 },
+      eaves: 1,
+      surface: {
+        style: 'shingled',
+        material: 'asphalt composition'
+      }
+    },
+    floors: [{
+      surface: { material: 'wood' },
+      outline: {
+        shape: 'polygon',
+        corners: [
+          { $ref: '#/def/L' },
+          { $ref: '#/def/M' },
+          { $ref: '#/def/GH' },
+          { $ref: '#/def/H' }
+        ]
+      }
+    }],
+    walls: {
+      exterior: [{
+        begin: { $ref: '#/def/L' },
+        end: { $ref: '#/def/M' },
+        roofline: 'pitched',
+        outside: {
+          surface: {
+            style: 'rusticated',
+            material: 'stone'
+          }
+        },
+        windows: [{
+          name: 'west room window, front',
+          motion: 'casement',
+          outline: { shape: 'rectangle', size: { x: 6, y: 3 } },
+          at: { x: 9, y: 5, from: 'left' },
+          casing: { width: 0.5 }
+        }, {
+          name: 'kitchen window',
+          motion: 'hung',
+          outline: { shape: 'rectangle', size: { x: 4, y: 3 } },
+          at: { x: 24, y: 6, from: 'left' },
+          casing: { width: 0.5 }
+        }],
+        doors: [{
+          name: 'front door',
+          motion: 'swinging',
+          handleSide: 'left',
+          outline: { shape: 'rectangle', size: { x: 3, y: 7 } },
+          at: { x: 17.5, from: 'left' },
+          casing: { width: 0.5 }
+        }]
+      }, {
+        end: { $ref: '#/def/GH' },
+        roofline: 'gabled'
+      }, {
+        end: { $ref: '#/def/H' },
+        roofline: 'pitched',
+        windows: [{
+          name: 'back room window, north',
+          motion: 'hung',
+          outline: { shape: 'rectangle', size: { x: 2.8, y: 6 } },
+          at: { x: 6, y: 5, from: 'left' },
+          casing: { width: 0.5 }
+        }, {
+          name: 'bathroom window',
+          motion: 'casement',
+          outline: { shape: 'rectangle', size: { x: 2, y: 2 } },
+          at: { x: 22, y: 5, from: 'left' },
+          casing: { width: 0.5 }
+        }],
+        doors: [{
+          name: 'back door',
+          motion: 'swinging',
+          handleSide: 'right',
+          outline: { shape: 'rectangle', size: { x: 3, y: 7 } },
+          at: { x: 16, from: 'left' },
+          casing: { width: 0.5 }
+        }]
+      }, {
+        end: { $ref: '#/def/L' },
+        roofline: 'gabled',
+        windows: [{
+          name: 'bedroom window, west',
+          motion: 'casement',
+          outline: { shape: 'rectangle', size: { x: 6, y: 2.5 } },
+          at: { x: 0, y: 6, from: 'center' },
+          casing: { width: 0.5 }
+        }]
+      }]
+    }
+  }, {
+    name: 'chimney',
+    height: 11,
+    walls: {
+      exterior: [{
+        begin: { $ref: '#/def/a' },
+        end: { $ref: '#/def/b' },
+      }, {
+        end: { $ref: '#/def/c' }
+      }, {
+        end: { $ref: '#/def/d' }
+      }, {
+        end: { $ref: '#/def/a' }
+      }]
+    }
+  }, {
+    name: 'front porch',
+    altitude: 0,
+    height: 8,
+    floors: [{
+      surface: { material: 'brick' },
+      outline: {
+        shape: 'polygon',
+        corners: [
+          { $ref: '#/def/L' },
+          { $ref: '#/def/A' },
+          { $ref: '#/def/B' },
+          { $ref: '#/def/M' },
+          { $ref: '#/def/L' }
+        ]
+      }
+    }],
+    roof: {
+      form: 'shed',
+      pitch: { rise: 2, run: 12 },
+      eaves: 1,
+      surface: {
+        style: 'shingled',
+        material: 'asphalt composition'
+      }
+    },
+    walls: {
+      exterior: [{
+        begin: { $ref: '#/def/L' },
+        end: { $ref: '#/def/A' },
+        roofline: 'shed',
+        doors: [{
+          outline: { shape: 'rectangle', size: { x: 6, y: 7.333 } },
+          at: { x: 0, from: 'center' }
+        }]
+      }, {
+        end: { $ref: '#/def/B' },
+        roofline: 'pitched',
+        doors: [{
+          outline: { shape: 'rectangle', size: { x: 7.5, y: 7.333 } },
+          at: { x: 4.5, from: 'left' }
+        }, {
+          outline: { shape: 'rectangle', size: { x: 7.5, y: 7.333 } },
+          at: { x: 12.5, from: 'left' }
+        }, {
+          outline: { shape: 'rectangle', size: { x: 4.4, y: 7.333 } },
+          at: { x: 18.9, from: 'left' }
+        }, {
+          outline: { shape: 'rectangle', size: { x: 6, y: 7.333 } },
+          at: { x: 24.5, from: 'left' }
+        }, {
+          outline: { shape: 'rectangle', size: { x: 6, y: 7.333 } },
+          at: { x: 31, from: 'left' }
+        }]
+      }, {
+        end: { $ref: '#/def/M' },
+        height: 0,
+        roofline: 'shed'
+      }, {
+        end: { $ref: '#/def/L' },
+        height: 0,
+        roofline: 'none'
+      }]
+    }
+  }, {
+    name: 'stairway',
+    altitude: 0,
+    height: 7,
+    roof: {
+      form: 'pitched',
+      pitch: { rise: 8, run: 12 },
+      eaves: 1,
+      surface: {
+        style: 'shingled',
+        material: 'asphalt composition'
+      }
+    },
+    floors: [{
+      surface: { material: 'concrete' },
+      outline: {
+        shape: 'polygon',
+        corners: [
+          { $ref: '#/def/I' },
+          { $ref: '#/def/J' },
+          { $ref: '#/def/K' },
+          { $ref: '#/def/L' }
+        ]
+      }
+    }],
+    walls: {
+      exterior: [{
+        surface: {
+          style: 'clapboard',
+          material: 'wood'
+        },
+        begin: { $ref: '#/def/I' },
+        end: { $ref: '#/def/J' },
+        roofline: 'pitched'
+      }, {
+        end: { $ref: '#/def/K' },
+        roofline: 'gabled',
+        doors: [{
+          outline: { shape: 'rectangle', size: { x: 2.5, y: 7 } },
+          at: { x: 0, from: 'center' }
+        }]      }, {
+        end: { $ref: '#/def/L' },
+        roofline: 'pitched'
+      }, {
+        end: { $ref: '#/def/I' },
+        roofline: 'gabled'
+      }
+    ]}
+  }, {
+    name: 'garage',
+    altitude: 0,
+    height: 8.5,
+    roof: {
+      form: 'pitched',
+      pitch: { rise: 8, run: 12 },
+      eaves: 1,
+      surface: {
+        style: 'shingled',
+        material: 'asphalt composition'
+      }
+    },
+    floors: [{
+      surface: { material: 'concrete' },
+      outline: {
+        shape: 'polygon',
+        corners: [
+          { $ref: '#/def/NO' },
+          { $ref: '#/def/O' },
+          { $ref: '#/def/P' },
+          { $ref: '#/def/PQ' }
+        ]
+      }
+    }],
+    walls: {
+      exterior: [{
+        surface: {
+          style: 'clapboard',
+          material: 'wood'
+        },
+        begin: { $ref: '#/def/NO' },
+        end: { $ref: '#/def/O' },
+        roofline: 'gabled',
+        doors: [{
+          outline: { shape: 'rectangle', size: { x: 13, y: 7 } },
+          at: { x: 0, from: 'center' }
+        }]
+      }, {
+        end: { $ref: '#/def/P' },
+        roofline: 'pitched',
+        windows: [{
+          name: 'garage windows',
+          motion: 'picture',
+          outline: { shape: 'rectangle', size: { x: 2.5, y: 2 } },
+          at: { x: 6, y: 5, from: 'left' },
+          casing: { width: 0.5 }
+        }],
+        doors: [{
+          outline: { shape: 'rectangle', size: { x: 2.5, y: 7 } },
+          at: { x: -1.5, from: 'right' }
+        }]      }, {
+        end: { $ref: '#/def/PQ' },
+        roofline: 'gabled'
+      }, {
+        end: { $ref: '#/def/NO' },
+        roofline: 'pitched'
+      }
+    ]}
+  }, {
+    name: 'garage shed',
+    altitude: 0,
+    height: 6.5,
+    floors: [{
+      surface: { material: 'wood' }, /* TODO: 'soil' */
+      outline: {
+        shape: 'polygon',
+        corners: [
+          { $ref: '#/def/PQ' },
+          { $ref: '#/def/Q' },
+          { $ref: '#/def/N' },
+          { $ref: '#/def/NO' }
+        ]
+      }
+    }],
+    roof: {
+      form: 'shed',
+      pitch: { rise: 2, run: 12 },
+      eaves: 1,
+      surface: {
+        style: 'shingled',
+        material: 'asphalt composition'
+      }
+    },
+    walls: {
+      exterior: [{
+        begin: { $ref: '#/def/PQ' },
+        end: { $ref: '#/def/Q' },
+        roofline: 'shed'
+      }, {
+        end: { $ref: '#/def/N' },
+        roofline: 'pitched',
+        windows: [{
+          outline: { shape: 'rectangle', size: { x: 2.5, y: 2 } },
+          at: { x: 0, y: 5, from: 'center' }
+        }]
+      }, {
+        end: { $ref: '#/def/NO' },
+        roofline: 'shed',
+        doors: [{
+          outline: { shape: 'rectangle', size: { x: 10, y: 6 } },
+          at: { x: 0, from: 'center' }
+        }]
+      }, {
+        end: { $ref: '#/def/PQ' },
+        height: 0,
+        roofline: 'none'
+      }]
+    }
+  }, {
+    name: 'barn',
+    altitude: 0,
+    height: 7,
+    roof: {
+      form: 'pitched',
+      pitch: { rise: 8, run: 12 },
+      eaves: 1,
+      surface: {
+        style: 'shingled',
+        material: 'asphalt composition'
+      }
+    },
+    floors: [{
+      surface: { material: 'stone' },
+      outline: {
+        shape: 'polygon',
+        corners: [
+          { $ref: '#/def/R' },
+          { $ref: '#/def/S' },
+          { $ref: '#/def/T' },
+          { $ref: '#/def/U' }
+        ]
+      }
+    }],
+    walls: {
+      exterior: [{
+        surface: {
+          style: 'rusticated',
+          material: 'stone'
+        },
+        begin: { $ref: '#/def/R' },
+        end: { $ref: '#/def/S' },
+        roofline: 'gabled'
+      }, {
+        end: { $ref: '#/def/T' },
+        roofline: 'pitched',
+        doors: [{
+          outline: { shape: 'rectangle', size: { x: 2.5, y: 7 } },
+          at: { x: 0, from: 'center' }
+        }]
+      }, {
+        end: { $ref: '#/def/U' },
+        roofline: 'gabled'
+      }, {
+        end: { $ref: '#/def/R' },
+        roofline: 'pitched'
+      }
+    ]}
+  }, {
+    name: 'outhouse',
+    altitude: 0,
+    height: 7,
+    roof: {
+      form: 'pitched',
+      pitch: { rise: 8, run: 12 },
+      eaves: 1,
+      surface: {
+        style: 'shingled',
+        material: 'asphalt composition'
+      }
+    },
+    floors: [{
+      surface: { material: 'wood' },
+      outline: {
+        shape: 'polygon',
+        corners: [
+          { $ref: '#/def/V' },
+          { $ref: '#/def/W' },
+          { $ref: '#/def/X' },
+          { $ref: '#/def/Y' }
+        ]
+      }
+    }],
+    walls: {
+      exterior: [{
+        surface: {
+          style: 'clapboard',
+          material: 'wood'
+        },
+        begin: { $ref: '#/def/V' },
+        end: { $ref: '#/def/W' },
+        roofline: 'gabled',
+        doors: [{
+          outline: { shape: 'rectangle', size: { x: 2.5, y: 7 } },
+          at: { x: 0, from: 'center' }
+        }]
+      }, {
+        end: { $ref: '#/def/X' },
+        roofline: 'pitched',
+        windows: [{
+          outline: { shape: 'rectangle', size: { x: 2, y: 2.6 } },
+          at: { x: 0, y: 5, from: 'center' }
+        }]
+      }, {
+        end: { $ref: '#/def/Y' },
+        roofline: 'gabled'
+      }, {
+        end: { $ref: '#/def/V' },
+        roofline: 'pitched',
+        doors: [{
+          outline: { shape: 'rectangle', size: { x: 2.5, y: 7 } },
+          at: { x: 1.5, from: 'left' }
+        }]
+      }
+    ]}
+  }]
+};
+
 var LONGHOUSE_JUNCTION = /* eslint-disable */
 {
   context: 'city3d',
@@ -62702,6 +63757,11 @@ var LONGHOUSE_JUNCTION = /* eslint-disable */
       outline: { shape: 'rectangle', size: { x: 5, y: 8 } },
       at: { x: 0, y: 8, from: 'center'}
     },
+    CORNER_OPENING: {
+      motion: 'open',
+      outline: { shape: 'rectangle', size: { x: 6, y: 14.5 } },
+      at: { x: 0, from: 'center'}
+    },
     BOULEVARD_END_OPENING: {
       motion: 'awning',
       outline: { shape: 'rectangle', size: { x: 29, y: 15 } },
@@ -62709,20 +63769,20 @@ var LONGHOUSE_JUNCTION = /* eslint-disable */
     }
   },
   routes: [
-    { waypoints: [ { y: 11, x: 40, z: 7.5 }, { y: 11, x: 0, z: 7.5 } ]},
-    { waypoints: [ { y: 17, x: 40, z: 7.5 }, { y: 17, x: 0, z: 7.5 } ]},
-    { waypoints: [ { y: 23, x: 40, z: 7.5 }, { y: 23, x: 0, z: 7.5 } ]},
-    { waypoints: [ { y: 29, x: 40, z: 7.5 }, { y: 29, x: 0, z: 7.5 } ]},
+    { waypoints: [ { y: 11, x: 40, z: 15 }, { y: 11, x: 0, z: 15 } ]},
+    { waypoints: [ { y: 17, x: 40, z: 15 }, { y: 17, x: 0, z: 15 } ]},
+    { waypoints: [ { y: 23, x: 40, z: 15 }, { y: 23, x: 0, z: 15 } ]},
+    { waypoints: [ { y: 29, x: 40, z: 15 }, { y: 29, x: 0, z: 15 } ]},
 
-    { waypoints: [ { x: 11, y: 0, z: 22.5 }, { x: 11, y: 40, z: 22.5 } ]},
-    { waypoints: [ { x: 17, y: 0, z: 22.5 }, { x: 17, y: 40, z: 22.5 } ]},
-    { waypoints: [ { x: 23, y: 0, z: 22.5 }, { x: 23, y: 40, z: 22.5 } ]},
-    { waypoints: [ { x: 29, y: 0, z: 22.5 }, { x: 29, y: 40, z: 22.5 } ]}
+    { waypoints: [ { x: 11, y: 0, z: 30 }, { x: 11, y: 40, z: 30 } ]},
+    { waypoints: [ { x: 17, y: 0, z: 30 }, { x: 17, y: 40, z: 30 } ]},
+    { waypoints: [ { x: 23, y: 0, z: 30 }, { x: 23, y: 40, z: 30 } ]},
+    { waypoints: [ { x: 29, y: 0, z: 30 }, { x: 29, y: 40, z: 30 } ]}
   ],
   storeys: [{
     name: 'ground floor (east-west)',
     repeat: 1,
-    height: 7.5,
+    height: 15,
     floors: [{ 
       outline: {
         shape: 'polygon',
@@ -62835,25 +63895,25 @@ var LONGHOUSE_JUNCTION = /* eslint-disable */
         doors: [{ $ref: '#/def/BOULEVARD_END_OPENING' }]
       }, {
         end: { $ref: '#/def/C' },
-        windows: [{ $ref: '#/def/CORNER_WINDOW' }]
+        doors: [{ $ref: '#/def/CORNER_OPENING' }]
       }, {
         end: { $ref: '#/def/D' },
         doors: [{ $ref: '#/def/BOULEVARD_END_OPENING' }]
       }, {
         end: { $ref: '#/def/E' },
-        windows: [{ $ref: '#/def/CORNER_WINDOW' }]
+        doors: [{ $ref: '#/def/CORNER_OPENING' }]
       }, {
         end: { $ref: '#/def/F' },
         doors: [{ $ref: '#/def/BOULEVARD_END_OPENING' }]
       }, {
         end: { $ref: '#/def/G' },
-        windows: [{ $ref: '#/def/CORNER_WINDOW' }]
+        doors: [{ $ref: '#/def/CORNER_OPENING' }]
       }, {
         end: { $ref: '#/def/H' },
         doors: [{ $ref: '#/def/BOULEVARD_END_OPENING' }]
       }, {
         end: { $ref: '#/def/A' },
-        windows: [{ $ref: '#/def/CORNER_WINDOW' }]
+        doors: [{ $ref: '#/def/CORNER_OPENING' }]
       }
     ]},
     roof: {
@@ -62862,7 +63922,7 @@ var LONGHOUSE_JUNCTION = /* eslint-disable */
     }
   }, {
     name: 'roof parapet',
-    altitude: 41.5,
+    altitude: 49,
     height: 4,
     walls: {
       exterior: [{
@@ -62930,36 +63990,36 @@ var LONGHOUSE_RAMPS = /* eslint-disable */
     C: { x: 50, y: 90 },
     D: { x: 35, y: 90 },
     E: { x: 30, y: 45 },
-    AB: { x: 30, y: 0, z: 22.5 },
-    CD: { x: 45, y: 90, z: 22.5 },
+    AB: { x: 30, y: 0, z: 30 },
+    CD: { x: 45, y: 90, z: 30 },
 
     /* ramp down from highroad exit to landing */
     F: { x: 50, y: 270 },
     G: { x: 35, y: 270 },
-    FG: { x: 45, y: 270, z: 15 },
+    FG: { x: 45, y: 270, z: 22.5 },
 
     /* ramp up from lowroad exit to landing */
     H: { x: 65, y: 90 },
     I: { x: 65, y: 270 },
-    CH: { x: 60, y: 90, z: 7.5 },
-    IF: { x: 60, y: 270, z: 15 },
+    CH: { x: 60, y: 90, z: 15 },
+    IF: { x: 60, y: 270, z: 22.5 },
 
     /* landing */
     J: { x: 70, y: 270 },
     K: { x: 85, y: 270 },
 
     /* exit from lowroad (toward landing) */
-    L: { x: 130, y: 30 },
-    M: { x: 200, y: 30 },
+    L: { x: 110, y: 35 },
+    M: { x: 180, y: 35 },
     N: { x: 130, y: 45 },
     O: { x: 89, y: 58 },
     P: { x: 73, y: 69 },
     Q: { x: 60, y: 55 },
-    R: { x: 80, y: 40 },
-    LM: { x: 170, y: 30, z: 7.5 },
-    LN: { x: 130, y: 40, z: 7.5 },
-    OR: { x: 86, y: 52, z: 7.5 },
-    PQ: { x: 68, y: 64, z: 7.5 },
+    R: { x: 80, y: 44 },
+    LM: { x: 170, y: 30, z: 15 },
+    LN: { x: 130, y: 40, z: 15 },
+    OR: { x: 86, y: 52, z: 15 },
+    PQ: { x: 68, y: 64, z: 15 },
 
     /* landing, south access walkway */
     S: { x: 134, y: 284 },
@@ -62967,10 +64027,10 @@ var LONGHOUSE_RAMPS = /* eslint-disable */
     U: { x: 85, y: 290 },
 
     /* lower plaza */
-    V: { x: 490, y: 30 },
+    V: { x: 490, y: 35 },
     W: { x: 490, y: 45 },
     X: { x: 180, y: 45 },
-    Y: { x: 180, y: 30 },
+    Y: { x: 180, y: 35 },
 
     /* lower plaza access walkways */
     Z0a: { x: (96 * 0) + 188 + 6, y: 45 },
@@ -62999,36 +64059,36 @@ var LONGHOUSE_RAMPS = /* eslint-disable */
     c: { x: 50, y: 670 - 90 },
     d: { x: 35, y: 670 - 90 },
     e: { x: 30, y: 670 - 45 },
-    ab: { x: 30, y: 670 - 0, z: 22.5 },
-    cd: { x: 45, y: 670 - 90, z: 22.5 },
+    ab: { x: 30, y: 670 - 0, z: 30 },
+    cd: { x: 45, y: 670 - 90, z: 30 },
 
     /* ramp up from landing to highroad */
     f: { x: 50, y: 670 - 270 },
     g: { x: 30, y: 670 - 270 },
-    fg: { x: 45, y: 670 - 270, z: 15 },
+    fg: { x: 45, y: 670 - 270, z: 22.5 },
 
     /* ramp down from landing to lowroad */
     h: { x: 65, y: 670 - 90 },
     i: { x: 65, y: 670 - 270 },
-    ch: { x: 60, y: 670 - 90, z: 7.5 },
-    'if': { x: 60, y: 670 - 270, z: 15 },
+    ch: { x: 60, y: 670 - 90, z: 15 },
+    'if': { x: 60, y: 670 - 270, z: 22.5 },
 
     /* landing */
     j: { x: 70, y: 670 - 270 },
     k: { x: 85, y: 670 - 270 },
 
     /* entrance to lowroad (from landing) */
-    l: { x: 130, y: 670 - 30 },
-    m: { x: 200, y: 670 - 30 },
+    l: { x: 110, y: 670 - 35 },
+    m: { x: 180, y: 670 - 35 },
     n: { x: 130, y: 670 - 45 },
     o: { x: 89, y: 670 - 58 },
     p: { x: 73, y: 670 - 69 },
     q: { x: 60, y: 670 - 55 },
-    r: { x: 80, y: 670 - 40 },
-    lm: { x: 170, y: 670 - 30, z: 7.5 },
-    ln: { x: 130, y: 670 - 40, z: 7.5 },
-    or: { x: 86, y: 670 - 52, z: 7.5 },
-    pq: { x: 68, y: 670 - 64, z: 7.5 },
+    r: { x: 80, y: 670 - 43 },
+    lm: { x: 170, y: 670 - 30, z: 15 },
+    ln: { x: 130, y: 670 - 40, z: 15 },
+    or: { x: 86, y: 670 - 52, z: 15 },
+    pq: { x: 68, y: 670 - 64, z: 15 },
 
     /* landing, north access walkway */
     s: { x: 134, y: 670 - 284 },
@@ -63064,7 +64124,7 @@ var LONGHOUSE_RAMPS = /* eslint-disable */
   }],
   storeys: [{
     name: 'exit from highroad (toward landing)',
-    altitude: 22.5,
+    altitude: 30,
     floors: [{ 
       outline: {
         shape: 'polygon',
@@ -63077,9 +64137,17 @@ var LONGHOUSE_RAMPS = /* eslint-disable */
         ]
       }
     }],
+    walls: {
+      exterior: [{
+        name: 'railing',
+        height: 4,
+        begin: { $ref: '#/def/B' },
+        end: { $ref: '#/def/C' }
+      }
+    ]},
   }, {
     name: 'ramp down from highroad exit to landing',
-    altitude: 22.5,
+    altitude: 30,
     incline: -7.5,
     floors: [{ 
       outline: {
@@ -63092,9 +64160,17 @@ var LONGHOUSE_RAMPS = /* eslint-disable */
         ]
       }
     }],
+    walls: {
+      exterior: [{
+        name: 'railing',
+        height: 4,
+        begin: { $ref: '#/def/C' },
+        end: { $ref: '#/def/F' }
+      }
+    ]},
   }, {
     name: 'ramp up from lowroad exit to landing',
-    altitude: 7.5,
+    altitude: 15,
     incline: 7.5,
     floors: [{ 
       outline: {
@@ -63107,9 +64183,22 @@ var LONGHOUSE_RAMPS = /* eslint-disable */
         ]
       }
     }],
+    walls: {
+      exterior: [{
+        name: 'railing',
+        height: 11.5,
+        begin: { $ref: '#/def/H' },
+        end: { $ref: '#/def/I' }
+      }, {
+        name: 'railing',
+        height: 19,
+        begin: { $ref: '#/def/F' },
+        end: { $ref: '#/def/C' }
+      }
+    ]},
   }, {
     name: 'landing', 
-    altitude: 15,
+    altitude: 22.5,
     floors: [{ 
       outline: {
         shape: 'polygon',
@@ -63120,10 +64209,29 @@ var LONGHOUSE_RAMPS = /* eslint-disable */
           { $ref: '#/def/g' }
         ]
       }
-    }]
+    }],
+    walls: {
+      exterior: [{
+        name: 'railing',
+        height: 4,
+        begin: { $ref: '#/def/I' },
+        end: { $ref: '#/def/K' }
+      }, {
+        name: 'railing',
+        height: 4,
+        begin: { $ref: '#/def/U' },
+        end: { $ref: '#/def/u' }
+      }, {
+        name: 'railing',
+        height: 4,
+        begin: { $ref: '#/def/k' },
+        end: { $ref: '#/def/i' }
+      }
+    ]},
   }, {
     name: 'exit from lowroad (toward landing)', 
-    altitude: 7.5,
+    altitude: 15,
+    height: 4,
     floors: [{ 
       outline: {
         shape: 'polygon',
@@ -63139,10 +64247,31 @@ var LONGHOUSE_RAMPS = /* eslint-disable */
           { $ref: '#/def/R' }
         ]
       }
-    }]
+    }],
+    walls: {
+      exterior: [{
+        name: 'railing',
+        begin: { $ref: '#/def/M' },
+        end: { $ref: '#/def/N' }
+      }, {
+        end: { $ref: '#/def/O' }
+      }, {
+        end: { $ref: '#/def/P' }
+      }, {
+        end: { $ref: '#/def/H' }
+      }, {
+        name: 'railing',
+        begin: { $ref: '#/def/C' },
+        end: { $ref: '#/def/Q' }
+      }, {
+        end: { $ref: '#/def/R' }
+      }, {
+        end: { $ref: '#/def/L' }
+      }
+    ]}
   }, {
     name: 'landing, south access walkway',
-    altitude: 15,
+    altitude: 22.5,
     incline: 2.5,
     floors: [{ 
       outline: {
@@ -63155,9 +64284,22 @@ var LONGHOUSE_RAMPS = /* eslint-disable */
         ]
       }
     }],
+    walls: {
+      exterior: [{
+        name: 'railing',
+        height: 4,
+        begin: { $ref: '#/def/K' },
+        end: { $ref: '#/def/S' }
+      }, {
+        name: 'railing',
+        height: 4,
+        begin: { $ref: '#/def/T' },
+        end: { $ref: '#/def/U' }
+      }
+    ]},
   }, {
     name: 'entrance to highroad (from landing)',
-    altitude: 22.5,
+    altitude: 30,
     floors: [{ 
       outline: {
         shape: 'polygon',
@@ -63170,9 +64312,17 @@ var LONGHOUSE_RAMPS = /* eslint-disable */
         ]
       }
     }],
+    walls: {
+      exterior: [{
+        name: 'railing',
+        height: 4,
+        begin: { $ref: '#/def/c' },
+        end: { $ref: '#/def/b' }
+      }
+    ]},
   }, {
     name: 'ramp up from landing to highroad',
-    altitude: 22.5,
+    altitude: 30,
     incline: -7.5,
     floors: [{ 
       outline: {
@@ -63185,9 +64335,17 @@ var LONGHOUSE_RAMPS = /* eslint-disable */
         ]
       }
     }],
+    walls: {
+      exterior: [{
+        name: 'railing',
+        height: 4,
+        begin: { $ref: '#/def/f' },
+        end: { $ref: '#/def/c' }
+      }
+    ]},
   }, {
     name: 'ramp down from landing to lowroad',
-    altitude: 7.5,
+    altitude: 15,
     incline: 7.5,
     floors: [{ 
       outline: {
@@ -63200,9 +64358,23 @@ var LONGHOUSE_RAMPS = /* eslint-disable */
         ]
       }
     }],
+    walls: {
+      exterior: [{
+        name: 'railing',
+        height: 11.5,
+        begin: { $ref: '#/def/i' },
+        end: { $ref: '#/def/h' }
+      }, {
+        name: 'railing',
+        height: 19,
+        begin: { $ref: '#/def/c' },
+        end: { $ref: '#/def/f' }
+      }]
+    },
   }, {
     name: 'entrance to lowroad (from landing)',
-    altitude: 7.5,
+    altitude: 15,
+    height: 4,
     floors: [{ 
       outline: {
         shape: 'polygon',
@@ -63218,10 +64390,31 @@ var LONGHOUSE_RAMPS = /* eslint-disable */
           { $ref: '#/def/l' }
         ]
       }
-    }]
+    }],
+    walls: {
+      exterior: [{
+        name: 'railing',
+        begin: { $ref: '#/def/h' },
+        end: { $ref: '#/def/p' }
+      }, {
+        end: { $ref: '#/def/o' }
+      }, {
+        end: { $ref: '#/def/n' }
+      }, {
+        end: { $ref: '#/def/m' }
+      }, {
+        name: 'railing',
+        begin: { $ref: '#/def/l' },
+        end: { $ref: '#/def/r' }
+      }, {
+        end: { $ref: '#/def/q' }
+      }, {
+        end: { $ref: '#/def/c' }
+      }
+    ]},
   }, {
     name: 'landing, north access walkway',
-    altitude: 15,
+    altitude: 22.5,
     incline: 2.5,
     floors: [{ 
       outline: {
@@ -63234,9 +64427,23 @@ var LONGHOUSE_RAMPS = /* eslint-disable */
         ]
       }
     }],
+    walls: {
+      exterior: [{
+        name: 'railing',
+        height: 4,
+        begin: { $ref: '#/def/u' },
+        end: { $ref: '#/def/t' }
+      }, {
+        name: 'railing',
+        height: 4,
+        begin: { $ref: '#/def/s' },
+        end: { $ref: '#/def/k' }
+      }
+    ]}
   }, {
     name: 'lower plaza',
-    altitude: 7.5,
+    altitude: 15,
+    height: 4,
     floors: [{ 
       outline: {
         shape: 'polygon',
@@ -63248,9 +64455,33 @@ var LONGHOUSE_RAMPS = /* eslint-disable */
         ]
       }
     }],
+    walls: {
+      exterior: [{
+        name: 'railing',
+        begin: { $ref: '#/def/V' },
+        end: { $ref: '#/def/W' }
+      }, {
+        end: { $ref: '#/def/Z3a' }
+      }, {
+        begin: { $ref: '#/def/Z3d' },
+        end: { $ref: '#/def/Z2a' }
+      }, {
+        begin: { $ref: '#/def/Z2d' },
+        end: { $ref: '#/def/Z1a' }
+      }, {
+        begin: { $ref: '#/def/Z1d' },
+        end: { $ref: '#/def/Z0a' }
+      }, {
+        begin: { $ref: '#/def/Z0d' },
+        end: { $ref: '#/def/X' }
+      }, {
+        end: { $ref: '#/def/Y' }
+      }
+    ]}
   }, {
     name: 'lower plaza walkway 0 of 4',
-    altitude: 7.5,
+    altitude: 15,
+    height: 4,
     floors: [{ 
       outline: {
         shape: 'polygon',
@@ -63262,9 +64493,21 @@ var LONGHOUSE_RAMPS = /* eslint-disable */
         ]
       }
     }],
+    walls: {
+      exterior: [{
+        name: 'railing',
+        begin: { $ref: '#/def/Z0a' },
+        end: { $ref: '#/def/Z0b' }
+      }, {
+        name: 'railing',
+        begin: { $ref: '#/def/Z0c' },
+        end: { $ref: '#/def/Z0d' }
+      }
+    ]}
   }, {
     name: 'lower plaza walkway 1 of 4',
-    altitude: 7.5,
+    altitude: 15,
+    height: 4,
     floors: [{ 
       outline: {
         shape: 'polygon',
@@ -63276,9 +64519,21 @@ var LONGHOUSE_RAMPS = /* eslint-disable */
         ]
       }
     }],
+    walls: {
+      exterior: [{
+        name: 'railing',
+        begin: { $ref: '#/def/Z1a' },
+        end: { $ref: '#/def/Z1b' }
+      }, {
+        name: 'railing',
+        begin: { $ref: '#/def/Z1c' },
+        end: { $ref: '#/def/Z1d' }
+      }
+    ]}
   }, {
     name: 'lower plaza walkway 2 of 4',
-    altitude: 7.5,
+    altitude: 15,
+    height: 4,
     floors: [{ 
       outline: {
         shape: 'polygon',
@@ -63290,9 +64545,21 @@ var LONGHOUSE_RAMPS = /* eslint-disable */
         ]
       }
     }],
+    walls: {
+      exterior: [{
+        name: 'railing',
+        begin: { $ref: '#/def/Z2a' },
+        end: { $ref: '#/def/Z2b' }
+      }, {
+        name: 'railing',
+        begin: { $ref: '#/def/Z2c' },
+        end: { $ref: '#/def/Z2d' }
+      }
+    ]}
   }, {
     name: 'lower plaza walkway 3 of 4',
-    altitude: 7.5,
+    altitude: 15,
+    height: 4,
     floors: [{ 
       outline: {
         shape: 'polygon',
@@ -63304,6 +64571,17 @@ var LONGHOUSE_RAMPS = /* eslint-disable */
         ]
       }
     }],
+    walls: {
+      exterior: [{
+        name: 'railing',
+        begin: { $ref: '#/def/Z3a' },
+        end: { $ref: '#/def/Z3b' }
+      }, {
+        name: 'railing',
+        begin: { $ref: '#/def/Z3c' },
+        end: { $ref: '#/def/Z3d' }
+      }
+    ]}
   }]
 };
 
@@ -63342,14 +64620,32 @@ var LOWROAD_BRIDGE = /* eslint-disable */
     }
   },
   routes: [
-    { waypoints: [ { y: 6, x: 0, z: 7.5 }, { y: 6, x: 60, z: 7.5 } ]},
-    { waypoints: [ { y: 12, x: 0, z: 7.5 }, { y: 12, x: 60, z: 7.5 } ]},
-    { waypoints: [ { y: 18, x: 0, z: 7.5 }, { y: 18, x: 60, z: 7.5 } ]},
-    { waypoints: [ { y: 24, x: 0, z: 7.5 }, { y: 24, x: 60, z: 7.5 } ]},
+    /* lowroad bridge */
+    { waypoints: [ { y: 6, x: 0, z: 15 }, { y: 6, x: 60, z: 15 } ]},
+    { waypoints: [ { y: 12, x: 0, z: 15 }, { y: 12, x: 60, z: 15 } ]},
+    { waypoints: [ { y: 18, x: 0, z: 15 }, { y: 18, x: 60, z: 15 } ]},
+    { waypoints: [ { y: 24, x: 0, z: 15 }, { y: 24, x: 60, z: 15 } ]},
+    /* highroad u-turns */
+    { waypoints: [
+      { y: 0, x: 71, z: 30 },
+      { y: 5, x: 65, z: 30 },
+      { y: 12, x: 40, z: 30 },
+      { y: 12, x: 20, z: 30 },
+      { y: 5, x: -5, z: 30 },
+      { y: 0, x: -11, z: 30 }
+    ]},
+    { waypoints: [
+      { y: 30, x: -11, z: 30 },
+      { y: 25, x: -5, z: 30 },
+      { y: 18, x: 20, z: 30 },
+      { y: 18, x: 40, z: 30 },
+      { y: 25, x: 65, z: 30 },
+      { y: 30, x: 71, z: 30 }
+    ]}
   ],
   storeys: [{
     name: 'boulevard',
-    altitude: 7.5,
+    altitude: 15,
     height: 15,
     floors: [{ 
       outline: {
@@ -63450,6 +64746,16 @@ var LOWROAD_LONGHOUSE = /* eslint-disable */
         }
       }
     },
+    BOULEVARD_SIDE_OPENINGS: {
+      repeat: {
+        spacing: 29.5,
+        feature: {
+          motion: 'open',
+          outline: { shape: 'rectangle', size: { x: 29, y: 14.5 } },
+          at: { x: 0, from: 'center'}
+        }
+      }
+    },
     BOULEVARD_END_OPENING: {
       motion: 'awning',
       outline: { shape: 'rectangle', size: { x: 29, y: 15 } },
@@ -63457,15 +64763,15 @@ var LOWROAD_LONGHOUSE = /* eslint-disable */
     }
   },
   routes: [
-    { waypoints: [ { y: 6, x: 0, z: 7.5 }, { y: 6, x: 590, z: 7.5 } ]},
-    { waypoints: [ { y: 12, x: 0, z: 7.5 }, { y: 12, x: 590, z: 7.5 } ]},
-    { waypoints: [ { y: 18, x: 0, z: 7.5 }, { y: 18, x: 590, z: 7.5 } ]},
-    { waypoints: [ { y: 24, x: 0, z: 7.5 }, { y: 24, x: 590, z: 7.5 } ]},
+    { waypoints: [ { y: 6, x: 0, z: 15 }, { y: 6, x: 590, z: 15 } ]},
+    { waypoints: [ { y: 12, x: 0, z: 15 }, { y: 12, x: 590, z: 15 } ]},
+    { waypoints: [ { y: 18, x: 0, z: 15 }, { y: 18, x: 590, z: 15 } ]},
+    { waypoints: [ { y: 24, x: 0, z: 15 }, { y: 24, x: 590, z: 15 } ]},
   ],
   storeys: [{
     name: 'ground floor (east-west)',
     repeat: 1,
-    height: 7.5,
+    height: 15,
     floors: [{ 
       outline: {
         shape: 'polygon',
@@ -63515,7 +64821,7 @@ var LOWROAD_LONGHOUSE = /* eslint-disable */
         name: 'front wall',
         begin: { $ref: '#/def/A' },
         end: { $ref: '#/def/B' },
-        windows: [{ $ref: '#/def/BOULEVARD_WINDOWS' }]
+        windows: [{ $ref: '#/def/BOULEVARD_SIDE_OPENINGS' }]
       }, {
         end: { $ref: '#/def/C' },
         doors: [{ $ref: '#/def/BOULEVARD_END_OPENING' }]
@@ -63529,7 +64835,6 @@ var LOWROAD_LONGHOUSE = /* eslint-disable */
     ]}
   }, {
     name: 'top floor (east-west)',
-    repeat: 1,
     height: 15,
     floors: [{ 
       outline: {
@@ -63566,7 +64871,7 @@ var LOWROAD_LONGHOUSE = /* eslint-disable */
     }
   }, {
     name: 'roof parapet',
-    altitude: 41.5,
+    altitude: 49,
     height: 4,
     walls: {
       exterior: [{
@@ -63577,6 +64882,284 @@ var LOWROAD_LONGHOUSE = /* eslint-disable */
         end: { $ref: '#/def/D' }
       }]
     }
+  }]
+};
+
+var MIDRISE_BUILDING = /* eslint-disable */
+{
+  context: 'city3d',
+  type: 'building.schema.json',
+  name: 'Midrise building',
+  metadata: {
+    license: 'UNLICENSE: This is free and unencumbered software released into the public domain. For more information, please refer to <http://unlicense.org>',
+    creator: 'Authored at <https://github.com/nicky-nym/city3d>',
+    date: '2020'
+  },
+  unit: 'feet',
+  comments: [
+    '                                     ',
+    '                                     ',
+    '          F---------E                ',
+    '         /           \               ',
+    '        G             D              ',
+    '        |             |              ',
+    '        |             |              ',
+    '        |             |              ',
+    '        H             C              ',
+    '         \           /               ',
+    '          A---------B                ',
+    '                                     ',
+    '                                     '
+  ],
+  anchorPoint: { x: 0, y: 0, z: 0 },
+  def: {
+    A: { x: -15, y: -21 },
+    B: { x: +15, y: -21 },
+    C: { x: +21, y: -15 },
+    D: { x: +21, y: +15 },
+    E: { x: +15, y: +21 },
+    F: { x: -15, y: +21 },
+    G: { x: -21, y: +15 },
+    H: { x: -21, y: -15 },
+    OCTAGON: {
+      shape: 'polygon',
+      corners: [
+        { "$ref": "#/def/A" },
+        { "$ref": "#/def/B" },
+        { "$ref": "#/def/C" },
+        { "$ref": "#/def/D" },
+        { "$ref": "#/def/E" },
+        { "$ref": "#/def/F" },
+        { "$ref": "#/def/G" },
+        { "$ref": "#/def/H" }
+      ]
+    },
+    WINDOWS: {
+      repeat: {
+        spacing: 3,
+        feature: {
+          motion: 'casement',
+          outline: { shape: 'rectangle', size: { x: 2.5, y: 5 } },
+          at: { x: 0, y: 5.5, from: 'center'}
+        }
+      }
+    },
+  },
+  storeys: [{
+    name: 'bottom five storeys',
+    repeat: 5,
+    height: 10,
+    floors: [{
+      outline: { "$ref": "#/def/OCTAGON" },
+      surface: { material: 'concrete' }
+    }],
+    walls: {
+      exterior: [{
+        name: 'front wall',
+        begin: { $ref: '#/def/A' },
+        end: { $ref: '#/def/B' },
+        windows: [{ $ref: '#/def/WINDOWS' }]
+      }, {
+        end: { $ref: '#/def/C' },
+        doors: [{
+          name: 'left door',
+          motion: 'swinging',
+          outline: { shape: 'rectangle', size: { x: 3, y: 6 + 8 / 12 } },
+          at: { x: -1.75, from: 'center' },
+          casing: { width: 0.5 }
+        }, {
+          name: 'right door',
+          motion: 'swinging',
+          outline: { shape: 'rectangle', size: { x: 3, y: 6 + 8 / 12 } },
+          at: { x: +1.75, from: 'center' },
+          casing: { width: 0.5 }
+        }],
+      }, {
+        end: { $ref: '#/def/D' },
+        windows: [{ $ref: '#/def/WINDOWS' }]
+      }, {
+        end: { $ref: '#/def/E' }
+      }, {
+        end: { $ref: '#/def/F' },
+        windows: [{ $ref: '#/def/WINDOWS' }]
+      }, {
+        end: { $ref: '#/def/G' },
+      }, {
+        end: { $ref: '#/def/H' },
+        windows: [{ $ref: '#/def/WINDOWS' }]
+      }, {
+        end: { $ref: '#/def/A' },
+      }]
+    }
+  }, {
+    name: 'living roof',
+    height: 0,
+    // height: 1,
+    // floors: [{
+    //   outline: { "$ref": "#/def/OCTAGON" },
+    //   surface: { material: 'concrete' }
+    // }],
+    walls: {
+      exterior: [{
+        name: 'front wall',
+        begin: { $ref: '#/def/A' },
+        end: { $ref: '#/def/B' }
+      }, {
+        end: { $ref: '#/def/C' }
+      }, {
+        end: { $ref: '#/def/D' }
+      }, {
+        end: { $ref: '#/def/E' }
+      }, {
+        end: { $ref: '#/def/F' }
+      }, {
+        end: { $ref: '#/def/G' }
+      }, {
+        end: { $ref: '#/def/H' }
+      }, {
+        end: { $ref: '#/def/A' }
+      }]
+    },
+    roof: {
+      form: 'living',
+      parapetHeight: 4
+    }
+  }, {
+    name: 'roof parapet',
+    altitude: 54,
+    height: 4,
+    walls: {
+      exterior: [{
+        name: 'front wall',
+        begin: { $ref: '#/def/A' },
+        end: { $ref: '#/def/B' }
+      }, {
+        end: { $ref: '#/def/C' }
+      }, {
+        end: { $ref: '#/def/D' }
+      }, {
+        end: { $ref: '#/def/E' }
+      }, {
+        end: { $ref: '#/def/F' }
+      }, {
+        end: { $ref: '#/def/G' }
+      }, {
+        end: { $ref: '#/def/H' }
+      }, {
+        end: { $ref: '#/def/A' }
+      }]
+    }
+  }]
+};
+
+var MIDRISE_LANDING = /* eslint-disable */
+{
+  context: 'city3d',
+  type: 'building.schema.json',
+  name: 'Midrise Landing',
+  metadata: {
+    license: 'UNLICENSE: This is free and unencumbered software released into the public domain. For more information, please refer to <http://unlicense.org>',
+    creator: 'Authored at <https://github.com/nicky-nym/city3d>',
+    date: '2020'
+  },
+  unit: 'feet',
+  anchorPoint: { x: 0, y: 0, z: 0 },
+  comments: [
+    '                                                      ',
+    '                                                      '
+  ],
+  def: {
+    A: { x: -3, y: -9 },
+    B: { x: +3, y: -9 },
+    AB: { x: 0, y: -9 },
+    C: { x: +9, y: -3 },
+    D: { x: +9, y: +3 },
+    CD: { x: 9, y: 0 },
+    E: { x: +3, y: +9 },
+    F: { x: -3, y: +9 },
+    EF: { x: 0, y: +9 },
+    G: { x: -9, y: +3 },
+    H: { x: -9, y: -3 },
+    GH: { x: -9, y: 0 },
+    OCTAGON: {
+      shape: 'polygon',
+      corners: [
+        { "$ref": "#/def/A" },
+        { "$ref": "#/def/B" },
+        { "$ref": "#/def/C" },
+        { "$ref": "#/def/D" },
+        { "$ref": "#/def/E" },
+        { "$ref": "#/def/F" },
+        { "$ref": "#/def/G" },
+        { "$ref": "#/def/H" }
+      ]
+    },
+  },
+  routes: [{
+    name: 'route across landing',
+    waypoints: [
+      { $ref: '#/def/CD' },
+      { $ref: '#/def/EF' }
+    ]
+  }],
+  storeys: [{
+    name: 'exit from highroad (toward landing)',
+    altitude: 0,
+    floors: [{
+      outline: { "$ref": "#/def/OCTAGON" },
+      surface: { material: 'concrete' }
+    }]
+  }]
+};
+
+var MIDRISE_RAMP = /* eslint-disable */
+{
+  context: 'city3d',
+  type: 'building.schema.json',
+  name: 'Midrise Ramp',
+  metadata: {
+    license: 'UNLICENSE: This is free and unencumbered software released into the public domain. For more information, please refer to <http://unlicense.org>',
+    creator: 'Authored at <https://github.com/nicky-nym/city3d>',
+    date: '2020'
+  },
+  unit: 'feet',
+  anchorPoint: { x: 0, y: 0, z: 0 },
+  comments: [
+    '                                                      ',
+    '                                                      '
+  ],
+  def: {
+    A: { x: +3, y: -15 },
+    B: { x: +3, y: +15 },
+    C: { x: -3, y: +15 },
+    BC: { x: 0, y: +15, z: 2.5 },
+    D: { x: -3, y: -15 },
+    DA: { x: 0, y: -15, z: 0 },
+    RECTANGLE: {
+      shape: 'polygon',
+      corners: [
+        { "$ref": "#/def/A" },
+        { "$ref": "#/def/B" },
+        { "$ref": "#/def/C" },
+        { "$ref": "#/def/D" }
+      ]
+    },
+  },
+  routes: [{
+    name: 'route along ramp',
+    waypoints: [
+      { $ref: '#/def/DA' },
+      { $ref: '#/def/BC' }
+    ]
+  }],
+  storeys: [{
+    name: 'ramp',
+    altitude: 0,
+    incline: 2.5,
+    floors: [{
+      outline: { "$ref": "#/def/RECTANGLE" },
+      surface: { material: 'concrete' }
+    }]
   }]
 };
 
@@ -64423,6 +66006,101 @@ var CAMPUS = /* eslint-disable */
   }]
 };
 
+var LAYERED = /* eslint-disable */
+{
+  context: 'city3d',
+  type: 'district.schema.json',
+  name: 'Layered buildings',
+  metadata: {
+    license: 'UNLICENSE: This is free and unencumbered software released into the public domain. For more information, please refer to <http://unlicense.org>',
+    creator: 'Authored at <https://github.com/nicky-nym/city3d>',
+    date: '2020'
+  },
+  unit: 'feet',
+  anchorPoint: { x: 360, y: 270, z: 0 },
+  border: {
+    shape: 'rectangle',
+    size: { x: 600, y: 1200 }
+  },
+  parcels: [{
+    copy: { $ref: 'Parcel 353' },
+    pose: { x: 400, y: 50 }
+  }, {
+    copy: { $ref: 'Parcel 1127' },
+    pose: { x: 50, y: 100 }
+  }, {
+    copy: { $ref: 'Parcel 353' },
+    pose: { x: 400, y: 300 }
+  }, {
+    copy: { $ref: 'Parcel 353' },
+    pose: { x: 400, y: 350 }
+  }, {
+    copy: { $ref: 'Midrise Spiral Ramp' },
+    pose: { x: 500, y: 500 }
+  }, {
+    copy: { $ref: 'Midrise Spiral Ramp' },
+    pose: { x: 500, y: 500, z: 10, rotated: 90 }
+  }, {
+    copy: { $ref: 'Midrise Spiral Ramp' },
+    pose: { x: 500, y: 500, z: 20, rotated: 180 }
+  }, {
+    copy: { $ref: 'Midrise Spiral Ramp' },
+    pose: { x: 500, y: 500, z: 30, rotated: 270 }
+  }, {
+    copy: { $ref: 'Midrise Parcel' },
+    pose: { x: 500, y: 650 }
+  }, {
+    copy: { $ref: 'Midrise Spiral Ramp' },
+    pose: { x: 500, y: 800 }
+  }, {
+    copy: { $ref: 'Midrise Spiral Ramp' },
+    pose: { x: 500, y: 800, z: 10, rotated: 90 }
+  }, {
+    copy: { $ref: 'Midrise Spiral Ramp' },
+    pose: { x: 500, y: 800, z: 20, rotated: 180 }
+  }, {
+    copy: { $ref: 'Midrise Spiral Ramp' },
+    pose: { x: 500, y: 800, z: 30, rotated: 270 }
+  }, {
+    copy: { $ref: 'Midrise Parcel' },
+    pose: { x: 500, y: 800 }
+  }],
+  contents: [{
+    copy: { $ref: 'Carriage House' },
+    pose: { x: 193, y: 323, rotated: 90 }
+  }, {
+    copy: { $ref: 'Carriage House' },
+    pose: { x: 303, y: 380 }
+  }, {
+    copy: { $ref: 'House on Park Place' },
+    pose: { x: 200, y: 500 }
+  }, {
+    copy: { $ref: 'House on Park Place' },
+    pose: { x: 230, y: 500 }
+  }, {
+    copy: { $ref: 'House on Park Place' },
+    pose: { x: 260, y: 500 }
+  }, {
+    copy: { $ref: 'House on Park Place' },
+    pose: { x: 290, y: 500 }
+  }, {
+    copy: { $ref: 'Hotel on Boardwalk' },
+    pose: { x: 340, y: 500 }
+  }, {
+    copy: { $ref: 'Midrise building' },
+    pose: { x: 100, y: 500 }
+  }, {
+    copy: { $ref: 'Wurster Hall' },
+    pose: { x: 40, y: 600 }
+  }, {
+    copy: { $ref: 'Highrise building' },
+    pose: { x: 120, y: 1000 }
+  }, {
+    copy: { $ref: 'Highrise building' },
+    pose: { x: 320, y: 1000 }
+  }]
+};
+
 var MANHATTAN = /* eslint-disable */
 {
   context: 'city3d',
@@ -65117,31 +66795,31 @@ var LATTICE_PARCEL = /* eslint-disable */
     pose: { x: 55, y: 685, rotated: 0 }
   }, {
     copy: { $ref: 'Dog' },
-    pose: { x: 70, y: 55, z: 41.5 }
+    pose: { x: 70, y: 55, z: 49 }
   }, {
     copy: { $ref: 'Person' },
-    pose: { x: 75, y: 55, z: 41.5 }
+    pose: { x: 75, y: 55, z: 49 }
   }, {
     copy: { $ref: 'Cottage' },
-    pose: { x: 60, y: 64, z: 41.5, rotated: 0 }
+    pose: { x: 60, y: 64, z: 49, rotated: 0 }
   }, {
     copy: { $ref: 'Swing set' },
-    pose: { x: 105, y: 80, z: 41.5 }
+    pose: { x: 105, y: 80, z: 49 }
   }, {
     copy: { $ref: 'Tree' },
-    pose: { x: 140, y: 70, z: 41.5 }
+    pose: { x: 140, y: 70, z: 49 }
   }, {
     copy: { $ref: 'Tree' },
-    pose: { x: 230, y: 80, z: 41.5 }
+    pose: { x: 230, y: 80, z: 49 }
   }, {
     copy: { $ref: 'Tree' },
-    pose: { x: 460, y: 75, z: 41.5 }
+    pose: { x: 460, y: 75, z: 49 }
   }, {
     copy: { $ref: 'Tree' },
-    pose: { x: 70, y: 180, z: 41.5 }
+    pose: { x: 70, y: 180, z: 49 }
   }, {
     copy: { $ref: 'Tree' },
-    pose: { x: 80, y: 350, z: 41.5 }
+    pose: { x: 80, y: 350, z: 49 }
   }],
   // TODO: implement this!
   /*
@@ -65286,10 +66964,10 @@ var PARCEL_353 = /* eslint-disable */
     pose: { x: -210, y: 25, rotated: 0 }
   }, {
     copy: { $ref: 'Tree' },
-    pose: { x: -90, y: 40 }
+    pose: { x: -215, y: 40 }
   }, {
     copy: { $ref: 'Table' },
-    pose: { x: -80, y: 24 }
+    pose: { x: -210, y: 10 }
   }, {
     copy: { $ref: 'Dog' },
     pose: { x: -10, y: 30 }
@@ -65353,6 +67031,218 @@ var PARCEL_353 = /* eslint-disable */
       ]
     }
   }]
+};
+
+var PARCEL_1127 = /* eslint-disable */
+{
+  context: 'city3d',
+  type: 'parcel.schema.json',
+  name: 'Parcel 1127',
+  metadata: {
+    license: 'UNLICENSE: This is free and unencumbered software released into the public domain. For more information, please refer to <http://unlicense.org>',
+    creator: 'Authored at <https://github.com/nicky-nym/city3d>',
+    date: '2020'
+  },
+  unit: 'feet',
+  anchorPoint: { x: 0, y: 0 },
+  def: {
+    /* parcel */
+    A: { x: 0, y: 0 },
+    B: { x: 350, y: 0 },
+    C: { x: 350, y: 200 },
+    D: { x: 0, y: 200 },
+    /* driveway */
+    a: { x: 100, y: 85 },
+    b: { x: 350, y: 85 },
+    c: { x: 350, y: 100 },
+    d: { x: 100, y: 100 },
+    /* east porch */
+    e: { x: 185, y: 113 },
+    f: { x: 194, y: 113 },
+    g: { x: 194, y: 129 },
+    h: { x: 185, y: 129 }
+  },
+  border: {
+    shape: 'polygon',
+    corners: [
+      { $ref: '#/def/A' },
+      { $ref: '#/def/B' },
+      { $ref: '#/def/C' },
+      { $ref: '#/def/D' },
+    ]
+  },
+  contents: [{
+    copy: { $ref: 'House 1127' },
+    pose: { x: 125, y: 112, rotated: 0 }
+  }],
+  pavement: [{
+    name: 'driveway',
+    surface: { material: 'gravel' },
+    outline: {
+      shape: 'polygon',
+      corners: [
+        { $ref: '#/def/a' },
+        { $ref: '#/def/b' },
+        { $ref: '#/def/c' },
+        { $ref: '#/def/d' }
+      ]
+    }
+  }, {
+    name: 'east porch',
+    surface: { material: 'concrete' }, /* TODO: 'brick' */
+    outline: {
+      shape: 'polygon',
+      corners: [
+        { $ref: '#/def/e' },
+        { $ref: '#/def/f' },
+        { $ref: '#/def/g' },
+        { $ref: '#/def/h' }
+      ]
+    }
+  }]
+};
+
+var MIDRISE_PARCEL = /* eslint-disable */
+{
+  context: 'city3d',
+  type: 'parcel.schema.json',
+  name: 'Midrise Parcel',
+  metadata: {
+    license: 'UNLICENSE: This is free and unencumbered software released into the public domain. For more information, please refer to <http://unlicense.org>',
+    creator: 'Authored at <https://github.com/nicky-nym/city3d>',
+    date: '2020'
+  },
+  unit: 'feet',
+  comments: [
+    '                                   ',
+    '                                   ',
+    '                                   '
+  ],
+  anchorPoint: { x: 0, y: 0 },
+  def: {
+    A: { x: -60, y: -60 },
+    B: { x: 60, y: -60 },
+    C: { x: 60, y: 60 },
+    D: { x: -60, y: 60 }
+  },
+  border: {
+    shape: 'polygon',
+    corners: [
+      { $ref: '#/def/A' },
+      { $ref: '#/def/B' },
+      { $ref: '#/def/C' },
+      { $ref: '#/def/D' },
+    ]
+  },
+  contents: [{
+    copy: { $ref: 'Midrise building' },
+    pose: { x: -24, y: 24 }
+  }, {
+    copy: { $ref: 'Midrise building' },
+    pose: { x: 24, y: 24, rotated: 270 }
+  }, {
+    copy: { $ref: 'Midrise building' },
+    pose: { x: 24, y: -24, rotated: 180 }
+  }, {
+    copy: { $ref: 'Midrise building' },
+    pose: { x: -24, y: -24, rotated: 90 }
+  }, {
+  //   copy: { $ref: 'Midrise Landing' },
+  //   pose: { x: 0, y: 0 }
+  // }, {
+  //   copy: { $ref: 'Midrise Ramp' },
+  //   pose: { x: 0, y: 24 }
+  // }, {
+  //   copy: { $ref: 'Midrise Landing' },
+  //   pose: { x: 0, y: 48, z: 2.5 }
+  // }, {
+  //   copy: { $ref: 'Midrise Ramp' },
+  //   pose: { x: 24, y: 48, z: 2.5, rotated: 270 }
+  // }, {
+  //   copy: { $ref: 'Midrise Landing' },
+  //   pose: { x: 48, y: 48, z: 5 }
+  // }, {
+  //   copy: { $ref: 'Midrise Ramp' },
+  //   pose: { x: 48, y: 24, z: 5, rotated: 180 }
+  // }, {
+  //   copy: { $ref: 'Midrise Landing' },
+  //   pose: { x: 48, y: 0, z: 7.5 }
+  // }, {
+  //   copy: { $ref: 'Midrise Ramp' },
+  //   pose: { x: 24, y: 0, z: 7.5, rotated: 90 }
+  // }, {
+    copy: { $ref: 'Tree' },
+    pose: { x: 18, y: 28, z: 54 }
+  }, {
+    copy: { $ref: 'Dog' },
+    pose: { x: 22, y: 18, z: 54 }
+  }, {
+    copy: { $ref: 'Person' },
+    pose: { x: 27, y: 18, z: 54 }
+  }],
+  pavement: [
+  ]
+};
+
+var MIDRISE_SPIRAL_RAMP = /* eslint-disable */
+{
+  context: 'city3d',
+  type: 'parcel.schema.json',
+  name: 'Midrise Spiral Ramp',
+  metadata: {
+    license: 'UNLICENSE: This is free and unencumbered software released into the public domain. For more information, please refer to <http://unlicense.org>',
+    creator: 'Authored at <https://github.com/nicky-nym/city3d>',
+    date: '2020'
+  },
+  unit: 'feet',
+  comments: [
+    '                                   ',
+    '                                   ',
+    '                                   '
+  ],
+  anchorPoint: { x: 0, y: 0 },
+  def: {
+    A: { x: -60, y: -60 },
+    B: { x: 60, y: -60 },
+    C: { x: 60, y: 60 },
+    D: { x: -60, y: 60 }
+  },
+  border: {
+    shape: 'polygon',
+    corners: [
+      { $ref: '#/def/A' },
+      { $ref: '#/def/B' },
+      { $ref: '#/def/C' },
+      { $ref: '#/def/D' },
+    ]
+  },
+  contents: [{
+    copy: { $ref: 'Midrise Landing' },
+    pose: { x: 0, y: 0 }
+  }, {
+    copy: { $ref: 'Midrise Ramp' },
+    pose: { x: 0, y: 24 }
+  }, {
+    copy: { $ref: 'Midrise Landing' },
+    pose: { x: 0, y: 48, z: 2.5, rotated: 270 }
+  }, {
+    copy: { $ref: 'Midrise Ramp' },
+    pose: { x: 24, y: 48, z: 2.5, rotated: 270 }
+  }, {
+    copy: { $ref: 'Midrise Landing' },
+    pose: { x: 48, y: 48, z: 5, rotated: 180 }
+  }, {
+    copy: { $ref: 'Midrise Ramp' },
+    pose: { x: 48, y: 24, z: 5, rotated: 180 }
+  }, {
+    copy: { $ref: 'Midrise Landing' },
+    pose: { x: 48, y: 0, z: 7.5, rotated: 90 }
+  }, {
+    copy: { $ref: 'Midrise Ramp' },
+    pose: { x: 24, y: 0, z: 7.5, rotated: 90 }
+  }],
+  pavement: [
+  ]
 };
 
 var TREE = /* eslint-disable */
@@ -65734,6 +67624,7 @@ class StockCatalog extends Catalog {
     super();
     this.registerSpec([
       // buildings
+      CARRIAGE_HOUSE,
       COTTAGE,
       GARAGE,
       HIGHRISE,
@@ -65742,20 +67633,28 @@ class StockCatalog extends Catalog {
       HOTEL_ON_BOARDWALK,
       HOUSE_ON_PARK_PLACE,
       HOUSE_353,
+      HOUSE_1127,
       LONGHOUSE_JUNCTION,
       LONGHOUSE_RAMPS,
       LOWROAD_BRIDGE,
       LOWROAD_LONGHOUSE,
+      MIDRISE_BUILDING,
+      MIDRISE_LANDING,
+      MIDRISE_RAMP,
       WURSTER_HALL,
 
       // districts
       CAMPUS,
+      LAYERED,
       MANHATTAN,
       SUBURBIA,
 
       // parcels
       LATTICE_PARCEL,
+      MIDRISE_PARCEL,
+      MIDRISE_SPIRAL_RAMP,
       PARCEL_353,
+      PARCEL_1127,
 
       // landscape
       TREE,
@@ -66040,12 +67939,12 @@ function addInstancedBuildings (district) {
   const specReader = new SpecReader();
 
   const cottagePoses = [
-    { x: -440, y: 250, z: 0, rotated: Facing.NORTH },
-    { x: -360, y: 250, z: 0, rotated: Facing.NORTH, mirrored: true },
-    { x: -350, y: 220, z: 0, rotated: Facing.EAST },
-    { x: -450, y: 200, z: 0, rotated: Facing.WEST },
-    { x: -410, y: 150, z: 0, rotated: Facing.SOUTHWEST },
-    { x: -390, y: 150, z: 0, rotated: Facing.SOUTHEAST, mirrored: true }
+    { x: -540, y: -200, z: 0, rotated: Facing.NORTH },
+    { x: -460, y: -200, z: 0, rotated: Facing.NORTH, mirrored: true },
+    { x: -450, y: -170, z: 0, rotated: Facing.EAST },
+    { x: -550, y: -150, z: 0, rotated: Facing.WEST },
+    { x: -510, y: -100, z: 0, rotated: Facing.SOUTHWEST },
+    { x: -490, y: -100, z: 0, rotated: Facing.SOUTHEAST, mirrored: true }
   ];
   const cottage1 = specReader.makeModelFromSpecName('Cottage', { x: 0, y: 0, z: 0 });
   const cottagePoses1 = cottagePoses.map(p => CITY.Pose.combine(p, { x: 0, y: 0, z: 0 }));
@@ -66074,7 +67973,7 @@ function addLatticeburg (specReader) {
   latticeburg.add(new CITY.SoccerField({ at: { x: 1620 - 740, y: 515 - 140, z: 0 } }));
   addObjectFromSpec(latticeburg, specReader, 'Lattice Parcel', { x: 0, y: 100, z: 0 });
   addObjectFromSpec(latticeburg, specReader, 'Lattice Parcel', { x: 0, y: 830, z: 0 });
-  latticeburg.add(new MidriseComplex({ placement: new Ray$1(Facing.NORTH, { x: 198, y: 298, z: 0 }), numRowPairs: 4, numColPairs: 4 }));
+  latticeburg.add(new MidriseComplex({ placement: new Ray$1(Facing.NORTH, { x: 198, y: 298, z: 7.5 }), numRowPairs: 4, numColPairs: 4 }));
   latticeburg.add(new CITY.EiffelTower({ placement: new Ray$1(Facing.NORTH, { x: 390, y: 1220, z: 0 }) }));
   return latticeburg
 }
@@ -66105,12 +68004,11 @@ function main () {
   const specReader = new SpecReader();
   addObjectFromSpec(city, specReader, 'Suburbia', { x: -550, y: -800, z: 0 });
   addObjectFromSpec(city, specReader, 'Campus', { x: 50, y: -400, z: 0 });
-  addObjectFromSpec(city, specReader, 'Manhattan', { x: -200, y: 800, z: 0 });
+  addObjectFromSpec(city, specReader, 'Manhattan', { x: -610, y: 800, z: 0 });
+  addObjectFromSpec(city, specReader, 'Layered buildings', { x: -600, y: 40, z: 0 });
   const latticeburg = addLatticeburg(specReader);
 
   const extras = new CITY.Model({ name: 'extras' });
-  addObjectFromSpec(extras, specReader, 'Hotel on Boardwalk', { x: -300, y: -60, z: 0 });
-  addObjectFromSpec(extras, specReader, 'House on Park Place', { x: -300, y: -100, z: 0 });
   addPyramid(extras);
   addKalpanaOrbital(extras);
   addMovers(extras);
