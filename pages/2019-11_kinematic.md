@@ -1,5 +1,5 @@
 ---
-permalink: /legacy/
+permalink: /2019-11_kinematic/
 ---
 # Kinematic Cities
 
