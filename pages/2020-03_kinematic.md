@@ -21,27 +21,17 @@ permalink: /2020-03_kinematic/
     <div>
       <details>
         <summary><a href="#why">Why would we want Kinematic cities?</summary>
-        <!--
         <ul>
-          <li><a href="#transportation">Transportation</a></li>
-          <li><a href="#spatial-layout">Spatial layout</a></li>
-          <li><a href="#ramp">Ramps vs. stairs</a></li>
-          <li><a href="#safety">Safety</a></li>
-          <li><a href="#better-outcomes">Comparisons</a> &mdash; San Francisco vs. Proposed</li>
+          <li><a href="#faq">TODO</a></li>
         </ul>
-        -->
       </details>
     </div>
     <div>
       <details>
         <summary><a href="#simple">A simple March 2020 Kinematic city design</a></summary>
-        <!--
         <ul>
-          <li><a href="#design-goals">Design goals</a></li>
-          <li><a href="#design-constraints">Constraints</a></li>
-          <li><a href="#construction-costs">Construction costs</a></li>
+          <li><a href="#faq">TODO</a></li>
         </ul>
-        -->
       </details>
     </div>
     <div>
