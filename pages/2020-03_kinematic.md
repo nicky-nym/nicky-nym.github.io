@@ -20,7 +20,7 @@ permalink: /2020-03_kinematic/
     </div>
     <div>
       <details>
-        <summary><a href="#why">Why would we want Kinematic cities?</summary>
+        <summary><a href="#why">Why would we want Kinematic cities?</a></summary>
         <ul>
           <li><a href="#faq">TODO</a></li>
         </ul>
