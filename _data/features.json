@@ -20,11 +20,21 @@
     terms: [{
       term: 'arcade',
       also: [],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/main/617/int/image/07.jpg',
+        'https://buffaloah.com/a/DCTNRY/a/arcademeetingcharles.jpg',
+        'https://buffaloah.com/a/virtual/italy/rome/col/int/image/01.jpg',
+        'https://buffaloah.com/a/virtual/russ/stpete/herm/3/jpegs/46.jpg',
+        'https://buffaloah.com/a/virtual/fr/pr/2012/jpegs/arc5.jpg',
+        'https://buffaloah.com/a/virtual/bos/mosq/jpegs/e/2018_41.jpg',
+        'https://buffaloah.com/a/sym/1/ext/jpegs/2015_j.jpg',
+        'https://buffaloah.com/a/DCTNRY/a/arch.jpg'
+      ],
       idea: 'a sheltered walkway formed of arches, maybe lined with retail stores'
     }, {
       term: 'arch',
       also: [
+        'arch, blind',
         'arch, three-centered',
         'arch: abutment',
         'arch: skewback',
@@ -39,9 +49,19 @@
       pics: [],
       idea: ''
     }, {
+      term: 'arch, blind',
+      also: ['arch'],
+      pics: [
+        'https://buffaloah.com/a/wgen/249/image/06.jpg',
+        'https://buffaloah.com/a/virtual/fr/sarlat/cathed/jpegs/cath_5.jpg'
+      ],
+      idea: ''
+    }, {
       term: 'arch, three-centered',
       also: ['arch'],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/main/1176/ext/image/09.jpg'
+      ],
       idea: ''
     }, {
       term: 'arch: abutment',
@@ -56,7 +76,14 @@
     }, {
       term: 'arch: anse de panier',
       also: ['arch'],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/DCTNRY/b/basket.jpg',
+        'https://buffaloah.com/a/virtual/us/sanfran/ladies/jpegs/2019_67.jpg',
+        'https://buffaloah.com/a/ell/766/int2/image/b07.jpg',
+        'https://buffaloah.com/a/lex/252/image/4.jpg',
+        'https://buffaloah.com/a/orton/44/image/13.jpg',
+        'https://buffaloah.com/a/stcath/41/living/image/03.jpg'
+      ],
       idea: 'aka a "basket-handle arch": a three-centered arch with a relatively long middle section'
     }, {
       term: 'arch, gauged',
@@ -81,7 +108,11 @@
     }, {
       term: 'arch, segmental',
       also: ['arch'],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/f/glos/s/segarch.jpg',
+        'https://buffaloah.com/a/main/10405/int/image/06.jpg',
+        'https://buffaloah.com/a/npearl/18/jpegs/2.jpg'
+      ],
       idea: 'e.g. where the span of the arch is like a 120-degree segment of a circle, rather than say a 180-degree half-circle'
     }, {
       term: 'arch, skew',
@@ -96,7 +127,14 @@
     }, {
       term: 'arriere-voussoirs',
       also: [],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/DCTNRY/v/voussoir_stteresa.JPG',
+        'https://buffaloah.com/a/north/267/ext/image/b267north10.jpg',
+        'https://buffaloah.com/a/DCTNRY/v/voussoir.jpg',
+        'https://buffaloah.com/a/virtual/italy/flor/pitti/image/05130072.jpg',
+        'https://buffaloah.com/a/virtual/italy/flor/mr/ext/image/MR_21.jpg',
+        'https://buffaloah.com/a/conn/184/ext/image/09.jpg'
+      ],
       idea: 'non-rectangular blocks in an arch, like those to the left and right of the keystone at the top'
     }, {
       term: 'impost',
@@ -130,12 +168,23 @@
     }, {
       term: 'beam ceiling',
       also: [],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/DCTNRY/b/box.jpg',
+        'https://buffaloah.com/a/lin/440/11first/jpegs/bil2.jpg'
+      ],
       idea: 'a ceiling supported by visible cross beams'
     }, {
       term: 'coffer',
       also: [],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/del/448/int/image/25.jpg',
+        'https://buffaloah.com/a/main/617/ext/image/08.jpg',
+        'https://buffaloah.com/a/DCTNRY/c/coffer2.jpg',
+        'https://buffaloah.com/a/virtual/italy/rome/stpeter/int/jpegs/10.jpg',
+        'https://buffaloah.com/a/virtual/italy/flor/lorenzo/image/18.jpg',
+        'https://buffaloah.com/a/virtual/russ/stpete/herm/4/jpegs/81.jpg',
+        'https://buffaloah.com/a/niagSq/65/ext/image/21.JPG'
+      ],
       idea: 'a series of sunken panels in a vault, soffit, or ceiling'
     }, {
       term: 'pendentive',
@@ -155,7 +204,9 @@
     }, {
       term: 'severy',
       also: [],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/DCTNRY/b/bay.jpg'
+      ],
       idea: 'a bay or compartment in a vaulted ceiling'
     }, {
       term: 'squinch',
@@ -320,7 +371,18 @@
     }, {
       term: 'pilaster',
       also: [],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/DCTNRY/p/pilas.jpg',
+        'https://buffaloah.com/a/virtual/us/gen/humph/image/02.jpg',
+        'https://buffaloah.com/a/virtual/fr/pr/2012/jpegs/4.jpg',
+        'https://buffaloah.com/a/virtual/fr/bourd/jpegs/ext_19.jpg',
+        'https://buffaloah.com/a/LANC/hull/ext/image/05.jpg',
+        'https://buffaloah.com/a/main/545/n/image/09.jpg',
+        'https://buffaloah.com/a/del/800/int2/image/29rot.jpg',
+        'https://buffaloah.com/a/HAMB/main/22/image/6.jpg',
+        'https://buffaloah.com/a/main/763/image/11.jpg',
+        'https://buffaloah.com/a/LANC/hull/ext/image/05.jpg'
+      ],
       idea: 'like an engaged column, but purely ornamental, and never actually supporting anything -- always flat (rectangular), not round '
     }]
   }, {
@@ -379,7 +441,9 @@
     }, {
       term: 'door, batten',
       also: [],
-      pics: [],
+      pics: [
+        ''
+      ],
       idea: 'a wood door with diagonal bracing, like a barn-style door or old-fashioned garage door'
     }, {
       term: 'door, jib',
@@ -669,12 +733,21 @@
     }, {
       term: 'arbor',
       also: ['trellis', 'pergola'],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/DCTNRY/a/arbor.jpg',
+        'https://buffaloah.com/a/cresc/268/jpegs/ext_43.jpg',
+        'https://buffaloah.com/a/EastAur/shearer/mus/ext/image/10.jpg'
+      ],
       idea: 'a latticework arch or shelter covered in climbing plants'
     }, {
       term: 'atrium',
       also: ['courtyard'],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/main/617/int/image/2014_1.jpg',
+        'https://buffaloah.com/a/main/295/ct/image/01.jpg',
+        'https://buffaloah.com/a/ellicott/121/intecc/2015jpegs/1.jpg',
+        'https://buffaloah.com/a/DCTNRY/a/atrium.jpg'
+      ],
       idea: 'an open courtyard in the middle of a building'
     }, {
       term: 'bagh',
@@ -842,7 +915,10 @@
     }, {
       term: 'oculus',
       also: [],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/DCTNRY/o/ocu.jpg',
+        'https://buffaloah.com/a/virtual/italy/pomp/jpegs/bath/bath10.jpg'
+      ],
       idea: 'horizontal hole at the apex of a dome, to let in light, or vertical hole near the top of a dome or vault, or a horizontal hole in a domed ceiling'
     }, {
       term: 'parabolic reflector',
@@ -1089,7 +1165,14 @@
     }, {
       term: 'dentils',
       also: ['mutule'],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/virtual/russ/mosc/choral/ext/jpegs/3.jpg',
+        'https://buffaloah.com/a/amherst/1659/image/05090008.jpg',
+        'https://buffaloah.com/a/virtual/greece/ath/acrop/erec/image/erech2018_39.jpg',
+        'https://buffaloah.com/a/porter/361/image/36.jpg',
+        'https://buffaloah.com/a/amherst/1659/image/05090011.jpg',
+        'https://buffaloah.com/a/amherst/64/ext/image/12.jpg'
+      ],
       idea: 'small blocks, closely spaced, projecting down under a soffit'
     }, {
       term: 'ear',
@@ -1104,7 +1187,10 @@
     }, {
       term: 'egg and dart',
       also: ['dentils'],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/main/763/image/06.jpg',
+        'https://buffaloah.com/a/virtual/italy/flor/strozzi/image/05.jpg'
+      ],
       idea: 'ornamental pattern of alternating oval shapes and pointed shapes'
     }, {
       term: 'emboss',
@@ -1174,7 +1260,15 @@
     }, {
       term: 'relief ',
       also: ['bas-relief', 'alto-relief'],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/DCTNRY/b/bas.jpg',
+        'https://buffaloah.com/a/archsty/a-c/black/image/08.jpg',
+        'https://buffaloah.com/a/virtual/us/chaut/norton/image/04.jpg',
+        'https://buffaloah.com/a/virtual/italy/milan/cathed/jpegs/13.jpg',
+        'https://buffaloah.com/a/del/800/int1/image/12lib.jpg',
+        'https://buffaloah.com/a/niagSq/65/slaw/jpegs/00.jpg',
+        'https://buffaloah.com/a/seneca/2319/ext/image/15.jpg'
+      ],
       idea: 'a carving on a wall that projects a bit from the background (bas = slight relief, alto = high relief)'
     }, {
       term: 'rivet',
@@ -1239,12 +1333,23 @@
     }, {
       term: 'strapwork',
       also: [],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/DCTNRY/s/strap_178summer.jpg',
+        'https://buffaloah.com/a/linc/100/ext/image/10.jpg',
+        'https://buffaloah.com/a/del/977/dining/image/04.jpg',
+        'https://buffaloah.com/a/jewett/124/int/image/10.jpg',
+        'https://buffaloah.com/a/del/877/hall/image/01.jpg',
+        'https://buffaloah.com/a/del/877/hall/image/18.jpg',
+        'https://buffaloah.com/a/broad/516/08ext/image/10.jpg'
+      ],
       idea: 'flat straps (e.g. metal) that are interlaced into ornamental patterns'
     }, {
       term: 'arabesque',
       also: [],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/DCTNRY/a/arab4.jpg',
+        'https://buffaloah.com/a/virtual/russ/stpete/herm/4/jpegs/83.jpg'
+      ],
       idea: 'intricate patterns of interlaced flowers and plants (and maybe animals, and shapes)'
     }, {
       term: "calf's tongue",
@@ -1284,12 +1389,20 @@
     }, {
       term: 'bead',
       also: ['boltel', 'astragal'],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/main/640/image/6.jpg',
+        'https://buffaloah.com/a/main/617/int/image/03.jpg',
+        'https://buffaloah.com/a/del/690/add/image/20bed.jpg'
+      ],
       idea: 'molding with a a small cylindrical rod running along it'
     }, {
       term: 'astragal',
       also: ['bead', 'baguette', 'reeding'],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/virtual/swi/ariana/image/modill.jpg',
+        'https://buffaloah.com/a/main/gran/844/image/09.jpg',
+        'https://buffaloah.com/a/virtual/greece/delph/sanct/image/26.jpg'
+      ],
       idea: 'molding with a half-section of small cylindrical rod running along it'
     }, {
       term: 'baguette',
@@ -1319,12 +1432,21 @@
     }, {
       term: 'broken pediment',
       also: ['pediment'],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/DCTNRY/b/broken.jpg',
+        'https://buffaloah.com/h/beth/brier/ext/image/16.jpg',
+        'https://buffaloah.com/a/DCTNRY/b/brokenped470lin.JPG',
+        'https://buffaloah.com/a/DCTNRY/s/swan_hyatt.jpg',
+        'https://buffaloah.com/a/summer/66/ext/image/11.jpg',
+        'https://buffaloah.com/a/main/295/ent/image/02.jpg'
+      ],
       idea: 'a pediment with a gap at the center (often filled with some other ornamentation)'
     }, {
       term: 'console',
       also: ['bracket'],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/DCTNRY/a/ancone2.jpg'
+      ],
       idea: 'an ornamental bracket that looks like scrollwork'
     }, {
       term: 'return',
@@ -1457,7 +1579,9 @@
     terms: [{
       term: 'baluster',
       also: ['baluster, attached'],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/virtual/italy/vicenza/chier/jpegs/ext_21.jpg'
+      ],
       idea: ''
     }, {
       term: 'baluster, attached',
@@ -1467,7 +1591,19 @@
     }, {
       term: 'balustrade',
       also: ['balustrade, projecting'],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/DCTNRY/b/balus_FL.jpg',
+        'https://buffaloah.com/a/DCTNRY/b/balus_nyon.jpg',
+        'https://buffaloah.com/a/DCTNRY/b/balus_nyon2.JPG',
+        'https://buffaloah.com/a/virtual/czech/prague/chas/image/04.jpg',
+        'https://buffaloah.com/a/virtual/czech/prague/nich/ext/image/10.jpg',
+        'https://buffaloah.com/a/virtual/russ/kizhi/osh/jpgs/12.jpg',
+        'https://buffaloah.com/a/virtual/china/beij_forbid/jpegs/18.jpg',
+        'https://buffaloah.com/a/virtual/fr/opera/image/15.jpg',
+        'https://buffaloah.com/a/archsty/geo/drayton/image/04.jpg',
+        'https://buffaloah.com/a/virtual/us/va/uv/int/image/02.jpg',
+        'https://buffaloah.com/a/virtual/us/phil/carp/int/jpegs/13.jpg'
+      ],
       idea: ''
     }, {
       term: 'balustrade, projecting',
@@ -1491,22 +1627,50 @@
     }, {
       term: 'barge board',
       also: [],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/DCTNRY/b/barge.jpg',
+        'https://buffaloah.com/a/DCTNRY/b/barge_24bfloNF.jpg',
+        'https://buffaloah.com/a/DCTNRY/b/barge1_90bry.JPG',
+        'https://buffaloah.com/a/archsty/tud/image/ze167louvaine.jpg',
+        'https://buffaloah.com/a/arl/60/image/2.jpg',
+        'https://buffaloah.com/a/npearl/56/jpegs/2.jpg',
+        'https://buffaloah.com/a/DCTNRY/c/v196montgmy.jpg',
+        'https://buffaloah.com/a/archs/vaux/hoyt/image/19.jpg',
+        'https://buffaloah.com/a/virtual/us/sanfran/ladies/jpegs/2019_91.jpg',
+        'https://buffaloah.com/a/DCTNRY/b/verge_maur.jpg',
+        'https://buffaloah.com/a/virtual/russ/stpete/blood/ext/jpgs/14.jpg',
+        'https://buffaloah.com/a/virtual/russ/kizhi/interext/jpgs/05.jpg',
+        'https://buffaloah.com/a/virtual/russ/kizhi/ch/jpgs/03.jpg'
+      ],
       idea: 'on a pitched roof, a decorative piece of wood (often carved or shaped) at the edge of the roof, in front of a gable'
     }, {
       term: 'crenel',
       also: ['merlon'],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/DCTNRY/b/battle.jpg',
+        'https://buffaloah.com/a/virtual/fr/bourd/jpegs/ext_7.jpg'
+      ],
       idea: 'one of the gaps between the blocks ("merlons") in a crenellated stone battlement'
     }, {
       term: 'crenellations',
       also: ['crenel', 'merlon'],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/DCTNRY/b/battle.jpg',
+        'https://buffaloah.com/a/virtual/eng/salis/close/image/northgate.jpg',
+        'https://buffaloah.com/a/virtual/spain/gran/alham/misc2/jpgs/alcazaba1.jpg'
+      ],
       idea: 'stone battlements on a roof (looks like a square wave)'
     }, {
       term: 'crest',
       also: [],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/DCTNRY/c/v196montgmy.jpg',
+        'https://buffaloah.com/a/virtual/fr/vers/ext/image/11.jpg',
+        'https://buffaloah.com/a/virtual/eng/salis/misc/image/14.jpg',
+        'https://buffaloah.com/a/DCTNRY/r/ridge_147lin.jpg',
+        'https://buffaloah.com/a/franklin/415/image/03.jpg',
+        'https://buffaloah.com/a/archsty/a-c/roy/copper/image/04.jpg'
+      ],
       idea: 'e.g. ornamental wood or iron ridge crest that runs along the top of a pitched roof, or around the side of flat roof '
     }, {
       term: 'finial',
@@ -1526,7 +1690,15 @@
     }, {
       term: 'lantern',
       also: ['roof lantern'],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/DCTNRY/b/belv1375del.JPG',
+        'https://buffaloah.com/a/virtual/eng/salis/close/image/39matrons.jpg',
+        'https://buffaloah.com/a/virtual/us/sanfran/ladies/jpegs/2019_54.jpg',
+        'https://buffaloah.com/a/DCTNRY/b/belv433frank.jpg',
+        'https://buffaloah.com/a/franklin/547/547frankl.jpg',
+        'https://buffaloah.com/a/NEWST/main/145/image/03.jpg',
+        'https://buffaloah.com/a/virtual/us/geneva/rose/image/03.jpg'
+      ],
       idea: 'aka: Roof Lantern'
     }, {
       term: 'orb',
@@ -1541,7 +1713,16 @@
     }, {
       term: 'parapet',
       also: [],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/del/977/image/09.jpg',
+        'https://buffaloah.com/a/del/786/facade/image/05.jpg',
+        'https://buffaloah.com/a/niagSq/65/ext/image/15.jpg',
+        'https://buffaloah.com/a/virtual/spain/barc/gener/jpegs/01.jpg',
+        'https://buffaloah.com/a/DCTNRY/p/parap.jpg',
+        'https://buffaloah.com/a/virtual/czech/prague/chas/image/11.jpg',
+        'https://buffaloah.com/a/virtual/bos/mosq/jpegs/2018_23.jpg',
+        'https://buffaloah.com/a/virtual/turk/istan/hag/int/gal1.jpg'
+      ],
       idea: 'a low wall along the edge of a roof'
     }, {
       term: 'pennant flag',
@@ -1550,7 +1731,7 @@
       idea: 'a long, thin, triangular flag -- on a finial, or in a row on a parapet'
     }, {
       term: 'roof',
-      also: ['roof, gable-and-valley', 'roof, hipped', 'roof, pavillion', 'roof, pitched', 'roof, thatched'],
+      also: ['roof, gable-and-valley', 'roof, bell', 'roof, hipped', 'roof, pavillion', 'roof, pitched', 'roof, thatched'],
       pics: [],
       idea: ''
     }, {
@@ -1558,6 +1739,18 @@
       also: ['roof'],
       pics: [],
       idea: 'e.g. a square building with gables on all four faces, with a roof that looks like four giant dormer window roofs wedged together'
+    }, {
+      term: 'roof, bell',
+      also: ['roof'],
+      pics: [
+        'https://buffaloah.com/a/DCTNRY/b/bellroof.JPG',
+        'https://buffaloah.com/a/virtual/eng/salis/misc/image/06.jpg',
+        'https://buffaloah.com/a/EastAur/griggs/07ext/image/11.jpg',
+        'https://buffaloah.com/a/virtual/us/sanfran/ladies/jpegs/2019_70.jpg',
+        'https://buffaloah.com/a/sym/71/image/06.jpg',
+        'https://buffaloah.com/a/DCTNRY/b/bell_251lex.jpg'
+      ],
+      idea: 'cross-section is shaped like a bell'
     }, {
       term: 'roof, hipped',
       also: ['roof'],
@@ -1621,7 +1814,9 @@
     }, {
       term: 'barrel roof',
       also: [],
-      pics: [],
+      pics: [
+        ''
+      ],
       idea: 'a roof in the shape of half a cylinder (like a Quonset hut)'
     }, {
       term: 'lean-to',
@@ -1646,7 +1841,18 @@
     }, {
       term: 'eaves',
       also: [],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/DCTNRY/e/eaves.jpg',
+        'https://buffaloah.com/a/DCTNRY/e/eaves371depew.jpg',
+        'https://buffaloah.com/a/cresc/232/image/05.jpg',
+        'https://buffaloah.com/a/amherst/64/ext/image/13.jpg',
+        'https://buffaloah.com/a/archsty/a-c/roy/mant/image/f.jpg',
+        'https://buffaloah.com/a/summer/172/image/03.jpg',
+        'https://buffaloah.com/a/archsty/fire/image/y70hawkins.jpg',
+        'https://buffaloah.com/a/cott/49/1/image/a19.jpg',
+        'https://buffaloah.com/a/jewett/125/marext/image/21.jpg',
+        'https://buffaloah.com/a/virtual/jap/kamak_tsur/jpegs/13.jpg'
+      ],
       idea: 'the lower edge of a roof that hangs out beyond the wall'
     }, {
       term: 'monitor',
@@ -1721,22 +1927,44 @@
     }, {
       term: 'king post',
       also: ['king truss', 'queen post'],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/virtual/us/palmer/jpegs/12.jpg',
+        'https://buffaloah.com/a/DCTNRY/k/king_86york.jpg',
+        'https://buffaloah.com/a/DCTNRY/k/king.jpg',
+        'https://buffaloah.com/a/DCTNRY/k/king_298jers.jpg',
+        'https://buffaloah.com/a/virtual/us/sanfran/ladies/jpegs/2019_91.jpg',
+        'https://buffaloah.com/a/DCTNRY/k/king383bryant.JPG'
+      ],
       idea: 'center vertical post from the peak of a roof down to the bottom of a gable'
     }, {
       term: 'queen post',
       also: ['queen truss', 'king post'],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/DCTNRY/q/queen.jpg',
+        'https://buffaloah.com/a/DCTNRY/q/42lake.JPG',
+        'https://buffaloah.com/a/archsty/stick/image/249north.jpg'
+      ],
       idea: 'a pair of vertical posts offset from the center of a roof, instead of using a king post at the center'
     }, {
       term: 'arch brace',
       also: [],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/main/3107/nave/image/04.jpg',
+        'https://buffaloah.com/a/lin/16/int/image/02.jpg',
+        'https://buffaloah.com/a/wallace/2/nave/jpegs/01.jpg',
+        'https://buffaloah.com/a/AMH/milton/20/chan/image/04.jpg',
+        'https://buffaloah.com/a/virtual/us/nyc/trin/image/21.jpg'
+      ],
       idea: 'a curved brace supporting a roof'
     }, {
       term: 'hammer-beam roof',
       also: [],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/DCTNRY/h/hammer2.jpg',
+        'https://buffaloah.com/a/virtual/eng/lon/parli/image/WestHall.jpg',
+        'https://buffaloah.com/a/del/977/entr/image/20.jpg',
+        'https://buffaloah.com/a/del/1000/int/image/08.jpg'
+      ],
       idea: 'a roof supported by sets of horizontal beams that are in turn supported by braces or brackets'
     }, {
       term: 'knee wall',
@@ -1781,7 +2009,13 @@
     }, {
       term: 'rafter tail',
       also: ['eave', 'tail cut'],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/windsor/94/ext/image/16.jpg',
+        'https://buffaloah.com/a/DCTNRY/r/rafters_1362amh.jpg',
+        'https://buffaloah.com/a/DCTNRY/r/rafters_781richm.jpg',
+        'https://buffaloah.com/a/main/10405/ext/image/04.jpg',
+        'https://buffaloah.com/a/bidwell/177/ext/image/04.jpg'
+      ],
       idea: 'the end of a rafter supporting an eave, projecting out beyond the wall'
     }, {
       term: 'tail cut',
@@ -1974,7 +2208,13 @@
     }, {
       term: 'tower',
       also: ['tower, circular', 'tower, semi-circular', 'tower, spiral minaret', 'tower, square', 'tower, terraced'],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/virtual/poland/cracow/mary/image/03.jpg',
+        'https://buffaloah.com/a/virtual/russ/kizhi/bell/jpgs/2.jpg',
+        'https://buffaloah.com/a/DCTNRY/b/belfry_Zuid.jpg',
+        'https://buffaloah.com/a/virtual/spain/segov/cathed/ext/jpgs/1.jpg',
+        'https://buffaloah.com/a/archsty/a-c/bung/preview/zz135winsp.jpg'
+      ],
       idea: ''
     }, {
       term: 'trompe',
@@ -1999,7 +2239,10 @@
     }, {
       term: 'tower, square',
       also: ['tower'],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/DCTNRY/b/belfry.jpg',
+        'https://buffaloah.com/a/jewett/96/image/03.jpg'
+      ],
       idea: ''
     }, {
       term: 'tower, terraced',
@@ -2018,7 +2261,13 @@
     terms: [{
       term: 'blind arcade',
       also: ['interlacing arcade'],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/DCTNRY/b/blindarcade.jpg',
+        'https://buffaloah.com/a/wgen/249/image/01.jpg',
+        'https://buffaloah.com/a/leroy/317/east/image/03.jpg',
+        'https://buffaloah.com/a/virtual/italy/flor/nov/image/09.jpg',
+        'https://buffaloah.com/a/virtual/spain/toledo/mosque/jpegs/11.jpg'
+      ],
       idea: 'a row of columns and arches set directly against a flat wall, as decoration'
     }, {
       term: 'blind door',
@@ -2028,7 +2277,9 @@
     }, {
       term: 'brace',
       also: ['brace, arched', 'brace: coathanger truss', 'brace: scissor brace'],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/DCTNRY/b/br_spl.jpg'
+      ],
       idea: 'like a bracket, but often larger, less decorative and more structural, and often inside the wall structure'
     }, {
       term: 'brace, arched',
@@ -2048,37 +2299,73 @@
     }, {
       term: 'bracket',
       also: ['bracket: corbel', 'bracket: conical corbel', 'bracket: modillion'],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/DCTNRY/b/br_fan.jpg',
+        'https://buffaloah.com/a/DCTNRY/b/br_ital_63mar.jpg',
+        'https://buffaloah.com/a/DCTNRY/b/br_queen_406lin.jpg'
+      ],
       idea: 'a piece of wood or stone (or metal) that juts out from a wall to support something above (a ceiling, a bay window, etc.)'
     }, {
       term: 'bracket: conical corbel',
       also: ['bracket', 'corbel'],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/DCTNRY/c/corb2.jpg'
+      ],
       idea: 'e.g. under a round bay window, or a round turret'
     }, {
       term: 'bracket: corbel',
       also: ['bracket', 'conical corbel'],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/DCTNRY/b/br_corbel.JPG',
+        'https://buffaloah.com/a/DCTNRY/c/corbel3.jpg',
+        'https://buffaloah.com/a/DCTNRY/c/corbel102main.jpg',
+        'https://buffaloah.com/a/virtual/sicily/taor/image/02.jpg',
+        'https://buffaloah.com/a/virtual/italy/flor/pds/image/02.jpg',
+        'https://buffaloah.com/a/virtual/eng/salis/close/image/65king3.jpg',
+        'https://buffaloah.com/a/virtual/italy/flor/pds/image/10.jpg',
+        'https://buffaloah.com/a/virtual/swi/ariana/image/corbel.jpg'
+      ],
       idea: 'a bracket that is built into a wall and juts out from it'
     }, {
       term: 'bracket: modillion',
       also: ['bracket'],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/DCTNRY/m/modil2.JPG',
+        'https://buffaloah.com/a/DCTNRY/m/modill.JPG',
+        'https://buffaloah.com/a/virtual/italy/rome/col/ext/image/14.jpg',
+        'https://buffaloah.com/a/DCTNRY/m/modil_willet.jpg',
+        'https://buffaloah.com/a/virtual/swi/ariana/image/modill.jpg',
+        'https://buffaloah.com/a/virtual/russ/mosc/choral/ext/jpegs/3.jpg',
+        'https://buffaloah.com/a/amherst/1659/source/2.html',
+        'https://buffaloah.com/a/broad/516/08ext/source/27.html'
+      ],
       idea: 'like dentils, but bigger and more elaborate'
     }, {
       term: 'buttress',
       also: ['buttress, angle', 'buttress, curved', 'buttress, triangular'],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/virtual/italy/venice/giorgio/jpegs/ext_9.jpg',
+        'https://buffaloah.com/a/virtual/fr/sarlat/cathed/jpegs/cath_17.jpg'
+      ],
       idea: ''
     }, {
       term: 'buttress, angle',
       also: ['buttress'],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/DCTNRY/b/butt_stp.jpg'
+      ],
       idea: 'a buttress with one or more sections of angled weathering? '
     }, {
       term: 'buttress, curved',
       also: ['buttress'],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/DCTNRY/b/butt_maltby.jpg',
+        'https://buffaloah.com/a/DCTNRY/b/but_FL.jpg',
+        'https://buffaloah.com/a/virtual/us/sanfran/ladies/jpegs/2019_64.jpg',
+        'https://buffaloah.com/a/virtual/italy/flor/nov/image/03.jpg',
+        'https://buffaloah.com/a/virtual/poland/cracow/piarist/image/3.jpg',
+        'https://buffaloah.com/a/virtual/russ/stpete/yusup/hall/jpegs/H7.jpg'
+      ],
       idea: 'a buttress with a curved profile rather than a straight or angled profile: e.g. like a J instead of a / or I'
     }, {
       term: 'buttress, triangular',
@@ -2151,19 +2438,39 @@
       pics: [],
       idea: 'ledge on a wall where there is a setback in the wall'
     }, {
+      term: 'course',
+      also: ['string course', 'water course'],
+      pics: [
+        'https://buffaloah.com/a/DCTNRY/c/course440porter.JPG',
+        'https://buffaloah.com/a/DCTNRY/c/course1.jpg',
+        'https://buffaloah.com/a/del/888/image/a2.jpg',
+        'https://buffaloah.com/a/jewett/125/marext/image/13.jpg'
+      ],
+      idea: ''
+    }, {
       term: 'string course',
       also: ['water course'],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/DCTNRY/c/course597elm.jpg',
+        'https://buffaloah.com/a/DCTNRY/c/courseMt.JPG',
+        'https://buffaloah.com/a/archsty/geo/image/20.jpg',
+        'https://buffaloah.com/a/lafay/370/image/w.jpg',
+        'https://buffaloah.com/a/wgen/249/image/09.jpg'
+      ],
       idea: 'in a brick or stone wall, a horizontal row (of bricks or stones) that juts out a couple inches, typically at something above head height'
     }, {
       term: 'water course',
       also: ['string course', 'water table'],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/del/262/image/06.jpg'
+      ],
       idea: 'a string course or ledge with a downward slanted top surface'
     }, {
       term: 'weathering',
       also: [],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/del/262/image/06.jpg'
+      ],
       idea: 'a small pitched surface on an otherwise vertical wall (like the "water-table" band that runs around the outside of house, say 4 feet from the ground, where the top of the foundation skirting meets the bottom of the ground-story wall'
     }, {
       term: 'engaged column',
@@ -2238,7 +2545,12 @@
     }, {
       term: 'anchor',
       also: [],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/huron/74/ext/image/12.jpg',
+        'https://buffaloah.com/a/virtual/eng/salis/close/image/58wardrobe.jpg',
+        'https://buffaloah.com/a/elmwd/65/ext/image/02.jpg',
+        'https://buffaloah.com/a/virtual/hol/amster/oost/image/4.jpg'
+      ],
       idea: 'a metal plate fastened to the outside of a brick wall (sometimes star shaped)'
     }, {
       term: 'anta',
@@ -2268,7 +2580,9 @@
     }, {
       term: 'diagonal bracing',
       also: [],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/archsty/a-c/bung/preview/d416parks13.jpg'
+      ],
       idea: 'any sort of cross-brace or knee-brace or diagonally oriented brace'
     }, {
       term: 'living wall',
@@ -2302,8 +2616,15 @@
       idea: 'in a multi-story office building, a panel between the top of the window on one story and the bottom of the window on the next story'
     }, {
       term: 'batter',
-      also: ['butress'],
-      pics: [],
+      also: ['buttress'],
+      pics: [
+        'https://buffaloah.com/a/DCTNRY/b/batt_tc.jpg',
+        'https://buffaloah.com/a/virtual/eng/salis/misc/image/18.jpg',
+        'https://buffaloah.com/a/archsty/egypt/dendur/image/01.jpg',
+        'https://buffaloah.com/a/virtual/egypt/karnak/sphinxes/image/10.jpg',
+        'https://buffaloah.com/a/virtual/italy/milan/sforza/jpegs/ext_31.jpg',
+        'https://buffaloah.com/a/lin/409/image/18.jpg'
+      ],
       idea: 'a slight inward slope on the face of a wall'
     }]
   }, {
@@ -2327,7 +2648,14 @@
     }, {
       term: 'lintel',
       also: ['architrave'],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/DCTNRY/l/lintel.jpg',
+        'https://buffaloah.com/a/DCTNRY/l/lintelMt.JPG',
+        'https://buffaloah.com/a/del/690/fac/image/20.jpg',
+        'https://buffaloah.com/a/amherst/64/ext/image/20.jpg',
+        'https://buffaloah.com/a/DCTNRY/l/lintel_172lin.JPG',
+        'https://buffaloah.com/a/del/844/image/10.jpg'
+      ],
       idea: 'horizontal stone (or wood) beam that holds up the rest of the wall above a doorway (or window)'
     }, {
       term: 'lucarne window',
@@ -2352,7 +2680,12 @@
     }, {
       term: 'oeil-de-boeuf',
       also: ['ox-eye window', 'circular lucarne window'],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/DCTNRY/b/bulls.jpg',
+        'https://buffaloah.com/a/pearl/110/ext/image/09.jpg',
+        'https://buffaloah.com/a/del/672/ext/image/10.jpg',
+        'https://buffaloah.com/a/carl/199/ext/image/03.jpg'
+      ],
       idea: 'aka "ox-eye window" -- a small oval (or round) window, on an upper story or on a dormer'
     }, {
       term: 'oriel window',
@@ -2472,12 +2805,29 @@
     }, {
       term: 'balconet',
       also: [],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/DCTNRY/b/balconet.jpg',
+        'https://buffaloah.com/a/virtual/swi/maison/image/5.jpg',
+        'https://buffaloah.com/a/DCTNRY/b/bal_bellied.jpg',
+        'https://buffaloah.com/a/DCTNRY/b/bal_gen.jpg',
+        'https://buffaloah.com/a/virtual/russ/kizhi/osh/jpgs/06.jpg',
+        'https://buffaloah.com/a/niagSq/1/image/19241niag9.jpg',
+        'https://buffaloah.com/a/DCTNRY/b/balconet_475del.JPG',
+        'https://buffaloah.com/a/del/925/image/06.jpg',
+        'https://buffaloah.com/a/del/888/image/a61.jpg',
+        'https://buffaloah.com/a/del/888/image/a8.jpg',
+        'https://buffaloah.com/a/washngtn/391/image/laf03.jpg',
+        'https://buffaloah.com/a/lafay/370/image/08.jpg',
+        'https://buffaloah.com/a/sym/33/image/006.jpg'
+      ],
       idea: 'a little railing or balustrade that projects only a tiny bit out from a wall in front of a window'
     }, {
       term: 'ribbon window',
       also: [],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/jewett/125/marext/image/09.jpg',
+        'https://buffaloah.com/a/windsor/94/ext/image/03.jpg'
+      ],
       idea: 'a horizontal band of windows'
     }, {
       term: 'clerestory',
@@ -2497,7 +2847,9 @@
     }, {
       term: 'oriel',
       also: [],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/DCTNRY/b/baywind321ell.jpg'
+      ],
       idea: 'a bay window with brackets or corbels under it'
     }, {
       term: 'awning',
@@ -2527,17 +2879,34 @@
     }, {
       term: 'bow window',
       also: [],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/DCTNRY/b/bow.jpg',
+        'https://buffaloah.com/a/virtual/eng/salis/misc/image/06.jpg',
+        'https://buffaloah.com/a/rich/570/jpegs/3.jpg',
+        'https://buffaloah.com/a/bidwell/177/ext/image/17.jpg',
+        'https://buffaloah.com/a/DCTNRY/b/bow_96soldiers.JPG',
+        'https://buffaloah.com/a/DCTNRY/b/bow177bidwell.JPG'
+      ],
       idea: 'a bay window in an rounded arc shape'
     }, {
       term: 'cant bay window',
       also: [],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/DCTNRY/b/baywin.jpg',
+        'https://buffaloah.com/a/del/434/image/6.jpg',
+        'https://buffaloah.com/a/notting/175/ext/image/08.jpg',
+        'https://buffaloah.com/a/virtual/us/sanfran/ladies/jpegs/2019_29.jpg'
+      ],
       idea: 'a bay window with two canted sides and flat front: \\__/'
     }, {
       term: 'bay window',
       also: [],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/middle/260/jpegs/ext_7.jpg',
+        'https://buffaloah.com/a/DCTNRY/b/bay256north.JPG',
+        'https://buffaloah.com/a/HAMB/main/87/ext/image/13.jpg',
+        'https://buffaloah.com/a/DCTNRY/b/bayw53lex.jpg'
+      ],
       idea: 'a window that projects out from a wall, making a window alcove in the room inside'
     }, {
       term: 'window seat',
@@ -2715,7 +3084,9 @@
     terms: [{
       term: 'cobblestone',
       also: [],
-      pics: [],
+      pics: [
+        'https://buffaloah.com/a/NEW/bap/ext/image/07.jpg'
+      ],
       idea: 'roundish stones used for paving (or walls)'
     }, {
       term: 'pea gravel',
