@@ -22,13 +22,29 @@ permalink: /2020-03_kinematic/
       <details>
         <summary><a href="#why">Why would we want Kinematic cities?</a></summary>
         <ul>
+          <li><a href="#economics">Economic realities</a></li>
+        </ul>
+      </details>
+    </div>
+    <div>
+      <details>
+        <summary><a href="#cost">How much would it cost?</a></summary>
+        <ul>
           <li><a href="#faq">TODO</a></li>
         </ul>
       </details>
     </div>
     <div>
       <details>
-        <summary><a href="#simple">A simple March 2020 Kinematic city design</a></summary>
+        <summary><a href="#rules_of_thumb">Rules of thumb</a></summary>
+        <ul>
+          <li><a href="#faq">TODO</a></li>
+        </ul>
+      </details>
+    </div>
+    <div>
+      <details>
+        <summary><a href="#simple_design">A March 2020 design for a simple Kinematic city</a></summary>
         <ul>
           <li><a href="#faq">TODO</a></li>
         </ul>
@@ -87,7 +103,22 @@ permalink: /2020-03_kinematic/
     * for industries, more "industrial agglomeration", which leads to "agglomeration economies" (somewhat similar to the separate idea of "economies of scale")
     * for first responders, faster response times and better incident outcomes
 
-## <a name="economics"></a>Economic realities
+---
+
+## <a name="cost"></a>How much would it cost?
+
+  * **The same as a regular city**
+    * Construction costs, per square foot, would be about the same for buildings in a kinematic city as buildings in a regular city.
+    * In a region with high construction costs, like California, constructing buildings in a kinematic city would be just as expensive as constructing buildings in other cities.
+    * In places with lower construction costs, like the UAE, or China, constructing buildings in a kinematic city would cost about the same as building any other building. 
+    
+  * **Maybe slightly cheaper**
+    * The simplest sorts of kinematic city designs could entirely omit some of the expensive transit systems found in conventional cities, such as subway systems and light rail. 
+    * A simple kinematic city designs could also be composed entirely of mid-rise buildings, which are cheaper to build, per square foot, than either high-rise or low-rise buildings.
+
+---
+
+## <a name="rules_of_thumb"></a>Rules of thumb
 
   * **People tend to travel about one hour a day.**
     * For people who commute, the average commute is about 30 minutes each way.
@@ -101,8 +132,20 @@ permalink: /2020-03_kinematic/
   * **Some aspects of a city scale super-linearly.**
     *
 
+---
 
-## <a name="summary"></a>What would it look like?
+## <a name="simple_design"></a>A March 2020 design for a simple Kinematic city
+
+
+### <a name="look_like"></a>What would it look like?
+
+
+---
+
+## <a name="faq"></a>FAQ
+## <a name="glossary"></a>Glossary
+## <a name="notes"></a>Notes
+## <a name="references"></a>References
 
 
 
