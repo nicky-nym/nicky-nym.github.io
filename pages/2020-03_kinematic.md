@@ -3,7 +3,7 @@ permalink: /2020-03_kinematic/
 ---
 # Kinematic Cities vs. Congested Cities
 
-<span style="font-size:24pt;">March 2020 design ideas for maximizing <span style="color:#DF4911;">kinematic range</span><sup style="font-size:12pt;"><a href="#kinematic">?</a></sup> in cities</span>
+<span style="font-size:24pt;">Summer 2020 design ideas for maximizing <span style="color:#DF4911;">kinematic range</span><sup style="font-size:12pt;"><a href="#kinematic">?</a></sup> in cities</span>
 
 <div id="contents-title">
   <div style="float:right;">Contents</div>
@@ -11,10 +11,18 @@ permalink: /2020-03_kinematic/
     <p>&nbsp;</p>
     <div>
       <details>
-        <summary><a href="#what">What is a Kinematic city?</a></summary>
+        <summary><a href="#what_is">What is a Kinematic city?</a></summary>
         <ul>
           <li><a href="#kinematic_range">Kinematic range</a></li>
           <li><a href="#size">Size & density</a></li>
+        </ul>
+      </details>
+    </div>
+    <div>
+      <details>
+        <summary><a href="#who_cares">Why does Kinematic Range matter?</a></summary>
+        <ul>
+          <li><a href="#economics">Convenience, opportunity, prosperity</a></li>
         </ul>
       </details>
     </div>
@@ -66,18 +74,58 @@ permalink: /2020-03_kinematic/
 
 ---
 
-## <a name="what"></a>What is a Kinematic city?
+## <a name="what_is"></a>What is a Kinematic city?
 
-  * A **congested** city is a city where it's hard to get where you want to go, because there's too much traffic.
-  * A **sleepy** little town is a town where there's no traffic, but there's almost nothing in town to go to.
-  * A **kinematic** city is a city that has lots of destinations **and** they're all easy to get to.
+  * A **congested** city is one where it's hard to get where you want to go, because there's too much traffic.
+  * A **sleepy** little town is one where there's no traffic, but there's almost nothing in town to go to.
+  * A **kinematic** city is one that has lots of destinations **and** they're all easy to get to.
 
 ### <a name="kinematic_range"></a>Kinematic range
 
-  * **Kinematic range** is a measure of urban mobility. It's the number of destinations you can get to in 30 minutes or less* (*or some other set time).
+  * **Kinematic range** is a measure of urban mobility. It's the number of destinations you can get to in 30 minutes or less* _(*or some other set time)_.
   * Different cities have different kinematic ranges
     * In **Haxby, Montana**, there's not any traffic congestion, but there also aren't many places to go. With a car, in 30 minutes you can probably reach a total of about a half dozen homes, with perhaps 10 thousand square feet of floorspace.
     * In **San Francsico**, there are lots of places to go, but there's a lot of congestion. In 30 minutes you can reach hundreds of thousands of homes, offices, and stores, with perhaps a 500 million square feet of floorspace.  San Francisco has a kinematic range that's about 50 thousand times larger than Haxby, Montana.
+
+---
+
+## <a name="who_cares"></a>Why does Kinematic Range matter?
+
+  * Urban mobility is *important*
+  * *For people*, having more destinations within reach means:
+    * more *job offers* that are close enough to commute to
+    * more *friends* and *family* who are actually close enough to drop by
+    * more *schools* to choose from, and more *special classes*
+    * more *doctors* to choose from, and more different *specialists* available
+    * a wider variety of *churches* and *religious communities*
+    * a wider variety of *events*, *meetups*, and *clubs*, and more people who share your interests
+    * a wider variety of *"long tail"* destinations
+  * *For shops*, *employers*, and *industry*, it means:
+    * more *job candidates* to choose from
+    * more *vendors* and *parts suppliers* to choose from
+    * more *contractors* in different *specialized fields*
+    * more *"industrial agglomeration"*, which leads to *"agglomeration economies"* (somewhat similar to the separate idea of "economies of scale")
+  * *For 911 calls* to first responders, it means:
+    * *faster response times* and *better incident outcomes*
+
+### <a name="kinematic_range"></a>Convenience, opportunity, prosperity
+
+---
+
+## <a name="why"></a>How do existing cities try to become more Kinematic?
+
+Cities try to improve kinematic range
+
+  * *public transit projects*
+    * the *2nd Avenue Subway* project in *New York*, 
+    * the *Transbay Transit Center* in *San Francisco*, 
+  * *more highways*, or *more lanes*
+    * the *Big Dig* in *Boston*, 
+  * *more throughput per lane*
+    * the *HOV Carpool Lanes* in *Los Angeles*, 
+    * the *congestion pricing* in ...
+
+---
 
 ### <a name="size"></a>Size & density
 
@@ -88,20 +136,6 @@ permalink: /2020-03_kinematic/
 ---
 
 ## <a name="why"></a>Why would we want Kinematic cities?
-
-  * Urban mobility is important. Having more destinations within reach means:
-    * more job offers that are close enough to commute to
-    * more friends and family who are actually close enough to drop by
-    * more schools to choose from, and more special classes
-    * more doctors to choose from, and more different specialists available
-    * a wider variety of churches and religious communities
-    * a wider variety of events, meetups, and clubs, and more people who share your interests
-    * a wider variety of "long tail" destinations
-    * for employers, more job candidates to choose from
-    * for manufacturers, more vendors and parts suppliers to choose from
-    * for businesses, more contractors in different specialized fields
-    * for industries, more "industrial agglomeration", which leads to "agglomeration economies" (somewhat similar to the separate idea of "economies of scale")
-    * for first responders, faster response times and better incident outcomes
 
 ---
 
