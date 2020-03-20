@@ -90,6 +90,7 @@ permalink: /2020-03_kinematic/
 ## <a name="who_cares"></a>Why does Kinematic Range matter?
 
   * Urban mobility is *important*
+
   * **For people**, having more destinations within reach means:
     * more **job offers** that are close enough to commute to
     * more **friends** & **family** who are actually close enough to drop by
@@ -114,7 +115,9 @@ Beyond just convenience, better mobility and kinematic range bring serious chang
 
 ### <a name="dividend"></a>15% dividend per doubling
 
-As kinematic range increases, when the number of people (and destinations) in range grows by 100% (meaning a doubling in size), then the economy of the city tends to grow by about 115% (meaning it more than doubles in size), so that there is effectively a 15% "bonus" in per-capita economic output for everyone in the city.[^scale]
+Around the world, larger cities, with their larger kinematic ranges, tend higher wages than smaller cities.
+
+As city size increases, when the number of people (and destinations) in the city grows by 100% (meaning a doubling in size), then the economy of the city tends to grow by about 115% (meaning it more than doubles in size), so that there is effectively a 15% "bonus" in per-capita economic output for everyone in the city.[^scale]
 
 This 15% superlinear growth seems to apply to the whole physical and social metabolism of the city, rather than just the economic aspects of the city. The 15% surplus shows up in statistics about:
   * wages
@@ -133,13 +136,13 @@ Existing cities work hard, and spend billions, to try to incrementally improve m
 
 Cities can improve kinematic range by **moving more people** or **moving people faster**
   * **public transit projects**
-    * the **2nd Avenue Subway** project in **New York**, 
-    * the **Transbay Transit Center** in **San Francisco**, 
+    * the **2nd Avenue Subway** project in New York, 
+    * the **Transbay Transit Center** in San Francisco, 
   * **more highways**, or **more lanes**
-    * the **Big Dig** in **Boston**, 
+    * the **Big Dig** in Boston, 
   * **more throughput per lane**
-    * the **HOV Carpool Lanes** in **Los Angeles**, 
-    * the **congestion pricing** in **London**
+    * the **HOV Carpool Lanes** in Los Angeles, 
+    * the **congestion pricing** in Londo*
 
 Cities can also improve kinematic range by **becoming denser**, so that more people and more destinations are nearby
   * **transit oriented development**
@@ -158,11 +161,33 @@ Someday, in the future, cities might also be able to improve kinematic range by 
 
 ## <a name="better"></a>Could we do better?
 
+Existing cities, all over the world, have serious traffic congestion problems, despite spending billions on transit projects and on widening roads. As cities grow and economies grow, the congestion problems just get worse.
+
 ### <a name="transit_vs_cars"></a>Transit vs. cars
+
+Here in the United States, in discussions about urban planning and transporation, many people fall into one of two opposing camps:
+
+  * **pro-transit people** , who want to see
+    * fewer cars on the road
+    * less space set aside for parking
+    * more bike lanes and bus lanes
+    * more funding for some combination of subways, light rail, buses, bus rapid transit, and other public transit
+  * **pro-statis-quo "car" people**, who 
+    * do not want to lose automobile lanes in return for bike lanes and bus lanes
+    * do now want to pay the huge costs of creating and operating public transit systems
+    * do not want to take slow, inconvenient, public transit options when they could just drive
 
 ### <a name="self_driving"></a>Self-driving cars & delivery drones
 
+In addition to the **pro-transit** camp and the **pro-statis-quo** camp, there's also a third camp, of people who are optimistic about new technologies for **automated, on-demand transporation**, like self-driving cars and delivery drones. 
+
+Proponents of shared, self-driving cars point to advantages like the greatly reduced need for parking compared to conventional cars, yet the convenience of direct door-to-door routes.
+
+Opponents of self-driving cars point to inherently low throughput-per-lane numbers for cars vs. buses and trains, and the real-world congestion problems that we're already seeing from on-demand car-share services like Lyft and Uber.
+
 ### <a name="micromobility"></a>Scooters & micromobility
+
+
 
 ---
 
