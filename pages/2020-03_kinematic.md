@@ -187,12 +187,19 @@ Opponents of self-driving cars point to inherently low throughput-per-lane numbe
 
 ### <a name="micromobility"></a>Scooters & micromobility
 
-
+Cities around the world are experimenting with whole range of other new transportation options, from dockless rental scooters to designated bike-share stations. The advent of electric bikes and electric scooters also opens new possibilities.
 
 ---
 
 ## <a name="simple_design"></a>A summer 2020 design for a simple Kinematic city
 
+Given what we know about the cost and throughput of cars, buses, and rail, and given what we know about the emerging new alternatives, what's the best we could possibly do?
+
+If we could plan a whole urban transporation network from scratch, what's the optimal mix of different transit modes? Which options are the most affordable, and which ones maximize personal mobility, speedy deliveries, and kinematic range?
+
+What follows is my proposal for what I believe is a **simple**, **cheap**, **reliable**, **low-risk** transportation network that has **high throughput**, good **transit speed**, nearly **door-to-door** convenience, and takes up less space than roads, leaving more **land area** for parks and buildings.
+
+This is just one possible design for a more Kinematic city. I'm not suggesting that this is the best design; rather, I'm putting it out as a *straw-man* proposal, in hopes that it might spark conversation that leads to better ideas.
 
 ### <a name="look_like"></a>What would it look like?
 
