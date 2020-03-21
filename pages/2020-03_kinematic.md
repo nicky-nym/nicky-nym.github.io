@@ -1,7 +1,7 @@
 ---
 permalink: /2020-03_kinematic/
 ---
-# Kinematic Cities vs. Congested Cities
+# Kinematic Cities _vs._ Congested Cities
 
 <!--
 <span style="font-size:24pt;">Summer 2020 design ideas for maximizing <span style="color:#DF4911;">kinematic range</span><sup style="font-size:12pt;"><a href="#kinematic">?</a></sup> in cities</span>
@@ -43,12 +43,13 @@ permalink: /2020-03_kinematic/
           <li><a href="#transit_vs_cars">Transit vs. cars</a></li>
           <li><a href="#self_driving">Self-driving cars & delivery drones</a></li>
           <li><a href="#micromobility">Scooters & micromobility</a></li>
+          <li><a href="#best">The best we could do...</a></li>
         </ul>
       </details>
     </div>
     <div>
       <details>
-        <summary><a href="#simple_design">A summer 2020 design for a simple Kinematic city</a></summary>
+        <summary><a href="#impossible">"Impossible city" design proposal</a></summary>
         <ul>
           <li><a href="#look_like">What would it look like?</a></li>
           <li><a href="#where">Where would it be?</a></li>
@@ -76,7 +77,7 @@ permalink: /2020-03_kinematic/
 
   * A **congested** city is one where it's hard to get where you want to go, because there's too much traffic.
   * A **sleepy** little town is one where there's no traffic, but there's almost nothing in town to go to.
-  * A **kinematic** city is one that has lots of destinations **and** they're all easy to get to.
+  * A **kinematic** city is one that has lots of destinations **_and_** they're all easy to get to.
 
 ### <a name="kinematic_range"></a>Kinematic range
 
@@ -120,13 +121,13 @@ Around the world, larger cities, with their larger kinematic ranges, tend higher
 As city size increases, when the number of people (and destinations) in the city grows by 100% (meaning a doubling in size), then the economy of the city tends to grow by about 115% (meaning it more than doubles in size), so that there is effectively a 15% "bonus" in per-capita economic output for everyone in the city.[^scale]
 
 This 15% superlinear growth seems to apply to the whole physical and social metabolism of the city, rather than just the economic aspects of the city. The 15% surplus shows up in statistics about:
-  * wages
-  * wealth
-  * patents
-  * AIDS cases
-  * crime
-  * restaurants
-  * diversity of business services available (meaning, how long the "long tail" of the city is)
+  * **wages**
+  * **wealth**
+  * **patents**
+  * **AIDS cases**
+  * **crime**
+  * **restaurants**
+  * **diversity of business services** available (meaning, how long the "long tail" of the city is)
 
 ---
 
@@ -181,29 +182,51 @@ Here in the United States, in discussions about urban planning and transporation
 
 In addition to the **pro-transit** camp and the **pro-statis-quo** camp, there's also a third camp, of people who are optimistic about new technologies for **automated, on-demand transporation**, like self-driving cars and delivery drones. 
 
-Proponents of shared, self-driving cars point to advantages like the greatly reduced need for parking compared to conventional cars, yet the convenience of direct door-to-door routes.
+**Proponents** of shared, self-driving cars point to advantages like the greatly reduced need for parking compared to conventional cars, yet the convenience of direct door-to-door routes.
 
-Opponents of self-driving cars point to inherently low throughput-per-lane numbers for cars vs. buses and trains, and the real-world congestion problems that we're already seeing from on-demand car-share services like Lyft and Uber.
+**Opponents** of self-driving cars point to inherently low throughput-per-lane numbers for cars vs. buses and trains, and the real-world congestion problems that we're already seeing from on-demand car-share services like Lyft and Uber.
 
 ### <a name="micromobility"></a>Scooters & micromobility
 
 Cities around the world are experimenting with whole range of other new transportation options, from dockless rental scooters to designated bike-share stations. The advent of electric bikes and electric scooters also opens new possibilities.
 
----
-
-## <a name="simple_design"></a>A summer 2020 design for a simple Kinematic city
+### <a name="best"></a>The best we could do...
 
 Given what we know about the cost and throughput of cars, buses, and rail, and given what we know about the emerging new alternatives, what's the best we could possibly do?
 
 If we could plan a whole urban transporation network from scratch, what's the optimal mix of different transit modes? Which options are the most affordable, and which ones maximize personal mobility, speedy deliveries, and kinematic range?
 
-What follows is my proposal for what I believe is a **simple**, **cheap**, **reliable**, **low-risk** transportation network that has **high throughput**, good **transit speed**, nearly **door-to-door** convenience, and takes up less space than roads, leaving more **land area** for parks and buildings.
+What follows is a design proposal for what I believe is a **simple**, **cheap**, **reliable**, **low-risk** transportation network that has **high throughput**, good **transit speed**, nearly **door-to-door** convenience, and takes up less space than roads, leaving more **land area** for parks and buildings.
 
-This is just one possible design for a more Kinematic city. I'm not suggesting that this is the best design; rather, I'm putting it out as a *straw-man* proposal, in hopes that it might spark conversation that leads to better ideas.
+---
+
+## <a name="impossible"></a>"Impossible city" design proposal
+
+The **Impossible city** is just one simple design for a more Kinematic city. I'm not suggesting that this is the best design; rather, I'm putting it out as a *straw-man* proposal, in hopes that it might be a step in the right direction, and that it might spark conversation that leads to better ideas.
 
 ### <a name="look_like"></a>What would it look like?
 
+**A grid**
+  * The Impossible design has a **grid of city blocks**, similar to the layout of cities like Manhattan New York. That's in contrast to older cities like Rome and Paris, which have more intricate street layouts, and in contrast to many 20th century suburban developments or new cities like Dubai, which often have more circular or curvy streets, or layouts that are intentionally asymmetrical, with cul-de-sacs and loops.
+ 
+**A big grid**
+  * Instead of the rectangular blocks that Manhattan has, the Impossible design has square blocks. Big blocks: more **like big Salt Lake City blocks** than little Portland, Oregon blocks.
+  
+**With normal buildings**
+  * The buildings in each city block would just be normal buildings. They could be mid-rise or high-rise, in any sort of architectural style.
+
+**But with enclosed streets**
+  * The "streets" would look very different from normal city streets:
+    * They would **not be outdoors**, but would instead be long breeze-way corridors inside a four-story building.
+    * They would **not be at ground level**, but instead would be up on the second or third floor.
+    * They would **not have intersections**, but instead would be "grade-separated", so that the east-west streets pass above the north-south streets.
+
+
 ### <a name="where"></a>Where would it be?
+
+**Anywhere:** The impossible design does not depend on a particular climate, or on particular building materials. It's an anywhere-in-the world city, not just a European city, an African city, or an Arctic city.
+
+It could be built on the outskirts of an existing city, or it could be built in a brand new "greenfield" site.
 
 ### <a name="how_much"></a>How much would it cost?
 
@@ -217,6 +240,8 @@ This is just one possible design for a more Kinematic city. I'm not suggesting t
     * A simple kinematic city designs could also be composed entirely of mid-rise buildings, which are cheaper to build, per square foot, than either high-rise or low-rise buildings.
 
 ### <a name="how_long"></a>How long would it take?
+
+  * **The same as regular construction**
 
 
 ---
