@@ -51,6 +51,8 @@ permalink: /2020-03_kinematic/
       <details>
         <summary><a href="#impossible">"Impossible city" design proposal</a></summary>
         <ul>
+          <li><a href="#goals">What are the design goals?</a></li>
+          <li><a href="#features">What are the main design features?</a></li>
           <li><a href="#look_like">What would it look like?</a></li>
           <li><a href="#where">Where would it be?</a></li>
           <li><a href="#how_much">How much would it cost?</a></li>
@@ -204,6 +206,32 @@ What follows is a design proposal for what I believe is a **simple**, **cheap**,
 
 The **Impossible city** is just one simple design for a more Kinematic city. I'm not suggesting that this is the best design; rather, I'm putting it out as a *straw-man* proposal, in hopes that it might be a step in the right direction, and that it might spark conversation that leads to better ideas.
 
+### <a name="goals"></a>What are the design goals?
+
+  * improve overall **urban mobility** & **kinematic range**
+    * realize a 15% dividend in wages, wealth, patents, land value, etc.
+    * increase economic prosperity
+    * increase social prosperity
+  * make **more affordable** transportation and housing 
+  * make a **level playing field** for urban mobility
+    * more **kid-friendly**
+    * more **elder-friendly**
+    * more **accessible** for people with disabilites
+  * make a **cleaner**, **quieter**, **safer** city
+  * reduce **carbon footprint** and **air pollution**
+  * make a city that is **more resilient** and after natural disasters and power failures
+  * **simplicity**, **durability**, and **reliability**
+    
+### <a name="features"></a>What are the main design features?
+
+The Impossible design calls for:
+
+  * just bikes & **bike-sized vehicles**, instead of cars, trucks, buses, or trains
+  * just **electric vehicles**, instead of gas engines
+  * just **grade-separated intersections**, instead of traffic lights, stop signs, or roundabouts
+  * **sheltered roads**, sheltered from wind and rain
+  * **underground wiring**, instead of telephone poles and overhead power lines
+
 ### <a name="look_like"></a>What would it look like?
 
 **A grid**
@@ -215,11 +243,27 @@ The **Impossible city** is just one simple design for a more Kinematic city. I'm
 **With normal buildings**
   * The buildings in each city block would just be normal buildings. They could be mid-rise or high-rise, in any sort of architectural style.
 
-**But with enclosed streets**
+**But with sheltered streets**
   * The "streets" would look very different from normal city streets:
     * They would **not be outdoors**, but would instead be long breeze-way corridors inside a four-story building.
     * They would **not be at ground level**, but instead would be up on the second or third floor.
     * They would **not have intersections**, but instead would be "grade-separated", so that the east-west streets pass above the north-south streets.
+
+
+### <a name="why"></a>Why is this a better design?
+
+The Impossible design is built entirely around **bicycles**, **bike-sized electric vehicles**, and **sheltered streets** with **no interestions**. At first blush, it's hard to imagine that this is a practical design. It doesn't seem like an entire city could have no buses, trains, or cars, and still manage to move millions of people a day with reduced travel times and increased travel ranges.
+
+It **seems** impossible, because cars **seem** like fast, long-range vehicles, and buses and trains **seem** like high-capacity transit. 
+
+Cars **truly are** fast when they're on highways, but in cities cars are hugely inefficient and ineffective, requiring huge amounts of lane space per car, and traveling with high burst speeds but poor average speeds.
+
+Buses and trains **truly are** high-capacity and high-throughput when everyone on them is going from point A to point B. If you have a group of 50 people who are all gathered together (e.g. at a hotel) and who all need to go to the exact same place (e.g. an office or work site) at the same time, then a bus wonderfully efficient and effective choice. But in a city, if people are starting from a variety of different places (different apartment buildings on different blocks), and going to a variety of different places (schools, stores, offices), then buses turn out to have quite poor average throughput.
+
+
+### <a name="how"></a>How do you know this is better?
+
+By building models and running simulations, and by combing through the available statistics about the different existing transportation modes in different cities.
 
 
 ### <a name="where"></a>Where would it be?
@@ -242,6 +286,19 @@ It could be built on the outskirts of an existing city, or it could be built in 
 ### <a name="how_long"></a>How long would it take?
 
   * **The same as regular construction**
+
+### <a name="how_long"></a>What problems do existing cities have?
+
+  1. cities have too much **traffic congestion**
+  2. have **housing costs** that are too high
+  3. have **transportation costs** that are too high
+  4. are **not safe enough**
+  5. are **not good for people's mental health**
+  6. are **not resilient** after natural disasters and power failures
+  7. overly **limit mobility** of kids, elders, and people with disabilities
+  8. are **not quickly alterable** &mdash; making one significant change can take decades
+  9. are **not cheaply alterable** &mdash; it is staggeringly expensive to add subways or highways to an existing city
+  10. are **too few and too small**, by a factor of two, for everyone who will live in them by 2050
 
 
 ---
