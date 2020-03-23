@@ -11,7 +11,7 @@ permalink: /need/
     <p>&nbsp;</p>
     <div>
       <details>
-        <summary><a href="#need">Need</a> &mdash; the world needs new cities</a></summary>
+        <summary><a href="#need">Need</a> &mdash; the world needs new cities</summary>
         <ul>
           <li><a href="#tidal-wave">Tidal wave, impending</a></li>
           <li><a href="#precident">People are undertaking to build new cities</a></li>
