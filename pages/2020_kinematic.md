@@ -370,6 +370,10 @@ It could be built on the outskirts of an existing city, or it could be built in 
 
 ## <a name="references"></a>References
 
+[^google_eie]: [Environmental Insights Explorer](https://insights.sustainability.google/places/ChIJIQBpAG2ahYAR_6128GcTUEo/transportation). _Google_. 2018.
+
+[^growth]: ["Should we build cities from scratch?"](https://www.theguardian.com/cities/2019/jul/10/should-we-build-cities-from-scratch). _The Guardian_. 10 July 2019.
+
 [^scale]: [_Scale_](https://www.penguinrandomhouse.com/books/314049/scale-by-geoffrey-west/), by Geoffrey West. 2018.
 
 
