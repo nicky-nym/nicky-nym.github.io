@@ -57,6 +57,7 @@ permalink: /2020-03_kinematic/
           <li><a href="#where">Where would it be?</a></li>
           <li><a href="#how_much">How much would it cost?</a></li>
           <li><a href="#how_long">How long would it take?</a></li>
+          <li><a href="#comparison">How would it compare?</a></li>
         </ul>
       </details>
     </div>
@@ -286,6 +287,42 @@ It could be built on the outskirts of an existing city, or it could be built in 
 ### <a name="how_long"></a>How long would it take?
 
   * **The same as regular construction**
+
+### <a name="comparison"></a>How would it compare?
+
+|---
+|  | Proposed Kinematic City | San Francisco | New York |
+|-:|:-:|:-:|:-:|:-:
+| **Trips**<br>annual, per million people | 1.2 billion | 1.2 billion[^google_eie] |  |
+| **Commute time**<br>minutes per day<br>(average per commuter) | 60 minutes | 60 minutes | 76 minutes |
+| **Traffic fatalities**<br>annual, per million people | 1 | 30 | 23
+| **CO<sub>2</sub> footprint for transportation**<br>annual per capita | 1 kg | 2,000 kg | 1,000 kg
+| **Commute kinematic range**<br>square feet | 5 billion | 1.25 billion |   |
+| **Kinematic windfall**<br>wages, GDP, patents per capita, etc. | 1.3x | 1x |   |
+| **Proximity to friends**<br>number of neighbors within 15 minutes | 2 million<br>(without car) | 1 million<br>(requires car) |
+| **Proximity to places**<br>number of places within 15 minutes<br>library, coffee shop, playground, groceries | 2x<br>(without car) | 1x<br>(requires car)
+| **Proximity to trees**<br>number of trees within 15 minutes | > 125,000 trees | > 125,000 trees |		
+| **Cars**<br>per million people | 100 | 450,000 | 220,000	
+| **Trucks**<br>per million people | 100 | 60,000 | 	
+| **Buses, etc.**<br>buses, streetcars, light rail vehicles, etc.<br>per million people | 1 | 1,380 | 	
+| **Cost to city to subsidize public transit**<br>annual dollars per capita | $0 | $720
+| **Cost of public transit paid by riders**<br>annual dollars per capita | $0 | $360
+| **Cost of car ownership**<br>gas, insurance, repairs, payments, etc.<br>annual dollars per capita | $0 | $4,000 | $2,000
+| **Cost of bike ownership**<br>bicycles, mopeds, scooters, segways, trikes, etc.<br>annual dollars per capita | $1,000 | $100
+| **Exercise while commuting**<br>minutes per day<br>(average per commuter) | 15 minutes<br>(if 3 of 4 bikes<br>are e-bikes) | 5 minutes | 	
+| **Air quality** | _really_ good | good 
+| **Noise levels** | slightly lower than<br>San Francisco | slightly more than<br>proposed city 
+| **ADA accessibility**<br>percent of total city floor space | 90% | ?
+| **Free-range kids** | yes | no		
+| **Power-outage impact**<br>on transit times | no bikeway lights<br>(just daylight/moonlight) | no BART<br>no traffic lights
+| **Daylighting**<br>Spatial Daylight Autonomy (sDA) percent<br>Annual Sun Exposure (ASE) percent<br>(also several others)
+| **Home sizes**<br>square feet per person, average | 275 | 275 |
+| **Office space**<br>square feet per person, average | 260 | 260 |
+| **911 response time**<br>minutes, average | 4 minutes | 5.75 minutes |	
+| **Housing costs**<br>monthly rent per apartment<br>(750 square feet) | > $1,000 | $3,750 |
+|                   condo price, average | > $120,000 | $1.2 million
+|---
+
 
 ### <a name="how_long"></a>What problems do existing cities have?
 
