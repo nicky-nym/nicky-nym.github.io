@@ -115,7 +115,13 @@ The current market size for new city construction is large:
 > "projections show that Kinshasa, the capital of the Democratic Republic of Congo, will reach 35 million residents by 2050."[^lutter]
 
 
-## <a name="precident"></a>People are undertaking to build new cities
+## New cities vs. new suburbs & satellite cities vs. new apartments in existing cities
+
+Perhaps existing cities will absorb nearly all of the 2.5 billion additional people who will live in cities by 2050, but in doing so some of their suburbs will essentially develop into big satellite cities of their own right, so the Kinematic city ideas are relevant for how new developments in those satellite cities are designed.
+
+If 4% of the people did move to entirely new cities, that would be 100 million people in new cities. A single new kinematic city could "just" be 10 million people.
+
+## <a name="precident"></a>People are undertaking to build "new cities"
 
 More than **120 new cities** are currently being built in 40 nations around the world[^growth], and 11,000 new buildings are built every day, meaning **4 million new buildings a year** [^metabuild].
 
@@ -179,6 +185,12 @@ Building on a new empty, greenfield site is a lot less expensive than building i
 In 2019, U.S. Presidential candidate Andrew Yang called for **$40 billion** in subsidies, grants, and loans for people in coastal communities who want to either move inland or elevate their homes.[^yang]
 
 ### Large private-sector projects
+
+In the past, the truly large-scale new developments have all been done by governments, at least up to now. But until recently that was true for space exploration too. Times are changing.
+
+The global banking and investment system is taking on larger private projects now, computers and the internet enable cheaper and faster R&D, recruiting, project management, etc. Global GDP gets bigger every year, and the world takes on new and bigger projects, both public and private.
+
+Perhaps in the coming decades we'll see increasingly large private-sector real-estate developments. Or, in the public sector, perhaps we'll see some central planning efforts that are looking for big, cost-effective, high-impact solutions to giant housing shortages.
 
 In recent decades we have begun to see the private sector take on very large scale projects, without government funding.
 
