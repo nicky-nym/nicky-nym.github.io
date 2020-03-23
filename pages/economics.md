@@ -3,6 +3,37 @@ permalink: /economics/
 ---
 # Impossible economics
 
+---
+
+<div id="contents-title">
+  <div style="float:right;">Contents</div>
+  <div id="contents-entries">
+    <p>&nbsp;</p>
+    <div>
+      <details>
+        <summary><a href="#notes">Notes</summary>
+        <ul>
+          <li><a href="#hong_kong">Hong Kong</a></li>
+          <li><a href="#georgism">Georgism</a></li>
+          <li><a href="#depreciating_licenses">Depreciating licenses</a></li>
+          <li><a href="#gdp">GDP</a></li>
+          <li><a href="#land_value_capture">Land Value Capture</a></li>
+        </ul>
+      </details>
+    </div>
+    <div>
+      <details>
+        <summary>The long tail...</summary>
+        <ul>
+          <li><a href="#glossary">Glossary</a></li>
+          <li><a href="#references">References</a></li>
+        </ul>
+      </details>
+    </div>
+  </div>
+</div>
+
+---
 ## Hong Kong
 
 All the land within the Hong Kong Special Administrative Region, with the single exception of St. John's Cathedral, is owned by the government, and has been since 1843.
@@ -14,6 +45,14 @@ https://en.wikipedia.org/wiki/Georgism
 ## Depreciating licenses
 
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2744810
+
+
+## GDP
+
+> "With the right framework, astonishing prosperity is possible. The independent city of Singapore overtook the world’s GDP per capita in less than 30 years, and that of the USA in less than 50 years." [^free-private-cities]
+
+> "Cities generate roughly 80% of global GDP and are home to more than half of the world's population today, a share that the United Nations projects will reach two-thirds by 2050," the report said. About 40% of the population lives within 100 kilometers of a coast, and one in 10 people live in areas less than 10 meters above sea level, it said. [^khan]
+
 
 ## Land Value Capture
 
@@ -62,8 +101,48 @@ Common value capture mechanisms include:"[^xu]
 
 "Thirdly, the planning of public transportation requires multiple levels of government and agencies to work together. It is important to form a good collaboration between the different development stages, including land acquisition, planning, construction, operation, and property management. In Hong Kong, for example, MTR as a single agency is responsible for the whole development cycle. The process is more efficient, because it saves additional administrative cost, and there is only one principle from beginning to end. For New York, however, as MTA is only responsible for railway construction and operation, and it has no right of land use, the capability of capturing land value is to some extent undermined."[^xu]
 
+## <a name="glossary"></a>Glossary
+
+* **charter city**
+  * a special jurisdiction with a blank slate in commercial law, to allow for the adoption of new practices in areas such as a business registration, labor law, tax administration, and commercial dispute resolution
+  * _typically built on greenfield sites to avoid the challenges of implementing such a wide array of reforms in an existing polity_
+  * _typically privately financed_
+  * see: special economic zone
+
+* **Community Land Trust (CLT)**
+  * A nonprofit organization that owns land and sells or rents housing units (or retail or office space) built on the land, usually with the goal of providing affordable housing. A household typically leases a unit for a 99-year term, rather than buying a house outright, or may buy a house outright but leases the land that the house built on. Members elect a board so that the CLT is democratically self-governing. When a member sells a unit, the CLT may collect a cut of the sales price (in practice, as high as 75%), which it can use to subside purchases for new homeowners. [^schneider_2019-04-29]
+
+* **effective altruism**
+  * using empirical analysis to direct resources towards efforts that do the most possible good
+  * _anti-malaria efforts, deworming initiatives, and direct cash transfer programs are among the interventions most widely credited with providing the most cost-effective improvement in welfare for the global poor than any other intervention_ 
+  * see [GiveWell](https://www.givewell.org/)
+
+* **Housing co-op**
+  * A group of households in a multi-family building, where each household owns a share of the whole building co-op and has the right to occupy a single unit, rather than owning that unit outright. An elected board makes decisions. [^schneider_2019-04-29]
+
+* **Inclusionary Zoning (IZ)**
+  * city zoning restrictions that requires (or incentivizes) private developers to private some portion of the units in a new building at a below market rate
+
+* **limited equity housing cooperatives**
+  * TODO: ???
+
+* **Special Economic Zone (SEZ)**
+  * a part of a country in which the business and trade laws are different from the rest of the country [^wiki_sez]
+  * there have been SEZs since the 1950s, and there are now thousands of SEZs around the world [^mason]
+
+* **Sustainable Development Zone (SDZ)**
+  * a proposal for designated areas that are designed to promote economic development via a combination of governance and physical infrastructure, in economies composed of displaced people [^sustainable_development_zones]
+  * see also: **Refugee City**
+
+* **Tax Increment Financing (TIF)**
+  * special tax districts around targeted redevelopment areas, where future tax revenues are diverted to finance infrastructure improvements or development [^schneider]
+  
 
 ## <a name="references"></a>References
+
+[^free-private-cities]: [Free Private Cities](https://freeprivatecities.com/en/concept/)
+
+[^khan]: ["Goldman Sachs released a 34-page analysis of the effects of climate change. And the results are terrifying."](https://markets.businessinsider.com/news/stocks/goldman-sachs-climate-change-threatens-new-york-tokyo-lagos-cities-2019-9-1028552494). Yusuf Khan, _Markets Insider_. 25 September 2019.
 
 [^xu]: ["Under What Circumstances Will Land Value Capture Work to Finance Public Transit?"](https://academiccommons.columbia.edu/doi/10.7916/D8DF6QC4). Yidan Xu, _Columbia University Libraries, Academic Commons_. May 2015.
 
