@@ -904,6 +904,37 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 
 
 ---
+## Hypothetical locations
+
+Just as a thought experiment, it can be interesting to look at regions of existing cities and think about which places might be large enough to sustain a new car-free kinematic district...
+
+**Brisbane, California**
+
+The city of Brisbane, just south of San Francisco, does have a large undeveloped parcel that would be big enough to build a bit of a Kinematic City in, with a private land owner and private developer that want to build on it. It could be a great location for a kinematic district, but only if the voters in Brisbane wanted denser development, which they don't.
+
+**Standford University**
+
+Or the Standford University campus would be a candidate for a kinematic district, but people would have to be willing to tear down some of what's already built there. And the whole project would only be possible in some very like scenario where the city of Palo Alto were willling welcome hundreds of thousands of new neighbors, with all the strain that would bring on already congested highways, airports, and train lines.
+
+**Greenfield locations**
+
+Instead of looking at infill locations in places like California, I think it would be easier, faster, and more fruitful to instead pitch the idea of kinematic districts to people who are already in the process of planning large new developments on open greenfield sites, the way people are doing in Asia, Africa, and the Middle East.
+
+---
+## Small kinematic cities vs. small conventional cities
+
+A small-scale purely-kinematic city would work just fine, and it would have some advantages over a similarly sized car-centric or transit-centric city. Lower transportation costs might be the largest single selling point. But I think the advantages just might not be large enough to matter to anyone. For small-scale cities, car-centric designs actually work reasonably well, as do designs based on buses and bus rapid transit.
+
+The car & bus system only starts to break down once a city gets large enough to have serious traffic congestion problems, and it's only at that scale that the kinematic city design starts to really outshine the other options.
+
+---
+## Small kinematic districts within large existing cities
+
+A different case is a small-scale kinematic neighborhood within a larger car-centric city. The problem with that scenario is that it may be the worst of both worlds: outside of the kinematic neighborhood you have to use a car to get around, but within the kinematic neighborhood there are no roads and no parking, so you can't use a car. So if you want to commute to a job in the kinematic neighborhood, you still need a car, and you still fight urban traffic congestion, but then you can't drive right up to your office, and instead have to park somewhere at the edge of the kinematic neighborhood and then switch to foot or small vehicle to get the last distance. That makes your commute *longer* than it would have been in a regular car-centric city.
+
+A more natural pairing would be small-scale kinematic neighborhoods centered on train stations for either subway trains, or light rail, or commuter trains like Caltrain. That's a workable design, but I don't think there's much opportunity for it in existing cities. In existing cities, the area around subway stops and train stations is already very developed, with expensive real estate, and expensive existing buildings, and lots of land reserved for streets, so that the remaining parcels are separated into islands. It would take a lot of time and money to try to rebuild a few square miles of that into a kinematic neighborhood.
+
+---
 ## Software Tools
 
 * [SUMO](http://sumo.sourceforge.net/): Simulation of Urban MObility. An open source traffic simulation package designed to handle large road networks.
