@@ -32,10 +32,10 @@ permalink: /need/
   </div>
 </div>
 
-## <a name="need"></a>The world needs more urban floorspace
-
 > "The amount of floorspace in buildings around the world—currently about 2.5 trillion square feet—is set to double by 2060"
 > &mdash; Brian Bienkowski [^bienkowski]
+
+## <a name="need"></a>The world needs more urban floorspace
 
 It is estimated that **by 2050**:
 * about **2.5 billion additional people** will live in cities (vs. 2019), with 90% of the uptake in Asia and Africa[^growth]
