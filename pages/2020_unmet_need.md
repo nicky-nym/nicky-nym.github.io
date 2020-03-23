@@ -14,9 +14,9 @@ permalink: /need/
         <summary><a href="#need">Need</a> &mdash; the world needs new cities</a></summary>
         <ul>
           <li><a href="#tidal-wave">Tidal wave, impending</a></li>
-          <li><a href="#precident">People are undertaking to build new cities</li>
-          <li><a href="#cost">Greenfield development vs. retrofitting</li>
-          <li><a href="#funding">There is some funding available for new cities</li>
+          <li><a href="#precident">People are undertaking to build new cities</a></li>
+          <li><a href="#cost">Greenfield development vs. retrofitting</a></li>
+          <li><a href="#funding">There is some funding available for new cities</a></li>
         </ul>
       </details>
     </div>
