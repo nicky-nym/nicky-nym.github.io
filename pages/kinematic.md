@@ -2,7 +2,7 @@
 permalink: /kinematic/
 ---
 # Kinematic Cities 
-_vs._ 
+## _vs._ 
 # Congested Cities
 
 <!--
