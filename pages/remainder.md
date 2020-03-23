@@ -908,17 +908,47 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 
 Just as a thought experiment, it can be interesting to look at regions of existing cities and think about which places might be large enough to sustain a new car-free kinematic district...
 
+**Treasure Island**
+
+Would a site like Treasure Island (incl. Yerba Buena Island) be a good suitable test site? It’s about 2.5 sq. km, maybe 13 times smaller than Mountain View but currently only populates 2,500 (33 times less than Mountain View)?
+
+No, too small. Also too remote -- being entirely surrounded by water is a loss in terms of commute times and ranges. Ferries are slow. Cars are subject to all the existing traffic congestion. A BART extension would cost billions, and perhaps tens of billions. Potentially that BART extension alone would be more expensive than an entire "Big Bet" seed on a 50-square mile greenfield site.
+
+Treasure Island would certainly have huge market demand. Every apartment you built would rent for thousands of dollars a month. But just buying all the land on Treasure Island, at market prices, would cost you billions. And construction costs would be $500 per square foot, so even once you owned the island, it would still cost $400,000 per apartment to build housing. If you built office space too, and high schools, and police stations, pretty soon you've got a construction budget up over ten billion for your "small scale" starter project!
+
+In contrast, buying 50 square miles in a satellite location on the outskirts of a city in Africa could be relatively affordable, and you might be met with a warmer welcome in the whole multi-year design review & permitting process.
+
 **Brisbane, California**
 
-The city of Brisbane, just south of San Francisco, does have a large undeveloped parcel that would be big enough to build a bit of a Kinematic City in, with a private land owner and private developer that want to build on it. It could be a great location for a kinematic district, but only if the voters in Brisbane wanted denser development, which they don't.
+Brisbane Baylands would be a better site than Treasure Island. The city of Brisbane, just south of San Francisco, does have a large undeveloped parcel that would be big enough to build a bit of a Kinematic City in.
+
+Brisbane Baylands has slightly more land area than Treasure Island, and there's no new construction work already underway like Treasure Island has. Plus Caltrain and 101 run right through it, and a Muni light rail station is there. And it's immediately adjacent to San Francisco, with no bridge crossing or ferry required.
+
+Brisbane Baylands already has a private land owner and private developer that want to build on it. It could be a great location for a kinematic district, but only if the voters in Brisbane wanted denser development, which they don't.
 
 **Standford University**
 
-Or the Standford University campus would be a candidate for a kinematic district, but people would have to be willing to tear down some of what's already built there. And the whole project would only be possible in some very like scenario where the city of Palo Alto were willling welcome hundreds of thousands of new neighbors, with all the strain that would bring on already congested highways, airports, and train lines.
+Or the Standford University campus, at 13 square miles, more than an order of magnitude larger than Treasure Island, would be a candidate for a kinematic district. It's also in a developed
+urban area, with good connectivity to highways 101 and 280, Caltrain, and two existing international airports. And, unlike Treasure Island, it's not surrounded by water, which means all the area immediately around it falls into its kinematic range.
+
+But for Stanford to work as a location, people would have to be willing to tear down some of what's already built there. And the whole project would only be possible in some very like scenario where the city of Palo Alto were willling welcome hundreds of thousands of new neighbors, with all the strain that would bring on already congested highways, airports, and train lines.
+
+**Other San Francisco Bay Area sites**
+
+There are other sites all around the Bay Area that are big enough and well located, if it were possible to get approval to build densely on them. Half Moon Bay, Pescadero, or, oddly, the huge empty space right in middle of the Bay itself, north of the Dumbarton bridge and south of the 92 bridge, which in many ways would be nearly perfect, if we didn't care about wildlife reserves, which we do.
 
 **Greenfield locations**
 
 Instead of looking at infill locations in places like California, I think it would be easier, faster, and more fruitful to instead pitch the idea of kinematic districts to people who are already in the process of planning large new developments on open greenfield sites, the way people are doing in Asia, Africa, and the Middle East.
+
+**The Sea Ranch**
+
+Further afield, there's the Sea Ranch. More land area than the Stanford Campus, but with a population of only 1,300 people, so a small pool of people to buy out, and a small number of buildings to be removed. The weather is great, the views are great, the hiking is great. But it's remote: it's only got a tiny airport, and no port, no rail, no major highway. I think it would only really work in some science fiction scenario where you could build a hyperloop tunnel to San Francisco and Silicon Valley...
+
+**Northern California Coast**
+
+There are other similar sites up the California coast, like in the Eureka area, with similar pros and cons. Or the area around the Little River Airport by Mendocino, if the State of California suddenly decided to allow development in the State Park property.
+
 
 ---
 ## Small kinematic cities vs. small conventional cities
@@ -931,6 +961,10 @@ The car & bus system only starts to break down once a city gets large enough to 
 ## Small kinematic districts within large existing cities
 
 A different case is a small-scale kinematic neighborhood within a larger car-centric city. The problem with that scenario is that it may be the worst of both worlds: outside of the kinematic neighborhood you have to use a car to get around, but within the kinematic neighborhood there are no roads and no parking, so you can't use a car. So if you want to commute to a job in the kinematic neighborhood, you still need a car, and you still fight urban traffic congestion, but then you can't drive right up to your office, and instead have to park somewhere at the edge of the kinematic neighborhood and then switch to foot or small vehicle to get the last distance. That makes your commute *longer* than it would have been in a regular car-centric city.
+
+It seems like this would only work if there were some way that external trips outside the kinematic district weren't cumbersome. We need some innovation that allows people to start and end trips within a car-free area without paying any time penalty in the trip.
+
+Perhaps, for example, some way where you can ride your regular 40-pound e-bike right from your front door, at 15-mph, to the edge of the newly kinematically redeveloped Stanford Research Park. Then, when you reach the edge of the old traditional Palo Alto street grid, without getting off your e-bike, you ride right up a little ramp into the back of an empty "Tesla Fairing Van", which is like a full-size car, with it's own car-sized batteries, motors, and wheels, but which is designed so that you can steer it with your e-bike handlebars, without getting off your bike. Once you reach your job at the Google Mountain View campus, or at Apple Park, you ride your bike out of the Tesla Fairing Van, leave your bike at your desk, and the Tesla Fairing Van autonomously redeploys itself for someone else to use. But now we're back to a design where you have to start an R&D company and get NHTSA approvals before you buy land and break ground on new housing.
 
 A more natural pairing would be small-scale kinematic neighborhoods centered on train stations for either subway trains, or light rail, or commuter trains like Caltrain. That's a workable design, but I don't think there's much opportunity for it in existing cities. In existing cities, the area around subway stops and train stations is already very developed, with expensive real estate, and expensive existing buildings, and lots of land reserved for streets, so that the remaining parcels are separated into islands. It would take a lot of time and money to try to rebuild a few square miles of that into a kinematic neighborhood.
 
