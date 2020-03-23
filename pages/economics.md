@@ -167,6 +167,17 @@ A minimum viable start would need:
     - a sanitation system
     - other minimum basic infrastructure
 
+## Land Value Created vs. Land Value Capture
+
+https://medium.com/sidewalk-talk/why-more-big-cities-should-give-value-capture-a-chance-b9c4cfac9768
+
+(That article gives examples in New York and California. It quantifies a lot of *value created*, and talks less about "value capture", which perhaps is the harder part of the problem.
+
+One of the interesting things the article does mention is that "despite this potential ... value capture ... doesn't work in areas that are already developed. ... undeveloped area provide the most room for growth."  
+
+That seems to get a the crux of the problem: the place we really need better mobility is in existing big cities, but those are the places where all the land is already privately owned.
+
+
 ## Land Value Capture
 
 _Under What Circumstances Will Land Value Capture Work to Finance Public Transit?_, by Yidan Xu, May 2015
