@@ -1,5 +1,5 @@
 ---
-permalink: /2020-03_kinematic/
+permalink: /2020_kinematic/
 ---
 # Kinematic Cities _vs._ Congested Cities
 
@@ -287,6 +287,11 @@ It could be built on the outskirts of an existing city, or it could be built in 
 ### <a name="how_long"></a>How long would it take?
 
   * **The same as regular construction**
+
+### <a name="need"></a>Do we need new cities?
+
+  * **Yes.** "Half of the urban area that will be needed [by 2050] hasn't been built yet."[^growth]
+  * Here's more about [unmet need](need)
 
 ### <a name="comparison"></a>How would it compare?
 
