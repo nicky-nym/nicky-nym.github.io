@@ -2,8 +2,7 @@
 permalink: /kinematic/
 ---
 # Kinematic Cities 
-## _vs._ 
-# Congested Cities
+## _vs. Congested Cities_
 
 <!--
 <span style="font-size:24pt;">Summer 2020 design ideas for maximizing <span style="color:#DF4911;">kinematic range</span><sup style="font-size:12pt;"><a href="#kinematic">?</a></sup> in cities</span>
