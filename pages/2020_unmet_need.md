@@ -236,6 +236,8 @@ There are established public-sector mechanisms for funding development projects,
 
 [^migrants]: ["Migration, Environment and Climate Change: Assessing the Evidence"](https://publications.iom.int/system/files/pdf/migration_and_environment.pdf). (PDF) _International Organization for Migration_. 2009.
 
+[^perez]: ["Apple commits $2.5 billion to address California’s housing crisis and homelessness issues"](https://techcrunch.com/2019/11/04/apple-commits-2-5-billion-to-address-californias-housing-crisis-and-homelessness-issues/). Sarah Perez, _TechCrunch_. 4 November 2019.
+
 [^scale]: [_Scale_](https://www.penguinrandomhouse.com/books/314049/scale-by-geoffrey-west/), by Geoffrey West. 2018.
 
 [^schneider]: ["CityLab University: Tax Increment Financing"](https://www.citylab.com/equity/2019/10/tax-increment-financing-explained-tif-economic-development/597313/). Benjamin Schneider, _CityLab_. 24 Oct 2019.
