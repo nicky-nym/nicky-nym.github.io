@@ -17,6 +17,8 @@ permalink: /economics/
           <li><a href="#georgism">Georgism</a></li>
           <li><a href="#depreciating_licenses">Depreciating licenses</a></li>
           <li><a href="#gdp">GDP</a></li>
+          <li><a href="#construction-costs">Construction costs</a></li>
+          <li><a href="#land_value">Land Value</a></li>
           <li><a href="#land_value_capture">Land Value Capture</a></li>
         </ul>
       </details>
@@ -53,6 +55,46 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2744810
 
 > "Cities generate roughly 80% of global GDP and are home to more than half of the world's population today, a share that the United Nations projects will reach two-thirds by 2050," the report said. About 40% of the population lives within 100 kilometers of a coast, and one in 10 people live in areas less than 10 meters above sea level, it said. [^khan]
 
+## <a name="construction-costs"></a>Construction costs
+
+> "the price of construction for an apartment fully equipped with kitchen and bathrooms may cost several thousand US dollars per square meter (about US$2,500 per square meter in New York in 2013 for residential buildings three to seven stories tall)."[^bertaud]
+
+> "In the lowest-income countries, where construction is the cheapest, households would need to be able to afford at least US$6,000 for a studio of 12 square meters; US$6,000 is the global market commodity price for the basic construction materials of concrete and steel required to build 12 square meters."[^bertaud]
+
+> "San Francisco has the world's second-highest construction costs... The city's average construction costs of $330 per square foot was second only to New York, according to a study last year by Turner and Townsend, a construction consultant. Apartments cost around $425,000 per unit to build." [^li]
+
+> "New York and San Francisco topped the list of the most expensive construction markets, costing respectively an average of $354 and $330 per square foot to build. Seattle, which faces many of the same labor market and housing supply pressures as San Francisco, came in at $280 per square foot."[^reid]
+
+### Land Value
+
+### New York land value
+
+> "At 305 square miles, New York City makes up only 0.008% of the total land area of the U.S., yet its $1.5tr of housing value is about 5% of the Nation-wide total. Only four states are worth more than New York City, one of which is New York State."[^metrocosm]
+
+> "Manhattan‘s housing alone is worth about $733bn, which would make it the 14th most valuable state in the country. Manhattan measures only about 20 square miles, 7.5% of New York City."[^metrocosm]
+
+> "What I found most striking of all was the value of some Manhattan neighborhoods. The Upper East Side, which occupies less than one square mile, has an astounding $96bn of housing value. That places it above Staten Island and the Bronx as well as above six states: New Hampshire, North Dakota, South Dakota, Vermont, Wyoming, and Alaska."[^metrocosm]
+
+* from 1950 to 2015, the value of Manhattan land grew at an annual rate of 5.5 percent beyond inflation[^manhattan]
+
+> "The developable land in Manhattan—excluding parks, roads, and highways—was worth between $1.54 and $1.95 trillion, for an average of $1.74 trillion"[^manhattan]
+
+> "Corner lots are significantly more valuable than mid-block lots, according to the study, and lots in close proximity to Broadway, which runs the length of the island, also have higher values."[^manhattan]
+
+### San Francisco land value
+
+> "The San Francisco metro area [the counties of San Francisco, Alameda, Marin, Contra Costa, and San Mateo] is the third most valuable region in America based on the value of its residential real estate. The area's total residential real estate value hit an astonishing $1.3 trillion and it's outranked only by the Los Angeles and New York metro areas, with total residential real estate values of $2.2 trillion and $2.6 trillion, respectively." ... "San Francisco is one of three cities nationwide that can claim a market value higher than Apple Inc.'s $1 trillion."[^hoeven]
+
+
+### African land value
+
+> In Africa "we should be building 40 million new homes or 160 Atlantas every year. ... 
+> Africa has 54 countries. Altogether they do not build 1 million homes a year. 
+> The gap is the opportunity. 40 million modest homes require an investment of 
+> more than $1 trillion every year. The multiplier effects would add $10 trillion 
+> to annual GDP. That is 5 times current GDP. Closing Africa’s housing gap can 
+> generate 5 times current GDP!"
+> &mdash; Paul Musembwa, CEO of Warp Developments
 
 ## Land Value Capture
 
@@ -140,9 +182,21 @@ Common value capture mechanisms include:"[^xu]
 
 ## <a name="references"></a>References
 
+[^bertaud]: _[Order without Design](https://mitpress.mit.edu/books/order-without-design): How Markets Shape Cities_, by Alain Bertaud
+
 [^free-private-cities]: [Free Private Cities](https://freeprivatecities.com/en/concept/)
 
+[^hoeven]: ["What's worth more: All of San Francisco's residential real estate or Apple Inc.?"](https://www.bizjournals.com/sanfrancisco/news/2018/08/29/value-sf-real-estate-homes.html). Emily Hoeven, _San Francisco Business Times_. 29 August 2018.
+
 [^khan]: ["Goldman Sachs released a 34-page analysis of the effects of climate change. And the results are terrifying."](https://markets.businessinsider.com/news/stocks/goldman-sachs-climate-change-threatens-new-york-tokyo-lagos-cities-2019-9-1028552494). Yusuf Khan, _Markets Insider_. 25 September 2019.
+
+[^li]: ["Why San Francisco has the second-highest construction costs in the world"](https://www.bizjournals.com/sanfrancisco/news/2018/01/24/sf-construction-costs-2nd-highest-housing-crisis.html). Roland Li, _San Francisco Business Times_. 24 Jan 2018
+
+[^manhattan]: ["What's Manhattan's Land Worth? Try 'Canada's Entire GDP'"](https://www.citylab.com/life/2018/04/what-manhattans-land-is-worth/558776/). Richard Florida, _CityLab_. 24 April 2018.
+
+[^metrocosm]: ["A Striking Perspective on New York City Property Values"](http://metrocosm.com/new-york-city-property-values-in-perspective/). _Metrocosm_. 24 June 2015.
+
+[^reid]: ["Perspectives: Practitioners Weigh in on Drivers of Rising Housing Construction Costs in San Francisco"](http://ternercenter.berkeley.edu/uploads/San_Francisco_Construction_Cost_Brief_-_Terner_Center_January_2018.pdf). Carolina Reid and Hayley Raetz, _Terner Center for Housing Innovation_. January 2018.
 
 [^xu]: ["Under What Circumstances Will Land Value Capture Work to Finance Public Transit?"](https://academiccommons.columbia.edu/doi/10.7916/D8DF6QC4). Yidan Xu, _Columbia University Libraries, Academic Commons_. May 2015.
 
