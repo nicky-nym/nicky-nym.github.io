@@ -1,7 +1,8 @@
 ---
 permalink: /need/
 ---
-# Unmet Need for urban floorspace
+# _Impossibly large_
+# Unmet need for urban floorspace
 
 ---
 
@@ -11,7 +12,7 @@ permalink: /need/
     <p>&nbsp;</p>
     <div>
       <details>
-        <summary><a href="#need">Need</a> &mdash; the world needs new cities</summary>
+        <summary><a href="#need">Need</a> &mdash; the world needs more urban floorspace</summary>
         <ul>
           <li><a href="#tidal-wave">Tidal wave, impending</a></li>
           <li><a href="#precident">People are undertaking to build new cities</a></li>
@@ -31,11 +32,14 @@ permalink: /need/
   </div>
 </div>
 
-## <a name="need"></a>The world needs new cities
+## <a name="need"></a>The world needs more urban floorspace
+
+> "The amount of floorspace in buildings around the world—currently about 2.5 trillion square feet—is set to double by 2060"
+> &mdash; Brian Bienkowski [^bienkowski]
 
 It is estimated that **by 2050**:
-* **68% of the world's population** will be living in cities (vs. 55% in 2018)[^growth][^mason]
 * about **2.5 billion additional people** will live in cities (vs. 2019), with 90% of the uptake in Asia and Africa[^growth]
+* **68% of the world's population** will be living in cities (vs. 55% in 2018)[^growth][^mason]
 * about **200 million climate migrants** will settle in new locations. (Forecasts vary from 25 million to 1 billion.)[^migrants]
 * **400 million people in India** will migrate to cities[^sharma]
 * the **African population will double** from 1.3 billion today to over **2.5 billion** [^forbes]
@@ -73,7 +77,7 @@ As of 2018, **70 million people** were currently displaced by war, persecution a
 > "it has been estimated that it’s going to cost the USA alone around $400 billion over the next two decades in sea level rise damage control"[^shepard]
 
 
-### New cities can help
+### Greenfield city projects can help
 
 > "We are at the beginning of the next wave of urbanization — a period of 
 > rapid growth in both area and population... The next wave of urbanization 
@@ -90,9 +94,6 @@ As of 2018, **70 million people** were currently displaced by war, persecution a
 
 
 ## <a name="tidal-wave"></a>Tidal wave
-
-> "The amount of floorspace in buildings around the world—currently about 2.5 trillion square feet—is set to double by 2060"
-> &mdash; Brian Bienkowski [^bienkowski]
 
 The current market size for new city construction is large:
   * in the next 30 years, **another 2.5 billion people** will live cities
