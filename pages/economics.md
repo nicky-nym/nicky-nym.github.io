@@ -10,7 +10,7 @@ permalink: /economics/
     <p>&nbsp;</p>
     <div>
       <details>
-        <summary><a href="#notes">Notes</summary>
+        <summary><a href="#notes">Notes</a></summary>
         <ul>
           <li><a href="#hong_kong">Hong Kong</a></li>
           <li><a href="#georgism">Georgism</a></li>
