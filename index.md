@@ -7,6 +7,6 @@
 ---------
 ## Scrap heap
 
-### Left-over [notes & quotes](remainder)
-### List of [architectural terms](architecture)
+  * Left-over [notes & quotes](remainder)
+  * List of [architectural terms](architecture)
 
