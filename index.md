@@ -1,8 +1,10 @@
 
-# [Kinematic cities](kinematic) vs. congested cities
-## ~ Impossibly large [Unmet need for urban floorspace](need)
-## ~ [Impossible economics](economics) of new city construction
-## ~ [Impossible transportation](transportation) alternatives
+# Impossible cities
+
+## ~ [Kinematic cities](kinematic) vs. congested cities
+## ~ Impossibly large [unmet need](need) for urban floorspace
+## ~ Impossible [economics](economics) of new city construction
+## ~ Impossible [transportation](transportation) alternatives
 
 ---------
 ## Scrap heap
