@@ -77,3 +77,48 @@ https://medium.com/sidewalk-talk/https-medium-com-sidewalk-talk-street-sim-33da7
 
 > "About 15 percent of New York City households receive a package every day, according to the Sustainable Urban Freight Systems center at Rensselaer." [^haag]
 
+### Speeds
+
+> "the average human walking speed at crosswalks is about 5.0 kilometres per hour (km/h), or about 1.4 meters per second (m/s), or about 3.1 miles per hour (mph). Specific studies have found pedestrian walking speeds at crosswalks ranging from 4.51 kilometres per hour (2.80 mph) to 4.75 kilometres per hour (2.95 mph) for older individuals and from 5.32 kilometres per hour (3.31 mph) to 5.43 kilometres per hour (3.37 mph) for younger individuals" [^wiki_walking]
+
+* walking speed: 2.17 mph up a 1:12 ADA ramp
+* walking speed: 2.6 mph UP or DOWN an 1:12 ADA ramp [^sun]
+
+
+|---
+|       |   | Walking<br>speeds<br>per<br>horizontal<br>distance[^fujiyama] |
+| Stair<br>gradient  | Grade | Up stairs | Down stairs | Up stairs | Down stairs |
+| (degrees) | (rise:run) | over 50 | age 30 to 50 | over 50 | age 30 to 50
+|  :-:  |  :-:  |  :-:  |  :-:  |  :-:  |  :-:  |
+|  38.8 |   80:100 | 0.435 m/s | 0.485 m/s | 0.47 m/s  | 0.59 m/s  
+|  35.0 |   70:100 | 0.515 m/s | 0.565 m/s | 0.585 m/s | 0.645 m/s 
+|  30.5 |   59:100 | 0.58 m/s  | 0.635 m/s | 0.64 m/s  | 0.74 m/s 
+|  24.6 |   46:100 | 0.72 m/s  | 0.76 m/s  | 0.80 m/s  | 0.865 m/s 
+|  32   | 62.5:100 | 0.41 m/s  | 0.60 m/s  | 0.52 m/s  | 0.60 m/s 
+|  27   |   51:100 | 0.43 m/s  | 0.73 m/s  | 0.58 m/s  | 0.73 m/s 
+|---
+
+```
+tan(27 degrees) = 0.51 => 51% grade = 51 foot rise per 100 foot run
+
+0.73 m/s horizontal on 27 degree stairs => 0.37 m/s vertical = 1.22 feet/sec vertical
+```
+
+
+## <a name="references"></a>References
+
+[^bertaud]: _[Order without Design](https://mitpress.mit.edu/books/order-without-design): How Markets Shape Cities_, by Alain Bertaud
+
+[^fujiyama]: ["An Explicit Study on Walking Speeds of Pedestrians on Stairs"](https://discovery.ucl.ac.uk/id/eprint/1243/1/2004_21.pdf), Taku Fujiyama and Nick Tyler, _University College London_.
+
+[^haag]: ["1.5 Million Packages a Day: The Internet Brings Chaos to N.Y. Streets"](https://www.nytimes.com/2019/10/27/nyregion/nyc-amazon-delivery.html). Matthew Haag and Winnie Hu, _New York Times_. 27 Oct 2019.
+
+[^kang]: ["Sound Environment: High- versus Low-Density Cities"], by Jian Kang, Chapter 12 of ["Designing High-Density Cities"](), edited by Edward Ng
+
+[^nacto]: ["Blueprint for Autonomous Urbanism"](https://nacto.org/publication/bau2/), Second Edition. _National Association of City Transportation Officials (NACTO)_.
+
+[^sun]: ["The influence of surface slope on human gait characteristics: a study of urban pedestrians walking on an inclined surface"](https://www.tandfonline.com/doi/abs/10.1080/00140139608964489). JIE SUN, MEGAN WALTERS, NOEL SVENSSON & DAVID LLOYD, _Ergonomics_ Volume 39, 1996 - Issue 4
+
+[^wiki_walking]: ["Walking"](https://en.wikipedia.org/wiki/Walking). _Wikipedia_.
+
+
