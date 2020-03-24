@@ -2,13 +2,14 @@
 # Impossible cities
 
 ## ~ Congested cities vs. [kinematic cities](kinematic) 
-## ~ Impossibly large [unmet need](need) for urban floorspace
-## ~ Impossible [economics](economics) of new city construction
-## ~ Impossible [transportation](transportation) alternatives
+## ~ The impossibly large [unmet need](need) for urban floorspace
+## ~ The impossible [economics](economics) of new city construction
+## ~ The various [transportation](transportation) alternatives
 
 ---------
 ## Scrap heap
 
   * Left-over [notes & quotes](remainder)
+  * Work-in-progress towards a [3d city demo](demo)
   * List of [architectural terms](architecture)
 
