@@ -1,7 +1,7 @@
 ---
 permalink: /remainder/
 ---
-# Remainder materials
+# Left-over notes & quotes
 
 ---
 
@@ -732,81 +732,12 @@ A kinematic city could have a traditional city government structure, or it could
 
 > "over 1.35 million [traffic] deaths and up to 50 million injuries occur every year, with 90% of these fatalities occurring in low- and middle-income countries" [^road-safety]
 
-### <a name="transportation-notes"></a>Transportation notes
-
-> "...the population in Wuhan is 8.3 million, much greater than that in Sheffield, at 0.6 million. ... For Wuhan, given that the number of vehicles per person is still much lower than that in Sheffield by tenfold ... it is very interesting to note that the average noise levels in all of the sampled areas are lower than those in Sheffield by 2dBA to 11dBA. ... In terms of L<sub>min</sub> and L<sub>90</sub> ... the difference is even greater -- for example, up to 15dBA in the area with a motorway."[^kang] &mdash; Jian Kang
-
-> We see that bicycles provide a much higher road capacity at speeds below 15 km/h than any other mode of transport.[^bertaud]
-
-> In their 2009 book, aptly title Mobility First, Sam Staley and Adrian Moore describe in detail the cross-disciplinary reforms in road and urban transport design and in road pricing, among other things, that would be required to maintain mobility in cities in the twenty-first century.[^bertaud]
-
-> The rent charged should vary with the time of day, the location, the area, and the length of time the road is used. The rent charged for roads should be similar to the fares charged by airlines to passengers or the room rates charged by hotels, except that the rate would not be for a fixed 24 hours but for the number of minutes the roads are actually used.[^bertaud]
-
-
-|---
-| Throughput[^bertaud] | Vehicle type
-|-:|:-
-| passengers per hour per lane<br>at about 15 km/h
-| 1,000 | **Bus, M1**: 5 minutes headway
-| 1,600 | **cars**
-| 2,600 | **Bus 4 routes**: 1 minute 48 seconds headway
-| 2,800 | **motorcycles**
-| 5,500 | **bicycles** on entire lane width
-|---
-
-> Because of their higher speed and increased comfort, electric bicycles, where they are authorized (as in Chengdu, China), could meaningfully compete with buses or cars as a means of commuting in larger cities.[^bertaud]
-
-> By contrast, compared to the motorcycle, compact Smart car performance (except for energy use) in terms of road capacity is not much better than that of an ordinary car. ... The width of the vehicle, not its length, is the important parameter to consider when trying to reduce street area consumption.[^bertaud]
-
-|---
-| Throughput[^nacto] | Width | Mode 
-|-:|-:|:-
-| people per hour
-| 10,000 | one lane, **12' to 15'** wide | **sidewalk**
-| 10,000 | one lane, **12' to 15'** wide | **protected bike lane** 
-| 10,000 | two lanes, totaling about **23'** wide | **bus-only lanes**, with 80 buses per lane per hour
-| 10,000 | 13 lanes of conventional arterial, at about **156'** wide |**mostly cars**, with 800 vehicles per lane per hour
-|---
-
-
-> The emergence of small footprint, on-demand, shared vehicles ... will change the way urban transport is organized. The pattern of roads and arterials may also change to adapt to these new modes of urban transport. Instead of concentric traffic on a few high-capacity highways or arterials, numerous smaller low-capacity roads would allow the flexibility required by trips from dispersed origins to dispersed destinations.[^bertaud]
-
-
-
-|---
-| CO2-e emissions[^bertaud] | Vehicle type
-|-:|:-
-| grams per passenger km
-| 151 | average US car
-|  26 | Nissan Leaf in California
-|   5 | Nissan Leaf in Sweden
-|  67 | New York subway
-| 180 | US urban bus
-|---
-
-
-TODO: include on this web page some animated images of traffic simulations for the kinematic city design, maybe somewhat like the SUMO simulation output images on this page:
-https://medium.com/sidewalk-talk/https-medium-com-sidewalk-talk-street-sim-33da7e1a8ffb
 
 ### Congestion
 
 > "In a study last year, Inrix estimated that the cost of congestion in the United States alone was $305 billion (USD)" [^turbot]
 
 > "In L.A., nothing concerns locals more than traffic—not personal safety, the cost of living, or even the housing market—according to a 2016 poll by the Los Angeles Times. Drivers there spend an average of 80 hours in gridlock every year, according to a report by Texas A&M University."[^bliss]
-
-> "And New York City, where more than 1.5 million packages are delivered daily..." [^haag]
-
-> In New York City, "Delivery trucks operated by UPS and FedEx double-park on streets and block bus and bike lanes. They racked up more than 471,000 parking violations last year, a 34 percent increase from 2013." [^haag]
-
-> "The main entryway for packages into New York City, leading to the George Washington Bridge from New Jersey, has become the most congested interchange in the country. Trucks heading toward the bridge travel at 23 miles per hour, down from 30 m.p.h. five years ago." [^haag]
-
-> "cars in the busiest parts of Manhattan now move just above a jogger's pace, about 7 m.p.h., roughly 23 percent slower than at the beginning of the decade." [^haag]
-
-> "The average number of daily deliveries to households in New York City tripled to more than 1.1 million shipments from 2009 to 2017, the latest year for which data was available, according to the Rensselaer Polytechnic Institute [Center of Excellence for Sustainable Urban Freight Systems](https://coe-sufs.org/wordpress/). ... Households now receive more shipments than businesses." [^haag]
-
-> "And it could be just the beginning. Just 10 percent of all retail transactions in the United States during the first quarter of 2019 were made online, up from 4 percent a decade ago, according to the Census Bureau." [^haag]
-
-> "About 15 percent of New York City households receive a package every day, according to the Sustainable Urban Freight Systems center at Rensselaer." [^haag]
 
 
 ### <a name="spatial-layout-notes"></a>Geometry and spatial layout
@@ -849,32 +780,6 @@ The kinematic city **ramp-only** design:
   > "Lifts also use a large amount of energy to run. For buildings that are largely served by lifts, you can add a rough figure of 5 to 15 per cent onto building energy running costs."[^roaf] &mdash; Susan Roaf
 
 
-### Speeds
-
-> "the average human walking speed at crosswalks is about 5.0 kilometres per hour (km/h), or about 1.4 meters per second (m/s), or about 3.1 miles per hour (mph). Specific studies have found pedestrian walking speeds at crosswalks ranging from 4.51 kilometres per hour (2.80 mph) to 4.75 kilometres per hour (2.95 mph) for older individuals and from 5.32 kilometres per hour (3.31 mph) to 5.43 kilometres per hour (3.37 mph) for younger individuals" [^wiki_walking]
-
-* walking speed: 2.17 mph up a 1:12 ADA ramp
-* walking speed: 2.6 mph UP or DOWN an 1:12 ADA ramp [^sun]
-
-
-|---
-|       |   | Walking<br>speeds<br>per<br>horizontal<br>distance[^fujiyama] |
-| Stair<br>gradient  | Grade | Up stairs | Down stairs | Up stairs | Down stairs |
-| (degrees) | (rise:run) | over 50 | age 30 to 50 | over 50 | age 30 to 50
-|  :-:  |  :-:  |  :-:  |  :-:  |  :-:  |  :-:  |
-|  38.8 |   80:100 | 0.435 m/s | 0.485 m/s | 0.47 m/s  | 0.59 m/s  
-|  35.0 |   70:100 | 0.515 m/s | 0.565 m/s | 0.585 m/s | 0.645 m/s 
-|  30.5 |   59:100 | 0.58 m/s  | 0.635 m/s | 0.64 m/s  | 0.74 m/s 
-|  24.6 |   46:100 | 0.72 m/s  | 0.76 m/s  | 0.80 m/s  | 0.865 m/s 
-|  32   | 62.5:100 | 0.41 m/s  | 0.60 m/s  | 0.52 m/s  | 0.60 m/s 
-|  27   |   51:100 | 0.43 m/s  | 0.73 m/s  | 0.58 m/s  | 0.73 m/s 
-|---
-
-```
-tan(27 degrees) = 0.51 => 51% grade = 51 foot rise per 100 foot run
-
-0.73 m/s horizontal on 27 degree stairs => 0.37 m/s vertical = 1.22 feet/sec vertical
-```
 
 ### Population
 
@@ -993,6 +898,8 @@ A more natural pairing would be small-scale kinematic neighborhoods centered on 
 
 [^alter]: ["6 month report: My e-bike ate my car"](https://www.treehugger.com/bikes/6-month-report-my-gazelle-e-bike-ate-my-car.html). Lloyd Alter, _TreeHugger_. 1 November 2019.
 
+[^bertaud]: _[Order without Design](https://mitpress.mit.edu/books/order-without-design): How Markets Shape Cities_, by Alain Bertaud
+
 [^bienkowski]: ["We're building the equivalent of Paris every week. That's a problem."](https://www.dailyclimate.org/building-industry-climate-change-carbon-footprint-2516418302.html). Brian Bienkowski, _The Daily Climate_. 11 Dec 2017.
 
 [^bliss]: ["Navigation Apps Changed the Politics of Traffic"](https://www.citylab.com/transportation/2019/11/future-of-transportation-traffic-navigation-apps-google-maps/601684/). Laura Bliss, _City Lab_. 12 November 2019.
@@ -1024,8 +931,6 @@ A more natural pairing would be small-scale kinematic neighborhoods centered on 
 
 [^forbes]: ["The Power Of Purpose: Unlocking Africa's $10 Trillion Opportunity In Housing"](https://www.forbes.com/sites/afdhelaziz/2019/09/12/the-power-of-purpose-unlocking-africas-10-trillion-opportunity-in-housing/#1e1fa3b714a0). _Forbes_. 12 September 2019.
 
-[^fujiyama]: ["An Explicit Study on Walking Speeds of Pedestrians on Stairs"](https://discovery.ucl.ac.uk/id/eprint/1243/1/2004_21.pdf), Taku Fujiyama and Nick Tyler, _University College London_.
-
 [^gadepalli]: "Even though women comprise nearly half of the population, it is surprising they account for less than one in five trips made in Indian cities." ["Delhi Will Improve When Women Get to Move"](https://newcities.org/delhithe-big-picture-will-improve-women-get-move/). Shreya Gadepalli, _NewCities_. 8 March 2019.
 
 [^gonzalez]: "Evidence from Argentina shows that on average men and women’s commute time is roughly the same, but women travel at slower speeds and cover shorter distances." ["Transport is Not Gender Neutral"](https://newcities.org/the-big-picture-transport-is-not-gender-neutral-womens-mobility-and-accessibility-for-better-economic-opportunities/) Karla Dominguez Gonzalez, _NewCities_. 8 March 2019.
@@ -1038,13 +943,9 @@ A more natural pairing would be small-scale kinematic neighborhoods centered on 
 
 [^growth]: ["Should we build cities from scratch?"](https://www.theguardian.com/cities/2019/jul/10/should-we-build-cities-from-scratch). _The Guardian_. 10 July 2019.
 
-[^haag]: ["1.5 Million Packages a Day: The Internet Brings Chaos to N.Y. Streets"](https://www.nytimes.com/2019/10/27/nyregion/nyc-amazon-delivery.html). Matthew Haag and Winnie Hu, _New York Times_. 27 Oct 2019.
-
 [^haas]: ["African countries keep building new cities to meet rapid urbanization even if people won’t live in them"](https://qz.com/africa/1740068/african-countries-keep-building-cities-to-meet-rapid-urbanization/). Astrid R.N. Haas, _International Growth Centre_. 31 October 2019.
 
 [^kamiya]: ["Sex and cycling: How bike craze aroused passions in 1890s San Francisco"](https://www.sfchronicle.com/bayarea/article/Sex-and-cycling-How-bike-craze-aroused-passions-14544576.php#photo-18459519). Gary Kamiya, _San Francisco Chronicle_. 18 Oct 2019.
-
-[^kang]: ["Sound Environment: High- versus Low-Density Cities"], by Jian Kang, Chapter 12 of ["Designing High-Density Cities"](), edited by Edward Ng
 
 [^levinson]: ["21 Solutions to Road Deaths"](https://transportist.org/2019/10/02/21-solutions-to-road-deaths/). David Levinson, _Transportist_. 2 Oct 2019.
 
@@ -1063,8 +964,6 @@ A more natural pairing would be small-scale kinematic neighborhoods centered on 
 [^metabuild]: ["urbAIn – AI, Cities, and Climate Change"](https://www.metabuild.io/urbain-ai-cities-and-climate-change/). _Metabuild.io_. 15 June 2019.
 
 [^migrants]: ["Migration, Environment and Climate Change: Assessing the Evidence"](https://publications.iom.int/system/files/pdf/migration_and_environment.pdf). (PDF) _International Organization for Migration_. 2009.
-
-[^nacto]: ["Blueprint for Autonomous Urbanism"](https://nacto.org/publication/bau2/), Second Edition. _National Association of City Transportation Officials (NACTO)_.
 
 [^new-clark]: ["Resilient Growth: Building a Resilient City in the Philippines"](https://newcities.org/the-big-picture-resilient-growth-building-resilient-city-philippines/). _NewCities_. 2019.
 
@@ -1091,8 +990,6 @@ A more natural pairing would be small-scale kinematic neighborhoods centered on 
 [^stouhi]: ["Winners of UED's Architecture Competition Imagine the City of the Future"](https://www.archdaily.com/927619/winners-of-ueds-architecture-competition-imagine-the-city-of-the-future). Dima Stouhi, _ArchDaily_. 1 Nov 2019.
 
 [^sumagaysay]: ["Bay Area housing, traffic have Facebook looking elsewhere for expansion"](https://www.mercurynews.com/2019/10/04/bay-area-housing-traffic-have-facebook-looking-elsewhere-for-expansion/). Levi Sumagaysay, _Bay Area News Group_. 4 October 2019.
-
-[^sun]: ["The influence of surface slope on human gait characteristics: a study of urban pedestrians walking on an inclined surface"](https://www.tandfonline.com/doi/abs/10.1080/00140139608964489). JIE SUN, MEGAN WALTERS, NOEL SVENSSON & DAVID LLOYD, _Ergonomics_ Volume 39, 1996 - Issue 4
 
 [^sustainable_development_zones]: ["Sustainable Development Zones"](https://refugeecities.files.wordpress.com/2018/07/sdz-concept-proposal-071118-final.pdf). July 2018.
 
@@ -1129,8 +1026,6 @@ A more natural pairing would be small-scale kinematic neighborhoods centered on 
 [^wiki_san_francisco]: ["San Francisco"](https://en.wikipedia.org/wiki/San_Francisco). _Wikipedia_.
 
 [^wiki_sez]: ["Special economic zone"](https://en.wikipedia.org/wiki/Special_economic_zone). _Wikipedia_.
-
-[^wiki_walking]: ["Walking"](https://en.wikipedia.org/wiki/Walking). _Wikipedia_.
 
 [^yang]: ["Andrew Yang’s plan to tackle climate change, explained"](https://www.vox.com/future-perfect/2019/8/26/20833263/andrew-yang-climate-plan). _Vox.com_. 26 August 2019.
 
