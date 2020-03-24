@@ -54,10 +54,24 @@ permalink: /transportation/
 
 ## <a name="comparisons"></a>Comparisons
 
-### <a name="throughput"></a>Throughput
+
+### <a name="throughput"></a>Throughput per lane (source: NACTO[^gsdg])
 
 |---
-| Throughput[^bertaud] | Vehicle type
+| Throughput | Width | Mode 
+|-:|-:|:-
+| people per hour
+| 600 to 1,600 | one lane, **3 meters** wide | **private motor vehicles**
+| 1,000 to 2,800 | one lane, **3 meters** wide | **mixed traffic** with frequent buses
+| 6,500 to 7,500 | one lane, **3 meters** wide | two-way protected **bikeway**
+| 4,000 to 8,000 | one lane, **3 meters** wide | dedicated **transit lanes**
+| 8,000 to 9,000 | one lane, **3 meters** wide | **sidewalk**
+| 10,000 to 25,000 | one lane, **3 meters** wide | on-street **transitway**, **bus** or **rail**
+
+### <a name="throughput"></a>Throughput per lane (source: Bertaud[^bertaud])
+
+|---
+| Throughput | Vehicle type
 |-:|:-
 | passengers per hour per lane<br>at about 15 km/h
 | 1,000 | **Bus, M1**: 5 minutes headway
@@ -68,8 +82,10 @@ permalink: /transportation/
 |---
 
 
+### <a name="throughput"></a>Width per 10,000 throughput (source: NACTO[^nacto])
+
 |---
-| Throughput[^nacto] | Width | Mode 
+| Throughput | Width | Mode 
 |-:|-:|:-
 | people per hour
 | 10,000 | one lane, **12' to 15'** wide | **sidewalk**
@@ -78,17 +94,6 @@ permalink: /transportation/
 | 10,000 | 13 lanes of conventional arterial, at about **156'** wide |**mostly cars**, with 800 vehicles per lane per hour
 |---
 
-
-|---
-| Throughput[^gsdg] | Width | Mode 
-|-:|-:|:-
-| people per hour
-| 600 to 1,600 | 3m-wide lane | Private motor vehicles
-| 1,000 to 2,800 | 3m-wide lane | Mixed traffic with frequent buses
-| 6,500 to 7,500 | 3m-wide lane | Two-way protected bikeway
-| 4,000 to 8,000 | 3m-wide lane | Dedicated transit lanes
-| 8,000 to 9,000 | 3m-wide lane | Sidewalk
-| 10,000 to 25,000 | 3m-wide lane | On-street transitway, bus or rail
 
 ### <a name="co2"></a>CO2-e emissions
 
