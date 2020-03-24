@@ -3,8 +3,6 @@ permalink: /transportation/
 ---
 # Impossible transportation alternatives
 
----
-
 <div id="contents-title">
   <div style="float:right;">Contents</div>
   <div id="contents-entries">
@@ -53,6 +51,7 @@ permalink: /transportation/
 </div>
 
 ---
+
 ## <a name="comparisons"></a>Comparisons
 
 ### <a name="throughput"></a>Throughput
@@ -80,6 +79,17 @@ permalink: /transportation/
 |---
 
 
+|---
+| Throughput[^gsdg] | Width | Mode 
+|-:|-:|:-
+| people per hour
+| 600 to 1,600 | 3m-wide lane | Private motor vehicles
+| 1,000 to 2,800 | 3m-wide lane | Mixed traffic with frequent buses
+| 6,500 to 7,500 | 3m-wide lane | Two-way protected bikeway
+| 4,000 to 8,000 | 3m-wide lane | Dedicated transit lanes
+| 8,000 to 9,000 | 3m-wide lane | Sidewalk
+| 10,000 to 25,000 | 3m-wide lane | On-street transitway, bus or rail
+
 ### <a name="co2"></a>CO2-e emissions
 
 |---
@@ -98,6 +108,7 @@ permalink: /transportation/
 > "...the population in Wuhan is 8.3 million, much greater than that in Sheffield, at 0.6 million. ... For Wuhan, given that the number of vehicles per person is still much lower than that in Sheffield by tenfold ... it is very interesting to note that the average noise levels in all of the sampled areas are lower than those in Sheffield by 2dBA to 11dBA. ... In terms of L<sub>min</sub> and L<sub>90</sub> ... the difference is even greater -- for example, up to 15dBA in the area with a motorway."[^kang] &mdash; Jian Kang
 
 
+---
 
 ## <a name="vehicles"></a>Vehicles
 
@@ -146,6 +157,8 @@ tan(27 degrees) = 0.51 => 51% grade = 51 foot rise per 100 foot run
 0.73 m/s horizontal on 27 degree stairs => 0.37 m/s vertical = 1.22 feet/sec vertical
 ```
 
+---
+
 ## <a name="roads"></a>Road use
 
 ### <a name="pricing"></a>Congestion pricing
@@ -175,12 +188,15 @@ TODO: include on this web page some animated images of traffic simulations for t
 https://medium.com/sidewalk-talk/https-medium-com-sidewalk-talk-street-sim-33da7e1a8ffb
 
 
+---
 
 ## <a name="references"></a>References
 
 [^bertaud]: _[Order without Design](https://mitpress.mit.edu/books/order-without-design): How Markets Shape Cities_, by Alain Bertaud
 
 [^fujiyama]: ["An Explicit Study on Walking Speeds of Pedestrians on Stairs"](https://discovery.ucl.ac.uk/id/eprint/1243/1/2004_21.pdf), Taku Fujiyama and Nick Tyler, _University College London_.
+
+[^gsdg]: ["Global Street Design Guide"](https://nacto.org/publication/global-street-design-guide/). _National Association of City Transportation Officials (NACTO)_.
 
 [^haag]: ["1.5 Million Packages a Day: The Internet Brings Chaos to N.Y. Streets"](https://www.nytimes.com/2019/10/27/nyregion/nyc-amazon-delivery.html). Matthew Haag and Winnie Hu, _New York Times_. 27 Oct 2019.
 
