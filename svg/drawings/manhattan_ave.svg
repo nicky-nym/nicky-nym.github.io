@@ -7,7 +7,7 @@
   <g id="office">
     <polyline stroke="none" fill="#ccc"
               points="0 -100, 9 -100, 9 -111, 0 -111"/>
-    <use href="../svg/people/person_sitting.svg#1px:1ft" 
+    <use href="../items/people/person_sitting.svg#1px:1ft" 
          transform="translate(4 -100) scale(-1 1)"
          fill="#888"/>
   </g>
@@ -31,43 +31,43 @@
 </defs>
 <g transform="scale(2.64,2.64) translate(0,200)">
   <use
-    href="../svg/people/person_walking.svg#1px:1ft" 
+    href="../items/people/person_walking.svg#1px:1ft" 
     transform="translate(13 -100)"
     fill="darkblue"/>
   <use
-    href="../svg/accessories/trashcan.svg#1px:1ft" 
+    href="../items/furnishings/trashcan.svg#1px:1ft" 
     transform="translate(28 -100)"
     stroke="black"/>
   <use
-    href="../svg/cars/car_front.svg#1px:1ft" 
+    href="../items/cars/car_front.svg#1px:1ft" 
     transform="translate(30.5 -99)"
     fill="#666"/>
   <use
-    href="../svg/buses/bus_front.svg#1px:1ft" 
+    href="../items/buses/bus_front.svg#1px:1ft" 
     transform="translate(42 -99)"
     fill="maroon"/>
   <use
-    href="../svg/cars/car_front.svg#1px:1ft" 
+    href="../items/cars/car_front.svg#1px:1ft" 
     transform="translate(52 -99)"
     fill="#d11"/>
   <use
-    href="../svg/cars/taxi_front.svg#1px:1ft" 
+    href="../items/cars/taxi_front.svg#1px:1ft" 
     transform="translate(62 -99)"
     fill="#d11"/>
   <use
-    href="../svg/bike_sized/motor_scooter_front.svg#1px:1ft" 
+    href="../items/bike_sized/motor_scooter_front.svg#1px:1ft" 
     transform="translate(72 -99)"
     fill="#d11"/>
   <use
-    href="../svg/cars/car_front.svg#1px:1ft" 
+    href="../items/cars/car_front.svg#1px:1ft" 
     transform="translate(83.5 -99)"
     fill="#666"/>
   <use
-    href="../svg/landscape/tree.svg#1px:1ft" 
+    href="../items/landscape/tree.svg#1px:1ft" 
     transform="translate(81 -100)"
     fill="palegreen"/>
   <use
-    href="../svg/people/person_reaching.svg#1px:1ft" 
+    href="../items/people/person_reaching.svg#1px:1ft" 
     transform="translate(94 -100)"
     fill="darkblue"/>
   <polyline 
