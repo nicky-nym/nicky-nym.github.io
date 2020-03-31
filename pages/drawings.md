@@ -9,6 +9,15 @@ permalink: /drawings/
 ![Manhattan Avenue](svg/drawings/manhattan_ave.svg "Manhattan Avenue")
 Manhattan Avenue
 
+![Manhattan Avenue](./svg/drawings/manhattan_ave.svg "Manhattan Avenue")
+Manhattan Avenue
+
+![Manhattan Avenue](../svg/drawings/manhattan_ave.svg "Manhattan Avenue")
+Manhattan Avenue
+
+![Manhattan Avenue](https://nicky-nym.github.io/svg/drawings/manhattan_ave.svg "Manhattan Avenue")
+Manhattan Avenue
+
 
 
 ---
