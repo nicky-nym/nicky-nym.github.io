@@ -43,15 +43,15 @@
     transform="translate(30.5 -99)"
     fill="#666"/>
   <use
-    href="../svg/items/buses/bus_front.svg#1px:1ft" 
+    href="../items/buses/bus_front.svg#1px:1ft" 
     transform="translate(42 -99)"
     fill="maroon"/>
   <use
-    href="svg/items/cars/car_front.svg#1px:1ft" 
+    href="../items/cars/car_front.svg#1px:1ft" 
     transform="translate(52 -99)"
     fill="#d11"/>
   <use
-    href="./svg/items/cars/taxi_front.svg#1px:1ft" 
+    href="../items/cars/taxi_front.svg#1px:1ft" 
     transform="translate(62 -99)"
     fill="#d11"/>
   <use
