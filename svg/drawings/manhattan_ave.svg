@@ -47,11 +47,11 @@
     transform="translate(42 -99)"
     fill="maroon"/>
   <use
-    href="../items/cars/car_front.svg#1px:1ft" 
+    href="svg/items/cars/car_front.svg#1px:1ft" 
     transform="translate(52 -99)"
     fill="#d11"/>
   <use
-    href="../items/cars/taxi_front.svg#1px:1ft" 
+    href="./svg/items/cars/taxi_front.svg#1px:1ft" 
     transform="translate(62 -99)"
     fill="#d11"/>
   <use
