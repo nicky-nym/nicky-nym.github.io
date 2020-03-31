@@ -1,0 +1,81 @@
+<svg
+  version="1.1"
+  viewBox="0 0 360 400"
+  xmlns="http://www.w3.org/2000/svg" >
+  <metadata data-license="http://creativecommons.org/licenses/publicdomain/"/>
+<defs>
+  <g id="office">
+    <polyline stroke="none" fill="#ccc"
+              points="0 -100, 9 -100, 9 -111, 0 -111"/>
+    <use href="../svg/people/person_sitting.svg#1px:1ft" 
+         transform="translate(4 -100) scale(-1 1)"
+         fill="#888"/>
+  </g>
+  <g id="building">
+    <polyline 
+      stroke="black" fill="#aaa" stroke-width="0.3"
+      points="0 -100, 10 -100,
+              10 -116, 9 -116, 9 -124, 10 -124,
+              10 -129, 9 -129, 9 -137, 10 -137,
+              10 -142, 9 -142, 9 -150, 10 -150,
+              10 -155, 9 -155, 9 -163, 10 -163,
+              10 -168, 9 -168, 9 -176, 10 -176,
+              10 -184, 0 -184"/>
+    <use href="#office" transform="translate(0 0)"/>
+    <use href="#office" transform="translate(0 -13)"/>
+    <use href="#office" transform="translate(0 -26)"/>
+    <use href="#office" transform="translate(0 -39)"/>
+    <use href="#office" transform="translate(0 -52)"/>
+    <use href="#office" transform="translate(0 -65)"/>
+  </g>
+</defs>
+<g transform="scale(2.64,2.64) translate(0,200)">
+  <use
+    href="../svg/people/person_walking.svg#1px:1ft" 
+    transform="translate(13 -100)"
+    fill="darkblue"/>
+  <use
+    href="../svg/accessories/trashcan.svg#1px:1ft" 
+    transform="translate(28 -100)"
+    stroke="black"/>
+  <use
+    href="../svg/cars/car_front.svg#1px:1ft" 
+    transform="translate(30.5 -99)"
+    fill="#666"/>
+  <use
+    href="../svg/buses/bus_front.svg#1px:1ft" 
+    transform="translate(42 -99)"
+    fill="maroon"/>
+  <use
+    href="../svg/cars/car_front.svg#1px:1ft" 
+    transform="translate(52 -99)"
+    fill="#d11"/>
+  <use
+    href="../svg/cars/taxi_front.svg#1px:1ft" 
+    transform="translate(62 -99)"
+    fill="#d11"/>
+  <use
+    href="../svg/bike_sized/motor_scooter_front.svg#1px:1ft" 
+    transform="translate(72 -99)"
+    fill="#d11"/>
+  <use
+    href="../svg/cars/car_front.svg#1px:1ft" 
+    transform="translate(83.5 -99)"
+    fill="#666"/>
+  <use
+    href="../svg/landscape/tree.svg#1px:1ft" 
+    transform="translate(81 -100)"
+    fill="palegreen"/>
+  <use
+    href="../svg/people/person_reaching.svg#1px:1ft" 
+    transform="translate(94 -100)"
+    fill="darkblue"/>
+  <polyline 
+    id="pavement"
+    stroke="black" fill-opacity="0" stroke-width="0.3"
+    points="0 -100, 30 -100, 30 -99, 90 -99, 90 -100, 120 -100"/>
+  <use href="#building" transform="translate(0 0)"/>
+
+  <use href="#building" transform="translate(120 0) scale(-1 1)"/>
+</g>
+</svg>
