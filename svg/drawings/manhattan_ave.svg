@@ -31,12 +31,14 @@
   <use id="person_reaching"
        href="../items/people/person_reaching.svg#1px:1ft" 
        fill="darkblue"/>
+  <!--
   <radialGradient id="radial" cx="10%" cy="70%" r="50%" fx="50%" fy="50%">
     <stop offset="0%" style="stop-color:#eeeeee"/>
     <stop offset="200%" style="stop-color:#666666"/>
   </radialGradient>
+  -->
   <linearGradient id="daylight" x1="100%" y1="32%" x2="0%" y2="68%" >
-    <stop offset="5%" style="stop-color:#dddddd" />
+    <stop offset="5%" style="stop-color:#ffffff" />
     <stop offset="100%" style="stop-color:#888888" />
   </linearGradient>
   <g id="desk">
@@ -54,22 +56,22 @@
   </g>
   <g id="storey">
     <polyline stroke="none" fill="url(#daylight)"
-              points="0 -0, 20 -0, 20 -11, 0 -11"/>
+              points="0 -1, 20 -1, 20 -11, 0 -11"/>
     <polyline stroke="black" fill="none" stroke-width="1"
-              points="0 -0, 20 -0, 20 -3"/>
+              points="0 -1, 20 -1, 20 -4"/>
     <polyline stroke="black" fill="none" stroke-width="1"
-              points="0 -11, 20 -11, 20 -9.5"/>
+              points="0 -11.1, 20 -11.1, 20 -9.5"/>
     <polyline stroke="lightblue" fill="none" stroke-width="0.5"
-              points="20 -3, 20 -9.5"/>
+              points="20 -4, 20 -9.5"/>
     <use href="../items/people/person_sitting.svg#1px:1ft" 
-         transform="translate(11 -0.2) scale(-1 1)"
+         transform="translate(11 -1.2) scale(-1 1)"
          fill="#888"/>
     <use href="#desk"
-         transform="translate(8 -0.5) scale(-1 1)"
+         transform="translate(8 -1.5) scale(-1 1)"
          stroke="#888"/>
   </g>
   <g id="parapet">
-    <polyline stroke="black" fill="#777777" stroke-width="0.1"
+    <polyline fill="#777777"
               points="0 -4, 20 -4, 20 -0, 0 -0"/>
     <polyline stroke="black" fill="none" stroke-width="1"
               points="20 -0, 20 -4"/>
