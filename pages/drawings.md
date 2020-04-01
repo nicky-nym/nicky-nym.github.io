@@ -11,11 +11,9 @@ Manhattan New York
 ## <a name="manhattan"></a>Manhattan New York, SVG
 
 <svg width="500" height="500" viewBox="0 0 500 500">
-  <use href="../svg/drawings/manhattan_ave.svg#building" transform="translate(0 0)"/>
+  <use href="../svg/drawings/manhattan_ave.svg#1px:1ft" transform="translate(0 0)"/>
 </svg>
 Manhattan New York
-
-
 
 
 ---
