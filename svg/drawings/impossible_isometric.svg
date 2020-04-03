@@ -1,6 +1,6 @@
 <svg
   version="1.1"
-  viewBox="-180 40 360 180"
+  viewBox="-180 10 360 180"
   xmlns="http://www.w3.org/2000/svg" >
   <metadata data-license="http://creativecommons.org/licenses/publicdomain/"/>
 
@@ -92,18 +92,14 @@
               points="-16.5 -43, -12.5 -53"/>
   </g>
   <g id="longhouse_ave">
+    <!-- highline soil -->
     <polyline
-      id="highline-soil"
       stroke="black" fill="saddlebrown" stroke-width="0"
       points="-16 -45, +16 -45, +14 -49, -14 -49"/>
     <polyline stroke="none" fill="url(#daylight)"
               points="-0.05 -0, +15 -0, +15 -14, -0.05 -14"/>
     <polyline stroke="none" fill="url(#daylight)" transform="scale(-1 1)"
               points="-0.05 -0, +15 -0, +15 -14, -0.05 -14"/>
-    <polyline stroke="none" fill="white"
-              points="-0.05 -15, +15 -15, +15 -29, -0.05 -29"/>
-    <polyline stroke="none" fill="white" transform="scale(-1 1)"
-              points="-0.05 -15, +15 -15, +15 -29, -0.05 -29"/>
     <polyline stroke="none" fill="url(#daylight)"
               points="-0.05 -30, +15 -30, +15 -44, -0.05 -44"/>
     <polyline stroke="none" fill="url(#daylight)" transform="scale(-1 1)"
@@ -118,8 +114,8 @@
     <use href="#table_people" transform="translate(5 -30.2)"/>
   </g>
   <g id="longhouse_st">
+    <!-- highline soil -->
     <polyline
-      id="highline-soil"
       stroke="black" fill="saddlebrown" stroke-width="0"
       points="-16 -45, +16 -45, +14 -49, -14 -49"/>
     <polyline stroke="none" fill="url(#daylight)"
@@ -219,154 +215,275 @@
       points="60 -53, 35 -53, 35 -44, 60 -44"/>
   </g>
   -->
+
+  <g id="y+70">
+    <title>left section cut, bikeway at 30 feet</title>
+    <polyline id="pavement" fill="black"
+              points="-70 4, -70 -0, +70 -0, +70 4"/>
+    <use href="#townhouse" transform="translate(-70 0)"/>
+    <use href="#townhouse" transform="translate(+70 0) scale(-1 1)"/>
+
+    <polyline stroke="lightblue" fill="none" stroke-width="0.3"
+              points="-4.5 -13, 0 -15, +4.5 -13"/>
+    <use href="#longhouse_st" transform="translate(-20 0)"/>
+    <use href="#longhouse_st" transform="translate(+20 0) scale(-1 1)"/>
+
+    <use href="#table_people" transform="translate(-27 -0.1)"/>
+    <use href="#table_people" transform="translate(-15 -0.1)"/>
+    <use href="#table_people" transform="translate(-3 -0.1)"/>
+    <use href="#table_people" transform="translate(+9 -0.1)"/>
+    <use href="#table_people" transform="translate(+21 -0.1)"/>
+
+    <use href="#motor_scooter_front" transform="translate(-32 -30)"/>
+    <use href="#motor_scooter_front" transform="translate(-26 -30)"/>
+    <use href="#motor_scooter_front" transform="translate(-20 -30)"/>
+    <use href="#motor_scooter_front" transform="translate(-14 -30)"/>
+
+    <use href="#motor_scooter_back" transform="translate(8 -30)"/>
+    <use href="#motor_scooter_back" transform="translate(14 -30)"/>
+    <use href="#motor_scooter_back" transform="translate(20 -30)"/>
+    <use href="#motor_scooter_back" transform="translate(26 -30)"/>
+
+    <use href="#tree" transform="translate(-30 -49)"/>
+    <use href="#trashcan" transform="translate(-25 -49)"/>
+    <use href="#person_reaching" transform="translate(-28 -49)"/>
+
+    <use href="#tree" transform="translate(4 -49)"/>
+    <use href="#person_sitting" transform="translate(29 -49)"/>
+
+    <use href="#person_walking" transform="translate(-49 0)"/>
+    <use href="#person_walking" transform="translate(+36 0)"/>
+  </g>
+
+  <g id="x+70">
+    <title>right section cut, bikeway at 15 feet</title>
+    <polyline id="pavement" fill="black"
+              points="-70 4, -70 -0, +70 -0, +70 4"/>
+    <use href="#townhouse" transform="translate(-70 0)"/>
+    <use href="#townhouse" transform="translate(+70 0) scale(-1 1)"/>
+
+    <polyline stroke="lightblue" fill="none" stroke-width="0.3"
+              points="-4.5 -13, 0 -15, +4.5 -13"/>
+    <use href="#longhouse_ave" transform="translate(-20 0)"/>
+    <use href="#longhouse_ave" transform="translate(+20 0) scale(-1 1)"/>
+
+    <use href="#motor_scooter_front" transform="translate(-32 -15)"/>
+    <use href="#motor_scooter_front" transform="translate(-26 -15)"/>
+    <use href="#motor_scooter_front" transform="translate(-20 -15)"/>
+    <use href="#motor_scooter_front" transform="translate(-14 -15)"/>
+
+    <use href="#person_sitting_office" transform="translate(-25 -0)"/>
+    <use href="#person_sitting_office" transform="translate(-20 -0)"/>
+    <use href="#person_sitting_office" transform="translate(-15 -0)"/>
+    <use href="#person_sitting_office" transform="translate(-10 -0)"/>
+    <use href="#person_sitting_office" transform="translate(-5 -0)"/>
+    <use href="#person_sitting_office" transform="translate(0 -0)"/>
+    <use href="#person_sitting_office" transform="translate(5 -0)"/>
+    <use href="#person_sitting_office" transform="translate(10 -0)"/>
+    <use href="#person_reaching_office" transform="translate(17 -1.5)"/>
+    <polyline fill="#888" points="17 -0, 17 -1.5, 26 -1.5, 26 -0"/>
+
+    <use href="#tree" transform="translate(-39 -49)"/>
+    <use href="#trashcan" transform="translate(-23 -49)"/>
+    <use href="#tree" transform="translate(-27 -49)"/>
+    <use href="#person_reaching" transform="translate(-33.5 -49)"/>
+    <use href="#person_walking" transform="translate(-9.5 -49)"/>
+
+    <use href="#motor_scooter_back" transform="translate(8 -15)"/>
+    <use href="#motor_scooter_back" transform="translate(14 -15)"/>
+    <use href="#motor_scooter_back" transform="translate(20 -15)"/>
+    <use href="#motor_scooter_back" transform="translate(26 -15)"/>
+
+    <use href="#person_sitting" transform="translate(8.5 -49)"/>
+    <use href="#tree" transform="translate(12 -49)"/>
+    <use href="#person_swingset" transform="translate(23 -49) scale(-1 1)"/>
+
+    <use href="#person_walking" transform="translate(-49 0)"/>
+    <use href="#person_walking" transform="translate(+36 0)"/>
+  </g>
+
+  <g id="y-50">
+    <title>far wall</title>
+    <polyline id="wall" fill="tan"
+              points="0 -4, 0 -0, +70 -0, +70 -4"/>
+    <polyline id="window" fill="lightcyan" fill-opacity="0.3"
+              points="0 -7.5, 0 -4, +70 -4, +70 -7.5"/>
+    <polyline id="wall" fill="tan"
+              points="0 -14, 0 -7.5, +70 -7.5, +70 -14"/>
+    <polyline id="window" fill="lightcyan" fill-opacity="0.3"
+              points="0 -19, 0 -14, +70 -14, +70 -19"/>
+    <polyline id="wall" fill="tan"
+              points="0 -24, 0 -19, +70 -19, +70 -24"/>
+    <polyline id="window" fill="lightcyan" fill-opacity="0.3"
+              points="0 -29, 0 -24, +70 -24, +70 -29"/>
+    <polyline id="roof" fill="rosybrown"
+              points="0 -72.8, 0 -28.5, +68.5 -28.5, +91 -72.8"/>
+  </g>
+
+  <g id="y-5">
+    <title>atrium wall</title>
+    <polyline id="wall" fill="tan"
+              points="-5 -19, -5 -12, +70 -12, +70 -19"/>
+    <polyline id="window" fill="lightcyan" fill-opacity="0.3"
+              points="-5 -27, -5 -19, +70 -19, +70 -27"/>
+    <polyline id="wall" fill="tan"
+              points="-5 -34, -5 -27, +70 -27, +70 -34"/>
+    <polyline id="window" fill="lightcyan" fill-opacity="0.3"
+              points="-5 -42, -5 -34, +70 -34, +70 -42"/>
+    <polyline id="wall" fill="lightcyan" fill-opacity="0.3"
+              points="-5 -12, -5 +4, +56 +4, +70 -12"/>
+    <polyline id="roof" fill="rosybrown"
+              points="-5 -56, -5 -42, +69 -42, +73 -56"/>
+  </g>
+
+  <g id="y+35" >
+    <title>near wall</title>
+    <polyline id="wall" fill="tan"
+              points="35.4 -4, 35.4 -0, +70 -0, +70 -4"/>
+    <polyline id="window" fill="lightcyan" fill-opacity="0.3"
+              points="35.4 -12, 35.4 -4, +70 -4, +70 -12"/>
+    <polyline id="wall" fill="tan"
+              points="35.4 -19, 35.4 -12, +70 -12, +70 -19"/>
+    <polyline id="window" fill="lightcyan" fill-opacity="0.3"
+              points="35.4 -27, 35.4 -19, +70 -19, +70 -27"/>
+    <polyline id="wall" fill="tan"
+              points="35.4 -34, 35.4 -27, +70 -27, +70 -34"/>
+    <polyline id="window" fill="lightcyan" fill-opacity="0.3"
+              points="35.4 -42, 35.4 -34, +70 -34, +70 -42"/>
+    <polyline id="roof" fill="rosybrown"
+              points="35.2 -56, 35.2 -42, +69 -42, +73 -56"/>
+  </g>
+
+  <g id="z-0">
+    <title>ground level</title>
+    <defs>
+      <polyline id="lawn"
+                fill="olivedrab"
+                points="-7.5 -70, -7.5 +70, +7.5 +70, +7.5 -70"/>
+      <polyline id="longhouse-floor"
+                fill="silver"
+                points="-35 -70, -35 +70, +35 +70, +35 -70"/>
+    </defs>
+    <use href="#lawn" transform="translate(+42.5,0)"/>
+    <use href="#lawn" transform="translate(-42.5,0)"/>
+    <use href="#lawn" transform="translate(0,+42.5) rotate(90)"/>
+    <use href="#lawn" transform="translate(0,-42.5) rotate(90) "/>
+    <use href="#longhouse-floor" transform="translate(0,0)"/>
+    <use href="#longhouse-floor" transform="translate(0,0) rotate(90)"/>
+  </g>
+
+  <g id="z-14">
+    <title>atrium skylight</title>
+    <defs>
+      <polyline id="skylight"
+                fill="lightblue"
+                fill-opacity="0.3"
+                points="-5 -70, -5 +70, +5 +70, +5 -70"/>
+    </defs>
+    <use href="#skylight" transform="translate(0,0)"/>
+    <use href="#skylight" transform="translate(0,0) rotate(90)"/>
+  </g>
+
+  <g id="z-15">
+    <title>second-floor</title>
+    <defs>
+      <g id="second-floor">
+        <polyline fill="gainsboro"
+                  points="-15 -70, -15 +70, +15 +70, +15 -70"/>
+        <g stroke="black" stroke-width="0.1">
+          <polyline points="-12 -70, -12 +70"/>
+          <polyline points="-6 -70, -6 +70"/>
+          <polyline points="-0 -70, -0 +70"/>
+          <polyline points="+6 -70, +6 +70"/>
+          <polyline points="+12 -70, +12 +70"/>
+        </g>
+      </g>
+    </defs>
+    <use href="#second-floor" transform="translate(0,+20) rotate(90)"/>
+    <use href="#second-floor" transform="translate(0,-20) rotate(90)"/>
+  </g>
+
+  <g id="z-30">
+    <title>third-floor</title>
+    <defs>
+      <g id="third-floor">
+        <polyline fill="gainsboro"
+                  points="-15 -70, -15 +70, +15 +70, +15 -70"/>
+        <g stroke="black" stroke-width="0.1">
+          <polyline points="-12 -70, -12 +70"/>
+          <polyline points="-6 -70, -6 +70"/>
+          <polyline points="-0 -70, -0 +70"/>
+          <polyline points="+6 -70, +6 +70"/>
+          <polyline points="+12 -70, +12 +70"/>
+        </g>
+      </g>
+    </defs>
+    <use href="#third-floor" transform="translate(+20,0)"/>
+    <use href="#third-floor" transform="translate(-20,0)"/>
+  </g>
+
+  <g id="z-31">
+    <title>townhouse roof</title>
+    <polyline fill="rosybrown"
+              points="+70 +70, 47 70, 47 47, 70 47"/>
+  </g>
+
+  <g id="z-49">
+    <title>highline lawn</title>
+    <defs>
+      <polyline id="highline"
+                fill="olivedrab"
+                points="-14 -70, -14 +70, +14 +70, +14 -70"/>
+    </defs>
+    <use href="#highline" transform="translate(+20,0)"/>
+    <use href="#highline" transform="translate(-20,0)"/>
+    <use href="#highline" transform="translate(0,+20) rotate(90)"/>
+    <use href="#highline" transform="translate(0,-20) rotate(90) "/>
+  </g>
+
 </defs>
 
-<g id="far_wall" transform="scale(1.2,1.2) translate(57.3,60.2) skewX(30) rotate(30)">
-  <polyline id="wall" fill="olivedrab"
-            points="0 -0, 0 +17, +56 +17, +70 -0"/>
-  <polyline id="wall" fill="tan"
-            points="0 -4, 0 -0, +70 -0, +70 -4"/>
-  <polyline id="window" fill="lightcyan"
-            points="0 -7.5, 0 -4, +70 -4, +70 -7.5"/>
-  <polyline id="wall" fill="tan"
-            points="0 -14, 0 -7.5, +70 -7.5, +70 -14"/>
-  <polyline id="window" fill="lightcyan"
-            points="0 -19, 0 -14, +70 -14, +70 -19"/>
-  <polyline id="wall" fill="tan"
-            points="0 -24, 0 -19, +70 -19, +70 -24"/>
-  <polyline id="window" fill="lightcyan"
-            points="0 -29, 0 -24, +70 -24, +70 -29"/>
-  <polyline id="roof" fill="rosybrown"
-            points="0 -72.8, 0 -28.5, +68.5 -28.5, +91 -72.8"/>
-</g>
-<use href="#far_wall" transform="scale(-1,1)"/>
-
-<g id="middle_wall" transform="scale(1.2,1.2) translate(5.5,82.7) skewX(30) rotate(30)">
-  <polyline id="wall" fill="tan"
-            points="-5 -19, -5 -12, +70 -12, +70 -19"/>
-  <polyline id="window" fill="lightcyan"
-            points="-5 -27, -5 -19, +70 -19, +70 -27"/>
-  <polyline id="wall" fill="tan"
-            points="-5 -34, -5 -27, +70 -27, +70 -34"/>
-  <polyline id="window" fill="lightcyan"
-            points="-5 -42, -5 -34, +70 -34, +70 -42"/>
-  <polyline id="wall" fill="lightcyan"
-            points="-5 -12, -5 +4, +56 +4, +70 -12"/>
-  <polyline id="wall" fill="olivedrab"
-            points="-5 -83, -5 -51, +72 -51, +100 -83"/>
-  <polyline id="roof" fill="rosybrown"
-            points="-5 -56, -5 -42, +69 -42, +73 -56"/>
-</g>
-<use href="#middle_wall" transform="scale(-1,1)"/>
-
-<g id="ground" transform="scale(1.2,1.2) translate(5.5,82.7) skewX(30) rotate(30)">
-  <polyline id="wall" fill="olivedrab"
-            points="-100 -37, -100 -4, +32 -4, +60 -37"/>
-</g>
-<use href="#ground" transform="scale(-1,1)"/>
-
-<g id="near_wall" transform="scale(1.2,1.2) translate(-41,102.7) skewX(30) rotate(30)">
-  <polyline id="wall" fill="olivedrab"
-            points="35.4 -0, 35.4 +17, +56 +17, +70 -0"/>
-  <polyline id="wall" fill="tan"
-            points="35.4 -4, 35.4 -0, +70 -0, +70 -4"/>
-  <polyline id="window" fill="lightcyan"
-            points="35.4 -12, 35.4 -4, +70 -4, +70 -12"/>
-  <polyline id="wall" fill="tan"
-            points="35.4 -19, 35.4 -12, +70 -12, +70 -19"/>
-  <polyline id="window" fill="lightcyan"
-            points="35.4 -27, 35.4 -19, +70 -19, +70 -27"/>
-  <polyline id="wall" fill="tan"
-            points="35.4 -34, 35.4 -27, +70 -27, +70 -34"/>
-  <polyline id="window" fill="lightcyan"
-            points="35.4 -42, 35.4 -34, +70 -34, +70 -42"/>
-  <polyline id="roof" fill="rosybrown"
-            points="35.2 -56, 35.2 -42, +69 -42, +73 -56"/>
-</g>
-<use href="#near_wall" transform="scale(-1,1)"/>
-
-<g id="left_section" transform="scale(1.2,1.2) translate(-81,120) skewX(30) rotate(30)">
-  <polyline id="pavement" fill="black"
-            points="-70 4, -70 -0, +70 -0, +70 4"/>
-  <use href="#townhouse" transform="translate(-70 0)"/>
-  <use href="#townhouse" transform="translate(+70 0) scale(-1 1)"/>
-
-  <polyline stroke="lightblue" fill="none" stroke-width="0.3"
-            points="-4.5 -13, 0 -15, +4.5 -13"/>
-  <use href="#longhouse_st" transform="translate(-20 0)"/>
-  <use href="#longhouse_st" transform="translate(+20 0) scale(-1 1)"/>
-
-  <use href="#table_people" transform="translate(-27 -0.1)"/>
-  <use href="#table_people" transform="translate(-15 -0.1)"/>
-  <use href="#table_people" transform="translate(-3 -0.1)"/>
-  <use href="#table_people" transform="translate(+9 -0.1)"/>
-  <use href="#table_people" transform="translate(+21 -0.1)"/>
-
-  <use href="#motor_scooter_front" transform="translate(-32 -30)"/>
-  <use href="#motor_scooter_front" transform="translate(-26 -30)"/>
-  <use href="#motor_scooter_front" transform="translate(-20 -30)"/>
-  <use href="#motor_scooter_front" transform="translate(-14 -30)"/>
-
-  <use href="#motor_scooter_back" transform="translate(8 -30)"/>
-  <use href="#motor_scooter_back" transform="translate(14 -30)"/>
-  <use href="#motor_scooter_back" transform="translate(20 -30)"/>
-  <use href="#motor_scooter_back" transform="translate(26 -30)"/>
-
-  <use href="#tree" transform="translate(-30 -49)"/>
-  <use href="#trashcan" transform="translate(-25 -49)"/>
-  <use href="#person_reaching" transform="translate(-28 -49)"/>
-
-  <use href="#tree" transform="translate(4 -49)"/>
-  <use href="#person_sitting" transform="translate(29 -49)"/>
-
-  <use href="#person_walking" transform="translate(-49 0)"/>
-  <use href="#person_walking" transform="translate(+36 0)"/>
+<g transform="scale(1.415,0.815) translate(0,128.5) rotate(45)">
+  <use href="#z-0"/>
 </g>
 
-<g id="right_section" transform="scale(1.2,1.2) translate(+81,120) skewX(-30) rotate(-30)">
-  <polyline id="pavement" fill="black"
-            points="-70 4, -70 -0, +70 -0, +70 4"/>
-  <use href="#townhouse" transform="translate(-70 0)"/>
-  <use href="#townhouse" transform="translate(+70 0) scale(-1 1)"/>
+<use href="#y-50" transform="scale(+0.86,1.18) translate(58,64.5) skewX(30) rotate(30)"/>
+<use href="#y-50" transform="scale(-0.86,1.18) translate(58,64.5) skewX(30) rotate(30)"/>
 
-  <polyline stroke="lightblue" fill="none" stroke-width="0.3"
-            points="-4.5 -13, 0 -15, +4.5 -13"/>
-  <use href="#longhouse_ave" transform="translate(-20 0)"/>
-  <use href="#longhouse_ave" transform="translate(+20 0) scale(-1 1)"/>
+<use href="#y-5" transform="scale(+0.86,1.18) translate(5.6,86.4) skewX(30) rotate(30)"/>
+<use href="#y-5" transform="scale(-0.86,1.18) translate(5.6,86.4) skewX(30) rotate(30)"/>
 
-  <use href="#motor_scooter_front" transform="translate(-32 -15)"/>
-  <use href="#motor_scooter_front" transform="translate(-26 -15)"/>
-  <use href="#motor_scooter_front" transform="translate(-20 -15)"/>
-  <use href="#motor_scooter_front" transform="translate(-14 -15)"/>
-
-  <use href="#person_sitting_office" transform="translate(-25 -0)"/>
-  <use href="#person_sitting_office" transform="translate(-20 -0)"/>
-  <use href="#person_sitting_office" transform="translate(-15 -0)"/>
-  <use href="#person_sitting_office" transform="translate(-10 -0)"/>
-  <use href="#person_sitting_office" transform="translate(-5 -0)"/>
-  <use href="#person_sitting_office" transform="translate(0 -0)"/>
-  <use href="#person_sitting_office" transform="translate(5 -0)"/>
-  <use href="#person_sitting_office" transform="translate(10 -0)"/>
-  <use href="#person_reaching_office" transform="translate(17 -1.5)"/>
-  <polyline fill="#888" points="17 -0, 17 -1.5, 26 -1.5, 26 -0"/>
-
-  <use href="#tree" transform="translate(-39 -49)"/>
-  <use href="#trashcan" transform="translate(-23 -49)"/>
-  <use href="#tree" transform="translate(-27 -49)"/>
-  <use href="#person_reaching" transform="translate(-33.5 -49)"/>
-  <use href="#person_walking" transform="translate(-9.5 -49)"/>
-
-  <use href="#motor_scooter_back" transform="translate(8 -15)"/>
-  <use href="#motor_scooter_back" transform="translate(14 -15)"/>
-  <use href="#motor_scooter_back" transform="translate(20 -15)"/>
-  <use href="#motor_scooter_back" transform="translate(26 -15)"/>
-
-  <use href="#person_sitting" transform="translate(8.5 -49)"/>
-  <use href="#tree" transform="translate(12 -49)"/>
-  <use href="#person_swingset" transform="translate(23 -49) scale(-1 1)"/>
-
-  <use href="#person_walking" transform="translate(-49 0)"/>
-  <use href="#person_walking" transform="translate(+36 0)"/>
+<g transform="scale(1.415,0.815) translate(0,112) rotate(45)">
+  <use href="#z-14"/>
 </g>
+
+<g transform="scale(1.415,0.815) translate(0,109.8) rotate(45)">
+  <use href="#z-15"/>
+</g>
+
+<g transform="scale(1.415,0.815) translate(0,91) rotate(45)">
+  <use href="#z-30"/>
+</g>
+
+<g transform="scale(1.415,0.815) translate(0,68.3) rotate(45)">
+  <use href="#z-49"/>
+</g>
+
+<use href="#y+35" transform="scale(+0.88,1.18) translate(-41,105.9) skewX(30) rotate(30)"/>
+<use href="#y+35" transform="scale(-0.88,1.18) translate(-41,105.9) skewX(30) rotate(30)"/>
+
+<g transform="scale(1.415,0.815) translate(0,90) rotate(45)">
+  <use href="#z-31"/>
+</g>
+
+<g transform="scale(1,1) translate(-70,145) skewY(+30)">
+  <use href="#y+70"/>
+</g>
+
+<g transform="scale(1,1) translate(+70,145) skewY(-30)">
+  <use href="#x+70"/>
+</g>
+
+
 
 </svg>
