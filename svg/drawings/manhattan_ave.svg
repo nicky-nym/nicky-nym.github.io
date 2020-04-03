@@ -3,6 +3,7 @@
   viewBox="-180 0 360 300"
   xmlns="http://www.w3.org/2000/svg">
   <metadata data-license="http://creativecommons.org/licenses/publicdomain/"/>
+
 <defs>
   <use id="person_walking"
        href="../items/people/person_walking.svg#1px:1ft"
@@ -10,24 +11,31 @@
   <use id="trashcan"
        href="../items/furnishings/trashcan.svg#1px:1ft"
        stroke="black"/>
-  <use id="car_front"
-       href="../items/cars/car_front.svg#1px:1ft"
-       fill="#d11"/>
+  <g id="car_front" fill="#d11">
+    <use href="../items/people/person_head.svg#1px:1ft" transform="translate(0.9 1.1)"/>
+    <use href="../items/cars/car_front.svg#1px:1ft"/>
+  </g>
   <use id="car_parked"
        href="../items/cars/car_front.svg#1px:1ft"
        fill="#666"/>
-  <use id="bus_front"
-       href="../items/buses/bus_front.svg#1px:1ft"
-       fill="maroon"/>
-  <use id="taxi_front"
-       href="../items/cars/taxi_front.svg#1px:1ft"
-       fill="#d11"/>
-  <use id="motor_scooter_front"
-       href="../items/bike_sized/motor_scooter_front.svg#1px:1ft"
-       fill="#d11"/>
+  <g id="bus_front" fill="maroon">
+    <use href="../items/people/person_torso.svg#1px:1ft" transform="translate(1.7 -1)"/>
+    <use href="../items/buses/bus_front.svg#1px:1ft"/>
+  </g>
+  <g id="taxi_front" fill="#d11">
+    <use href="../items/cars/taxi_front.svg#1px:1ft"/>
+    <use href="../items/people/person_head.svg#1px:1ft" transform="translate(0.9 1.1)"/>
+  </g>
+  <g id="motor_scooter_front" fill="#d11">
+    <use href="../items/people/person_torso.svg#1px:1ft"/>
+    <use href="../items/bike_sized/motor_scooter_front.svg#1px:1ft"/>
+  </g>
   <use id="tree"
        href="../items/landscape/tree.svg#1px:1ft"
        fill="palegreen"/>
+  <use id="people_at_counter"
+       href="../items/people/people_at_counter.svg#1px:1ft" 
+       fill="#888"/>
   <use id="person_reaching"
        href="../items/people/person_reaching.svg#1px:1ft"
        fill="darkblue"/>
@@ -37,13 +45,6 @@
   <use id="desk"
        href="../items/furnishings/desk.svg#1px:1ft"
        stroke="#888"/>
-
-  <!--
-  <radialGradient id="radial" cx="10%" cy="70%" r="50%" fx="50%" fy="50%">
-    <stop offset="0%" style="stop-color:#eeeeee"/>
-    <stop offset="200%" style="stop-color:#666666"/>
-  </radialGradient>
-  -->
   <linearGradient id="daylight" x1="100%" y1="32%" x2="0%" y2="68%" >
     <stop offset="5%" style="stop-color:#ffffff" />
     <stop offset="100%" style="stop-color:#888888" />
@@ -55,6 +56,7 @@
               points="0 -11, 20 -11, 20 -7.5"/>
     <polyline stroke="silver" fill="none" stroke-width="0.1"
               points="20 -0, 20 -7.5, 22.5 -7.5, 22.5 -0"/>
+    <use href="#people_at_counter" transform="translate(6 0)"/>
   </g>
   <g id="storey">
     <polyline stroke="none" fill="url(#daylight)"
@@ -65,12 +67,10 @@
               points="0 -11.1, 20 -11.1, 20 -9.5"/>
     <polyline stroke="lightblue" fill="none" stroke-width="0.5"
               points="20 -4, 20 -9.5"/>
-    <use href="../items/people/person_sitting.svg#1px:1ft" 
-         transform="translate(11 -1.2) scale(-1 1)"
-         fill="#888"/>
+    <use href="#person_sitting" 
+         transform="translate(11 -1.2) scale(-1 1)"/>
     <use href="#desk"
-         transform="translate(8 -1.5) scale(-1 1)"
-         stroke="#888"/>
+         transform="translate(8 -1.5) scale(-1 1)"/>
   </g>
   <g id="parapet">
     <polyline fill="#777777"
@@ -91,6 +91,7 @@
     <use href="#storey" transform="translate(0 -67)"/>
   </g>
 </defs>
+
 <g id="1px:1ft" transform="scale(2.64) translate(0,100)">
   <polyline id="pavement" fill="black"
             points="-70 4, -70 -1, -30 -1, -30 -0, 30 -0, 30 -1, 70 -1, 70 4"/>
@@ -107,4 +108,5 @@
   <use href="#tree" transform="translate(21 -1)"/>
   <use href="#person_reaching" transform="translate(34 -1)"/>
 </g>
+
 </svg>
