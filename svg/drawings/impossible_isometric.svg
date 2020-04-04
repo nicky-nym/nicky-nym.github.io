@@ -20,6 +20,7 @@
     <use href="#table"/>
     <use href="#person_sitting_office" transform="translate(-3 0.3)"/>
   </g>
+  <!--
   <g id="motor_scooter_front" fill="green">
     <use href="../items/people/person_torso.svg#1px:1ft"/>
     <use href="../items/bike_sized/motor_scooter_front.svg#1px:1ft"/>
@@ -28,6 +29,7 @@
     <use href="../items/bike_sized/motor_scooter_back.svg#1px:1ft"/>
     <use href="../items/people/person_torso.svg#1px:1ft"/>
   </g>
+  -->
   <use id="people_at_counter"
        href="../items/people/people_at_counter.svg#1px:1ft" 
        fill="#888"/>
@@ -216,7 +218,7 @@
   </g>
   -->
 
-  <g id="y+70">
+  <g id="yAxis+70">
     <title>left section cut, bikeway at 30 feet</title>
     <polyline id="pavement" fill="black"
               points="-70 4, -70 -0, +70 -0, +70 4"/>
@@ -234,6 +236,7 @@
     <use href="#table_people" transform="translate(+9 -0.1)"/>
     <use href="#table_people" transform="translate(+21 -0.1)"/>
 
+    <!--
     <use href="#motor_scooter_front" transform="translate(-32 -30)"/>
     <use href="#motor_scooter_front" transform="translate(-26 -30)"/>
     <use href="#motor_scooter_front" transform="translate(-20 -30)"/>
@@ -243,6 +246,7 @@
     <use href="#motor_scooter_back" transform="translate(14 -30)"/>
     <use href="#motor_scooter_back" transform="translate(20 -30)"/>
     <use href="#motor_scooter_back" transform="translate(26 -30)"/>
+    -->
 
     <use href="#tree" transform="translate(-30 -49)"/>
     <use href="#trashcan" transform="translate(-25 -49)"/>
@@ -255,7 +259,7 @@
     <use href="#person_walking" transform="translate(+36 0)"/>
   </g>
 
-  <g id="x+70">
+  <g id="xAxis+70">
     <title>right section cut, bikeway at 15 feet</title>
     <polyline id="pavement" fill="black"
               points="-70 4, -70 -0, +70 -0, +70 4"/>
@@ -267,10 +271,12 @@
     <use href="#longhouse_ave" transform="translate(-20 0)"/>
     <use href="#longhouse_ave" transform="translate(+20 0) scale(-1 1)"/>
 
+    <!--
     <use href="#motor_scooter_front" transform="translate(-32 -15)"/>
     <use href="#motor_scooter_front" transform="translate(-26 -15)"/>
     <use href="#motor_scooter_front" transform="translate(-20 -15)"/>
     <use href="#motor_scooter_front" transform="translate(-14 -15)"/>
+    -->
 
     <use href="#person_sitting_office" transform="translate(-25 -0)"/>
     <use href="#person_sitting_office" transform="translate(-20 -0)"/>
@@ -289,10 +295,12 @@
     <use href="#person_reaching" transform="translate(-33.5 -49)"/>
     <use href="#person_walking" transform="translate(-9.5 -49)"/>
 
+    <!--
     <use href="#motor_scooter_back" transform="translate(8 -15)"/>
     <use href="#motor_scooter_back" transform="translate(14 -15)"/>
     <use href="#motor_scooter_back" transform="translate(20 -15)"/>
     <use href="#motor_scooter_back" transform="translate(26 -15)"/>
+    -->
 
     <use href="#person_sitting" transform="translate(8.5 -49)"/>
     <use href="#tree" transform="translate(12 -49)"/>
@@ -302,188 +310,385 @@
     <use href="#person_walking" transform="translate(+36 0)"/>
   </g>
 
-  <g id="y-50">
+  <g id="xAxis-50">
     <title>far wall</title>
-    <polyline id="wall" fill="tan"
-              points="0 -4, 0 -0, +70 -0, +70 -4"/>
-    <polyline id="window" fill="lightcyan" fill-opacity="0.3"
-              points="0 -7.5, 0 -4, +70 -4, +70 -7.5"/>
-    <polyline id="wall" fill="tan"
-              points="0 -14, 0 -7.5, +70 -7.5, +70 -14"/>
-    <polyline id="window" fill="lightcyan" fill-opacity="0.3"
-              points="0 -19, 0 -14, +70 -14, +70 -19"/>
-    <polyline id="wall" fill="tan"
-              points="0 -24, 0 -19, +70 -19, +70 -24"/>
-    <polyline id="window" fill="lightcyan" fill-opacity="0.3"
-              points="0 -29, 0 -24, +70 -24, +70 -29"/>
-    <polyline id="roof" fill="rosybrown"
-              points="0 -72.8, 0 -28.5, +68.5 -28.5, +91 -72.8"/>
+    <polyline data-desc="wall" fill="tan"
+              points="-70 -0, -70 -14, -50 -14, -50 -0"/>
+    <polyline data-desc="window" fill="lightcyan"
+              points="-70 -14, -70 -19, -50 -19, -50 -14"/>
+    <polyline data-desc="wall" fill="tan"
+              points="-70 -19, -70 -24, -50 -24, -50 -19"/>
+    <polyline data-desc="window" fill="lightcyan"
+              points="-70 -24, -70 -29, -50 -29, -50 -24"/>
+    <polyline data-desc="roof" fill="rosybrown"
+              points="-69 -29, -91 -72, -70 -50, -50 -29"/>
   </g>
 
-  <g id="y-5">
+  <g id="xAxis-05">
     <title>atrium wall</title>
-    <polyline id="wall" fill="tan"
-              points="-5 -19, -5 -12, +70 -12, +70 -19"/>
-    <polyline id="window" fill="lightcyan" fill-opacity="0.3"
-              points="-5 -27, -5 -19, +70 -19, +70 -27"/>
-    <polyline id="wall" fill="tan"
-              points="-5 -34, -5 -27, +70 -27, +70 -34"/>
-    <polyline id="window" fill="lightcyan" fill-opacity="0.3"
-              points="-5 -42, -5 -34, +70 -34, +70 -42"/>
-    <polyline id="wall" fill="lightcyan" fill-opacity="0.3"
-              points="-5 -12, -5 +4, +56 +4, +70 -12"/>
-    <polyline id="roof" fill="rosybrown"
-              points="-5 -56, -5 -42, +69 -42, +73 -56"/>
+    <polyline data-desc="wall" fill="tan"
+              points="-70 -13, -70 -18, -50 -18, -50 -13"/>
+    <polyline data-desc="window" fill="lightcyan" fill-opacity="0.5"
+              points="-70 -18, -70 -26, -50 -26, -50 -18"/>
+    <polyline data-desc="wall" fill="tan"
+              points="-70 -26, -70 -33, -50 -33, -50 -26"/>
+    <polyline data-desc="window" fill="lightcyan" fill-opacity="0.5"
+              points="-70 -33, -70 -41, -50 -41, -50 -33"/>
+    <polyline data-desc="roof" fill="rosybrown"
+              points="-69 -40.7, -73 -55.7, -35 -55.7, -35 -40.7"/>
   </g>
 
-  <g id="y+35" >
+  <g id="xAxis+35">
     <title>near wall</title>
-    <polyline id="wall" fill="tan"
-              points="35.4 -4, 35.4 -0, +70 -0, +70 -4"/>
-    <polyline id="window" fill="lightcyan" fill-opacity="0.3"
-              points="35.4 -12, 35.4 -4, +70 -4, +70 -12"/>
-    <polyline id="wall" fill="tan"
-              points="35.4 -19, 35.4 -12, +70 -12, +70 -19"/>
-    <polyline id="window" fill="lightcyan" fill-opacity="0.3"
-              points="35.4 -27, 35.4 -19, +70 -19, +70 -27"/>
-    <polyline id="wall" fill="tan"
-              points="35.4 -34, 35.4 -27, +70 -27, +70 -34"/>
-    <polyline id="window" fill="lightcyan" fill-opacity="0.3"
-              points="35.4 -42, 35.4 -34, +70 -34, +70 -42"/>
-    <polyline id="roof" fill="rosybrown"
-              points="35.2 -56, 35.2 -42, +69 -42, +73 -56"/>
+    <polyline data-desc="wall" fill="tan"
+              points="-70 -0, -70 -7.5, -35.5 -7.5, -35.5 -0"/>
+    <polyline data-desc="window" fill="lightcyan"
+              points="-70 -7.5, -70 -11.5, -35.5 -11.5, -35.5 -7.5"/>
+    <polyline data-desc="wall" fill="tan"
+              points="-70 -11.5, -70 -18, -35.5 -18, -35.5 -11.5"/>
+    <polyline data-desc="window" fill="lightcyan" fill-opacity="0.5"
+              points="-70 -18, -70 -26, -35.5 -26, -35.5 -18"/>
+    <polyline data-desc="wall" fill="tan"
+              points="-70 -26, -70 -33, -35.5 -33, -35.5 -26"/>
+    <polyline data-desc="window" fill="lightcyan" fill-opacity="0.5"
+              points="-70 -33, -70 -41, -35 -41, -35 -33"/>
+    <polyline data-desc="roof" fill="rosybrown"
+              points="-69 -40.7, -73 -55.7, -35.4 -55.7, -35.4 -40.7"/>
   </g>
 
-  <g id="z-0">
+  <g id="zAxis-00">
     <title>ground level</title>
     <defs>
       <polyline id="lawn"
                 fill="olivedrab"
-                points="-7.5 -70, -7.5 +70, +7.5 +70, +7.5 -70"/>
+                points="-7.5 +35, -7.5 +70, +7.5 +70, +7.5 +35"/>
       <polyline id="longhouse-floor"
                 fill="silver"
                 points="-35 -70, -35 +70, +35 +70, +35 -70"/>
     </defs>
     <use href="#lawn" transform="translate(+42.5,0)"/>
     <use href="#lawn" transform="translate(-42.5,0)"/>
-    <use href="#lawn" transform="translate(0,+42.5) rotate(90)"/>
-    <use href="#lawn" transform="translate(0,-42.5) rotate(90) "/>
+    <use href="#lawn" transform="translate(0,+42.5) rotate(270)"/>
+    <use href="#lawn" transform="translate(0,-42.5) rotate(270) "/>
     <use href="#longhouse-floor" transform="translate(0,0)"/>
     <use href="#longhouse-floor" transform="translate(0,0) rotate(90)"/>
   </g>
 
-  <g id="z-14">
+  <g id="zAxis-14">
     <title>atrium skylight</title>
     <defs>
       <polyline id="skylight"
                 fill="lightblue"
                 fill-opacity="0.3"
-                points="-5 -70, -5 +70, +5 +70, +5 -70"/>
+                points="-5 0, -5 +70, +5 +70, +5 0"/>
     </defs>
     <use href="#skylight" transform="translate(0,0)"/>
-    <use href="#skylight" transform="translate(0,0) rotate(90)"/>
+    <use href="#skylight" transform="translate(0,0) rotate(270)"/>
   </g>
 
-  <g id="z-15">
-    <title>second-floor</title>
+  <g id="zAxis-15-westbound">
+    <title>second-floor westbound</title>
     <defs>
       <g id="second-floor">
         <polyline fill="gainsboro"
-                  points="-15 -70, -15 +70, +15 +70, +15 -70"/>
+                  points="-15 -25, -15 +70, +15 +70, +15 -25"/>
         <g stroke="black" stroke-width="0.1">
-          <polyline points="-12 -70, -12 +70"/>
-          <polyline points="-6 -70, -6 +70"/>
-          <polyline points="-0 -70, -0 +70"/>
-          <polyline points="+6 -70, +6 +70"/>
-          <polyline points="+12 -70, +12 +70"/>
+          <polyline points="-12 -5, -12 +70"/>
+          <polyline points="-6 -5, -6 +70"/>
+          <polyline points="-0 -5, -0 +70"/>
+          <polyline points="+6 -5, +6 +70"/>
+          <polyline points="+12 -5, +12 +70"/>
         </g>
       </g>
     </defs>
-    <use href="#second-floor" transform="translate(0,+20) rotate(90)"/>
-    <use href="#second-floor" transform="translate(0,-20) rotate(90)"/>
+    <use href="#second-floor" transform="translate(0,-20) rotate(270)"/>
   </g>
 
-  <g id="z-30">
-    <title>third-floor</title>
+  <g id="zAxis-15-eastbound">
+    <title>second-floor eastbound</title>
+    <use href="#second-floor" transform="translate(0,+20) rotate(270)"/>
+  </g>
+
+  <g id="zAxis-30-southbound">
+    <title>third-floor southbound</title>
     <defs>
       <g id="third-floor">
         <polyline fill="gainsboro"
-                  points="-15 -70, -15 +70, +15 +70, +15 -70"/>
+                  points="-15 -5, -15 +70, +15 +70, +15 -5"/>
+        <polyline fill="gainsboro"
+                  points="+50 +5, +50 +35, +15 +35, +15 +5"/>
+        <!--
+          <polyline fill="pink"
+                  points="+50 -35, +50 -5, +15 -5, +15 -35"/>
+        -->
         <g stroke="black" stroke-width="0.1">
-          <polyline points="-12 -70, -12 +70"/>
-          <polyline points="-6 -70, -6 +70"/>
-          <polyline points="-0 -70, -0 +70"/>
-          <polyline points="+6 -70, +6 +70"/>
-          <polyline points="+12 -70, +12 +70"/>
+          <polyline points="-12 -5, -12 +70"/>
+          <polyline points="-6 -5, -6 +70"/>
+          <polyline points="-0 -5, -0 +70"/>
+          <polyline points="+6 -5, +6 +70"/>
+          <polyline points="+12 -5, +12 +70"/>
         </g>
       </g>
     </defs>
-    <use href="#third-floor" transform="translate(+20,0)"/>
     <use href="#third-floor" transform="translate(-20,0)"/>
   </g>
 
-  <g id="z-31">
+  <g id="zAxis-30-northbound">
+    <title>third-floor northbound</title>
+    <use href="#third-floor" transform="translate(+20,0)"/>
+  </g>
+
+  <g id="zAxis-31">
     <title>townhouse roof</title>
     <polyline fill="rosybrown"
               points="+70 +70, 47 70, 47 47, 70 47"/>
   </g>
 
-  <g id="z-49">
-    <title>highline lawn</title>
+  <g id="zAxis-49-westbound">
+    <title>highline lawn westbound</title>
     <defs>
       <polyline id="highline"
                 fill="olivedrab"
                 points="-14 -70, -14 +70, +14 +70, +14 -70"/>
     </defs>
-    <use href="#highline" transform="translate(+20,0)"/>
-    <use href="#highline" transform="translate(-20,0)"/>
-    <use href="#highline" transform="translate(0,+20) rotate(90)"/>
     <use href="#highline" transform="translate(0,-20) rotate(90) "/>
+  </g>
+
+  <g id="zAxis-49-eastbound">
+    <title>highline lawn eastbound</title>
+    <use href="#highline" transform="translate(0,+20) rotate(90)"/>
+  </g>
+
+  <g id="zAxis-49-southbound">
+    <title>highline lawn southbound</title>
+    <use href="#highline" transform="translate(-20,0)"/>
+  </g>
+
+  <g id="zAxis-49-northbound">
+    <title>highline lawn northbound</title>
+    <use href="#highline" transform="translate(+20,0)"/>
   </g>
 
 </defs>
 
-<g transform="scale(1.415,0.815) translate(0,128.5) rotate(45)">
-  <use href="#z-0"/>
+<g>
+  <title>Isometric view of longhouse buildings</title>
+  <!-- order:
+    "#zAxis-00"
+    "#xAxis-50" & scale(-1)
+    "#xAxis-35" & scale(-1) ~~~ TODO: new!
+    "#zAxis-15-westbound"
+    "#zAxis-30-southbound"
+    "#zAxis-49-southbound"
+    "#zAxis-49-westbound"
+    "#xAxis-05" & scale(-1)
+    "#zAxis-14-skylight"
+    "#xAxis+05" & scale(-1)
+    "#zAxis-15-eastbound"
+    "#zAxis-30-northbound"
+    "#zAxis-49-northbound"
+    "#zAxis-49-eastbound"
+    "#xAxis+35" & scale(-1)
+    "#zAxis-31-roof"
+    "#xAxis+70" & "#yAxis+70"
+
+  -->
+  <g transform="scale(1.415,0.815) translate(0,128.5) rotate(45)">
+    <use href="#zAxis-00"/>
+  </g>
+
+  <g transform="scale(1,1) translate(-49.5,75.5) skewY(-30)">
+    <use href="#xAxis-50"/>
+  </g>
+
+  <g transform="scale(-1,1) translate(-49.5,75.5) skewY(-30)">
+    <use href="#xAxis-50"/>
+  </g>
+
+  <g transform="scale(1.415,0.815) translate(0,109.8) rotate(45)">
+    <use href="#zAxis-15-westbound"/>
+  </g>
+
+  <g transform="scale(1.415,0.815) translate(0,91) rotate(45)">
+    <use href="#zAxis-30-southbound"/>
+  </g>
+
+  <use id="westbound_bike_1" href="#bike_side" transform="translate(78,123) scale(1,1) skewY(+30)"/>
+  <use id="westbound_bike_2" href="#bike_side" transform="translate(84,120) scale(1,1) skewY(+30)"/>
+  <use id="westbound_bike_3" href="#bike_side" transform="translate(90,116) scale(1,1) skewY(+30)"/>
+  <use id="westbound_bike_4" href="#bike_side" transform="translate(96,112) scale(1,1) skewY(+30)"/>
+
+  <use id="southbound_bike_1" href="#bike_side" transform="translate(-100,100) scale(1,1) skewY(-30)"/>
+  <use id="southbound_bike_2" href="#bike_side" transform="translate(-95,104) scale(1,1) skewY(-30)"/>
+  <use id="southbound_bike_3" href="#bike_side" transform="translate(-90,107) scale(1,1) skewY(-30)"/>
+  <use id="southbound_bike_4" href="#bike_side" transform="translate(-82,110) scale(1,1) skewY(-30)"/>
+
+  <g transform="scale(1.415,0.815) translate(0,68.3) rotate(45)">
+    <use href="#zAxis-49-southbound"/>
+    <use href="#zAxis-49-westbound"/>
+  </g>
+
+  <g transform="scale(1,1) translate(-4.5,101) skewY(-30)">
+    <use href="#xAxis-05"/>
+  </g>
+
+  <g transform="scale(-1,1) translate(-4.5,101) skewY(-30)">
+    <use href="#xAxis-05"/>
+  </g>
+
+  <g transform="scale(1.415,0.815) translate(0,112) rotate(45)">
+    <use href="#zAxis-14"/>
+  </g>
+
+  <g transform="scale(1.415,0.815) translate(0,109.8) rotate(45)">
+    <use href="#zAxis-15-eastbound"/>
+  </g>
+
+  <use id="eastbound_bike_1" href="#bike_side" transform="translate(64,140) scale(-1,1) skewY(-30)"/>
+  <use id="eastbound_bike_2" href="#bike_side" transform="translate(58,143) scale(-1,1) skewY(-30)"/>
+  <use id="eastbound_bike_3" href="#bike_side" transform="translate(52,147) scale(-1,1) skewY(-30)"/>
+  <use id="eastbound_bike_4" href="#bike_side" transform="translate(46,151) scale(-1,1) skewY(-30)"/>
+
+  <g transform="scale(1.415,0.815) translate(0,91) rotate(45)">
+    <use href="#zAxis-30-northbound"/>
+  </g>
+
+  <use id="northbound_bike_1" href="#bike_side" transform="translate(-55,119) scale(-1,1) skewY(+30)"/>
+  <use id="northbound_bike_2" href="#bike_side" transform="translate(-48,123) scale(-1,1) skewY(+30)"/>
+  <use id="northbound_bike_3" href="#bike_side" transform="translate(-40,125) scale(-1,1) skewY(+30)"/>
+  <use id="northbound_bike_4" href="#bike_side" transform="translate(-35,129) scale(-1,1) skewY(+30)"/>
+
+  <g transform="scale(1.415,0.815) translate(0,68.3) rotate(45)">
+    <use href="#zAxis-49-eastbound"/>
+    <use href="#zAxis-49-northbound"/>
+  </g>
+
+  <g transform="scale(1,1) translate(+35.5,124) skewY(-30)">
+    <use href="#xAxis+35"/>
+  </g>
+
+  <g transform="scale(-1,1) translate(+35.5,124) skewY(-30)">
+    <use href="#xAxis+35"/>
+  </g>
+
+  <g transform="scale(1.415,0.815) translate(0,90) rotate(45)">
+    <use href="#zAxis-31"/>
+  </g>
+
+  <g transform="scale(1,1) translate(-70,145) skewY(+30)">
+    <use href="#yAxis+70"/>
+  </g>
+
+  <g transform="scale(1,1) translate(+70,145) skewY(-30)">
+    <use href="#xAxis+70"/>
+  </g>
+
+  <use href="#tree" transform="translate(66,40)"/>
+  <use href="#tree" transform="translate(57,75)"/>
+  <use href="#tree" transform="translate(27,55)"/>
+  <use href="#tree" transform="translate(-48,62)"/>
+  <use href="#tree" transform="translate(-5,78)"/>
+  <use href="#tree" transform="translate(-30,30)"/>
+  <use href="#tree" transform="translate(10,25)"/>
+
+  <animateMotion href="#eastbound_bike_1"
+                 dur="9s"
+                 repeatCount="indefinite">
+    <mpath href="#eastbound"/> 
+  </animateMotion>
+  <animateMotion href="#eastbound_bike_2"
+                 dur="8s"
+                 repeatCount="indefinite">
+    <mpath href="#eastbound"/> 
+  </animateMotion>
+  <animateMotion href="#eastbound_bike_3"
+                 dur="7s"
+                 repeatCount="indefinite">
+    <mpath href="#eastbound"/> 
+  </animateMotion>
+  <animateMotion href="#eastbound_bike_4"
+                 dur="6s"
+                 repeatCount="indefinite">
+    <mpath href="#eastbound"/> 
+  </animateMotion>
+
+  <animateMotion href="#westbound_bike_1"
+                 dur="9s"
+                 repeatCount="indefinite">
+    <mpath href="#westbound"/> 
+  </animateMotion>
+  <animateMotion href="#westbound_bike_2"
+                 dur="8s"
+                 repeatCount="indefinite">
+    <mpath href="#westbound"/> 
+  </animateMotion>
+  <animateMotion href="#westbound_bike_3"
+                 dur="7s"
+                 repeatCount="indefinite">
+    <mpath href="#westbound"/> 
+  </animateMotion>
+  <animateMotion href="#westbound_bike_4"
+                 dur="6s"
+                 repeatCount="indefinite">
+    <mpath href="#westbound"/> 
+  </animateMotion>
+
+  <path id="southbound" d="M70.75 -40.75 l -70.75 40.75"/>
+  <path id="northbound" d="M0 0 l 70.75 -40.75"/>
+  <path id="eastbound" d="M-70.75 -40.75 l 70.75 40.75"/>
+  <path id="westbound" d="M0 0 l -70.75 -40.75"/>
+
+  <animateMotion href="#southbound_bike_1"
+                 dur="9s"
+                 repeatCount="indefinite">
+    <mpath href="#southbound"/> 
+  </animateMotion>
+  <animateMotion href="#southbound_bike_2"
+                 dur="8s"
+                 repeatCount="indefinite">
+    <mpath href="#southbound"/> 
+  </animateMotion>
+  <animateMotion href="#southbound_bike_3"
+                 dur="7s"
+                 repeatCount="indefinite">
+    <mpath href="#southbound"/> 
+  </animateMotion>
+  <animateMotion href="#southbound_bike_4"
+                 dur="6s"
+                 repeatCount="indefinite">
+    <mpath href="#southbound"/> 
+  </animateMotion>
+
+  <animateMotion href="#northbound_bike_1"
+                 dur="6s"
+                 repeatCount="indefinite">
+    <mpath href="#northbound"/> 
+  </animateMotion>
+  <animateMotion href="#northbound_bike_2"
+                 dur="7s"
+                 repeatCount="indefinite">
+    <mpath href="#northbound"/> 
+  </animateMotion>
+  <animateMotion href="#northbound_bike_3"
+                 dur="8s"
+                 repeatCount="indefinite">
+    <mpath href="#northbound"/> 
+  </animateMotion>
+  <animateMotion href="#northbound_bike_4"
+                 dur="9s"
+                 repeatCount="indefinite">
+    <mpath href="#northbound"/> 
+  </animateMotion>
+  <!--
+    <animateMotion
+      href="#moving_bike"
+      dur="3s"
+      begin="click"
+      repeatCount="indefinite"
+      fill="freeze">
+      <mpath href="#motionPath"/> 
+    </animateMotion>
+  -->
 </g>
-
-<use href="#y-50" transform="scale(+0.86,1.18) translate(58,64.5) skewX(30) rotate(30)"/>
-<use href="#y-50" transform="scale(-0.86,1.18) translate(58,64.5) skewX(30) rotate(30)"/>
-
-<use href="#y-5" transform="scale(+0.86,1.18) translate(5.6,86.4) skewX(30) rotate(30)"/>
-<use href="#y-5" transform="scale(-0.86,1.18) translate(5.6,86.4) skewX(30) rotate(30)"/>
-
-<g transform="scale(1.415,0.815) translate(0,112) rotate(45)">
-  <use href="#z-14"/>
-</g>
-
-<g transform="scale(1.415,0.815) translate(0,109.8) rotate(45)">
-  <use href="#z-15"/>
-</g>
-
-<g transform="scale(1.415,0.815) translate(0,91) rotate(45)">
-  <use href="#z-30"/>
-</g>
-
-<g transform="scale(1.415,0.815) translate(0,68.3) rotate(45)">
-  <use href="#z-49"/>
-</g>
-
-<use href="#y+35" transform="scale(+0.88,1.18) translate(-41,105.9) skewX(30) rotate(30)"/>
-<use href="#y+35" transform="scale(-0.88,1.18) translate(-41,105.9) skewX(30) rotate(30)"/>
-
-<g transform="scale(1.415,0.815) translate(0,90) rotate(45)">
-  <use href="#z-31"/>
-</g>
-
-<g transform="scale(1,1) translate(-70,145) skewY(+30)">
-  <use href="#y+70"/>
-</g>
-
-<g transform="scale(1,1) translate(+70,145) skewY(-30)">
-  <use href="#x+70"/>
-</g>
-
-
 
 </svg>
