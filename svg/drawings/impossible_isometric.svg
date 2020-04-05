@@ -5,6 +5,18 @@
   <metadata data-license="http://creativecommons.org/licenses/publicdomain/"/>
 
 <defs>
+  <linearGradient id="daylight" x1="100%" y1="32%" x2="0%" y2="68%" >
+    <stop offset="5%" style="stop-color:#ffffff" />
+    <stop offset="90%" style="stop-color:#bbbbbb" />
+  </linearGradient>
+  <pattern id="brick" x="0" y="0" width="1.5" height="0.5"
+           patternUnits="userSpaceOnUse">
+    <rect width="1.5" height="0.5" style="fill:rosybrown; stroke-width:0.1; stroke:brown"/>
+  </pattern>
+  <pattern id="shingles" x="0" y="0" width="1" height="2"
+           patternUnits="userSpaceOnUse">
+    <rect width="1" height="2" style="fill:slategrey; stroke-width:0.3; stroke:lightslategrey"/>
+  </pattern>
   <use id="bike_side"
        href="../items/bikes/bike_rider_icon_side.svg#1px:1ft" 
        fill="green"/>
@@ -63,10 +75,8 @@
   <use id="tree"
        href="../items/landscape/tree.svg#1px:1ft" 
        fill="palegreen"/>
-  <linearGradient id="daylight" x1="100%" y1="32%" x2="0%" y2="68%" >
-    <stop offset="5%" style="stop-color:#ffffff" />
-    <stop offset="90%" style="stop-color:#bbbbbb" />
-  </linearGradient>
+  <use id="tree_isometric"
+       href="../items/landscape/tree_isometric.svg#1px:1ft"/>
   <g id="floor">
     <polyline stroke="black" fill="none" stroke-width="2"
               points="-15 1, +15 1"/>
@@ -248,11 +258,15 @@
     <use href="#motor_scooter_back" transform="translate(26 -30)"/>
     -->
 
+    <!--
     <use href="#tree" transform="translate(-30 -49)"/>
+    -->
     <use href="#trashcan" transform="translate(-25 -49)"/>
     <use href="#person_reaching" transform="translate(-28 -49)"/>
 
+    <!--
     <use href="#tree" transform="translate(4 -49)"/>
+    -->
     <use href="#person_sitting" transform="translate(29 -49)"/>
 
     <use href="#person_walking" transform="translate(-49 0)"/>
@@ -289,9 +303,11 @@
     <use href="#person_reaching_office" transform="translate(17 -1.5)"/>
     <polyline fill="#888" points="17 -0, 17 -1.5, 26 -1.5, 26 -0"/>
 
+    <!--
     <use href="#tree" transform="translate(-39 -49)"/>
     <use href="#trashcan" transform="translate(-23 -49)"/>
     <use href="#tree" transform="translate(-27 -49)"/>
+    -->
     <use href="#person_reaching" transform="translate(-33.5 -49)"/>
     <use href="#person_walking" transform="translate(-9.5 -49)"/>
 
@@ -303,8 +319,10 @@
     -->
 
     <use href="#person_sitting" transform="translate(8.5 -49)"/>
+    <!--
     <use href="#tree" transform="translate(12 -49)"/>
     <use href="#person_swingset" transform="translate(23 -49) scale(-1 1)"/>
+    -->
 
     <use href="#person_walking" transform="translate(-49 0)"/>
     <use href="#person_walking" transform="translate(+36 0)"/>
@@ -312,48 +330,85 @@
 
   <g id="xAxis-50">
     <title>far wall</title>
-    <polyline data-desc="wall" fill="tan"
+    <polyline data-desc="wall" fill="url(#brick)"
               points="-70 -0, -70 -14, -50 -14, -50 -0"/>
     <polyline data-desc="window" fill="lightcyan"
               points="-70 -14, -70 -19, -50 -19, -50 -14"/>
-    <polyline data-desc="wall" fill="tan"
+    <polyline data-desc="wall" fill="url(#brick)"
               points="-70 -19, -70 -24, -50 -24, -50 -19"/>
     <polyline data-desc="window" fill="lightcyan"
               points="-70 -24, -70 -29, -50 -29, -50 -24"/>
-    <polyline data-desc="roof" fill="rosybrown"
+    <polyline data-desc="roof" fill="url(#shingles)"
               points="-69 -29, -91 -72, -70 -50, -50 -29"/>
+  </g>
+
+  <g id="xAxis-35">
+    <title>inner wall</title>
+    <polyline data-desc="wall" fill="url(#brick)"
+              points="-70 -13, -70 -18, -50 -18, -50 -13"/>
+    <polyline data-desc="window" fill="lightcyan" fill-opacity="0.5"
+              points="-70 -18, -70 -26, -50 -26, -50 -18"/>
+    <polyline data-desc="wall" fill="url(#brick)"
+              points="-70 -26, -70 -33, -50 -33, -50 -26"/>
+    <polyline data-desc="window" fill="lightcyan" fill-opacity="0.5"
+              points="-70 -33, -70 -41, -50 -41, -50 -33"/>
   </g>
 
   <g id="xAxis-05">
     <title>atrium wall</title>
-    <polyline data-desc="wall" fill="tan"
+    <polyline data-desc="wall" fill="url(#brick)"
               points="-70 -13, -70 -18, -50 -18, -50 -13"/>
     <polyline data-desc="window" fill="lightcyan" fill-opacity="0.5"
               points="-70 -18, -70 -26, -50 -26, -50 -18"/>
-    <polyline data-desc="wall" fill="tan"
+    <polyline data-desc="wall" fill="url(#brick)"
               points="-70 -26, -70 -33, -50 -33, -50 -26"/>
     <polyline data-desc="window" fill="lightcyan" fill-opacity="0.5"
               points="-70 -33, -70 -41, -50 -41, -50 -33"/>
-    <polyline data-desc="roof" fill="rosybrown"
-              points="-69 -40.7, -73 -55.7, -35 -55.7, -35 -40.7"/>
+    <polyline data-desc="roof" fill="url(#shingles)"
+              points="-69 -40.7, -73 -55.7, -33 -55.7, -37 -40.7"/>
+    <polyline data-desc="roof" fill="url(#shingles)"
+              points="-4 -40.7, -8 -55.7, 5 -55.7, 5 -40.7"/>
+    <polyline data-desc="roof" fill="url(#shingles)"
+              points="34 -40.7, 31 -55.7, +67 -55.7, +71 -40.7"/>
   </g>
 
   <g id="xAxis+35">
     <title>near wall</title>
-    <polyline data-desc="wall" fill="tan"
+    <polyline data-desc="wall" fill="url(#brick)"
               points="-70 -0, -70 -7.5, -35.5 -7.5, -35.5 -0"/>
     <polyline data-desc="window" fill="lightcyan"
               points="-70 -7.5, -70 -11.5, -35.5 -11.5, -35.5 -7.5"/>
-    <polyline data-desc="wall" fill="tan"
+    <polyline data-desc="wall" fill="url(#brick)"
               points="-70 -11.5, -70 -18, -35.5 -18, -35.5 -11.5"/>
     <polyline data-desc="window" fill="lightcyan" fill-opacity="0.5"
               points="-70 -18, -70 -26, -35.5 -26, -35.5 -18"/>
-    <polyline data-desc="wall" fill="tan"
+    <polyline data-desc="wall" fill="url(#brick)"
               points="-70 -26, -70 -33, -35.5 -33, -35.5 -26"/>
     <polyline data-desc="window" fill="lightcyan" fill-opacity="0.5"
               points="-70 -33, -70 -41, -35 -41, -35 -33"/>
-    <polyline data-desc="roof" fill="rosybrown"
+    <polyline data-desc="roof" fill="url(#shingles)"
               points="-69 -40.7, -73 -55.7, -35.4 -55.7, -35.4 -40.7"/>
+    <polyline data-desc="roof" fill="url(#shingles)"
+              points="-5 -40.7, -9 -55.7, 5 -55.7, 5 -40.7"/>
+    <polyline data-desc="roof" fill="url(#shingles)"
+              points="34 -40.7, 30 -55.7, +67 -55.7, +71 -40.7"/>
+  </g>
+
+  <g id="xAxis+35_rear">
+    <polyline data-desc="wall" fill="url(#brick)"
+              points="+70 -0, +70 -7.5, +35.5 -7.5, +35.5 -0"/>
+    <polyline data-desc="window" fill="lightcyan"
+              points="+70 -7.5, +70 -11.5, +35.5 -11.5, +35.5 -7.5"/>
+    <polyline data-desc="wall" fill="url(#brick)"
+              points="+70 -11.5, +70 -18, +35.5 -18, +35.5 -11.5"/>
+    <polyline data-desc="window" fill="lightcyan" fill-opacity="0.5"
+              points="+70 -18, +70 -26, +35.5 -26, +35.5 -18"/>
+    <polyline data-desc="wall" fill="url(#brick)"
+              points="+70 -26, +70 -33, +35.5 -33, +35.5 -26"/>
+    <polyline data-desc="window" fill="lightcyan" fill-opacity="0.5"
+              points="+70 -33, +70 -41, +35 -41, +35 -33"/>
+    <polyline data-desc="window" stroke="black"  stroke-width="0.1" fill="none"
+              points="+70 -0, +70 -41"/>
   </g>
 
   <g id="zAxis-00">
@@ -440,7 +495,7 @@
 
   <g id="zAxis-31">
     <title>townhouse roof</title>
-    <polyline fill="rosybrown"
+    <polyline fill="url(#shingles)"
               points="+70 +70, 47 70, 47 47, 70 47"/>
   </g>
 
@@ -476,7 +531,7 @@
   <!-- order:
     "#zAxis-00"
     "#xAxis-50" & scale(-1)
-    "#xAxis-35" & scale(-1) ~~~ TODO: new!
+    "#xAxis-35" & scale(-1)
     "#zAxis-15-westbound"
     "#zAxis-30-southbound"
     "#zAxis-49-southbound"
@@ -497,12 +552,29 @@
     <use href="#zAxis-00"/>
   </g>
 
+
+  <g transform="scale(1,1) translate(+35.5,124) skewY(-30)">
+    <use href="#xAxis+35_rear"/>
+  </g>
+
+  <g transform="scale(-1,1) translate(+35.5,124) skewY(-30)">
+    <use href="#xAxis+35_rear"/>
+  </g>
+
   <g transform="scale(1,1) translate(-49.5,75.5) skewY(-30)">
     <use href="#xAxis-50"/>
   </g>
 
   <g transform="scale(-1,1) translate(-49.5,75.5) skewY(-30)">
     <use href="#xAxis-50"/>
+  </g>
+
+  <g transform="scale(1,1) translate(-34.5,83) skewY(-30)">
+    <use href="#xAxis-35"/>
+  </g>
+
+  <g transform="scale(-1,1) translate(-34.5,83) skewY(-30)">
+    <use href="#xAxis-35"/>
   </g>
 
   <g transform="scale(1.415,0.815) translate(0,109.8) rotate(45)">
@@ -583,13 +655,18 @@
     <use href="#xAxis+70"/>
   </g>
 
-  <use href="#tree" transform="translate(66,40)"/>
-  <use href="#tree" transform="translate(57,75)"/>
-  <use href="#tree" transform="translate(27,55)"/>
-  <use href="#tree" transform="translate(-48,62)"/>
-  <use href="#tree" transform="translate(-5,78)"/>
-  <use href="#tree" transform="translate(-30,30)"/>
-  <use href="#tree" transform="translate(10,25)"/>
+  <use href="#tree_isometric" transform="translate(-75,75) scale(-1.415,0.815)"/>
+  <use href="#tree_isometric" transform="translate(-75,38) scale(-1.415,0.815)"/>
+  <use href="#tree_isometric" transform="translate(-40,95) scale(-1.415,0.815)"/>
+  <use href="#tree_isometric" transform="translate(-38,62) scale(-1.415,0.815)"/>
+  <use href="#tree_isometric" transform="translate(-20,30) scale(-1.415,0.815)"/>
+  <use href="#tree_isometric" transform="translate(5,78) scale(-1.415,0.815)"/>
+  <use href="#tree_isometric" transform="translate(20,25) scale(-1.415,0.815)"/>
+  <use href="#tree_isometric" transform="translate(30,100) scale(-1.415,0.815)"/>
+  <use href="#tree_isometric" transform="translate(37,54) scale(-1.415,0.815)"/>
+  <use href="#person_swingset" transform="translate(35,54) scale(-1.415,0.815)"/>
+  <use href="#tree_isometric" transform="translate(67,75) scale(-1.415,0.815)"/>
+  <use href="#tree_isometric" transform="translate(76,40) scale(-1.415,0.815)"/>
 
   <animateMotion href="#eastbound_bike_1"
                  dur="9s"
