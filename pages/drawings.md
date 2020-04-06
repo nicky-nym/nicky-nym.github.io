@@ -5,11 +5,11 @@ permalink: /drawings/
 
 ## <a name="manhattan"></a>Manhattan New York
 
-<object data="../svg/drawings/manhattan_ave.svg" width="500" height="300"> </object> 
+<object data="../svg/drawings/manhattan_ave.svg" width="600"> </object> 
 
 ## <a name="section"></a>Impossible City, section cut
 
-<object data="../svg/drawings/impossible_ave.svg" width="500" height="300"> </object> 
+<object data="../svg/drawings/impossible_ave.svg" width="600"> </object> 
 
 ## <a name="section"></a>Impossible City, isometric
 
