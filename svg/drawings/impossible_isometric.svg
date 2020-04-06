@@ -359,7 +359,8 @@
               points="-70 -24, -70 -29, -50 -29, -50 -24"/>
     <polyline data-desc="freestanding column" fill="url(#brick)"
               points="-66.5 -0, -66.5 -41, -64.5 -41, -64.5 -0"/>
-    <polyline data-desc="roof" fill="url(#shingles)"
+    <polyline data-desc="roof" fill="url(#shingles)" 
+              stroke="black" stroke-width="0.2" 
               points="-69 -29, -91 -72, -70 -50, -50 -29"/>
   </g>
 
@@ -375,26 +376,65 @@
               points="-70 -33, -70 -41, -50 -41, -50 -33"/>
     <polyline data-desc="freestanding column" fill="url(#brick)"
               points="-66.5 -0, -66.5 -41, -64.5 -41, -64.5 -0"/>
+    <polyline data-desc="roof, far" fill="url(#shingles)" 
+              stroke="black" stroke-width="0.2"
+              points="+34 -49, +70 -49, +70 -44, +34 -44"/>
+    <polyline data-desc="roof, middle" fill="url(#shingles)"
+              points="-9.9 -44, -9.9 -49, 7 -49, 7 -44"/>
+    <polyline data-desc="roof, near" fill="url(#shingles)" 
+              stroke="black" stroke-width="0.2"
+              points="-68 -49, -10 -49, -10 -44, -68 -44"/>
+  </g>
+
+  <g id="xAxis+35_rear">
+    <polyline data-desc="wall" fill="url(#brick)"
+              points="+70 -0, +70 -7.5, +35.5 -7.5, +35.5 -0"/>
+    <polyline data-desc="first floor window" fill="lightcyan"
+              points="+70 -7.5, +70 -11.5, +35.5 -11.5, +35.5 -7.5"/>
+    <polyline data-desc="wall" fill="url(#brick)"
+              points="+70 -11.5, +70 -18, +35.5 -18, +35.5 -11.5"/>
+    <polyline data-desc="second floor window" fill="lightcyan" fill-opacity="0.5"
+              points="+70 -18, +70 -26, +35.5 -26, +35.5 -18"/>
+    <polyline data-desc="wall" fill="url(#brick)"
+              points="+70 -26, +70 -33, +35.5 -33, +35.5 -26"/>
+    <polyline data-desc="third floor window" fill="lightcyan" fill-opacity="0.5"
+              points="+70 -33, +70 -41, +35 -41, +35 -33"/>
+    <polyline data-desc="freestanding column" fill="url(#brick)"
+              points="+66.5 -0, +66.5 -41, +64.5 -41, +64.5 -0"/>
+    <polyline data-desc="edge" stroke="black" stroke-width="0.1" fill="none"
+              points="+70 -0, +70 -41"/>
   </g>
 
   <g id="xAxis-05">
     <title>atrium wall</title>
     <polyline data-desc="wall" fill="url(#brick)"
               points="-70 -13, -70 -18, -50 -18, -50 -13"/>
-    <polyline data-desc="window" fill="lightcyan" fill-opacity="0.5"
+    <polyline data-desc="second window" fill="lightcyan" fill-opacity="0.5"
               points="-70 -18, -70 -26, -50 -26, -50 -18"/>
     <polyline data-desc="wall" fill="url(#brick)"
               points="-70 -26, -70 -33, -50 -33, -50 -26"/>
-    <polyline data-desc="window" fill="lightcyan" fill-opacity="0.5"
-              points="-70 -33, -70 -41, -50 -41, -50 -33"/>
+    <polyline data-desc="third floor window" fill="lightcyan" fill-opacity="0.5"
+              points="-70 -33, -70 -41, -35 -41, -35 -33"/>
     <polyline data-desc="freestanding column" fill="url(#brick)"
               points="-66.5 -0, -66.5 -41, -64.5 -41, -64.5 -0"/>
-    <polyline data-desc="roof" fill="url(#shingles)"
+    <polyline data-desc="roof, near" fill="url(#shingles)"
               points="-69 -40.7, -73 -55.7, -33 -55.7, -37 -40.7"/>
     <polyline data-desc="roof" fill="url(#shingles)"
-              points="-4 -40.7, -8 -55.7, 5 -55.7, 5 -40.7"/>
-    <polyline data-desc="roof" fill="url(#shingles)"
-              points="34 -40.7, 31 -55.7, +67 -55.7, +71 -40.7"/>
+              points="-4 -40.7, -9.9 -55.7, 5 -55.7, 5 -40.7"/>
+    <polyline data-desc="roof, far" fill="url(#shingles)"
+              points="39 -40.7, 31 -55.7, +67 -55.7, +71 -40.7"/>
+
+    <polyline data-desc="railing" stroke="black" stroke-width="0.2" fill="none"
+              points="-73 -55.7, -35 -55.7"/>
+    <polyline data-desc="railing" stroke="black" stroke-width="0.2" fill="none"
+              points="-9.9 -55.7, +4.5 -55.7"/>
+    <polyline data-desc="railing" stroke="black" stroke-width="0.2" fill="none"
+              points="+31 -55.7, +67 -55.7"/>
+  </g>
+
+  <g id="xAxis-05_opaque_third_floor_window">
+    <polyline data-desc="third floor window" fill="lightcyan"
+              points="-70 -33, -70 -41, -35 -41, -35 -33"/>
   </g>
 
   <g id="xAxis+35">
@@ -421,25 +461,12 @@
               points="-5 -40.7, -9 -55.7, 5 -55.7, 5 -40.7"/>
     <polyline data-desc="roof" fill="url(#shingles)"
               points="34 -40.7, 30 -55.7, +67 -55.7, +71 -40.7"/>
-  </g>
-
-  <g id="xAxis+35_rear">
-    <polyline data-desc="wall" fill="url(#brick)"
-              points="+70 -0, +70 -7.5, +35.5 -7.5, +35.5 -0"/>
-    <polyline data-desc="first floor window" fill="lightcyan"
-              points="+70 -7.5, +70 -11.5, +35.5 -11.5, +35.5 -7.5"/>
-    <polyline data-desc="wall" fill="url(#brick)"
-              points="+70 -11.5, +70 -18, +35.5 -18, +35.5 -11.5"/>
-    <polyline data-desc="second floor window" fill="lightcyan" fill-opacity="0.5"
-              points="+70 -18, +70 -26, +35.5 -26, +35.5 -18"/>
-    <polyline data-desc="wall" fill="url(#brick)"
-              points="+70 -26, +70 -33, +35.5 -33, +35.5 -26"/>
-    <polyline data-desc="third floor window" fill="lightcyan" fill-opacity="0.5"
-              points="+70 -33, +70 -41, +35 -41, +35 -33"/>
-    <polyline data-desc="freestanding column" fill="url(#brick)"
-              points="+66.5 -0, +66.5 -41, +64.5 -41, +64.5 -0"/>
-    <polyline data-desc="edge" stroke="black" stroke-width="0.1" fill="none"
-              points="+70 -0, +70 -41"/>
+    <polyline data-desc="railing" stroke="black" stroke-width="0.2" fill="none"
+              points="-73 -55.7, -35.3 -55.7"/>
+    <polyline data-desc="railing" stroke="black" stroke-width="0.2" fill="none"
+              points="-9.9 -55.7, +4.5 -55.7"/>
+    <polyline data-desc="railing" stroke="black" stroke-width="0.2" fill="none"
+              points="+30 -55.7, +67 -55.7"/>
   </g>
 
   <g id="zAxis-00">
@@ -477,7 +504,7 @@
     <defs>
       <g id="second-floor">
         <polyline fill="gainsboro"
-                  points="-15 -25, -15 +70, +15 +70, +15 -25"/>
+                  points="-15 -5, -15 +70, +15 +70, +15 -5"/>
         <g stroke="black" stroke-width="0.1">
           <polyline points="-12 -5, -12 +70"/>
           <polyline points="-6 -5, -6 +70"/>
@@ -649,6 +676,7 @@
   </g>
 
   <g transform="scale(-1,1) translate(-4.5,101) skewY(-30)">
+    <use href="#xAxis-05_opaque_third_floor_window"/>
     <use href="#xAxis-05"/>
   </g>
 
@@ -712,7 +740,7 @@
     <use href="#xAxis+70"/>
   </g>
 
-  <use href="#tree_isometric" transform="translate(-75,75) scale(-1.415,0.815)"/>
+  <use href="#tree_isometric" transform="translate(-77,74) scale(-1.415,0.815)"/>
   <use href="#tree_isometric" transform="translate(-75,38) scale(-1.415,0.815)"/>
   <use href="#tree_isometric" transform="translate(-40,95) scale(-1.415,0.815)"/>
   <use href="#tree_isometric" transform="translate(-38,62) scale(-1.415,0.815)"/>
