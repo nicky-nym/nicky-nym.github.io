@@ -195,7 +195,7 @@
   -->
 </defs>
 
-<g id="1px:1ft" transform="scale(1.56) translate(0,120) ">
+<g id="1px:1ft" transform="scale(2.64) translate(0,100) ">
   <polyline id="pavement" fill="black"
             points="-70 4, -70 -0, +70 -0, +70 4"/>
   <use href="#townhouse" transform="translate(-70 0)"/>
