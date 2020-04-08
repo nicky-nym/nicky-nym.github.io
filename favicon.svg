@@ -1,6 +1,6 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg">
   <metadata data-license="http://creativecommons.org/licenses/publicdomain/"/>
-  <g transform="scale(5)" fill="#DF4911">
+  <g transform="scale(5)" fill="#DF4911" width="64" height="64" viewBox="0 0 64 64">
   <g id="small" transform="scale(0.018)">
     <g id="large" transform="translate(35,-30) scale(0.5)">
       <g id="wing" transform="translate(780,120) scale(-0.06) skewX(15) rotate(-30)">
