@@ -5,6 +5,9 @@
   <metadata data-license="http://creativecommons.org/licenses/publicdomain/"/>
 
 <defs>
+  <use id="flying_pig"
+       href="../logos/flying_pig.svg#small" 
+       fill="magenta"/>
   <use id="bike_side"
        href="../items/bikes/bike_rider_icon_side.svg#1px:1ft" 
        fill="green"/>
@@ -239,6 +242,8 @@
 
   <use href="#person_walking" transform="translate(-49 0)"/>
   <use href="#person_walking" transform="translate(+36 0)"/>
+
+  <use href="#flying_pig" transform="translate(-60 -65)"/>
 
 </g>
 </svg>

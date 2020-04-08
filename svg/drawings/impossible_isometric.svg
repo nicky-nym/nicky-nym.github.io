@@ -17,6 +17,9 @@
            patternUnits="userSpaceOnUse">
     <rect width="1" height="2" style="fill:slategrey; stroke-width:0.3; stroke:lightslategrey"/>
   </pattern>
+  <use id="flying_pig"
+       href="../logos/flying_pig.svg#small" 
+       fill="violet"/>
   <use id="bike_side"
        href="../items/bikes/bike_rider_icon_side.svg#1px:1ft" 
        fill="green"/>
@@ -740,6 +743,7 @@
     <use href="#xAxis+70"/>
   </g>
 
+  <use href="#flying_pig" transform="translate(-64,40) scale(1.2)"/>
   <use href="#tree_isometric" transform="translate(-77,74) scale(-1.415,0.815)"/>
   <use href="#tree_isometric" transform="translate(-75,38) scale(-1.415,0.815)"/>
   <use href="#tree_isometric" transform="translate(-40,95) scale(-1.415,0.815)"/>
