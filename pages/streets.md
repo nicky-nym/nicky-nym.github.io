@@ -31,6 +31,7 @@ permalink: /streets/
 </div>
 
 <a name="comparison"></a>
+
   |---
   |  |  | 
   |:-:|:-|:-
@@ -51,19 +52,20 @@ permalink: /streets/
 
 <a name="manhattan"></a>
 
-<object data="../svg/drawings/manhattan_ave.svg"></object> 
+<object width="800" data="../svg/drawings/manhattan_ave.svg"></object> 
 ## Manhattan New York, 2nd Avenue
 
 
 <a name="impossible"></a>
 
-<object data="../svg/drawings/impossible_ave.svg"></object> 
+<object width="800" data="../svg/drawings/impossible_ave.svg"></object> 
 ## Impossible street design
 
 
+<a name="intersection"></a>
 
-<object data="../svg/drawings/impossible_isometric.svg"> </object> 
-## <a name="intersection"></a>Impossible intersection design
+<object width="800" data="../svg/drawings/impossible_isometric.svg"> </object> 
+## Impossible intersection design
 
 
 
