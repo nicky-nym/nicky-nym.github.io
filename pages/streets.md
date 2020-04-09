@@ -1,15 +1,40 @@
 ---
 permalink: /streets/
 ---
-# Streets & intersections
+# <a name="streets"></a>Streets & intersections
 
+<div id="contents-title">
+  <div style="float:right;">Contents</div>
+  <div id="contents-entries">
+    <p>&nbsp;</p>
+    <div>
+      <details>
+        <summary><a href="#streets">Streets & intersections</a></summary>
+        <ul>
+          <li><a href="#comparison">Comparison table</a></li>
+          <li><a href="#manhattan">2nd Ave Manhattan drawing</a></li>
+          <li><a href="#impossible">Impossible street design drawing</a></li>
+          <li><a href="#intersection">Impossible intersection design drawing</a></li>
+        </ul>
+      </details>
+    </div>
+    <div>
+      <details>
+        <summary>The long tail...</summary>
+        <ul>
+          <li><a href="#sources">Source material</a></li>
+          <li><a href="#references">References</a></li>
+        </ul>
+      </details>
+    </div>
+  </div>
+</div>
 
-## <a name="comparison"></a>Comparison
-
+<a name="comparison"></a>
   |---
   |  |  | 
   |:-:|:-|:-
-  | | <object width="400" data="../svg/drawings/manhattan_ave.svg"></object><br><h2>2nd Avenue, Manhattan</h2><br><a href="#manhattan">see larger</a> | <object width="400"   data="../svg/drawings/impossible_ave.svg"></object><br><h2>Impossible Street Design</h2><br><a href="#impossible">see larger</a>
+  | | <object width="400" data="../svg/drawings/manhattan_ave.svg"></object><br><span>2nd Avenue, Manhattan</span><br><a href="#manhattan">see larger</a> | <object width="400"   data="../svg/drawings/impossible_ave.svg"></object><br><div>Impossible Street Design</div><br><a href="#impossible">see larger</a>
   | **right-of-way** | 100-foot wide right-of-way<br>(includes sidewalks & street) | 100-foot wide right-of-way<br>(includes sidewalks & enclosed-street building)
   | **sidewalks**    | two 20-foot wide sidewalks | two 15-foot wide sidewalks at ground-level <br> two 25-foot wide highline greenways with footpaths
   | **streets**      | one 60-foot wide open-air street      | two 30-foot wide enclosed streets elevated on 2nd floor
@@ -24,17 +49,21 @@ permalink: /streets/
   | **throughput, sidewalk pedestrians** | about 10,000 people per hour | about 10,000 people per hour
 
 
-<a name="manhattan"></a><object data="../svg/drawings/manhattan_ave.svg"></object> 
+<a name="manhattan"></a>
+
+<object data="../svg/drawings/manhattan_ave.svg"></object> 
 ## Manhattan New York, 2nd Avenue
 
 
-<a name="impossible"></a><object data="../svg/drawings/impossible_ave.svg"></object> 
-## Impossible City street design
+<a name="impossible"></a>
+
+<object data="../svg/drawings/impossible_ave.svg"></object> 
+## Impossible street design
 
 
 
 <object data="../svg/drawings/impossible_isometric.svg"> </object> 
-## <a name="intersection"></a>Impossible City intersection design
+## <a name="intersection"></a>Impossible intersection design
 
 
 
