@@ -7,7 +7,7 @@ permalink: /streets/
 ## <a name="comparison"></a>Comparison
 
   |---
-  |  | ##2nd Avenue, Manhattan | ##Impossible Street Design
+  |  | <h2>2nd Avenue, Manhattan</h2> | <h2>Impossible Street Design</h2>
   |:-:|:-|:-
   | | <object width="400" data="../svg/drawings/manhattan_ave.svg"></object><br><a href="#manhattan">see larger</a> | <object width="400"   data="../svg/drawings/impossible_ave.svg"></object><br><a href="#impossible">see larger</a>
   | **right-of-way** | 100-foot wide right-of-way<br>(includes sidewalks & street) | 100-foot wide right-of-way<br>(includes sidewalks & enclosed-street building)
@@ -20,7 +20,7 @@ permalink: /streets/
   | **intersections** | at-grade conventional intersections | grade-separated intersections
   | **speed limits, posted** | 25 mph | 18 mph 
   | **actual speed, average** | 7.1 mph for cars <br> 7.5 mph for buses | 15 mph 
-  | **throughput** | bus lane: about 6,000 people per hour (+/- 2,000)<br>car lane: about 1,000 people per hour (+/- 400)<br>**total:** about 11,000 people per hour | bike lane: about 3,500 people per hour per bike lane (+/- 250 per hour)<br>**total:** about 28,000 people per hour
+  | **throughput** | 1 bus lane at about 6,000 people per hour (+/- 2,000)<br> 4 car lanes at about 1,000 people per hour each (+/- 400)<br>**total:** about 11,000 people per hour | 8 bike lanes at about 3,500 people per hour per bike lane each (+/- 250 per hour)<br>**total:** about 28,000 people per hour
   | **throughput, sidewalk pedestrians** | about 10,000 people per hour | about 10,000 people per hour
 
 
