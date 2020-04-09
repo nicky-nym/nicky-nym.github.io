@@ -1,13 +1,16 @@
 ---
 permalink: /architecture/
 ---
-# Books
+
+# Architectural features & terminology
+
+## Books & dictionaries
 
 {% for book in site.data.features.books %}
   * **[{{ book.book }}]({{ book.link }})**, by {{ book.by }}
 {% endfor %}
 
-# Architectural features
+## Glossary
 
 {% for topic in site.data.features.topics %}
 ## {{ topic.topic }}
