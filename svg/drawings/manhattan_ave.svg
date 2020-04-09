@@ -92,21 +92,21 @@
   </g>
 </defs>
 
-<g id="1px:1ft" transform="scale(2.64) translate(0,100)">
+<g id="1px:1ft" transform="scale(-2.64,2.64) translate(0,100)">
   <polyline id="pavement" fill="black"
             points="-70 4, -70 -1, -30 -1, -30 -0, 30 -0, 30 -1, 70 -1, 70 4"/>
   <use href="#building" transform="translate(-70 0)"/>
   <use href="#building" transform="translate(70 0) scale(-1 1)"/>
   <use href="#person_walking" transform="translate(-49 -1)"/>
-  <use href="#trashcan" transform="translate(-32 -1)"/>
+  <use href="#tree" transform="translate(-21 -1) scale(-1 1)"/>
+  <use href="#trashcan" transform="translate(-35 -1)"/>
   <use href="#car_parked" transform="translate(-29.5 -0)"/>
-  <use href="#bus_front" transform="translate(-18 -0)"/>
-  <use href="#car_front" transform="translate(-8 -0)"/>
+  <use href="#car_front" transform="translate(-18 -0)"/>
+  <use href="#motor_scooter_front" transform="translate(-8 -0)"/>
   <use href="#taxi_front" transform="translate(2 -0)"/>
-  <use href="#motor_scooter_front" transform="translate(12 -0)"/>
-  <use href="#car_parked" transform="translate(23.5 -0)"/>
-  <use href="#tree" transform="translate(21 -1)"/>
-  <use href="#person_reaching" transform="translate(34 -1)"/>
+  <use href="#car_front" transform="translate(12 -0)"/>
+  <use href="#bus_front" transform="translate(22 -0)"/>
+  <use href="#person_reaching" transform="translate(30 -1)"/>
 </g>
 
 </svg>
