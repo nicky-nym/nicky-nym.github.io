@@ -19,7 +19,7 @@
   </pattern>
   <use id="flying_pig"
        href="../logos/flying_pig.svg#small" 
-       fill="violet"/>
+       fill="#DF4911"/>
   <use id="bike_side"
        href="../items/bikes/bike_rider_icon_side.svg#1px:1ft" 
        fill="green"/>

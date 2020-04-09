@@ -1,13 +1,13 @@
 <svg
   version="1.1"
-  viewBox="-180 40 360 300"
+  viewBox="-180 0 360 300"
   xmlns="http://www.w3.org/2000/svg" >
   <metadata data-license="http://creativecommons.org/licenses/publicdomain/"/>
 
 <defs>
   <use id="flying_pig"
        href="../logos/flying_pig.svg#small" 
-       fill="magenta"/>
+       fill="#DF4911"/>
   <use id="bike_side"
        href="../items/bikes/bike_rider_icon_side.svg#1px:1ft" 
        fill="green"/>
@@ -243,7 +243,7 @@
   <use href="#person_walking" transform="translate(-49 0)"/>
   <use href="#person_walking" transform="translate(+36 0)"/>
 
-  <use href="#flying_pig" transform="translate(-60 -65)"/>
+  <use href="#flying_pig" transform="translate(-60 -82)"/>
 
 </g>
 </svg>
