@@ -7,9 +7,9 @@ permalink: /streets/
 ## <a name="comparison"></a>Comparison
 
   |---
-  |  | <h2>2nd Avenue, Manhattan</h2> | <h2>Impossible Street Design</h2>
+  |  |  | 
   |:-:|:-|:-
-  | | <object width="400" data="../svg/drawings/manhattan_ave.svg"></object><br><a href="#manhattan">see larger</a> | <object width="400"   data="../svg/drawings/impossible_ave.svg"></object><br><a href="#impossible">see larger</a>
+  | | <object width="400" data="../svg/drawings/manhattan_ave.svg"></object><br><h2>2nd Avenue, Manhattan</h2><br><a href="#manhattan">see larger</a> | <object width="400"   data="../svg/drawings/impossible_ave.svg"></object><br><h2>Impossible Street Design</h2><br><a href="#impossible">see larger</a>
   | **right-of-way** | 100-foot wide right-of-way<br>(includes sidewalks & street) | 100-foot wide right-of-way<br>(includes sidewalks & enclosed-street building)
   | **sidewalks**    | two 20-foot wide sidewalks | two 15-foot wide sidewalks at ground-level <br> two 25-foot wide highline greenways with footpaths
   | **streets**      | one 60-foot wide open-air street      | two 30-foot wide enclosed streets elevated on 2nd floor
@@ -42,7 +42,55 @@ permalink: /streets/
 
 ---
 
+## <a name="sources"></a>Source material
+
+### <a name="throughput"></a>Throughput per lane (source: NACTO[^gsdg])
+
+|---
+| Throughput | Width | Mode 
+|-:|-:|:-
+| people per hour
+| 600 to 1,600 | one lane, **3 meters** wide | **private motor vehicles**
+| 1,000 to 2,800 | one lane, **3 meters** wide | **mixed traffic** with frequent buses
+| 6,500 to 7,500 | one lane, **3 meters** wide | two-way protected **bikeway**
+| 4,000 to 8,000 | one lane, **3 meters** wide | dedicated **transit lanes**
+| 8,000 to 9,000 | one lane, **3 meters** wide | **sidewalk**
+| 10,000 to 25,000 | one lane, **3 meters** wide | on-street **transitway**, **bus** or **rail**
+
+### <a name="throughput"></a>Throughput per lane (source: Bertaud[^bertaud])
+
+|---
+| Throughput | Vehicle type
+|-:|:-
+| passengers per hour per lane<br>at about 15 km/h
+| 1,000 | **Bus, M1**: 5 minutes headway
+| 1,600 | **cars**
+| 2,600 | **Bus 4 routes**: 1 minute 48 seconds headway
+| 2,800 | **motorcycles**
+| 5,500 | **bicycles** on entire lane width
+|---
+
+
+### <a name="throughput"></a>Width per 10,000 throughput (source: NACTO[^nacto])
+
+|---
+| Throughput | Width | Mode 
+|-:|-:|:-
+| people per hour
+| 10,000 | one lane, **12' to 15'** wide | **sidewalk**
+| 10,000 | one lane, **12' to 15'** wide | **protected bike lane** 
+| 10,000 | two lanes, totaling about **23'** wide | **bus-only lanes**, with 80 buses per lane per hour
+| 10,000 | 13 lanes of conventional arterial, at about **156'** wide |**mostly cars**, with 800 vehicles per lane per hour
+|---
+
+---
+
 ## <a name="references"></a>References
 
+[^bertaud]: _[Order without Design](https://mitpress.mit.edu/books/order-without-design): How Markets Shape Cities_, by Alain Bertaud
+
+[^gsdg]: ["Global Street Design Guide"](https://nacto.org/publication/global-street-design-guide/). _National Association of City Transportation Officials (NACTO)_.
+
+[^nacto]: ["Blueprint for Autonomous Urbanism"](https://nacto.org/publication/bau2/), Second Edition. _National Association of City Transportation Officials (NACTO)_.
 
 
