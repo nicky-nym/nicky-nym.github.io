@@ -35,7 +35,7 @@ permalink: /streets/
   |---
   |  |  | 
   |:-:|:-|:-
-  | | <object width="400" data="../svg/drawings/manhattan_ave.svg"></object><br><span>2nd Avenue, Manhattan</span><br><a href="#manhattan">see larger</a> | <object width="400"   data="../svg/drawings/impossible_ave.svg"></object><br><div>Impossible Street Design</div><br><a href="#impossible">see larger</a>
+  | | <object width="400" data="../svg/drawings/manhattan_ave.svg"></object><br><span style="font-size: 1.5em; font-weight: bold; color: #DF4911;">2nd Avenue, Manhattan</span><br><a href="#manhattan">see larger</a> | <object width="400"   data="../svg/drawings/impossible_ave.svg"></object><br><span style="font-size: 1.5em; font-weight: bold; color: #DF4911;">Impossible Street Design</span><br><a href="#impossible">see larger</a>
   | **right-of-way** | 100-foot wide right-of-way<br>(includes sidewalks & street) | 100-foot wide right-of-way<br>(includes sidewalks & enclosed-street building)
   | **sidewalks**    | two 20-foot wide sidewalks | two 15-foot wide sidewalks at ground-level <br> two 25-foot wide highline greenways with footpaths
   | **streets**      | one 60-foot wide open-air street      | two 30-foot wide enclosed streets elevated on 2nd floor
