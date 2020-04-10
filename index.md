@@ -1,7 +1,7 @@
 
 # Impossible cities
 
-A summer 2020 design proposal for a car-free city transportation grid.
+A summer 2020 design proposal for a car-free city.
 
 ## ~ [Street & intersections](streets) 
 ## ~ [Mobility](kinematic) &mdash; congested cities vs. kinematic cities 
