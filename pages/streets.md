@@ -12,6 +12,13 @@ permalink: /streets/
         <summary><a href="#streets">Streets & intersections</a></summary>
         <ul>
           <li><a href="#comparison">Comparison table</a></li>
+        </ul>
+      </details>
+    </div>
+    <div>
+      <details>
+        <summary><a href="#drawings">Drawings</a></summary>
+        <ul>
           <li><a href="#manhattan">2nd Ave Manhattan drawing</a></li>
           <li><a href="#impossible">Impossible street design drawing</a></li>
           <li><a href="#intersection">Impossible intersection design drawing</a></li>
@@ -44,11 +51,25 @@ permalink: /streets/
   | **cross-streets** | about 20 per mile | 8 per mile
   | **traffic lights** | about 20 per mile | none
   | **intersections** | at-grade conventional intersections | grade-separated intersections
+  | **trees** | about 150 per mile | about 300 per mile
   | **speed limits, posted** | 25 mph | 18 mph 
   | **actual speed, average** | 7.1 mph for cars <br> 7.5 mph for buses | 15 mph 
   | **throughput** | 1 bus lane at about 6,000 people per hour (+/- 2,000)<br> 4 car lanes at about 1,000 people per hour each (+/- 400)<br>1 parking & delivery lane at 0 people per hour<br>**total:** about 11,000 people per hour | 8 bike lanes at about 3,500 people per hour per bike lane each (+/- 250 per hour)<br>**total:** about 28,000 people per hour
   | **throughput, sidewalk pedestrians** | about 10,000 people per hour | about 10,000 people per hour
+  | **bottom line** | less than half as many people<br>each moving half as fast | 
+  | <a name="costs"></a><span style="font-size: 1.5em; font-weight: bold; color: #DF4911;">Costs</span> |  | 
+  | **floorspace** | no real estate floorspace in street | 680,000 sqaure feet of floor space per mile
+  | **traffic fatalities** | 23 fatalities per million people per year | 1 fatality per million per year
+  | **CO2 footprint for transportation**<br>kg per person per year | 1,000 kg | 1 kg
+  | **transit fares paid by riders**<br>annual dollars per capita | $360 | $0
+  | **city transit subsidies**<br>annual dollars per capita | $720 | $0
+  | **cost of vehicle ownership**<br>cars, bicycles, mopeds, scooters, segways, trikes, etc.
+annual dollars per capita | $1,000<br>mostly cars<br>about 1 per 10 people | $1,000<br>mostly e-bikes<br>about 1 per person
+  | **air quality** | good | _really_ good
+  | **noise levels** | noisier | quieter
 
+
+# <a name="drawings"></a>Drawings
 
 <a name="manhattan"></a>
 
