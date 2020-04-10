@@ -3,6 +3,18 @@ permalink: /streets/
 ---
 # <a name="streets"></a>Streets & intersections
 
+The whole [Impossible City](index) design hinges on a basic re-design of what a city street could look like. In the Impossible design, we:
+  * replace cars & buses with **bicycles** & **bike-sized** vehicles
+  * replace stop signs and traffic lights with **grade-separated** intersections
+  * replace outdoor streets with **sheltered streets**
+
+The result is:
+  * less congestion and more than **twofold increased throughput**
+  * **50% cost savings** over conventional public transit and private car ownership
+  * **lower carbon emissions**, quieter streets, and less air polution
+  * **twice as many trees**
+  * a slight increase in total available floorspace
+
 <div id="contents-title">
   <div style="float:right;">Contents</div>
   <div id="contents-entries">
