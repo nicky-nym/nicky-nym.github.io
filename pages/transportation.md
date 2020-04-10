@@ -11,7 +11,6 @@ permalink: /transportation/
       <details>
         <summary><a href="#comparisons">Comparisons</a></summary>
         <ul>
-          <li><a href="#throughput">Throughput</a></li>
           <li><a href="#co2">CO2-e emissions</a></li>
           <li><a href="#noise">Noise</a></li>
         </ul>
@@ -53,46 +52,6 @@ permalink: /transportation/
 ---
 
 ## <a name="comparisons"></a>Comparisons
-
-
-### <a name="throughput"></a>Throughput per lane (source: NACTO[^gsdg])
-
-|---
-| Throughput | Width | Mode 
-|-:|-:|:-
-| people per hour
-| 600 to 1,600 | one lane, **3 meters** wide | **private motor vehicles**
-| 1,000 to 2,800 | one lane, **3 meters** wide | **mixed traffic** with frequent buses
-| 6,500 to 7,500 | one lane, **3 meters** wide | two-way protected **bikeway**
-| 4,000 to 8,000 | one lane, **3 meters** wide | dedicated **transit lanes**
-| 8,000 to 9,000 | one lane, **3 meters** wide | **sidewalk**
-| 10,000 to 25,000 | one lane, **3 meters** wide | on-street **transitway**, **bus** or **rail**
-
-### <a name="throughput"></a>Throughput per lane (source: Bertaud[^bertaud])
-
-|---
-| Throughput | Vehicle type
-|-:|:-
-| passengers per hour per lane<br>at about 15 km/h
-| 1,000 | **Bus, M1**: 5 minutes headway
-| 1,600 | **cars**
-| 2,600 | **Bus 4 routes**: 1 minute 48 seconds headway
-| 2,800 | **motorcycles**
-| 5,500 | **bicycles** on entire lane width
-|---
-
-
-### <a name="throughput"></a>Width per 10,000 throughput (source: NACTO[^nacto])
-
-|---
-| Throughput | Width | Mode 
-|-:|-:|:-
-| people per hour
-| 10,000 | one lane, **12' to 15'** wide | **sidewalk**
-| 10,000 | one lane, **12' to 15'** wide | **protected bike lane** 
-| 10,000 | two lanes, totaling about **23'** wide | **bus-only lanes**, with 80 buses per lane per hour
-| 10,000 | 13 lanes of conventional arterial, at about **156'** wide |**mostly cars**, with 800 vehicles per lane per hour
-|---
 
 
 ### <a name="co2"></a>CO2-e emissions
@@ -201,13 +160,9 @@ https://medium.com/sidewalk-talk/https-medium-com-sidewalk-talk-street-sim-33da7
 
 [^fujiyama]: ["An Explicit Study on Walking Speeds of Pedestrians on Stairs"](https://discovery.ucl.ac.uk/id/eprint/1243/1/2004_21.pdf), Taku Fujiyama and Nick Tyler, _University College London_.
 
-[^gsdg]: ["Global Street Design Guide"](https://nacto.org/publication/global-street-design-guide/). _National Association of City Transportation Officials (NACTO)_.
-
 [^haag]: ["1.5 Million Packages a Day: The Internet Brings Chaos to N.Y. Streets"](https://www.nytimes.com/2019/10/27/nyregion/nyc-amazon-delivery.html). Matthew Haag and Winnie Hu, _New York Times_. 27 Oct 2019.
 
 [^kang]: ["Sound Environment: High- versus Low-Density Cities"], by Jian Kang, Chapter 12 of ["Designing High-Density Cities"](), edited by Edward Ng
-
-[^nacto]: ["Blueprint for Autonomous Urbanism"](https://nacto.org/publication/bau2/), Second Edition. _National Association of City Transportation Officials (NACTO)_.
 
 [^sun]: ["The influence of surface slope on human gait characteristics: a study of urban pedestrians walking on an inclined surface"](https://www.tandfonline.com/doi/abs/10.1080/00140139608964489). JIE SUN, MEGAN WALTERS, NOEL SVENSSON & DAVID LLOYD, _Ergonomics_ Volume 39, 1996 - Issue 4
 
