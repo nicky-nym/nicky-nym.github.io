@@ -11,7 +11,7 @@ In the Impossible design, we:
   * replace outdoor streets with **sheltered streets**
 
 The result is:
-  * less congestion and more than **twofold increased throughput**
+  * less congestion and **twice the throughput**
   * **50% cost savings** over conventional public transit and private car ownership
   * **lower carbon emissions**, quieter streets, and less air polution
   * **twice as many trees**
