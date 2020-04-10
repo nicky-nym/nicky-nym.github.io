@@ -53,11 +53,11 @@ permalink: /streets/
   | **intersections** | at-grade conventional intersections | grade-separated intersections
   | **trees** | about 150 per mile | about 300 per mile
   | **speed limits, posted** | 25 mph | 18 mph 
-  | **actual speed, average** | 7.1 mph for cars <br> 7.5 mph for buses | 15 mph 
+  | **actual speed, average** | 7.1 mph for cars[^nycdot] <br> 7.5 mph for buses[^nycdot] | 15 mph 
   | **throughput** | 1 bus lane at about 6,000 people per hour (+/- 2,000)<br> 4 car lanes at about 1,000 people per hour each (+/- 400)<br>1 parking & delivery lane at 0 people per hour<br>**total:** about 11,000 people per hour | 8 bike lanes at about 3,500 people per hour per bike lane each (+/- 250 per hour)<br>**total:** about 28,000 people per hour
   | **throughput, sidewalk pedestrians** | about 10,000 people per hour | about 10,000 people per hour
   | **bottom line** | less than half as many people<br>each moving half as fast | 
-  | <a name="costs"></a><span style="font-size: 1.5em; font-weight: bold; color: #DF4911;">Costs</span> |  | 
+  |  | <a name="costs"></a><span style="font-size: 1.5em; font-weight: bold; color: #DF4911;">Costs</span> | 
   | **floorspace** | no real estate floorspace in street | 680,000 sqaure feet of floor space per mile
   | **traffic fatalities** | 23 fatalities per million people per year | 1 fatality per million per year
   | **CO2 footprint for transportation**<br>kg per person per year | 1,000 kg | 1 kg
@@ -67,6 +67,8 @@ permalink: /streets/
 annual dollars per capita | $1,000<br>mostly cars<br>about 1 per 10 people | $1,000<br>mostly e-bikes<br>about 1 per person
   | **air quality** | good | _really_ good
   | **noise levels** | noisier | quieter
+  |  | <a name="costs"></a><span style="font-size: 1.5em; font-weight: bold; color: #DF4911;">Bonus</span> | 
+  | **floorspace** | no real estate floorspace in street | 680,000 sqaure feet of floor space per mile
 
 
 # <a name="drawings"></a>Drawings
@@ -145,4 +147,5 @@ annual dollars per capita | $1,000<br>mostly cars<br>about 1 per 10 people | $1,
 
 [^nacto]: ["Blueprint for Autonomous Urbanism"](https://nacto.org/publication/bau2/), Second Edition. _National Association of City Transportation Officials (NACTO)_.
 
+[^nycdot]: ["New York City Mobility Report"](http://www.nyc.gov/html/dot/downloads/pdf/mobility-report-2018-screen-optimized.pdf), June 2018. _NYC Department of Transportation_.
 
