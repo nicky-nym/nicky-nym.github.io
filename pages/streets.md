@@ -58,16 +58,13 @@ permalink: /streets/
   | **throughput, sidewalk pedestrians** | about 10,000 people per hour | about 10,000 people per hour
   | **bottom line** | less than half as many people<br>each moving half as fast | 
   |  | <a name="costs"></a><span style="font-size: 1.5em; font-weight: bold; color: #DF4911;">Costs</span> | 
-  | **floorspace** | no real estate floorspace in street | 680,000 sqaure feet of floor space per mile
   | **traffic fatalities** | 23 fatalities per million people per year | 1 fatality per million per year
   | **CO2 footprint for transportation**<br>kg per person per year | 1,000 kg | 1 kg
-  | **transit fares paid by riders**<br>annual dollars per capita | $360 | $0
-  | **city transit subsidies**<br>annual dollars per capita | $720 | $0
-  | **cost of vehicle ownership**<br>cars, bicycles, mopeds, scooters, segways, trikes, etc.
-annual dollars per capita | $1,000<br>mostly cars<br>about 1 per 10 people | $1,000<br>mostly e-bikes<br>about 1 per person
+  | **cost of public transit**<br>annual dollars per capita | $360 in fares paid by riders<br>$720 in city funded transit subsidies<br>**$1,080** total | $0
+  | **cost of private vehicle ownership**<br>cars, bicycles, mopeds, scooters, segways, trikes, etc.<br>annual dollars per capita | $1,000<br>mostly for cars<br>about 1 per 10 people | $1,000<br>mostly for e-bikes<br>about 1 per person
   | **air quality** | good | _really_ good
   | **noise levels** | noisier | quieter
-  |  | <a name="costs"></a><span style="font-size: 1.5em; font-weight: bold; color: #DF4911;">Bonus</span> | 
+  |  | <a name="costs"></a><span style="font-size: 1.5em; font-weight: bold; color: #DF4911;">Real estate</span> | 
   | **floorspace** | no real estate floorspace in street | 680,000 sqaure feet of floor space per mile
 
 
