@@ -3,7 +3,7 @@ permalink: /mobility/
 ---
 # Mobility & commute range 
 
-In the [Impossible City](/) proposal, the [streets & intersections](streets) are design to yield **higher throughput** and **faster travel times**, compared to conventional city streets in places like San Franisco or Manhattan New York.
+In the [Impossible City](/) proposal, the [streets & intersections](/streets) are design to yield **higher throughput** and **faster travel times**, compared to conventional city streets in places like San Franisco or Manhattan New York.
 
 The goal is to increase overall **urban mobility**, and more specificly to increase everyone's **kinematic range**.
 
