@@ -3,7 +3,7 @@ permalink: /streets/
 ---
 # <a name="streets"></a>Streets & intersections
 
-<a href="#summary"></a>The whole [Impossible City](/) design hinges on a basic re-design of what a city street could look like. 
+<a name="summary"></a>The whole [Impossible City](/) design hinges on a basic re-design of what a city street could look like. 
 
 In the Impossible design, we:
   * replace cars & buses with **bicycles** & **bike-sized** vehicles
