@@ -13,8 +13,7 @@ In the next 30 years, **by 2050**, we expect another **2.5 billion more people**
 
 "Over the next 40 years, the newly built floor area in the world is expected to double."[^watts]
 
-> "we're going to develop more urban area in the next 100 years than currently exists on Earth"[^growth]
-> &mdash; Paul Romer, Nobel prize-winning economist, New York University.
+"we're going to develop more urban area in the next 100 years than currently exists on Earth"[^growth] &mdash; Paul Romer, Nobel prize-winning economist, New York University.
 
 
 ---
@@ -25,7 +24,7 @@ In the next 30 years, **by 2050**, we expect another **2.5 billion more people**
     <p>&nbsp;</p>
     <div>
       <details>
-        <summary><a href="#billions">2.5 billion more people incoming
+        <summary><a href="#billions">2.5 billion more people incoming</summary>
         <ul>
           <li><a href="#tidal-wave">Tidal wave</a></li>
           <li><a href="#doubling">Doubling of urban area</a></li>
