@@ -1,19 +1,19 @@
 ---
 permalink: /people/
 ---
-# <a name="billions"></a>2.5 billion more people incoming
-
-## <a name="tidal-wave"></a>Tidal wave
+# <a name="billions"></a>2.5 billion more people in cities
 
 In the next 30 years, **by 2050**, we expect another **2.5 billion more people** to be living in cities.[^growth]
 
-## <a name="doubling"></a>Doubling of urban area
+## <a name="doubling"></a>and 2.5 trillion more square feet of buildings
 
 "Half of the urban area that will be needed [by 2050] hasn't been built yet."[^growth]
 
-"Over the next 40 years, the newly built floor area in the world is expected to double."[^watts]
+"Over the next 40 years, the **newly built floor area** in the world is **expected to double**."[^watts]
 
-"we're going to develop more urban area in the next 100 years than currently exists on Earth"[^growth] &mdash; Paul Romer, Nobel prize-winning economist, New York University.
+"We're going to develop more urban area in the next 100 years than currently exists on Earth"[^growth] &mdash; Paul Romer, Nobel prize-winning economist, New York University.
+
+"The amount of floorspace in buildings around the world—currently about **2.5 trillion square feet**—is set to **double by 2060**" &mdash; Brian Bienkowski [^bienkowski]
 
 
 ---
@@ -26,7 +26,6 @@ In the next 30 years, **by 2050**, we expect another **2.5 billion more people**
       <details>
         <summary><a href="#billions">2.5 billion more people incoming</a></summary>
         <ul>
-          <li><a href="#tidal-wave">Tidal wave</a></li>
           <li><a href="#doubling">Doubling of urban area</a></li>
           <li><a href="#precident">People are undertaking to build new cities</a></li>
           <li><a href="#cost">Greenfield development vs. retrofitting</a></li>
@@ -44,9 +43,6 @@ In the next 30 years, **by 2050**, we expect another **2.5 billion more people**
     </div>
   </div>
 </div>
-
-> "The amount of floorspace in buildings around the world—currently about 2.5 trillion square feet—is set to double by 2060"
-> &mdash; Brian Bienkowski [^bienkowski]
 
 ## <a name="need"></a>The world needs more urban floorspace
 
