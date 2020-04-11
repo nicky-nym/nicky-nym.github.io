@@ -88,28 +88,28 @@ The result is:
 <figure>
   <a name="manhattan"></a>
 
-  <object width="800" data="../svg/drawings/manhattan_ave.svg"></object> 
+  <object width="800" data="../svg/drawings/manhattan_ave.svg" style="text-align: center"></object> 
 
-  <figcaption style="font-size: 1.5em; font-weight: bold; color: #DF4911;">Manhattan New York, 2nd Avenue</figcaption>
+  <figcaption style="font-size: 1.5em; font-weight: bold; color: #DF4911; text-align: center">Manhattan New York, 2nd Avenue</figcaption>
 </figure>
 
 
 ---
 
 
-<figure>
+<figure style="text-align: center">
   <a name="impossible"></a>
 
   <object width="800" data="../svg/drawings/impossible_ave.svg"></object> 
 
-  <figcaption style="font-size: 1.5em; font-weight: bold; color: #DF4911;">Impossible street design</figcaption>
+  <figcaption style="font-size: 1.5em; font-weight: bold; color: #DF4911; text-align: center">Impossible street design</figcaption>
 </figure>
 
 
 ---
 
 
-<figure>
+<figure style="text-align: center">
   <a name="intersection"></a>
 
   <object width="800" data="../svg/drawings/impossible_isometric.svg"> </object> 
