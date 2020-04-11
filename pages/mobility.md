@@ -1,7 +1,7 @@
 ---
 permalink: /mobility/
 ---
-# Congestion vs. mobility & commute range 
+# Mobility & commute range 
 
 In the [Impossible City](/) proposal, the [streets & intersections](streets) are design to yield **higher throughput** and **faster travel times**, compared to conventional city streets in places like San Franisco or Manhattan New York.
 
