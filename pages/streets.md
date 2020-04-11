@@ -12,10 +12,10 @@ In the Impossible design, we:
 
 The result is:
   * less congestion and **twice the throughput**
-  * **50% cost savings** over conventional public transit and private car ownership
+  * **50% annual cost savings** over conventional public transit and private car ownership
   * **lower carbon emissions**, quieter streets, and less air polution
-  * **twice as many trees**
-  * a slight increase in total available floorspace
+  * **more trees**
+  * a bit more available floorspace
 
 <div id="contents-title">
   <div style="float:right;">Contents</div>
@@ -66,7 +66,7 @@ The result is:
   | **cross-streets** | about 20 per mile | 8 per mile
   | **traffic lights** | about 20 per mile | none
   | **intersections** | at-grade conventional intersections | grade-separated intersections
-  | **trees** | about 150 per mile | about 300 per mile
+  | **trees** | about 150 per mile | about 200 per mile
   | **speed limits, posted** | 25 mph[^speed-limits] | 18 mph 
   | **actual speed, average** | 7.1 mph for cars[^nycdot] <br> 7.5 mph for buses[^nycdot] | 15 mph 
   | **throughput** | 1 bus lane at about 6,000 people per hour (+/- 2,000)<br> 4 car lanes at about 1,000 people per hour each (+/- 400)<br>1 parking & delivery lane at 0 people per hour<br>**total:** about 11,000 people per hour | 8 bike lanes at about 3,500 people per hour per bike lane each (+/- 250 per hour)<br>**total:** about 28,000 people per hour
@@ -91,10 +91,16 @@ The result is:
 ## Manhattan New York, 2nd Avenue
 
 
+---
+
+
 <a name="impossible"></a>
 
 <object width="800" data="../svg/drawings/impossible_ave.svg"></object> 
 ## Impossible street design
+
+
+---
 
 
 <a name="intersection"></a>
