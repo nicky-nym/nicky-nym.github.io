@@ -1,7 +1,7 @@
 ---
 permalink: /economics/
 ---
-# Impossible economics
+# Construction costs & land value capture
 
 ---
 <div id="contents-title">
