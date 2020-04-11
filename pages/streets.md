@@ -85,28 +85,37 @@ The result is:
 
 # <a name="drawings"></a>Drawings
 
-<a name="manhattan"></a>
+<figure>
+  <a name="manhattan"></a>
 
-<object width="800" data="../svg/drawings/manhattan_ave.svg"></object> 
-## Manhattan New York, 2nd Avenue
+  <object width="800" data="../svg/drawings/manhattan_ave.svg"></object> 
 
-
----
-
-
-<a name="impossible"></a>
-
-<object width="800" data="../svg/drawings/impossible_ave.svg"></object> 
-## Impossible street design
+  <figcaption style="font-size: 1.5em; font-weight: bold; color: #DF4911;">Manhattan New York, 2nd Avenue</figcaption>
+</figure>
 
 
 ---
 
 
-<a name="intersection"></a>
+<figure>
+  <a name="impossible"></a>
 
-<object width="800" data="../svg/drawings/impossible_isometric.svg"> </object> 
-## Impossible intersection design
+  <object width="800" data="../svg/drawings/impossible_ave.svg"></object> 
+
+  <figcaption style="font-size: 1.5em; font-weight: bold; color: #DF4911;">Impossible street design</figcaption>
+</figure>
+
+
+---
+
+
+<figure>
+  <a name="intersection"></a>
+
+  <object width="800" data="../svg/drawings/impossible_isometric.svg"> </object> 
+
+  <figcaption style="font-size: 1.5em; font-weight: bold; color: #DF4911; text-align: center">Impossible intersection design</figcaption>
+</figure>
 
 
 
