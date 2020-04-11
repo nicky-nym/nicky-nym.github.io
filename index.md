@@ -5,7 +5,7 @@ A summer 2020 design proposal for a car-free city.
 
 ## ~ [Street & intersections](streets) 
 ## ~ Congestion vs. [mobility & commute range](mobility)
-## ~ Another [2.5 billion people](people) in cities
+## ~ [2.5 billion more people](people) incoming
 ## ~ [Economics](economics) of urban construction
 
 ---------
