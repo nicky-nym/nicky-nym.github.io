@@ -85,7 +85,7 @@ The result is:
 
 # <a name="drawings"></a>Drawings
 
-<a name="manhattan"></a>
+<a name="manhattan">&nbsp;</a>
 
 <figure style="text-align: center; margin-bottom: 20px;">
 
@@ -98,7 +98,7 @@ The result is:
 ---
 
 
-<a name="impossible"></a>
+<a name="impossible">&nbsp;</a>
 
 <figure style="text-align: center; margin-bottom: 4em;">
   <object width="800" data="../svg/drawings/impossible_ave.svg"></object> 
@@ -110,7 +110,7 @@ The result is:
 ---
 
 
-<a name="intersection"></a>
+<a name="intersection">&nbsp;</a>
 
 <figure style="text-align: center; padding-bottom: 4em;">
   <object width="800" data="../svg/drawings/impossible_isometric.svg"> </object> 
