@@ -85,8 +85,9 @@ The result is:
 
 # <a name="drawings"></a>Drawings
 
+<a name="manhattan"></a>
+
 <figure style="text-align: center; margin-bottom: 20px;">
-  <a name="manhattan"></a>
 
   <object width="800" data="../svg/drawings/manhattan_ave.svg"></object> 
 
@@ -97,9 +98,9 @@ The result is:
 ---
 
 
-<figure style="text-align: center; margin-bottom: 2em;">
-  <a name="impossible"></a>
+<a name="impossible"></a>
 
+<figure style="text-align: center; margin-bottom: 4em;">
   <object width="800" data="../svg/drawings/impossible_ave.svg"></object> 
 
   <figcaption style="font-size: 1.5em; font-weight: bold; color: #DF4911; text-align: center">Impossible street design</figcaption>
@@ -109,9 +110,9 @@ The result is:
 ---
 
 
-<figure style="text-align: center; margin-bottom: 2em;">
-  <a name="intersection"></a>
+<a name="intersection"></a>
 
+<figure style="text-align: center; padding-bottom: 4em;">
   <object width="800" data="../svg/drawings/impossible_isometric.svg"> </object> 
 
   <figcaption style="font-size: 1.5em; font-weight: bold; color: #DF4911; text-align: center">Impossible intersection design</figcaption>
