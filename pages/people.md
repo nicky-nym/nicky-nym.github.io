@@ -1,8 +1,21 @@
 ---
-permalink: /need/
+permalink: /people/
 ---
-# _Impossibly large_
-# Unmet need for urban floorspace
+# <a name="billions"></a>2.5 billion more people incoming
+
+## <a name="tidal-wave"></a>Tidal wave
+
+In the next 30 years, **by 2050**, we expect another **2.5 billion more people** to be living in cities.[^growth]
+
+## <a name="doubling"></a>Doubling of urban area
+
+"Half of the urban area that will be needed [by 2050] hasn't been built yet."[^growth]
+
+"Over the next 40 years, the newly built floor area in the world is expected to double."[^watts]
+
+> "we're going to develop more urban area in the next 100 years than currently exists on Earth"[^growth]
+> &mdash; Paul Romer, Nobel prize-winning economist, New York University.
+
 
 ---
 
@@ -12,9 +25,10 @@ permalink: /need/
     <p>&nbsp;</p>
     <div>
       <details>
-        <summary><a href="#need">Need</a> &mdash; the world needs more urban floorspace</summary>
+        <summary><a href="#billions">2.5 billion more people incoming
         <ul>
-          <li><a href="#tidal-wave">Tidal wave, impending</a></li>
+          <li><a href="#tidal-wave">Tidal wave</a></li>
+          <li><a href="#doubling">Doubling of urban area</a></li>
           <li><a href="#precident">People are undertaking to build new cities</a></li>
           <li><a href="#cost">Greenfield development vs. retrofitting</a></li>
           <li><a href="#funding">There is some funding available for new cities</a></li>
@@ -54,15 +68,6 @@ In California alone, "to satisfy pent-up demand and meet the needs of a growing 
 
 > "58 of the 89 biggest — with headquarters of 100,000 square feet and above — tech and life science companies based in the Bay Area have leased 30.4 million square feet of office space in other U.S. cities since January 2010"[^sumagaysay]
 
-
-### Doubling of urban area
-
-"Half of the urban area that will be needed [by 2050] hasn't been built yet."[^growth]
-
-"Over the next 40 years, the newly built floor area in the world is expected to double."[^watts]
-
-> "we're going to develop more urban area in the next 100 years than currently exists on Earth"[^growth]
-> &mdash; Paul Romer, Nobel prize-winning economist, New York University.
 
 ### Refugee numbers are increasing
 
