@@ -24,7 +24,7 @@ In the next 30 years, **by 2050**, we expect another **2.5 billion more people**
     <p>&nbsp;</p>
     <div>
       <details>
-        <summary><a href="#billions">2.5 billion more people incoming</summary>
+        <summary><a href="#billions">2.5 billion more people incoming</a></summary>
         <ul>
           <li><a href="#tidal-wave">Tidal wave</a></li>
           <li><a href="#doubling">Doubling of urban area</a></li>
