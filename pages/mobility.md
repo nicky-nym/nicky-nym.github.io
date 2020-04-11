@@ -1,8 +1,11 @@
 ---
-permalink: /kinematic/
+permalink: /mobility/
 ---
-# Kinematic Cities 
-## _vs. Congested Cities_
+# Congestion vs. mobility & commute range 
+
+In the [Impossible City](/) proposal, the [streets & intersections](streets) are design to yield **higher throughput** and **faster travel times**, compared to conventional city streets in places like San Franisco or Manhattan New York.
+
+The goal is to increase overall **urban mobility**, and more specificly to increase everyone's **kinematic range**.
 
 <!--
 <span style="font-size:24pt;">Summer 2020 design ideas for maximizing <span style="color:#DF4911;">kinematic range</span><sup style="font-size:12pt;"><a href="#kinematic">?</a></sup> in cities</span>
