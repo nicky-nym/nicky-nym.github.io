@@ -1,7 +1,45 @@
 ---
 permalink: /glossary/
 ---
-# Glossary
+
+<div id="contents-title">
+  <div style="float:right;">Contents</div>
+  <div id="contents-entries">
+    <p>&nbsp;</p>
+    <div>
+      <details>
+        <summary><a href="#key-concepts">Key concepts</a></summary>
+      </details>
+    </div>
+    <div>
+      <details>
+        <summary><a href="#glossary">Glossary</a></summary>
+      </details>
+    </div>
+    <div>
+      <details>
+        <summary><a href="#references">References</a></summary>
+      </details>
+    </div>
+  </div>
+</div>
+
+# <a name="key-concepts"></a>Key concepts 
+
+* **Jevons paradox**
+  * as **X** gets faster (and cheaper), people use more **X** [^wiki_jevons]
+
+* **induced demand**
+  * if you add lanes to a freeway, it leads to more trips, not faster trips [^wiki_induced_demand]
+
+* **Marchetti constant**
+  * people will commute about 30 minutes each way per day
+
+* **land value capture**
+  * TODO: ???
+
+
+# <a name="glossary"></a>Glossary 
 
 * **Architectural, Engineering and Construction (AEC)**
   * the entire industry of companies and people who build structures
@@ -68,9 +106,15 @@ permalink: /glossary/
 * **Inclusionary Zoning (IZ)**
   * city zoning restrictions that requires (or incentivizes) private developers to private some portion of the units in a new building at a below market rate
 
+* **land value capture**
+  * TODO: ???
+
 * **limited equity housing cooperatives**
   * TODO: ???
 
+* <a name="long-tail"></a>**long tail**
+  * TODO: ???
+ 
 * **Special Economic Zone (SEZ)**
   * a part of a country in which the business and trade laws are different from the rest of the country [^wiki_sez]
   * there have been SEZs since the 1950s, and there are now thousands of SEZs around the world [^mason]
