@@ -51,7 +51,6 @@ permalink: /remainder/
         <summary>The long tail...</summary>
         <ul>
           <li><a href="#faq">FAQ</a></li>
-          <li><a href="#glossary">Glossary</a></li>
           <li><a href="#notes">Notes</a></li>
           <li><a href="#references">References</a></li>
         </ul>
@@ -678,50 +677,7 @@ A kinematic city could have a traditional city government structure, or it could
 
 
 
-## <a name="glossary"></a>Glossary
 
-* **Architectural, Engineering and Construction (AEC)**
-  * the entire industry of companies and people who build structures
-  
-* **Building Information Modeling (BIM)**
-  * TODO: ???
-  
-* **co-design**
-  * an design approach where stakeholders and end users are partners in the design process 
-
-* **curb-cut effect**
-  * systems designed to benefit vulnerable groups, such as the disabled, often end up benefiting all of society
-  
-* **Global Compact on Refugees (GCR)**
-  * a 2018 United Nations draft agreement on refugees
-
-* **Global Compact on Safe, Orderly and Regular Migration (GCM)**
-  * a 2018 United Nations agreement about international migration [^wiki_gcm]
-
-* **induced demand**
-  * if you add lanes to a freeway, it leads to more trips, not faster trips [^wiki_induced_demand]
-
-* **isochrone map**
-  * a map with concentric isochrone lines around a center location, where all the points on any given line represent places that are equally distant, in terms of travel time, from the center location [^wiki_isochrone]
-
-* **Jevons paradox**
-  * as **X** gets faster (and cheaper), people use more **X** [^wiki_jevons]
-
-* <a name="kinematic"></a>**kinematic**
-  * concerned with the motion of bodies, and their range of motion
-
-* **Marchetti constant**
-  * people will commute about 30 minutes each way per day [Marchetti constant](marchetti)
-
-* **New Urban Agenda (NUA)**
-  * a 2016 United Nations agreement serving as a guideline for global urban development from 2016 to 2036 [^wiki_habitat_iii]
-
-* **Refugee City**
-  * a proposal for a type of Special Economic Zone (SEZ) for displaced people [^castle-miller]
-  * see also: Sustainable Development Zone (SDZ)
-
-* **Urban Consolidation Center (UCC)**
-  * neighborhood-level freight hubs, place around the edge of a town, where trucks or large vehicles drop off packages to be loaded into small vehicles, like electric cargo bikes, for last-mile delivery
   
 
 ---
@@ -910,7 +866,6 @@ A more natural pairing would be small-scale kinematic neighborhoods centered on 
 
 [^caspar]: ["The Future of Greenfield Cities"](https://newcities.org/the-big-picture-the-future-of-greenfield-cities/). _NewCities_. 23 July 2019.
 
-[^castle-miller]: ["The Law and Policy of Refugee Cities: Special Economic Zones for Migrants"](https://refugeecities.files.wordpress.com/2018/07/refugee-cities-law-review-article.pdf). Michael Castle-Miller, _Politas Consulting_. July 2018.
 [^crawford]: _[Carfree Cities](http://www.carfree.com/book/)_, by J.H. Crawford
 
 [^densityatlas]: ["Manhattan, Grand Street Neighborhood"](http://densityatlas.org/casestudies/profile.php?id=121). _Density Atlas_.
@@ -955,8 +910,6 @@ A more natural pairing would be small-scale kinematic neighborhoods centered on 
 
 [^macdonald]: ["Urban living makes us miserable. This city is trying to change that"](https://mosaicscience.com/story/urban-living-city-mental-health-glasgow-cities-happiness-regeneration/). Fleur Macdonald, _Mosaic_. 15 October 2019.
 
-[^mason]: ["The Case for Charter Cities Within the Effective Altruist Framework"](https://assets.website-files.com/5d253237e31f051057dc0a2b/5d88effe42420361c5e0c3c2_The%20Case%20for%20Charter%20Cities%20Within%20the%20Effective%20Altruist%20Framework.pdf). Jeffrey Mason, _Charter Cities Institute_. Sept 2019.
-
 [^mccasland]: ["Cities Foster Equity by Improving Urban Mobility for Women"](https://newcities.org/the-big-picture-cities-foster-equity-by-improving-urban-mobility-for-women/). Hannah McCasland, _NewCities_. 8 March 2019.
 
 [^mckinsey]: ["A Tool Kit to Close California's Housing Gap: 3.5 Million Homes by 2025"](https://www.mckinsey.com/~/media/McKinsey/Featured%20Insights/Urbanization/Closing%20Californias%20housing%20gap/Closing-Californias-housing-gap-Full-report.ashx). _McKinsey & Company_. October 2016
@@ -979,10 +932,6 @@ A more natural pairing would be small-scale kinematic neighborhoods centered on 
 
 [^scale]: [_Scale_](https://www.penguinrandomhouse.com/books/314049/scale-by-geoffrey-west/), by Geoffrey West. 2018.
 
-[^schneider_2019-04-29]: ["CityLab University: Shared-Equity Homeownership"](https://www.citylab.com/equity/2019/04/home-ownership-ideas-housing-co-ops-shared-equity-land-trust/585658/). Benjamin Schneider, _CityLab_. 29 April 2019.
-
-[^schneider]: ["CityLab University: Tax Increment Financing"](https://www.citylab.com/equity/2019/10/tax-increment-financing-explained-tif-economic-development/597313/). Benjamin Schneider, _CityLab_. 24 Oct 2019.
-
 [^sharma]: ["Greenfield Smart Cities Shaping the Future of India"](https://newcities.org/the-big-picture-greenfield-smart-cities-shaping-future-india/). _NewCities_. 23 July 2019.
 
 [^shepard]: ["Waterworld? Floating Cities Turn Hollywood Sci-fi Into Reality As Sea Levels Rise"](https://www.forbes.com/sites/wadeshepard/2019/10/23/waterworld-floating-cities-turn-hollywood-sci-fi-into-reality-as-sea-levels-rise/#2da78d07655c). Wade Shepard, _Forbes_. 23 Oct 2019.
@@ -990,8 +939,6 @@ A more natural pairing would be small-scale kinematic neighborhoods centered on 
 [^stouhi]: ["Winners of UED's Architecture Competition Imagine the City of the Future"](https://www.archdaily.com/927619/winners-of-ueds-architecture-competition-imagine-the-city-of-the-future). Dima Stouhi, _ArchDaily_. 1 Nov 2019.
 
 [^sumagaysay]: ["Bay Area housing, traffic have Facebook looking elsewhere for expansion"](https://www.mercurynews.com/2019/10/04/bay-area-housing-traffic-have-facebook-looking-elsewhere-for-expansion/). Levi Sumagaysay, _Bay Area News Group_. 4 October 2019.
-
-[^sustainable_development_zones]: ["Sustainable Development Zones"](https://refugeecities.files.wordpress.com/2018/07/sdz-concept-proposal-071118-final.pdf). July 2018.
 
 [^tamazuj]: ["Proposed Ramciel city master plan to cost 10 billion USD"](https://radiotamazuj.org/en/news/article/proposed-ramciel-city-master-plan-to-cost-10-billion-usd). _Radio Tamazuj_. 30 October 2019.
 
@@ -1005,16 +952,6 @@ A more natural pairing would be small-scale kinematic neighborhoods centered on 
 
 [^west]: ["The Origins of Scaling in Cities"](), by Luis Bettencourt & Geoffrey West at the Santa Fe Institute. _Science (volume 340, issue 6139, page 1438)_. 21 June 2013.
 
-[^wiki_gcm]: ["Global Compact for Migration"](https://en.wikipedia.org/wiki/Global_Compact_for_Migration). _Wikipedia_.
-
-[^wiki_habitat_iii]: ["Habitat III: New Urban Agenda"](https://en.wikipedia.org/wiki/Habitat_III#New_Urban_Agenda). _Wikipedia_.
-
-[^wiki_induced_demand]: ["Induced demand"](https://en.wikipedia.org/wiki/Induced_demand). _Wikipedia_.
-
-[^wiki_isochrone]: ["Isochrone map"](https://en.wikipedia.org/wiki/Isochrone_map). _Wikipedia_.
-
-[^wiki_jevons]: ["Jevons paradox"](https://en.wikipedia.org/wiki/Jevons_paradox). _Wikipedia_.
-
 [^wiki_manhattan]: ["Manhattan"](https://en.wikipedia.org/wiki/Manhattan). _Wikipedia_.
 
 [^wiki_new_york_city]: ["New York City"](https://en.wikipedia.org/wiki/New_York_City). _Wikipedia_.
@@ -1025,7 +962,6 @@ A more natural pairing would be small-scale kinematic neighborhoods centered on 
 
 [^wiki_san_francisco]: ["San Francisco"](https://en.wikipedia.org/wiki/San_Francisco). _Wikipedia_.
 
-[^wiki_sez]: ["Special economic zone"](https://en.wikipedia.org/wiki/Special_economic_zone). _Wikipedia_.
 
 [^yang]: ["Andrew Yang’s plan to tackle climate change, explained"](https://www.vox.com/future-perfect/2019/8/26/20833263/andrew-yang-climate-plan). _Vox.com_. 26 August 2019.
 
