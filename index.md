@@ -103,8 +103,8 @@ Read more about [costs & land value](economics)
 
 ## <a name="glossary"></a>Glossary & key concepts
 
-* [Glossary](glossary)
-* [Key concepts](concepts)
+* [Glossary](glossary#glossary)
+* [Key concepts](glossary#key-concepts)
 
 ---------
 ## Scrap heap
