@@ -37,6 +37,13 @@ A summer 2020 design proposal for a car-free city.
     </div>
     <div>
       <details>
+        <summary><a href="#glossary">Glossary & key concepts</a></summary>
+        <ul>
+        </ul>
+      </details>
+    </div>
+    <div>
+      <details>
         <summary><a href="#references">References</a></summary>
         <ul>
           <li><a href="#references">References</a></li>
@@ -93,6 +100,11 @@ Read about [more space for more people](people).
 Constructing even small buildings is expensive. Constructing entire neighborhoods or cities requires not just building housing and office space, but also building all the transportation infrastruction for roads, street lights, traffic lights, bus shelters, subway stops, and more. Plus all of the utility infrastructure, including sewers, water supply, power lines, telephone lines, and the rest.
 
 Read more about [costs & land value](economics)
+
+## <a name="glossary"></a>Glossary & key concepts
+
+* [Glossary](glossary)
+* [Key concepts](concepts)
 
 ---------
 ## Scrap heap
