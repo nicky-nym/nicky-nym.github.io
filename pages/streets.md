@@ -80,37 +80,11 @@ The result is:
   |  | <a name="costs"></a><span style="font-size: 1.5em; font-weight: bold; color: #DF4911;">Real estate</span> | 
   | **floorspace** | no real estate floorspace in street | 680,000 sqaure feet of floor space per mile
 
-# <a name="drawings"></a>Drawings
-
-<a name="manhattan">&nbsp;</a>
-
-<figure style="text-align: center; margin-bottom: 20px;">
-
-  <object width="800" data="../svg/drawings/manhattan_ave.svg"></object> 
-
-  <figcaption style="font-size: 1.5em; font-weight: bold; color: #DF4911;">Manhattan New York, 2nd Avenue</figcaption>
-</figure>
-
-
----
-
-
-<a name="impossible">&nbsp;</a>
-
-<figure style="text-align: center; margin-bottom: 4em;">
-  <object width="800" data="../svg/drawings/impossible_ave.svg"></object> 
-
-  <figcaption style="font-size: 1.5em; font-weight: bold; color: #DF4911; text-align: center">Impossible street design</figcaption>
-</figure>
-
-
----
-
 
 <a name="intersection">&nbsp;</a>
 
 <figure style="text-align: center; padding-bottom: 4em;">
-  <object width="800" data="../svg/drawings/impossible_isometric.svg"> </object> 
+  <object width="1200" data="../svg/drawings/impossible_isometric.svg"> </object> 
 
   <figcaption style="font-size: 1.5em; font-weight: bold; color: #DF4911; text-align: center">Impossible intersection design</figcaption>
 </figure>
