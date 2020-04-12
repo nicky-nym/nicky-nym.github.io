@@ -65,8 +65,8 @@ The result is:
   | **traffic lights** | about 20 per mile | none
   | **intersections** | at-grade conventional intersections | grade-separated intersections
   | **trees** | about 150 per mile | about 200 per mile
-  | **speed limits<br>posted** | 25 mph[^speed-limits] | 18 mph 
-  | **actual speed<br>average** | 7.1 mph for cars[^nycdot] <br> 7.5 mph for buses[^nycdot] | 15 mph 
+  | **speed limits**<br>as posted | 25 mph[^speed-limits] | 18 mph 
+  | **actual speed**<br>average | 7.1 mph for cars[^nycdot] <br> 7.5 mph for buses[^nycdot] | 15 mph 
   | **vehicle<br>throughput** | 1 bus lane at about 6,000 people per hour (+/- 2,000)<br> 4 car lanes at about 1,000 people per hour each (+/- 400)<br>1 parking & delivery lane at 0 people per hour<br>**total:** about 11,000 people per hour | 8 bike lanes at about 3,500 people per hour per bike lane each (+/- 250 per hour)<br>**total:** about 28,000 people per hour
   | **sidewalk<br>throughput** | about 10,000 people per hour | about 10,000 people per hour
   | **bottom line** | less than half as many people<br>each moving half as fast | 
