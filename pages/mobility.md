@@ -106,7 +106,7 @@ The goal is to increase overall **urban mobility**, and more specificly to incre
     * more **doctors** to choose from, and a wider variety of **specialists** available
     * a wider variety of **churches** and **religious communities**
     * a wider variety of **events**, **meetups**, and **clubs**, and more people who share your interests
-    * a wider variety of **"long tail"** destinations
+    * a wider variety of **[long tail](/glossary#long-tail)** destinations
   * **For shops**, **employers**, and **industry**, it means:
     * more **job candidates** to choose from
     * more **vendors** and **parts suppliers** to choose from
@@ -134,7 +134,7 @@ This 15% superlinear growth seems to apply to the whole physical and social meta
   * **AIDS cases**
   * **crime**
   * **restaurants**
-  * **diversity of business services** available (meaning, how long the "long tail" of the city is)
+  * **diversity of business services** available (meaning, how long the "[long tail](/glossary#long-tail)" of the city is)
 
 ---
 
