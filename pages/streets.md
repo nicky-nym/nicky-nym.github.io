@@ -8,7 +8,7 @@ permalink: /streets/
 In the Impossible design, we:
   * replace cars & buses with **bicycles** & **bike-sized** vehicles
   * replace stop signs and traffic lights with **grade-separated** intersections
-  * replace outdoor streets with **sheltered streets**
+  * replace outdoor, ground-level streets with **elevated, sheltered streets**
 
 The result is:
   * less congestion and **twice the throughput**
@@ -34,8 +34,6 @@ The result is:
       <details>
         <summary><a href="#drawings">Drawings</a></summary>
         <ul>
-          <li><a href="#manhattan">2nd Ave Manhattan drawing</a></li>
-          <li><a href="#impossible">Impossible street design drawing</a></li>
           <li><a href="#intersection">Impossible intersection design drawing</a></li>
         </ul>
       </details>
@@ -57,8 +55,8 @@ The result is:
   |---
   |  |  | 
   |:-:|:-|:-
-  | | <object width="400" data="../svg/drawings/manhattan_ave.svg"></object><br><span style="font-size: 1.5em; font-weight: bold; color: #DF4911;">2nd Avenue, Manhattan</span><br><a href="#manhattan">see larger</a> | <object width="400"   data="../svg/drawings/impossible_ave.svg"></object><br><span style="font-size: 1.5em; font-weight: bold; color: #DF4911;">Impossible Street Design</span><br><a href="#impossible">see larger</a>
-  | **right-of-way** | 100-foot wide right-of-way<br>(includes sidewalks & street) | 100-foot wide right-of-way<br>(includes sidewalks & enclosed-street building)
+  | | <object width="400" data="../svg/drawings/manhattan_ave.svg"></object><br><span style="font-size: 1.5em; font-weight: bold; color: #DF4911;">2nd Avenue, Manhattan</span><br> | <object width="400"   data="../svg/drawings/impossible_ave.svg"></object><br><span style="font-size: 1.5em; font-weight: bold; color: #DF4911;">Impossible Street Design</span><br>
+  | **right-of-way** | 100-foot wide right-of-way<br>(including sidewalks & street) | 100-foot wide right-of-way<br>(including sidewalks & pair of center buildings)
   | **sidewalks**    | two 20-foot wide sidewalks | two 15-foot wide sidewalks at ground-level <br> two 25-foot wide highline greenways with footpaths
   | **streets**      | one 60-foot wide open-air street      | two 30-foot wide enclosed streets elevated on 2nd floor
   | **lanes**        | six conventional vehicle lanes<br>all one-way southbound<br>each lane 10 feet wide | eight bicycle lanes, 4 northbound & 4 southbound<br>each lane 6 feet wide, plus two shoulders, each 3 feet wide
@@ -67,21 +65,20 @@ The result is:
   | **traffic lights** | about 20 per mile | none
   | **intersections** | at-grade conventional intersections | grade-separated intersections
   | **trees** | about 150 per mile | about 200 per mile
-  | **speed limits, posted** | 25 mph[^speed-limits] | 18 mph 
-  | **actual speed, average** | 7.1 mph for cars[^nycdot] <br> 7.5 mph for buses[^nycdot] | 15 mph 
-  | **throughput** | 1 bus lane at about 6,000 people per hour (+/- 2,000)<br> 4 car lanes at about 1,000 people per hour each (+/- 400)<br>1 parking & delivery lane at 0 people per hour<br>**total:** about 11,000 people per hour | 8 bike lanes at about 3,500 people per hour per bike lane each (+/- 250 per hour)<br>**total:** about 28,000 people per hour
-  | **throughput, sidewalk pedestrians** | about 10,000 people per hour | about 10,000 people per hour
+  | **speed limits<br>posted** | 25 mph[^speed-limits] | 18 mph 
+  | **actual speed<br>average** | 7.1 mph for cars[^nycdot] <br> 7.5 mph for buses[^nycdot] | 15 mph 
+  | **vehicle<br>throughput** | 1 bus lane at about 6,000 people per hour (+/- 2,000)<br> 4 car lanes at about 1,000 people per hour each (+/- 400)<br>1 parking & delivery lane at 0 people per hour<br>**total:** about 11,000 people per hour | 8 bike lanes at about 3,500 people per hour per bike lane each (+/- 250 per hour)<br>**total:** about 28,000 people per hour
+  | **sidewalk<br>throughput** | about 10,000 people per hour | about 10,000 people per hour
   | **bottom line** | less than half as many people<br>each moving half as fast | 
   |  | <a name="costs"></a><span style="font-size: 1.5em; font-weight: bold; color: #DF4911;">Costs</span> | 
   | **traffic fatalities** | 23 fatalities per million people per year | 1 fatality per million per year
-  | **CO2 footprint for transportation**<br>kg per person per year | 1,000 kg | 1 kg
+  | **CO2 footprint<br>for transportation**<br>kg per person per year | 1,000 kg | 1 kg
   | **cost of public transit**<br>annual dollars per capita | $360 in fares paid by riders<br>$720 in city funded transit subsidies<br>**$1,080** total | $0
-  | **cost of private vehicle ownership**<br>cars, bicycles, mopeds, scooters, segways, trikes, etc.<br>annual dollars per capita | $1,000<br>mostly for cars<br>about 1 per 10 people | $1,000<br>mostly for e-bikes<br>about 1 per person
+  | **private vehicle costs**<br>annual dollars per capita | $1,000<br>mostly for cars<br>about 1 per 10 people | $1,000<br>mostly for bicycles, e-bikes, mopeds, scooters, etc.<br>about 1 per person
   | **air quality** | good | _really_ good
   | **noise levels** | noisier | quieter
   |  | <a name="costs"></a><span style="font-size: 1.5em; font-weight: bold; color: #DF4911;">Real estate</span> | 
   | **floorspace** | no real estate floorspace in street | 680,000 sqaure feet of floor space per mile
-
 
 # <a name="drawings"></a>Drawings
 
