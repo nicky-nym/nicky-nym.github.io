@@ -3,7 +3,7 @@ permalink: /mobility/
 ---
 # Mobility & commute range 
 
-In the [Impossible City](/) proposal, the [streets & intersections](/streets) are design to yield **faster travel times** and **higher throughput**, compared to conventional city streets in places like San Franisco or Manhattan New York.
+In the [Impossible City](/) proposal, the [streets & intersections](/streets) are designed to yield **faster travel times** and **higher throughput**, compared to conventional city streets in places like San Francisco or Manhattan New York.
 
 The goal is to increase overall **urban mobility**, and more specificly to increase everyone's **kinematic range**.
 
@@ -17,7 +17,7 @@ The goal is to increase overall **urban mobility**, and more specificly to incre
     <p>&nbsp;</p>
     <div>
       <details>
-        <summary><a href="#what_is">What is a Kinematic city?</a></summary>
+        <summary><a href="#congestion">Congestion vs. kinematic range</a></summary>
         <ul>
           <li><a href="#kinematic_range">Kinematic range</a></li>
         </ul>
@@ -80,7 +80,7 @@ The goal is to increase overall **urban mobility**, and more specificly to incre
 
 ---
 
-## <a name="what_is"></a>What is a Kinematic city?
+## <a name="congestion"></a>Congestion vs. kinematic range
 
   * A **congested** city is one where it's hard to get where you want to go, because there's too much traffic.
   * A **sleepy** little town is one where there's no traffic, but there's almost nothing in town to go to.
@@ -91,7 +91,7 @@ The goal is to increase overall **urban mobility**, and more specificly to incre
   * **Kinematic range** is a measure of urban mobility. It's the number of destinations you can get to in 30 minutes or less _(or some other set time)_.
   * Different cities have different kinematic ranges
     * In **Haxby, Montana**, there's not any traffic congestion, but there also aren't many places to go. With a car, in 30 minutes you can probably reach a total of about **a half dozen homes**, with perhaps **10 thousand square feet of floorspace**.
-    * In **San Francsico**, there are lots of places to go, but there's a lot of congestion. In 30 minutes you can reach hundreds of thousands of homes, offices, and stores, with perhaps a **500 million square feet of floorspace**.  San Francisco has a kinematic range that's about 50 thousand times larger than Haxby, Montana.
+    * In **San Francsico**, there are lots of places to go, but there's a lot of congestion. In 30 minutes you can reach hundreds of thousands of homes, offices, and stores, with perhaps **500 million square feet of floorspace**.  San Francisco has a kinematic range that's about 50 thousand times larger than Haxby, Montana.
 
 ---
 
@@ -103,7 +103,7 @@ The goal is to increase overall **urban mobility**, and more specificly to incre
     * more **job offers** that are close enough to commute to
     * more **friends** & **family** who are actually close enough to drop by
     * more **schools** to choose from, and more **special classes**
-    * more **doctors** to choose from, and more different **specialists** available
+    * more **doctors** to choose from, and a wider variety of **specialists** available
     * a wider variety of **churches** and **religious communities**
     * a wider variety of **events**, **meetups**, and **clubs**, and more people who share your interests
     * a wider variety of **"long tail"** destinations
@@ -123,7 +123,7 @@ Beyond just convenience, better mobility and kinematic range bring serious chang
 
 ### <a name="dividend"></a>15% dividend per doubling
 
-Around the world, larger cities, with their larger kinematic ranges, tend higher wages than smaller cities.
+Around the world, larger cities, with their larger kinematic ranges, tend to have higher wages than smaller cities.
 
 As city size increases, when the number of people (and destinations) in the city grows by 100% (meaning a doubling in size), then the economy of the city tends to grow by about 115% (meaning it more than doubles in size), so that there is effectively a 15% "bonus" in per-capita economic output for everyone in the city.[^scale]
 
@@ -180,14 +180,14 @@ Here in the United States, in discussions about urban planning and transporation
     * less space set aside for parking
     * more bike lanes and bus lanes
     * more funding for some combination of subways, light rail, buses, bus rapid transit, and other public transit
-  * **pro-statis-quo "car" people**, who 
+  * **pro-status-quo "car" people**, who 
     * do not want to lose automobile lanes in return for bike lanes and bus lanes
     * do now want to pay the huge costs of creating and operating public transit systems
     * do not want to take slow, inconvenient, public transit options when they could just drive
 
 ### <a name="self_driving"></a>Self-driving cars & delivery drones
 
-In addition to the **pro-transit** camp and the **pro-statis-quo** camp, there's also a third camp, of people who are optimistic about new technologies for **automated, on-demand transporation**, like self-driving cars and delivery drones. 
+In addition to the **pro-transit** camp and the **pro-status-quo** camp, there's also a third camp, of people who are optimistic about new technologies for **automated, on-demand transporation**, like self-driving cars and delivery drones. 
 
 **Proponents** of shared, self-driving cars point to advantages like the greatly reduced need for parking compared to conventional cars, yet the convenience of direct door-to-door routes.
 
@@ -213,27 +213,27 @@ The **Impossible city** is just one simple design for a more Kinematic city. I'm
 
 ### <a name="goals"></a>What are the design goals?
 
-  * improve overall **urban mobility** & **kinematic range**
+  * improved overall **urban mobility** & **kinematic range**
     * realize a 15% dividend in wages, wealth, patents, land value, etc.
     * increase economic prosperity
     * increase social prosperity
-  * make **more affordable** transportation and housing 
-  * make a **level playing field** for urban mobility
+  * **more affordable** transportation and housing 
+  * a **level playing field** for urban mobility
     * more **kid-friendly**
     * more **elder-friendly**
     * more **accessible** for people with disabilites
-  * make a **cleaner**, **quieter**, **safer** city
-  * reduce **carbon footprint** and **air pollution**
-  * make a city that is **more resilient** and after natural disasters and power failures
+  * a **cleaner**, **quieter**, **safer** city
+  * reduced **carbon footprint** and **air pollution**
+  * a **more resilient** city and after natural disasters and power failures
   * **simplicity**, **durability**, and **reliability**
     
 ### <a name="features"></a>What are the main design features?
 
 The Impossible design calls for:
 
-  * just bikes & **bike-sized vehicles**, instead of cars, trucks, buses, or trains
-  * just **electric vehicles**, instead of gas engines
-  * just **grade-separated intersections**, instead of traffic lights, stop signs, or roundabouts
+  * bikes & **bike-sized vehicles** only, instead of cars, trucks, buses, or trains
+  * **electric vehicles** only, instead of gas engines
+  * **grade-separated intersections** only, instead of traffic lights, stop signs, or roundabouts
   * **sheltered roads**, sheltered from wind and rain
   * **underground wiring**, instead of telephone poles and overhead power lines
 
@@ -263,7 +263,7 @@ It **seems** impossible, because cars **seem** like fast, long-range vehicles, a
 
 Cars **truly are** fast when they're on highways, but in cities cars are hugely inefficient and ineffective, requiring huge amounts of lane space per car, and traveling with high burst speeds but poor average speeds.
 
-Buses and trains **truly are** high-capacity and high-throughput when everyone on them is going from point A to point B. If you have a group of 50 people who are all gathered together (e.g. at a hotel) and who all need to go to the exact same place (e.g. an office or work site) at the same time, then a bus wonderfully efficient and effective choice. But in a city, if people are starting from a variety of different places (different apartment buildings on different blocks), and going to a variety of different places (schools, stores, offices), then buses turn out to have quite poor average throughput.
+Buses and trains **truly are** high-capacity and high-throughput when everyone on them is going from point A to point B. If you have a group of 50 people who are all gathered together (e.g., at a hotel) and who all need to go to the exact same place (e.g., an office or work site) at the same time, then a bus is a wonderfully efficient and effective choice. But in a city, if people are starting from a variety of different places (different apartment buildings on different blocks), and going to a variety of different places (schools, stores, offices), then buses turn out to have quite poor average throughput.
 
 
 ### <a name="how"></a>How do you know this is better?
@@ -349,7 +349,6 @@ It could be built on the outskirts of an existing city, or it could be built in 
 
 ---
 
-## <a name="glossary"></a>Glossary
 ## <a name="notes"></a>Notes
 
 ### <a name="size"></a>Size & density
