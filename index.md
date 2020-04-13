@@ -1,7 +1,13 @@
 
 # Impossible cities
 
-A summer 2020 design proposal for a car-free city.
+This paper outlines a summer 2020 design proposal for a car-free city.
+
+1. **Streets designed for mobility.** This proposal hinges on a re-design of what a city street looks like, to try to get less congestion, twice the average speed, and twice the total throughput (compared to, say, Manhattan New York). See <a href="#1">chapter 1</a>.
+2. **Mobility for prosperity, not for speed.** The main goal of the new design is to increase urban mobility. But, non-intuitively, the benefit is **not** faster commutes, but is instead higher wages & more social opportunities, as well as higher land values & better investment return rates. See <a href="#2">chapter 2</a>.
+3. **Bonus features beyond mobility.** The main goal is better mobility, but the design has a variety of other potential upsides. An city like this should be greener, cleaner, fairer, safer, simpler, and more reliable & resilient.** See <a href="#3">chapter 3</a>.
+4. **This matters now.** This is an important area of study right now, because there's about to be a huge influx of urban population, and a huge increase in urban construction. The construction will happen no matter what, so it would be good to try to do it better, rather than just repeating what was done in past decades. See <a href="#4">chapter 4</a>.
+5. **This requires better funding models and value capture agreements.** Construction is **_very_** expensive. In order to fund the huge amount of construction required, we need to get much better at **land value capture**. We need to set up reliable "fiscal engines" that can robustly recover the value created on each development project and reinvest it quickly on the next project. See <a href="#5">chapter 5</a>.
 
 <div id="contents-title">
   <div style="float:right;">Contents</div>
@@ -9,28 +15,35 @@ A summer 2020 design proposal for a car-free city.
     <p>&nbsp;</p>
     <div>
       <details>
-        <summary><a href="#1">1. Impossible streets</a></summary>
+        <summary><a href="#1">1. Streets designed for mobility</a></summary>
         <ul>
         </ul>
       </details>
     </div>
     <div>
       <details>
-        <summary><a href="#2">2. Why mobility matters</a></summary>
+        <summary><a href="#2">2. Mobility for prosperity, not for speed</a></summary>
         <ul>
         </ul>
       </details>
     </div>
     <div>
       <details>
-        <summary><a href="#3">3. Why this matters NOW</a></summary>
+        <summary><a href="#3">3. Bonus features beyond mobility</a></summary>
         <ul>
         </ul>
       </details>
     </div>
     <div>
       <details>
-        <summary><a href="#4">4. How to fund it</a></summary>
+        <summary><a href="#4">4. This matters now</a></summary>
+        <ul>
+        </ul>
+      </details>
+    </div>
+    <div>
+      <details>
+        <summary><a href="#5">5. This requires better funding models and value capture agreements</a></summary>
         <ul>
         </ul>
       </details>
