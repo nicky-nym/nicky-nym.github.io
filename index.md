@@ -9,7 +9,7 @@ A summer 2020 design proposal for a car-free city.
     <p>&nbsp;</p>
     <div>
       <details>
-        <summary><a href="#streets">Elevated streets</a></summary>
+        <summary><a href="#streets">1. Impossible Streets</a></summary>
         <ul>
         </ul>
       </details>
@@ -53,23 +53,61 @@ A summer 2020 design proposal for a car-free city.
   </div>
 </div>
 
-## <a name="streets"></a>Elevated streets
+## <a name="streets"></a>_Chapter 1_ Impossible Streets
 
-The Impossible City design hinges on a basic re-design of what a city street could look like. 
+The Impossible City proposal hinges on a basic re-design of what a city street could look like. 
 
-In the Impossible design, we:
-  * replace cars & buses with **bicycles** & **bike-sized** vehicles
-  * replace stop signs and traffic lights with **grade-separated** intersections
-  * replace outdoor, ground-level streets with **elevated, sheltered streets**
+The Impossible design
+  * replaces cars & buses with **bicycles** & **bike-sized** vehicles
+  * replaces stop signs and traffic lights with **grade-separated** intersections
+  * replaces outdoor, ground-level streets with **elevated, sheltered streets**
 
 The result is:
   * less congestion and **twice the throughput**
   * **50% annual cost savings** over conventional public transit and private car ownership
-  * **lower carbon emissions**, quieter streets, and less air polution
+  * **lower carbon emissions**, quieter streets, and less air pollution
   * **more trees**
   * a bit more available floorspace
 
-Read more about [elevated streets](streets).
+<a name="comparison"></a>
+
+  |---
+  |  |  | 
+  |:-:|:-|:-
+  | | <object width="400" data="../svg/drawings/manhattan_ave.svg"></object><br><span style="font-size: 1.5em; font-weight: bold; color: #DF4911;">2nd Avenue, Manhattan</span><br> | <object width="400"   data="../svg/drawings/impossible_ave.svg"></object><br><span style="font-size: 1.5em; font-weight: bold; color: #DF4911;">Impossible Street Design</span><br>
+  | **right-of-way** | 100-foot wide right-of-way<br>(including sidewalks & street) | 100-foot wide right-of-way<br>(including sidewalks & pair of center buildings)
+  | **sidewalks**    | two 20-foot wide sidewalks | two 15-foot wide sidewalks at ground-level <br> two 25-foot wide highline greenways with footpaths
+  | **streets**      | one 60-foot wide open-air street      | two 30-foot wide enclosed streets elevated on 2nd floor
+  | **lanes**        | six conventional vehicle lanes<br>all one-way southbound<br>each lane 10 feet wide | eight bicycle lanes, 4 northbound & 4 southbound<br>each lane 6 feet wide, plus two shoulders, each 3 feet wide
+  | **vehicles**     | 1 bus-only lane<br> 4 lanes for cars, trucks, taxis, etc. <br> 1 lane parking & curbside loading | 8 lanes for bike-sized vehicles<br>(bicycles, electric bikes, scooters, and other narrow, lightweight vehicles)
+  | **cross-streets** | about 20 per mile | 8 per mile
+  | **traffic lights** | about 20 per mile | none
+  | **intersections** | at-grade conventional intersections | grade-separated intersections
+  | **trees** | about 150 per mile | about 200 per mile
+  | **speed limits**<br>as posted | 25 mph[^speed-limits] | 18 mph 
+  | **actual speed**<br>average | 7.1 mph for cars[^nycdot] <br> 7.5 mph for buses[^nycdot] | 15 mph 
+  | **vehicle<br>throughput** | 1 bus lane at about 6,000 people per hour (+/- 2,000)<br> 4 car lanes at about 1,000 people per hour each (+/- 400)<br>1 parking & delivery lane at 0 people per hour<br>**total:** about 11,000 people per hour | 8 bike lanes at about 3,500 people per hour per bike lane each (+/- 250 per hour)<br>**total:** about 28,000 people per hour
+  | **sidewalk<br>throughput** | about 10,000 people per hour | about 10,000 people per hour
+  | **bottom line** | less than half as many people<br>each moving half as fast | 
+  |  | <a name="costs"></a><span style="font-size: 1.5em; font-weight: bold; color: #DF4911;">Costs</span> | 
+  | **traffic fatalities** | 23 fatalities per million people per year | 1 fatality per million per year
+  | **CO2 footprint<br>for transportation**<br>kg per person per year | 1,000 kg | 1 kg
+  | **cost of public transit**<br>annual dollars per capita | $360 in fares paid by riders<br>$720 in city funded transit subsidies<br>**$1,080** total | $0
+  | **private vehicle costs**<br>annual dollars per capita | $1,000<br>mostly for cars<br>about 1 per 10 people | $1,000<br>mostly for bicycles, e-bikes, mopeds, scooters, etc.<br>about 1 per person
+  | **air quality** | good | _really_ good
+  | **noise levels** | noisier | quieter
+  |  | <a name="costs"></a><span style="font-size: 1.5em; font-weight: bold; color: #DF4911;">Real estate</span> | 
+  | **floorspace** | no real estate floorspace in street | 680,000 sqaure feet of floor space per mile
+
+
+<a name="intersection">&nbsp;</a>
+
+<figure style="text-align: center; padding-bottom: 4em;">
+  <object width="1200" data="../svg/drawings/impossible_isometric.svg"> </object> 
+
+  <figcaption style="font-size: 1.5em; font-weight: bold; color: #DF4911; text-align: center">Impossible intersection design</figcaption>
+</figure>
+
 
 ## <a name="mobility"></a>Better mobility
 
@@ -114,6 +152,61 @@ Read more about [costs & land value](economics)
   * Work-in-progress towards a [3d city demo](demo)
   * List of [architectural terms](architecture)
 
+
+---------
+## <a name="sources"></a>Source material, Chapter 1
+
+### <a name="throughput"></a>Throughput per lane (source: NACTO[^gsdg])
+
+|---
+| Throughput | Width | Mode 
+|-:|-:|:-
+| people per hour
+| 600 to 1,600 | one lane, **3 meters** wide | **private motor vehicles**
+| 1,000 to 2,800 | one lane, **3 meters** wide | **mixed traffic** with frequent buses
+| 6,500 to 7,500 | one lane, **3 meters** wide | two-way protected **bikeway**
+| 4,000 to 8,000 | one lane, **3 meters** wide | dedicated **transit lanes**
+| 8,000 to 9,000 | one lane, **3 meters** wide | **sidewalk**
+| 10,000 to 25,000 | one lane, **3 meters** wide | on-street **transitway**, **bus** or **rail**
+
+### <a name="throughput"></a>Throughput per lane (source: Bertaud[^bertaud])
+
+|---
+| Throughput | Vehicle type
+|-:|:-
+| passengers per hour per lane<br>at about 15 km/h
+| 1,000 | **Bus, M1**: 5 minutes headway
+| 1,600 | **cars**
+| 2,600 | **Bus 4 routes**: 1 minute 48 seconds headway
+| 2,800 | **motorcycles**
+| 5,500 | **bicycles** on entire lane width
+|---
+
+
+### <a name="throughput"></a>Width per 10,000 throughput (source: NACTO[^nacto])
+
+|---
+| Throughput | Width | Mode 
+|-:|-:|:-
+| people per hour
+| 10,000 | one lane, **12' to 15'** wide | **sidewalk**
+| 10,000 | one lane, **12' to 15'** wide | **protected bike lane** 
+| 10,000 | two lanes, totaling about **23'** wide | **bus-only lanes**, with 80 buses per lane per hour
+| 10,000 | 13 lanes of conventional arterial, at about **156'** wide |**mostly cars**, with 800 vehicles per lane per hour
+|---
+
+
+## <a name="references"></a>References, Chapter 1
+
+[^bertaud]: _[Order without Design](https://mitpress.mit.edu/books/order-without-design): How Markets Shape Cities_, by Alain Bertaud
+
+[^gsdg]: ["Global Street Design Guide"](https://nacto.org/publication/global-street-design-guide/). _National Association of City Transportation Officials (NACTO)_.
+
+[^nacto]: ["Blueprint for Autonomous Urbanism"](https://nacto.org/publication/bau2/), Second Edition. _National Association of City Transportation Officials (NACTO)_.
+
+[^nycdot]: ["New York City Mobility Report"](http://www.nyc.gov/html/dot/downloads/pdf/mobility-report-2018-screen-optimized.pdf), June 2018. _NYC Department of Transportation_.
+
+[^speed-limits]: ["Manhattan Speed Limits"](https://www1.nyc.gov/html/dot/downloads/pdf/current-pre-vision-zero-speed-limit-maps.pdf).  _NYC Department of Transportation_.
 
 ---------
 ## <a name="references"></a>References
