@@ -9,28 +9,28 @@ A summer 2020 design proposal for a car-free city.
     <p>&nbsp;</p>
     <div>
       <details>
-        <summary><a href="#streets">1. Impossible Streets</a></summary>
+        <summary><a href="#1">1. Impossible streets</a></summary>
         <ul>
         </ul>
       </details>
     </div>
     <div>
       <details>
-        <summary><a href="#mobility">Better mobility</a></summary>
+        <summary><a href="#2">2. Why mobility matters</a></summary>
         <ul>
         </ul>
       </details>
     </div>
     <div>
       <details>
-        <summary><a href="#people">More space for more people</a></summary>
+        <summary><a href="#3">3. Why this matters NOW</a></summary>
         <ul>
         </ul>
       </details>
     </div>
     <div>
       <details>
-        <summary><a href="#costs">Costs & land value</a></summary>
+        <summary><a href="#4">4. How to fund it</a></summary>
         <ul>
         </ul>
       </details>
@@ -53,7 +53,7 @@ A summer 2020 design proposal for a car-free city.
   </div>
 </div>
 
-## <a name="streets"></a>_Chapter 1_ Impossible Streets
+## <a name="1"></a>_Chapter 1_ &mdash; Impossible streets
 
 The Impossible City proposal hinges on a basic re-design of what a city street could look like. 
 
@@ -108,14 +108,18 @@ The result is:
   <figcaption style="font-size: 1.5em; font-weight: bold; color: #DF4911; text-align: center">Impossible intersection design</figcaption>
 </figure>
 
+## <a name="2"></a>_Chapter 2_ &mdash; Why mobility matters
 
-## <a name="mobility"></a>Better mobility
+The [impossible streets & intersections](#1) are designed to yield **faster travel times** and **higher throughput**, compared to conventional city streets in places like San Franisco or Manhattan New York.
 
-The [streets & intersections](/streets) are designed to yield **faster travel times** and **higher throughput**, compared to conventional city streets in places like San Franisco or Manhattan New York.
+### Beyond a faster commute
 
-The goal is to increase overall **urban mobility**, and more specificly to increase everyone's **kinematic range**.
+The goal of the design is to increase overall **urban mobility**, and more specificly to increase everyone's **kinematic range**.
 
 Read more about [better mobility & commute range](mobility) vs. traditional congestion.
+
+
+## <a name="3"></a>_Chapter 3_ &mdash; Why this matters NOW
 
 ## <a name="people"></a>More space for more people
 
@@ -132,6 +136,9 @@ To handle the influx, cities will build another **2.5 trillion square feet** of 
 "The amount of floorspace in buildings around the world—currently about **2.5 trillion square feet**—is set to **double by 2060**" &mdash; Brian Bienkowski [^bienkowski]
 
 Read about [more space for more people](people).
+
+
+## <a name="4"></a>_Chapter 4_ &mdash; How to fund it
 
 ## <a name="costs"></a>Costs & land value
 
