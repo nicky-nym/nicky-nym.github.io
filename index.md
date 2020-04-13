@@ -8,7 +8,7 @@ This paper outlines a summer 2020 design proposal for building car-free cities.
 2. **Mobility for prosperity, not for speed.**
   * The main goal of the new design is to increase urban mobility. But, non-intuitively, the benefit is **not** faster commutes, but is instead higher wages & more social opportunities, as well as higher land values & better investment return rates. See <a href="#2">chapter 2</a>.
 3. **Bonus features beyond mobility.**
-  * The main goal is better mobility, but the design has a variety of other potential upsides. An city like this should be greener, cleaner, fairer, safer, simpler, and more reliable & resilient. See <a href="#3">chapter 3</a>.
+  * The main goal is better mobility, but the design has a variety of other potential upsides. Cities like this should be greener, cleaner, fairer, safer, simpler, and more reliable & resilient. See <a href="#3">chapter 3</a>.
 4. **This matters now.**
   * This is an important area of study right now, because there's about to be a huge influx of urban population, and a huge increase in urban construction. The construction will happen no matter what, so it would be good to try to do it better, rather than just repeating what was done in past decades. See <a href="#4">chapter 4</a>.
 5. **This requires better funding models and value capture agreements.**
