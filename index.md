@@ -71,7 +71,7 @@ This paper outlines a summer 2020 design proposal for building car-free cities.
   </div>
 </div>
 
-## <a name="1"></a>_Chapter 1_ &mdash; Impossible streets
+## <a name="1"></a>_Chapter 1_ &mdash; Streets designed for mobility
 
 The Impossible City proposal hinges on a basic re-design of what a city street could look like. 
 
@@ -126,6 +126,37 @@ The result is:
   <figcaption style="font-size: 1.5em; font-weight: bold; color: #DF4911; text-align: center">Impossible intersection design</figcaption>
 </figure>
 
+### <a name="bike-sized"></a>Bike-sized vehicles
+
+The <a href="#1">Impossible street design</a> replaces cars & buses with **bicycles** & **bike-sized** vehicles.
+
+For this design "bike-sized" means:
+  * **narrow** -- 36 inch width limit, or 48 inches for licensed cargo vehicles
+  * **lightweight** -- 111 pounds or less
+  * **underpowered** -- 2 horsepower or lower
+  * **slow** -- 18 mph speed limit city-wide, with automated enforcement
+
+The city could have a wide variety of different kinds of bike-sized vehicles. Here are a few examples:
+
+  |---
+  |  | examples | 
+  |:-:|:-|:-
+  | regular bicycles | 
+  | folding bicycles<br>&<br>compact hybrids | ![halfbike](https://halfbikes.com/uploads/191129-47218-halfbike-3-studio-image.jpg "halfbike") ![halfbike](https://theawesomer.com/photos/2019/04/halfbike_3_5.jpg "halfbike") ![halfbike](https://cdn.thisiswhyimbroke.com/images/halfbike-half-bike-640x534.jpg "halfbike") ![YikeBike] (https://avialbikes.com/wp-content/uploads/2019/04/YikeBike-folding-e-bike_2-1024x700.jpg "YikeBike") ![YikeBike] (http://39h10d29ck5a13hostsevnvx.wpengine.netdna-cdn.com/wp-content/uploads/2017/10/4-1.jpg "YikeBike") ![gocycle] (https://gocycle.com/wp-content/uploads/2019/09/gxi-design0-mob-compressor.jpg "Gocycle") ![Jack Rabbit](https://cleantechnica.com/files/2019/01/jack-rabbit-mobility-ces-2019-las-vegas-1.jpg "Jack Rabbit")
+  | electric bicycles | 
+  | mopeds & scooters<br>(electric) | 
+  | passanger trikes | carver, Doohan iTango, Toyota iroad
+  | cargo trikes | 
+  | cargo vehicles | ![eav](https://www.electrive.com/wp-content/uploads/2019/12/eav-cargo-pedelec-lasten-pedelec-2019-01-min-444x222.png "eav")
+  | leaning trikes | DryCycle
+  | motor-chairs<br>&<br>wheelchairs | Toyota i-Real
+  | hoverboards<br>segways<br>ninebots<br>etc. | KO1+, ninebot one, ninebot-minipro
+  | skateboards & electric skateboards | 
+  | delivery robots | Amazon scout, brain OS, FedEx bot
+
+
+------------
+  
 ## <a name="2"></a>_Chapter 2_ &mdash; Why mobility matters
 
 The [impossible streets & intersections](#1) are designed to yield **faster travel times** and **higher throughput**, compared to conventional city streets in places like San Franisco or Manhattan New York.
@@ -156,6 +187,8 @@ To handle the influx, cities will build another **2.5 trillion square feet** of 
 Read about [more space for more people](people).
 
 
+------------
+  
 ## <a name="4"></a>_Chapter 4_ &mdash; How to fund it
 
 ## <a name="costs"></a>Costs & land value
