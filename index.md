@@ -131,28 +131,31 @@ The result is:
 The <a href="#1">Impossible street design</a> replaces cars & buses with **bicycles** & **bike-sized** vehicles.
 
 For this design "bike-sized" means:
-  * **narrow** -- 36 inch width limit, or 48 inches for licensed cargo vehicles
-  * **lightweight** -- 111 pounds or less
-  * **underpowered** -- 2 horsepower or lower
-  * **slow** -- 18 mph speed limit city-wide, with automated enforcement
+
+  |---
+  |  | limit | limit for licensed cargo vehicles
+  |-:|:-|:-
+  | **narrow** | 36 inch width limit | 48 inch width
+  | **lightweight** | 111 pounds or less | 222 pounds
+  | **underpowered** | 2 horsepower or lower | 2 horsepower 
+  | **slow** | 18 mph speed limit city-wide<br>with automated enforcement | 15 mph 
 
 The city could have a wide variety of different kinds of bike-sized vehicles. Here are a few examples:
 
   |---
   |  | examples | 
   |:-:|:-|:-
-  | regular bicycles | 
-  | folding bicycles<br>&<br>compact hybrids | <img src="https://halfbikes.com/uploads/191129-47218-halfbike-3-studio-image.jpg" alt="halfbike" height="100"/><br><img src="https://theawesomer.com/photos/2019/04/halfbike_3_5.jpg" alt="halfbike" height="100"/><br><img src="https://cdn.thisiswhyimbroke.com/images/halfbike-half-bike-640x534.jpg" alt="halfbike" height="100"/><br><img src="https://avialbikes.com/wp-content/uploads/2019/04/YikeBike-folding-e-bike_2-1024x700.jpg" alt="YikeBike" height="100"/><br><img src="http://39h10d29ck5a13hostsevnvx.wpengine.netdna-cdn.com/wp-content/uploads/2017/10/4-1.jpg" alt="YikeBike" height="100"/><br><img src="https://gocycle.com/wp-content/uploads/2019/09/gxi-design0-mob-compressor.jpg alt="Gocycle" height="100"/><br><img src="https://cleantechnica.com/files/2019/01/jack-rabbit-mobility-ces-2019-las-vegas-1.jpg" alt="Jack Rabbit" height="100"/><br>
-  | electric bicycles | 
-  | mopeds & scooters<br>(electric) | 
-  | passanger trikes | carver, Doohan iTango, Toyota iroad
-  | cargo trikes | 
-  | cargo vehicles | <img src="https://www.electrive.com/wp-content/uploads/2019/12/eav-cargo-pedelec-lasten-pedelec-2019-01-min-444x222.png" alt="eav" height="100"/><br><img src="https://internationalfleetworld.com/wp-content/uploads/2019/09/eaVAN-350x263.jpg" alt="eav" height="100"/>
-  | leaning trikes | DryCycle
-  | motor-chairs<br>&<br>wheelchairs | Toyota i-Real
-  | hoverboards<br>segways<br>ninebots<br>etc. | KO1+, ninebot one, ninebot-minipro
-  | skateboards & electric skateboards | 
-  | delivery robots | <img src="https://cdn.geekwire.com/wp-content/uploads/2019/01/amazonscout-768x600.png" alt="Amazon scout" height="40"><br><img src="https://techcrunch.com/wp-content/uploads/2019/04/AD03.jpg?w=730&crop=1" alt="brain OS" height="100"/><br><img src="https://www.supermarketnews.com/sites/supermarketnews.com/files/styles/article_featured_retina/public/FedEx_SameDay_Bot_street_1.png?itok=Ml2UGf3F" alt="FedEx bot" height="100"/>
+  | **bicycles** | <img src="https://www.planetizen.com/files/styles/news_header_sm/public/images/BikeCommute.jpg" alt="bike commuter" height="100"/><img src="https://kanwalkwilltravel.com/img/d695ee7c345f982116b270d93e17ede7.png" alt="bmx bike" height="100"/>
+  | **family bicycles** | <img src="https://cupofjo.com/wp-content/uploads/2015/09/cup-of-jo-bikes-8-3.jpg" alt="family bicycle" height="100"/><img src="https://www.macheesmo.com/wp-content/uploads/2018/09/cargo-bike1.jpg" alt="family bicycle" height="100"/><img src="https://i.pinimg.com/originals/32/b0/ec/32b0ec61eaf544b3b482dc7faa9036f5.jpg" alt="family bicycle" height="100"/><img src="https://momentummag.com/wp-content/uploads/2016/05/taga2main-1.jpg" alt="family bicycle" height="100"/>
+  | **folding bicycles**<br>**&**<br>**compact hybrids** | <img src="https://theawesomer.com/photos/2019/04/halfbike_3_5.jpg" alt="halfbike" height="100"/><img src="https://cdn.thisiswhyimbroke.com/images/halfbike-half-bike-640x534.jpg" alt="halfbike" height="100"/><img src="https://avialbikes.com/wp-content/uploads/2019/04/YikeBike-folding-e-bike_2-1024x700.jpg" alt="YikeBike" height="100"/><img src="http://39h10d29ck5a13hostsevnvx.wpengine.netdna-cdn.com/wp-content/uploads/2017/10/4-1.jpg" alt="YikeBike" height="100"/><img src="https://gocycle.com/wp-content/uploads/2019/09/gxi-design0-mob-compressor.jpg" alt="Gocycle" height="100"/><br><img src="https://cleantechnica.com/files/2019/01/jack-rabbit-mobility-ces-2019-las-vegas-1.jpg" alt="Jack Rabbit" height="100"/>
+  | **electric bicycles** | <img src="https://sandiegoflyrides.com/wp-content/uploads/2018/01/18_Delite_25_black_outdoor-1024x683.jpg" alt="Riese & Muller Delite" height="100"/><img src="https://sandiegoflyrides.com/wp-content/uploads/2018/01/18_Roadster_1-1024x682.jpg" alt="Riese & Muller Roadster" height="100"/>
+  | **mopeds & scooters**<br>(electric) | <img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.gOCVej_0Rw/v0/1000x-1.jpg" alt="Bird scooter" height="100"/><img src="https://static.standard.co.uk/s3fs-public/thumbnails/image/2020/01/09/09/escooters0901a.jpg?w968" alt="electric scooter" height="100"/><img src="https://static.timesofisrael.com/www/uploads/2019/07/000_1H28W6-640x400.jpg" alt="two-person scooter" height="100"/><img src="https://smartelectricscooters.com/wp-content/uploads/2018/08/Best-Electric-Scooter-for-Adults-300x300.jpg" alt="sitting scooter" height="100"/><img src="https://i.pinimg.com/originals/c3/21/9f/c3219fa308b64ff0599bf01164bfb402.jpg" alt="Bird sitting scooter" height="100"/>
+  | **passenger trikes** | <img src="https://www.e-scooter.co/i/20/b7/f4/d206a1db125ad4834b79dca399.jpg" alt="Doohan iTango" height="100"/><img src="https://cgmood.com/storage/previews/09-2019/6622/6622-13707.jpeg" alt="Doohan iTango" height="100"/><img src="https://www.heradas.lt/image/image5c139ee727d78.png" alt="Doohan iTango" height="100"/><img src="https://thekneeslider.com/images/bmwclever.jpg" alt="BMW Clever" height="100"><img src="https://images.hgmsites.net/lrg/2018-carver_100650887_l.jpg" alt="Carver" height="100"><img src="https://images.hgmsites.net/lrg/2018-carver_100650884_l.jpg" alt="Carver" height="100"><img src="https://www.e-scooter.co/i/3f/fc/1f/da2e9af5182ceea96b13bafe5a.jpg" alt="Carver" height="100"><img src="https://i.servimg.com/u/f47/15/57/88/64/dscf2510.jpg" alt="Schaeffler Bio-Hybrid" height="100"><img src="https://i0.wp.com/www.greenoptimistic.com/wp-content/uploads/2014/07/Toyota-i-Road-0001-537x358.jpg?fit=537%2C358&ssl=1" alt="Toyota iRoad" height="100"> 
+  | **cargo trikes** | <img src="https://www.amsterdam-bicycle.com/wpcms/wp-content/uploads/E-Cargo-Trike-Classic-Narrow-Pearl-Blue-Metallic-Gloss.jpg" alt="Bakfiets.nl" height="100"/><img src="https://sc01.alicdn.com/kf/HTB1PDOFXEvrK1RjSszfq6xJNVXap.jpg" alt="Ester Heavy Load Electric Assisted Cargo Trike" height="100"/><img src="https://www.practicalcycle.com/wp-content/uploads/nihola_flex_open.jpg" alt="Nihola Flex" height="100"/><img src="https://media.treehugger.com/assets/images/2017/04/17814216_280991905658092_1554833526111068713_o.jpg.860x0_q70_crop-scale.jpg" alt="Sanitov's movE" height="100"/><img src="https://electricbikereview.com/wp-content/assets/2019/08/2019-rad-power-bikes-radburro-stock-truck-bed-1200x800-c-default.jpg" alt="Rad Power Bikes RadBurro" height="100"/>
+  | **cargo vehicles** | <img src="https://www.electrive.com/wp-content/uploads/2019/12/eav-cargo-pedelec-lasten-pedelec-2019-01-min-444x222.png" alt="eav" height="100"/><img src="https://internationalfleetworld.com/wp-content/uploads/2019/09/eaVAN-350x263.jpg" alt="eav" height="100"/>
+  | **motor-chairs<br>&<br>wheelchairs** | <img src="https://www.ultimatecarpage.com/images/gallery/fos08/Toyota-i-REAL-111493.jpg" alt="Toyota i-real" height="100"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/2007_Toyota_i-Real_02.jpg" alt="Toyota i-real" height="100"><img src="https://news-cdn.softpedia.com/images/news2/Meet-Speedster-the-World-s-Fastest-Wheelchair-2.jpg" alt="TankChair Speedster" height="100">
+  | **hoverboards<br>segways<br>ninebots<br>electric skateboards<br>etc.** | <img src="https://cdn.thisiswhyimbroke.com/images/segway-mini-300x250.jpg" alt="Ninebot Mini Pro" height="100"/><img src="https://ninebot.com.sg/wp-content/uploads/2018/03/Ninebot_ONE-S2-rider-url-1000x1000.jpg" alt="Ninebot ONE S2" height="100"/><img src="https://electrek.co/wp-content/uploads/sites/3/2019/03/DSC_1248-copy.jpg?quality=82&strip=all&w=678" alt="Kiwano KO1+" height="100"/>
+  | **delivery robots** | <img src="https://cdn.geekwire.com/wp-content/uploads/2019/01/amazonscout-768x600.png" alt="Amazon scout" height="100"><img src="https://techcrunch.com/wp-content/uploads/2019/04/AD03.jpg?w=730&crop=1" alt="brain OS" height="100"/><img src="https://www.supermarketnews.com/sites/supermarketnews.com/files/styles/article_featured_retina/public/FedEx_SameDay_Bot_street_1.png?itok=Ml2UGf3F" alt="FedEx bot" height="100"/>
 
 
 ------------
