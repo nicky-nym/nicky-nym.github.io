@@ -214,7 +214,7 @@ You might think that faster travel times would lead to faster commute times, but
 
 The result of faster travel times is not shorter commute times for everyone, but is instead an increase in daily **kinematic range** for everyone.
 
-## <a name="congestion"></a>Congestion vs. kinematic range
+### <a name="congestion"></a>Congestion vs. kinematic range
 
   * A **congested** city is one where it's hard to get where you want to go, because there's too much traffic.
   * A **sleepy** little town is one where there's no traffic, but there's almost nothing in town to go to.
@@ -227,9 +227,8 @@ The result of faster travel times is not shorter commute times for everyone, but
     * In **Haxby, Montana**, there's not any traffic congestion, but there also aren't many places to go. With a car, in 30 minutes you can probably reach a total of about **a half dozen homes**, with perhaps **10 thousand square feet of floorspace**.
     * In **San Francsico**, there are lots of places to go, but there's a lot of congestion. In 30 minutes you can reach hundreds of thousands of homes, offices, and stores, with perhaps **500 million square feet of floorspace**.  San Francisco has a kinematic range that's about 50 thousand times larger than Haxby, Montana.
 
----
 
-## <a name="who_cares"></a>Why does Kinematic Range matter?
+### <a name="who_cares"></a>Why does Kinematic Range matter?
 
   * Urban mobility is *important*
 
@@ -270,9 +269,7 @@ This 15% superlinear growth seems to apply to the whole physical and social meta
   * **restaurants**
   * **diversity of business services** available (meaning, how long the "[long tail](/glossary#long-tail)" of the city is)
 
----
-
-## <a name="incrementalist"></a>How do existing cities try to become more Kinematic?
+### <a name="incrementalist"></a>How do existing cities try to become more Kinematic?
 
 Existing cities work hard, and spend billions, to try to incrementally improve mobility and kinematic range.
 
@@ -299,9 +296,8 @@ Someday, in the future, cities might also be able to improve kinematic range by 
   * **Boring company tunnels**
   * **flying cars**
 
----
 
-## <a name="better"></a>Could we do better?
+### <a name="better"></a>Could we do better?
 
 Existing cities, all over the world, have serious traffic congestion problems, despite spending billions on transit projects and on widening roads. As cities grow and economies grow, the congestion problems just get worse.
 
@@ -339,9 +335,8 @@ If we could plan a whole urban transporation network from scratch, what's the op
 
 What follows is a design proposal for what I believe is a **simple**, **cheap**, **reliable**, **low-risk** transportation network that has **high throughput**, good **transit speed**, nearly **door-to-door** convenience, and takes up less space than roads, leaving more **land area** for parks and buildings.
 
----
 
-## <a name="impossible"></a>"Impossible city" design proposal
+### <a name="impossible"></a>"Impossible city" design proposal
 
 The **Impossible city** is just one simple design for a more Kinematic city. I'm not suggesting that this is the best design; rather, I'm putting it out as a *straw-man* proposal, in hopes that it might be a step in the right direction, and that it might spark conversation that leads to better ideas.
 
