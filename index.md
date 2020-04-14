@@ -115,11 +115,11 @@ The result is:
   |  |  | 
   |:-:|:-|:-
   | | <object width="400" data="../svg/drawings/manhattan_ave.svg"></object><br><span class="heading">2nd Avenue, Manhattan</span><br> | <object width="400"   data="../svg/drawings/impossible_ave.svg"></object><br><span class="heading">Impossible Street Design</span><br>
-  | **right-of-way** | 100-foot wide right-of-way<br>(including sidewalks & street) | 100-foot wide right-of-way<br>(including sidewalks & pair of center buildings)
+  | **right-of-way** | 100-foot wide right-of-way<br>_(including sidewalks & street)_ | 100-foot wide right-of-way<br>_(including sidewalks & pair of center buildings)_
   | **sidewalks**    | two 20-foot wide sidewalks | two 15-foot wide sidewalks at ground-level <br> two 25-foot wide highline greenways with footpaths
   | **streets**      | one 60-foot wide open-air street      | two 30-foot wide enclosed streets elevated on 2nd floor
-  | **lanes**        | six conventional vehicle lanes<br>all one-way southbound<br>each lane 10 feet wide | eight bicycle lanes, 4 northbound & 4 southbound<br>each lane 6 feet wide, plus two shoulders, each 3 feet wide
-  | **vehicles**     | 1 bus-only lane<br> 4 lanes for cars, trucks, taxis, etc. <br> 1 lane parking & curbside loading | 8 lanes for bike-sized vehicles<br>(bicycles, electric bikes, scooters, and other narrow, lightweight vehicles)
+  | **lanes**        | six conventional vehicle lanes<br>_all one-way southbound_<br>_each lane 10 feet wide_ | eight bicycle lanes<br>_4 northbound & 4 southbound_<br>_each lane 6 feet wide, plus two shoulders, each 3 feet wide_
+  | **vehicles**     | 1 bus-only lane<br> 4 lanes for cars, trucks, taxis, etc. <br> 1 lane parking & curbside loading | 8 lanes for bicycles and <a href="#bike-sized">bike-sized vehicles</a> vehicles
   | **cross-streets** | about 20 per mile | 8 per mile
   | **traffic lights** | about 20 per mile | none
   | **intersections** | at-grade conventional intersections | grade-separated intersections
@@ -133,7 +133,7 @@ The result is:
   | **traffic fatalities** | 23 fatalities per million people per year | 1 fatality per million per year
   | **CO2 footprint<br>for transportation**<br>kg per person per year | 1,000 kg | 1 kg
   | **cost of public transit**<br>annual dollars per capita | $360 in fares paid by riders<br>$720 in city funded transit subsidies<br>**$1,080** total | $0
-  | **private vehicle costs**<br>annual dollars per capita | $1,000<br>mostly for cars<br>about 1 per 10 people | $1,000<br>mostly for bicycles, e-bikes, mopeds, scooters, etc.<br>about 1 per person
+  | **private vehicle costs**<br>annual dollars per capita | $1,000<br>_mostly for cars_<br>_about 1 car per 10 people_ | $1,000<br>_mostly for bicycles, e-bikes, mopeds, scooters, etc._<br>_about 1 vehicle per person_
   | **air quality** | good | _really_ good
   | **noise levels** | noisier | quieter
   |  | <a name="costs"></a><span class="heading">Real estate</span> | 
@@ -147,6 +147,7 @@ The result is:
 
   <figcaption style="font-size: 1.5em; font-weight: bold; color: #DF4911; text-align: center">Impossible intersection design</figcaption>
 </figure>
+
 
 ### <a name="bike-sized"></a>Bike-sized vehicles
 
