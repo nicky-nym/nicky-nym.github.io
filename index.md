@@ -16,7 +16,7 @@ This paper outlines a summer 2020 design proposal for building car-free cities.
 
 <style>
 .chapter {
-  margin: 3em;
+  margin-top: 3em !important; 
   padding: 1.8em 1em 1em 1em;
   border-style: solid solid none solid;
   border-width: medium;
