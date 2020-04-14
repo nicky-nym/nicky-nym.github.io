@@ -88,7 +88,7 @@ This paper outlines a summer 2020 design proposal for building car-free cities.
 
 ## <a name="1"></a>_Chapter 1_ &mdash; Streets designed for mobility
 
-The <span class="red">Impossible City</span> proposal hinges on a basic re-design of what a city street could look like. 
+The Impossible City proposal hinges on a basic re-design of what a city street could look like. 
 
 The Impossible design
   * replaces cars & buses with **bicycles** & **bike-sized** vehicles
@@ -153,11 +153,10 @@ The <a href="#1">Impossible street design</a> replaces cars & buses with a wide 
   | **underpowered** | 2 horsepower or lower | 4 horsepower 
   | **slow** | 18 mph speed limit city-wide<br>with automated enforcement | 15 mph 
 
-### <a name="examples"></a>Examples
-
   |---
-  |  |  | 
+  |  | <span class="heading">Examples</span> | 
   |:-:|:-|:-
+  |  | (The copyright to these pictures belongs to their respective owners. The pictures are used here under fair use, and are not included as part of the [Creative Commons Zero v1.0 Universal](https://raw.githubusercontent.com/nicky-nym/nicky-nym.github.io/master/LICENSE.txt) license/waiver that applies to the rest of this paper.)  | 
   | **bicycles** | <img src="https://www.planetizen.com/files/styles/news_header_sm/public/images/BikeCommute.jpg" alt="bike commuter" height="100"/> <img src="https://kanwalkwilltravel.com/img/d695ee7c345f982116b270d93e17ede7.png" alt="bmx bike" height="100"/>
   | **family bicycles** | <img src="https://cupofjo.com/wp-content/uploads/2015/09/cup-of-jo-bikes-8-3.jpg" alt="family bicycle" height="100"/> <img src="https://www.macheesmo.com/wp-content/uploads/2018/09/cargo-bike1.jpg" alt="family bicycle" height="100"/> <img src="https://i.pinimg.com/originals/32/b0/ec/32b0ec61eaf544b3b482dc7faa9036f5.jpg" alt="family bicycle" height="100"/> <img src="https://momentummag.com/wp-content/uploads/2016/05/taga2main-1.jpg" alt="family bicycle" height="100"/>
   | **folding bicycles**<br>**&**<br>**compact hybrids** | <img src="https://theawesomer.com/photos/2019/04/halfbike_3_5.jpg" alt="halfbike" height="100"/> <img src="https://cdn.thisiswhyimbroke.com/images/halfbike-half-bike-640x534.jpg" alt="halfbike" height="100"/> <img src="https://avialbikes.com/wp-content/uploads/2019/04/YikeBike-folding-e-bike_2-1024x700.jpg" alt="YikeBike" height="100"/> <img src="http://39h10d29ck5a13hostsevnvx.wpengine.netdna-cdn.com/wp-content/uploads/2017/10/4-1.jpg" alt="YikeBike" height="100"/> <img src="https://gocycle.com/wp-content/uploads/2019/09/gxi-design0-mob-compressor.jpg" alt="Gocycle" height="100"/> <img src="https://cleantechnica.com/files/2019/01/jack-rabbit-mobility-ces-2019-las-vegas-1.jpg" alt="Jack Rabbit" height="100"/>
