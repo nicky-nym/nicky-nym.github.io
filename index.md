@@ -15,6 +15,14 @@ This paper outlines a summer 2020 design proposal for building car-free cities.
   * Construction is **_very_** expensive. In order to fund the huge amount of construction required for new transportation networks, we need to get much better at **land value capture**. We need to set up reliable "fiscal engines" that can robustly recover the value created on each development project and reinvest it quickly on the next project. See <a href="#5">chapter 5</a>.
 
 <style>
+.chapter {
+  margin-top: 2em;
+  border-style: solid solid solid none;
+  border-width: medium;
+  border-color: grey;
+  border-radius: 1em;
+}
+
 .h2 {
   color: #DF4911;
   font-size: 1.5em;
@@ -99,7 +107,7 @@ This paper outlines a summer 2020 design proposal for building car-free cities.
   </div>
 </div>
 
-## <a name="1"></a>_Chapter 1_ &mdash; Streets designed for mobility
+## <a name="1"></a><span class="chapter">_Chapter 1_ &mdash; Streets designed for mobility</span>
 
 The Impossible City proposal hinges on a basic re-design of what a city street could look like. 
 
@@ -186,7 +194,7 @@ The <a href="#1">Impossible street design</a> replaces cars & buses with a wide 
 
 ------------
   
-## <a name="2"></a>_Chapter 2_ &mdash; Why mobility matters
+## <a name="2"></a><span class="chapter">_Chapter 2_ &mdash; Why mobility matters</span>
 
 The [impossible streets & intersections](#1) are designed to yield **faster travel times** and **higher throughput**, compared to conventional city streets in places like San Franisco or Manhattan New York.
 
@@ -197,7 +205,7 @@ The goal of the design is to increase overall **urban mobility**, and more speci
 Read more about [better mobility & commute range](mobility) vs. traditional congestion.
 
 
-## <a name="3"></a>_Chapter 3_ &mdash; Why this matters NOW
+## <a name="3"></a><span class="chapter">_Chapter 3_ &mdash; Why this matters NOW</span>
 
 ## <a name="people"></a>More space for more people
 
@@ -218,7 +226,7 @@ Read about [more space for more people](people).
 
 ------------
   
-## <a name="4"></a>_Chapter 4_ &mdash; How to fund it
+## <a name="4"></a><span class="chapter">_Chapter 4_ &mdash; How to fund it</span>
 
 ## <a name="costs"></a>Costs & land value
 
@@ -226,7 +234,7 @@ Constructing even small buildings is expensive. Constructing entire neighborhood
 
 Read more about [costs & land value](economics)
 
-## <a name="glossary"></a>Glossary & key concepts
+## <a name="glossary"></a><span class="chapter">Glossary & key concepts</span>
 
 * [Glossary](glossary#glossary)
 * [Key concepts](glossary#key-concepts)
@@ -241,7 +249,7 @@ Read more about [costs & land value](economics)
 
 
 ---------
-## <a name="sources"></a>Source material, Chapter 1
+## <a name="sources"></a><span class="chapter">Source material, Chapter 1</span>
 
 ### <a name="throughput"></a>Throughput per lane (source: NACTO[^gsdg])
 
@@ -296,7 +304,7 @@ Read more about [costs & land value](economics)
 [^speed-limits]: ["Manhattan Speed Limits"](https://www1.nyc.gov/html/dot/downloads/pdf/current-pre-vision-zero-speed-limit-maps.pdf).  _NYC Department of Transportation_.
 
 ---------
-## <a name="references"></a>References
+## <a name="references"></a><span class="chapter">References</span>
 
 [^growth]: ["Should we build cities from scratch?"](https://www.theguardian.com/cities/2019/jul/10/should-we-build-cities-from-scratch). _The Guardian_. 10 July 2019.
 
