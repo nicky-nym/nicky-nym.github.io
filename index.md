@@ -142,12 +142,12 @@ The city could have a wide variety of different kinds of bike-sized vehicles. He
   |  | examples | 
   |:-:|:-|:-
   | regular bicycles | 
-  | folding bicycles<br>&<br>compact hybrids | ![halfbike](https://halfbikes.com/uploads/191129-47218-halfbike-3-studio-image.jpg "halfbike") ![halfbike](https://theawesomer.com/photos/2019/04/halfbike_3_5.jpg "halfbike") ![halfbike](https://cdn.thisiswhyimbroke.com/images/halfbike-half-bike-640x534.jpg "halfbike") ![YikeBike] (https://avialbikes.com/wp-content/uploads/2019/04/YikeBike-folding-e-bike_2-1024x700.jpg "YikeBike") ![YikeBike] (http://39h10d29ck5a13hostsevnvx.wpengine.netdna-cdn.com/wp-content/uploads/2017/10/4-1.jpg "YikeBike") ![gocycle] (https://gocycle.com/wp-content/uploads/2019/09/gxi-design0-mob-compressor.jpg "Gocycle") ![Jack Rabbit](https://cleantechnica.com/files/2019/01/jack-rabbit-mobility-ces-2019-las-vegas-1.jpg "Jack Rabbit")
+  | folding bicycles<br>&<br>compact hybrids | <img src="https://halfbikes.com/uploads/191129-47218-halfbike-3-studio-image.jpg alt="halfbike" height="40"><br><img src="https://theawesomer.com/photos/2019/04/halfbike_3_5.jpg alt="halfbike" height="40"><br><img src="https://cdn.thisiswhyimbroke.com/images/halfbike-half-bike-640x534.jpg alt="halfbike" height="40"><br><img src="https://avialbikes.com/wp-content/uploads/2019/04/YikeBike-folding-e-bike_2-1024x700.jpg alt="YikeBike" height="40"><br><img src="http://39h10d29ck5a13hostsevnvx.wpengine.netdna-cdn.com/wp-content/uploads/2017/10/4-1.jpg alt="YikeBike" height="40"><br><img src="https://gocycle.com/wp-content/uploads/2019/09/gxi-design0-mob-compressor.jpg alt="Gocycle" height="40"><br><img src="https://cleantechnica.com/files/2019/01/jack-rabbit-mobility-ces-2019-las-vegas-1.jpg alt="Jack Rabbit" height="40"><br>
   | electric bicycles | 
   | mopeds & scooters<br>(electric) | 
   | passanger trikes | carver, Doohan iTango, Toyota iroad
   | cargo trikes | 
-  | cargo vehicles | ![eav](https://www.electrive.com/wp-content/uploads/2019/12/eav-cargo-pedelec-lasten-pedelec-2019-01-min-444x222.png "eav")
+  | cargo vehicles | <img src="https://www.electrive.com/wp-content/uploads/2019/12/eav-cargo-pedelec-lasten-pedelec-2019-01-min-444x222.png" alt="eav" height="40"><br><img src="https://internationalfleetworld.com/wp-content/uploads/2019/09/eaVAN-350x263.jpg" alt="eav" height="40">
   | leaning trikes | DryCycle
   | motor-chairs<br>&<br>wheelchairs | Toyota i-Real
   | hoverboards<br>segways<br>ninebots<br>etc. | KO1+, ninebot one, ninebot-minipro
