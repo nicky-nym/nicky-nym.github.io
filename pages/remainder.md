@@ -124,22 +124,7 @@ A kinematic city has:
 
 Instead, we have
   * <a name="bikeish"></a>**bike-sized vehicles**
-    * examples
-      * bicycles
-      * scooters
-      * mopeds (electric)
-      * strollers
-      * cargo trikes
-      * wheelchairs
-      * segways
-      * hoverboards
-      * skateboards & electric skateboards
-      * cute little delivery robots
     * restrictions
-      * narrow &mdash; **36 inch width limit**, or 48 inches for licensed cargo vehicles
-      * lightweight &mdash; **111 pound weight limit**
-      * underpowered &mdash; **2 horsepower power limit**
-      * slow &mdash; **15 mph speed limit** city-wide, with automatic speed governors, and automated ticketing
         > below 18 mph "pedestrians are more likely to survive being hit by a car than die, while at higher speeds the reverse is true" [^levinson]
         > "Small changes in speed have big impacts on fatality rates: a person is 70 percent more likely to be killed by a car moving at 30 mph versus 25 mph." [^ng]
     * mixed-use vehicles
