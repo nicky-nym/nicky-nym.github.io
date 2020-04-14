@@ -15,12 +15,18 @@ This paper outlines a summer 2020 design proposal for building car-free cities.
   * Construction is **_very_** expensive. In order to fund the huge amount of construction required for new transportation networks, we need to get much better at **land value capture**. We need to set up reliable "fiscal engines" that can robustly recover the value created on each development project and reinvest it quickly on the next project. See <a href="#5">chapter 5</a>.
 
 <style>
-.heading {
+.h2 {
   color: #DF4911;
   font-size: 1.5em;
   font-weight: bold;
 }
- 
+
+.h3 {
+  color: #DF4911;
+  font-size: 1.17em;
+  font-weight: bold;
+}
+
 .red {
   color: red;
 }
@@ -114,7 +120,7 @@ The result is:
   |---
   |  |  | 
   |:-:|:-|:-
-  | | <object width="400" data="../svg/drawings/manhattan_ave.svg"></object><br><span class="heading">2nd Avenue, Manhattan</span><br> | <object width="400"   data="../svg/drawings/impossible_ave.svg"></object><br><span class="heading">Impossible Street Design</span><br>
+  | | <object width="400" data="../svg/drawings/manhattan_ave.svg"></object><br><span class="h2">2nd Avenue, Manhattan</span><br> | <object width="400"   data="../svg/drawings/impossible_ave.svg"></object><br><span class="h2">Impossible Street Design</span><br>
   | **right-of-way** | 100-foot wide right-of-way<br>_(including sidewalks & street)_ | 100-foot wide right-of-way<br>_(including sidewalks & pair of center buildings)_
   | **sidewalks**    | two 20-foot wide sidewalks | two 15-foot wide sidewalks at ground-level <br> two 25-foot wide highline greenways with footpaths
   | **streets**      | one 60-foot wide open-air street      | two 30-foot wide enclosed streets elevated on 2nd floor
@@ -129,14 +135,14 @@ The result is:
   | **vehicle<br>throughput** | 1 bus lane at about 6,000 people per hour (+/- 2,000)<br> 4 car lanes at about 1,000 people per hour each (+/- 400)<br>1 parking & delivery lane at 0 people per hour<br>**total:** about 11,000 people per hour | 8 bike lanes at about 3,500 people per hour per bike lane each (+/- 250 per hour)<br>**total:** about 28,000 people per hour
   | **sidewalk<br>throughput** | about 10,000 people per hour | about 10,000 people per hour
   | **bottom line** | less than half as many people<br>each moving half as fast | 
-  |  | <a name="costs"></a><span class="heading">Costs</span> | 
+  |  | <a name="costs"></a><span class="h3">Costs</span> | 
   | **traffic fatalities** | 23 fatalities per million people per year | 1 fatality per million per year
   | **CO2 footprint<br>for transportation**<br>kg per person per year | 1,000 kg | 1 kg
   | **cost of public transit**<br>annual dollars per capita | $360 in fares paid by riders<br>$720 in city funded transit subsidies<br>**$1,080** total | $0
   | **private vehicle costs**<br>annual dollars per capita | $1,000<br>_mostly for cars_<br>_about 1 car per 10 people_ | $1,000<br>_mostly for bicycles, e-bikes, mopeds, scooters, etc._<br>_about 1 vehicle per person_
   | **air quality** | good | _really_ good
   | **noise levels** | noisier | quieter
-  |  | <a name="costs"></a><span class="heading">Real estate</span> | 
+  |  | <a name="costs"></a><span class="h3">Real estate</span> | 
   | **floorspace** | no real estate floorspace in street | 680,000 sqaure feet of floor space per mile
 
 
@@ -162,7 +168,7 @@ The <a href="#1">Impossible street design</a> replaces cars & buses with a wide 
   | **slow** | 18 mph speed limit city-wide<br>with automated enforcement | 15 mph 
 
   |---
-  |  | <span class="heading">Examples</span> | 
+  |  | <span class="h3">Examples</span> | 
   |:-:|:-|:-
   |  | <span class="minor">(The copyright to these pictures belongs to their respective owners. The pictures are used here under fair use, and are not included as part of the [Creative Commons Zero v1.0 Universal](https://raw.githubusercontent.com/nicky-nym/nicky-nym.github.io/master/LICENSE.txt) license/waiver that applies to the rest of this paper.)</span>  | 
   | **bicycles** | <img src="https://www.planetizen.com/files/styles/news_header_sm/public/images/BikeCommute.jpg" alt="bike commuter" height="100"/> <img src="https://kanwalkwilltravel.com/img/d695ee7c345f982116b270d93e17ede7.png" alt="bmx bike" height="100"/>
