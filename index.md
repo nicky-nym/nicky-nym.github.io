@@ -22,6 +22,9 @@ This paper outlines a summer 2020 design proposal for building car-free cities.
       <details>
         <summary><a href="#1">1. Streets designed for mobility</a></summary>
         <ul>
+          <li><a href="#comparison">2nd Ave vs. Impossible Street</a></li>
+          <li><a href="#intersection">Impossible intersection design</a></li>
+          <li><a href="#bike-sized">Bike-sized vehicles</a></li>
         </ul>
       </details>
     </div>
