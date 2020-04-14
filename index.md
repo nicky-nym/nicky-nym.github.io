@@ -138,11 +138,11 @@ The result is:
 The <a href="#1">Impossible street design</a> replaces cars & buses with a wide variety of different kinds of **bicycles** & **bike-sized** vehicles. For this design "bike-sized" means:
 
   |---
-  |  | limit | limit for licensed cargo vehicles
+  |  | limits for most vehicles | limits for licensed cargo vehicles
   |-:|:-|:-
-  | **narrow** | 36 inch width limit | 48 inch width
+  | **narrow** | 30 inch width limit | 48 inch width
   | **lightweight** | 111 pounds or less | 222 pounds
-  | **underpowered** | 2 horsepower or lower | 2 horsepower 
+  | **underpowered** | 2 horsepower or lower | 4 horsepower 
   | **slow** | 18 mph speed limit city-wide<br>with automated enforcement | 15 mph 
 
 ### <a name="examples"></a>Examples
