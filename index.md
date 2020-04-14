@@ -24,11 +24,13 @@ This paper outlines a summer 2020 design proposal for building car-free cities.
 
 .chapter {
   /* margin-top: 3em !important; */
-  padding: 1.8em 1em 1em 1em;
+  padding: 1.8em 1em 1.8em 1em;
+  /*
   border-style: solid solid none none;
   border-width: medium;
   border-color: lightgrey;
   border-radius: 0.5em;
+  */
 }
 
 .h2 {
@@ -114,6 +116,19 @@ This paper outlines a summer 2020 design proposal for building car-free cities.
     </div>
   </div>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+_______________________________________________
 
 ## <a name="1"></a><span class="chapter">_Chapter 1_ &mdash; Streets designed for mobility</span>
 
@@ -202,8 +217,17 @@ The <a href="#1">Impossible street design</a> replaces cars & buses with a wide 
 
 
 
-------------
-  
+
+
+
+
+
+
+
+
+
+_______________________________________________
+
 ## <a name="2"></a><span class="chapter">_Chapter 2_ &mdash; Mobility for prosperity, not for speed</span>
 
 The [impossible streets & intersections](#1) are designed to yield **faster travel times** and **higher throughput**, compared to conventional city streets in places like San Franisco or Manhattan New York.
@@ -501,6 +525,18 @@ It could be built on the outskirts of an existing city, or it could be built in 
 
 
 
+
+
+
+
+
+
+
+
+
+
+_______________________________________________
+
 ## <a name="3"></a><span class="chapter">_Chapter 3_ &mdash; Why this matters NOW</span>
 
 ## <a name="people"></a>More space for more people
@@ -520,8 +556,19 @@ To handle the influx, cities will build another **2.5 trillion square feet** of 
 Read about [more space for more people](people).
 
 
-------------
-  
+
+
+
+
+
+
+
+
+
+
+
+_______________________________________________
+
 ## <a name="4"></a><span class="chapter">_Chapter 4_ &mdash; How to fund it</span>
 
 ## <a name="costs"></a>Costs & land value
@@ -535,7 +582,20 @@ Read more about [costs & land value](economics)
 * [Glossary](glossary#glossary)
 * [Key concepts](glossary#key-concepts)
 
----------
+
+
+
+
+
+
+
+
+
+
+
+
+_______________________________________________
+
 ## Scrap heap
 
   * Left-over [transportation](transportation) notes
@@ -586,6 +646,20 @@ Read more about [costs & land value](economics)
 | 10,000 | 13 lanes of conventional arterial, at about **156'** wide |**mostly cars**, with 800 vehicles per lane per hour
 |---
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+_______________________________________________
 
 ## <a name="references"></a>References, Chapter 1
 
