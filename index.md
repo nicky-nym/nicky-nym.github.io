@@ -204,7 +204,7 @@ The <a href="#1">Impossible street design</a> replaces cars & buses with a wide 
 
 ------------
   
-## <a name="2"></a><span class="chapter">_Chapter 2_ &mdash; Why mobility matters</span>
+## <a name="2"></a><span class="chapter">_Chapter 2_ &mdash; Mobility for prosperity, not for speed</span>
 
 The [impossible streets & intersections](#1) are designed to yield **faster travel times** and **higher throughput**, compared to conventional city streets in places like San Franisco or Manhattan New York.
 
