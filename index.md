@@ -209,7 +209,9 @@ The [impossible streets & intersections](#1) are designed to yield **faster trav
 
 ### Beyond a faster commute
 
-The goal of the design is to increase overall **urban mobility**, and more specificly to increase everyone's **kinematic range**.
+You might think that faster travel times would lead to faster commute times, but, surprisingly, that's usually not the case. Instead, when faster travel is possible, most people choose to use it to travel **further per day**, instead of using it to travel for **less time per day**.
+
+The result of faster travel times is not shorter commute times for everyone, but is instead an increase in daily **kinematic range** for everyone.
 
 ## <a name="congestion"></a>Congestion vs. kinematic range
 
