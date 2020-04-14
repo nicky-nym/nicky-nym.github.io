@@ -15,6 +15,12 @@ This paper outlines a summer 2020 design proposal for building car-free cities.
   * Construction is **_very_** expensive. In order to fund the huge amount of construction required for new transportation networks, we need to get much better at **land value capture**. We need to set up reliable "fiscal engines" that can robustly recover the value created on each development project and reinvest it quickly on the next project. See <a href="#5">chapter 5</a>.
 
 <style>
+ 
+.chapter::before  {
+  content: "Foo ";
+  padding: 2em;
+}
+
 .chapter {
   margin-top: 3em !important; 
   padding: 1.8em 1em 1em 1em;
