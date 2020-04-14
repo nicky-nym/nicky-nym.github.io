@@ -152,7 +152,7 @@ The city could have a wide variety of different kinds of bike-sized vehicles. He
   | motor-chairs<br>&<br>wheelchairs | Toyota i-Real
   | hoverboards<br>segways<br>ninebots<br>etc. | KO1+, ninebot one, ninebot-minipro
   | skateboards & electric skateboards | 
-  | delivery robots | Amazon scout, brain OS, FedEx bot
+  | delivery robots | <img src="https://cdn.geekwire.com/wp-content/uploads/2019/01/amazonscout-768x600.png" alt="Amazon scout" height="40"><br><img src="https://techcrunch.com/wp-content/uploads/2019/04/AD03.jpg?w=730&crop=1" alt="brain OS" height="40">, <img src="https://www.supermarketnews.com/sites/supermarketnews.com/files/styles/article_featured_retina/public/FedEx_SameDay_Bot_street_1.png?itok=Ml2UGf3F" alt="FedEx bot" height="40">
 
 
 ------------
