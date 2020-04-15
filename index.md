@@ -267,6 +267,9 @@ The result of faster travel times is not shorter commute times for everyone, but
     * In **Haxby, Montana**, there's not any traffic congestion, but there also aren't many places to go. With a car, in 30 minutes you can probably reach a total of about **a half dozen homes**, with perhaps **10 thousand square feet of floorspace**.
     * In **San Francsico**, there are lots of places to go, but there's a lot of congestion. In 30 minutes you can reach hundreds of thousands of homes, offices, and stores, with perhaps **500 million square feet of floorspace**.  San Francisco has a kinematic range that's about 50 thousand times larger than Haxby, Montana.
 
+```
+TODO: add a diagram showing different ranges?
+```
 
 ### <a name="who_cares"></a>Why does Kinematic Range matter?
 
@@ -308,6 +311,10 @@ This 15% superlinear growth seems to apply to the whole physical and social meta
   * **crime**
   * **restaurants**
   * **diversity of business services** available (meaning, how long the "[long tail](/glossary#long-tail)" of the city is)
+
+```
+TODO: add a graph illustrating 15% doubling
+```
 
 ### <a name="incrementalist"></a>How do existing cities try to become more Kinematic?
 
