@@ -575,14 +575,7 @@ It could be built on the outskirts of an existing city, or it could be built in 
   10. are **too few and too small**, by a factor of two, for everyone who will live in them by 2050
 
 
----
 
-## <a name="notes"></a>Notes for Chapter 2
-
-### <a name="size"></a>Size & density
-
-  * **Bigger may not be better.** Big cities, with more people, have more destinations to go to, and have a wider variety of destinatations. But, if there's too much congestion, it may take too long to get to the other side of town, so that limits your kinematic range. Your range doesn't cover the whole city, just the region of the city that's within 30 minutes of you.
-  * **Denser may not be better.** New York is much denser than Los Angeles, so there are more destinations per square mile in New York than there are in Los Angeles. But it takes longer to travel 10 miles in New York than in does in Los Angeles, so Los Angeles actually has a larger kinematic range than New York.
 
 
 
@@ -887,13 +880,17 @@ Read more about [costs & land value](economics)
 
 
 
-### Author's notes to self
+### <a name="notes"></a>Author's notes to self
 
   * Left-over [transportation](transportation) notes
   * Left-over [notes & quotes](remainder)
   * Work-in-progress towards a [3d city demo](demo)
   * List of [architectural terms](architecture)
 
+#### <a name="size"></a>Size & density
+
+  * **Bigger may not be better.** Big cities, with more people, have more destinations to go to, and have a wider variety of destinatations. But, if there's too much congestion, it may take too long to get to the other side of town, so that limits your kinematic range. Your range doesn't cover the whole city, just the region of the city that's within 30 minutes of you.
+  * **Denser may not be better.** New York is much denser than Los Angeles, so there are more destinations per square mile in New York than there are in Los Angeles. But it takes longer to travel 10 miles in New York than in does in Los Angeles, so Los Angeles actually has a larger kinematic range than New York.
 
 
 
