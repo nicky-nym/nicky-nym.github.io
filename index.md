@@ -269,9 +269,9 @@ The <a href="#1">Impossible street design</a> replaces cars & buses with a wide 
 
 
 
-_______________________________________________
+<div class="hr"><a name="2"></a></div>
 
-## <a name="2"></a><span class="chapter">_Chapter 2_ &mdash; Mobility for prosperity, not for speed</span>
+## <span class="chapter">_Chapter 2_ &mdash; Mobility for prosperity, not for speed</span>
 
 The [impossible streets & intersections](#1) are designed to yield **faster travel times** and **higher throughput**, compared to conventional city streets in places like San Franisco or Manhattan New York.
 
@@ -578,9 +578,10 @@ It could be built on the outskirts of an existing city, or it could be built in 
 
 
 
-_______________________________________________
 
-## <a name="3"></a><span class="chapter">_Chapter 3_ &mdash; Why this matters NOW</span>
+<div class="hr"><a name="3"></a></div>
+
+## <span class="chapter">_Chapter 3_ &mdash; Why this matters NOW</span>
 
 ## <a name="people"></a>More space for more people
 
@@ -610,9 +611,10 @@ Read about [more space for more people](people).
 
 
 
-_______________________________________________
 
-## <a name="4"></a><span class="chapter">_Chapter 4_ &mdash; How to fund it</span>
+<div class="hr"><a name="4"></a></div>
+
+## <span class="chapter">_Chapter 4_ &mdash; How to fund it</span>
 
 ## <a name="costs"></a>Costs & land value
 
@@ -620,7 +622,10 @@ Constructing even small buildings is expensive. Constructing entire neighborhood
 
 Read more about [costs & land value](economics)
 
-## <a name="glossary"></a><span class="chapter">Glossary & key concepts</span>
+
+<div class="hr"><a name="glossary"></a></div>
+
+## <span class="chapter">Glossary & key concepts</span>
 
 * [Glossary](glossary#glossary)
 * [Key concepts](glossary#key-concepts)
@@ -637,7 +642,7 @@ Read more about [costs & land value](economics)
 
 
 
-_______________________________________________
+<div class="hr"><a name="scrap"></a></div>
 
 ## Scrap heap
 
