@@ -43,6 +43,7 @@ hr {
 .chapter {
   /* margin-top: 3em !important; */
   padding: 1.8em 0em 1.8em 0em;
+  line-height: 2;
   /*
   border-style: solid solid none none;
   border-width: medium;
