@@ -561,18 +561,6 @@ It could be built on the outskirts of an existing city, or it could be built in 
 |---
 
 
-### <a name="how_long"></a>What problems do existing cities have?
-
-  1. cities have too much **traffic congestion**
-  2. have **housing costs** that are too high
-  3. have **transportation costs** that are too high
-  4. are **not safe enough**
-  5. are **not good for people's mental health**
-  6. are **not resilient** after natural disasters and power failures
-  7. overly **limit mobility** of kids, elders, and people with disabilities
-  8. are **not quickly alterable** &mdash; making one significant change can take decades
-  9. are **not cheaply alterable** &mdash; it is staggeringly expensive to add subways or highways to an existing city
-  10. are **too few and too small**, by a factor of two, for everyone who will live in them by 2050
 
 
 
@@ -600,8 +588,19 @@ It could be built on the outskirts of an existing city, or it could be built in 
 
 ## <span class="chapter">_Chapter 3_ &mdash; Bonus features beyond mobility</span>
 
-
-
+|---
+| Problems existing cities have | Impossible features |  |
+|-:|:-:|:-:|:-:|:-:
+| **traffic congestion** |  |  |
+| **housing costs** are too high |  |  |
+| **transportation costs** are too high |  |  |
+| **not safe enough** |  |  |
+| **not good for people's mental health** |  |  |
+| **not resilient** after natural disasters and power failures |  |  |
+| **limit mobility** of kids, elders, and people with disabilities |  |  |
+| **not quickly alterable**<br>making one significant change can take decades |  |  |
+| **not cheaply alterable**<br>it is staggeringly expensive to add subways or highways to an existing city |  |  |
+| are **too few and too small**, by a factor of two, for everyone who will live in them by 2050 | 
 
 
 
