@@ -34,9 +34,9 @@ hr {
 
 .hr {
   padding: 4em 40px 4em 0em;
-  border-top: 6em solid transparent;
+  border-top: 6em solid white; /*transparent*/
   display: block;
-  background-image: linear-gradient(#DF4911, yellow);
+  background-image: linear-gradient(#DF4911, white);
   position: relative;
   left: -20px;
   width: 100%;
@@ -170,7 +170,7 @@ h3 {
 
 
 
-<hr><a name="1"></a></hr>
+<hr><a name="0"></a>
 
 <div class="hr"><a name="1"></a></div>
 
