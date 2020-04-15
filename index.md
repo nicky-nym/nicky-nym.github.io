@@ -27,6 +27,7 @@ hr {
   background-image: linear-gradient(#DF4911, white);
   position: relative; /* absolute */
   left: -20px;
+  right: 100%; /* 20px */
   width: 100%;
 }
 
