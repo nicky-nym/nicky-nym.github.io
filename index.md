@@ -20,17 +20,17 @@ body {
   color: #222222;
 }
 
+/*
 hr {
   padding: 4em 40px 4em 0em;
   border-top: 6em solid transparent;
-  /* margin-right: 20px; */
   display: block;
   background-image: linear-gradient(#DF4911, white);
   position: relative;
   left: -20px;
-  /* right: 120px; 100% */
   width: 100%;
 }
+*/
 
 .hr {
   padding: 4em 40px 4em 0em;
@@ -170,11 +170,8 @@ h3 {
 
 
 
-<hr><a name="0"></a>
 
 <div class="hr"><a name="1"></a></div>
-
-_______________________________________________
 
 ## <span class="chapter">_Chapter 1_ &mdash; Streets designed for mobility</span>
 
