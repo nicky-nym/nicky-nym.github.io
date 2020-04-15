@@ -22,10 +22,12 @@ body {
 
 hr {
   padding: 4em;
+  border: 1em solid white;
   display: block;
   background-image: linear-gradient(#DF4911, white);
   position: relative; /* absolute */
   left: -20px;
+  width: 120%;
 }
 
 /*
@@ -40,7 +42,7 @@ hr {
 
 .chapter {
   /* margin-top: 3em !important; */
-  padding: 1.8em 1em 1.8em 1em;
+  padding: 1.8em 0em 1.8em 0em;
   /*
   border-style: solid solid none none;
   border-width: medium;
