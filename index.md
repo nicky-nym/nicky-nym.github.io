@@ -21,12 +21,13 @@ body {
 }
 
 hr {
-  padding: 2em;
+  padding: 4em;
   display: block;
-  background-image: linear-gradient(#DF4911, blue);
-  left: 0px;
+  background-image: linear-gradient(#DF4911, white);
+  left: -20px;
 }
 
+/*
 .chapter::before  {
   content: " ";
   padding: 2em;
@@ -34,6 +35,7 @@ hr {
   background-image: linear-gradient(#DF4911, white);
   left: 0px;
 }
+*/
 
 .chapter {
   /* margin-top: 3em !important; */
