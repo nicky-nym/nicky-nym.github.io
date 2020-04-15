@@ -118,15 +118,11 @@ h3 {
     </div>
     <div>
       <details>
-        <summary><a href="#glossary">Glossary & key concepts</a></summary>
+        <summary><a href="#appendixes">Appendixes</a></summary>
         <ul>
-        </ul>
-      </details>
-    </div>
-    <div>
-      <details>
-        <summary><a href="#references">References</a></summary>
-        <ul>
+          <li><a href="#rules-of-thumb">Rules of thumb</a></li>
+          <li><a href="#glossary">Glossary</a></li>
+          <li><a href="#source">Source material</a></li>
           <li><a href="#references">References</a></li>
         </ul>
       </details>
