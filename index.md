@@ -1,4 +1,3 @@
-
 # Impossible cities
 
 This paper outlines a summer 2020 design proposal for building car-free cities.
@@ -13,6 +12,25 @@ This paper outlines a summer 2020 design proposal for building car-free cities.
   * This is an important area of study right now, because there's about to be a huge influx of urban population, and a huge increase in urban construction. The construction of buildings will happen no matter what, so it would be good to try to do it in conjunction with the construction of modern transporation networks, rather than just repeating what was done in past decades. See <a href="#4">chapter 4</a>.
 5. **This requires better funding models & better value capture agreements.**
   * Construction is **_very_** expensive. In order to fund the huge amount of construction required for new transportation networks, we need to get much better at **land value capture**. We need to set up reliable "fiscal engines" that can robustly recover the value created on each development project and reinvest it quickly on the next project. See <a href="#5">chapter 5</a>.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <style>
  
@@ -74,6 +92,26 @@ h3 {
 
 </style>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div id="contents-title">
   <div style="float:right;">Contents</div>
   <div id="contents-entries">
@@ -129,6 +167,15 @@ h3 {
     </div>
   </div>
 </div>
+
+
+
+
+
+
+
+
+
 
 
 
@@ -226,6 +273,13 @@ The <a href="#1">Impossible street design</a> replaces cars & buses with a wide 
   | **motor-chairs<br>&<br>wheelchairs** | <img src="https://news-cdn.softpedia.com/images/news2/Meet-Speedster-the-World-s-Fastest-Wheelchair-2.jpg" alt="TankChair Speedster" height="100"> <img src="https://www.ultimatecarpage.com/images/gallery/fos08/Toyota-i-REAL-111493.jpg" alt="Toyota i-real" height="100"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/2007_Toyota_i-Real_02.jpg" alt="Toyota i-real" height="100"> 
   | **hoverboards<br>segways<br>ninebots<br>electric skateboards<br>etc.** | <img src="https://cdn.thisiswhyimbroke.com/images/segway-mini-300x250.jpg" alt="Ninebot Mini Pro" height="100"/> <img src="https://ninebot.com.sg/wp-content/uploads/2018/03/Ninebot_ONE-S2-rider-url-1000x1000.jpg" alt="Ninebot ONE S2" height="100"/> <img src="https://electrek.co/wp-content/uploads/sites/3/2019/03/DSC_1248-copy.jpg?quality=82&strip=all&w=678" alt="Kiwano KO1+" height="100"/>
   | **delivery robots** | <img src="https://cdn.geekwire.com/wp-content/uploads/2019/01/amazonscout-768x600.png" alt="Amazon scout" height="100"> <img src="https://techcrunch.com/wp-content/uploads/2019/04/AD03.jpg?w=730&crop=1" alt="brain OS" height="100"/> <img src="https://www.supermarketnews.com/sites/supermarketnews.com/files/styles/article_featured_retina/public/FedEx_SameDay_Bot_street_1.png?itok=Ml2UGf3F" alt="FedEx bot" height="100"/>
+
+
+
+
+
+
+
 
 
 
@@ -529,19 +583,11 @@ It could be built on the outskirts of an existing city, or it could be built in 
   * **Bigger may not be better.** Big cities, with more people, have more destinations to go to, and have a wider variety of destinatations. But, if there's too much congestion, it may take too long to get to the other side of town, so that limits your kinematic range. Your range doesn't cover the whole city, just the region of the city that's within 30 minutes of you.
   * **Denser may not be better.** New York is much denser than Los Angeles, so there are more destinations per square mile in New York than there are in Los Angeles. But it takes longer to travel 10 miles in New York than in does in Los Angeles, so Los Angeles actually has a larger kinematic range than New York.
 
-### <a name="rules_of_thumb"></a>Rules of thumb
 
-  * **People tend to travel about one hour a day.**
-    * For people who commute, the average commute is about 30 minutes each way.
-    * For people who aren’t commuting, it is common to spend about an hour each day on other sorts of trips: chores, errands, appointments, etc.
-    * This "one hour per day" number has been found to be surprisingly consistent across different cities in different centuries, different cultures, and different continents, regardless of the different modes of travel used to commute. This is called the **Marchetti constant** (named for Cesare Marchetti, although it was really Yacov Zahavi who first wrote about it).
-  * **Some aspects of a city scale linearly.**
-    * If a city doubles in population size, many measurable characteristics of the city, such as the number of businesses, also double in size. Around the world, from small towns to big cities, regardless of the size of city, there's always about one business establishment per 22 people, and an average of about 8 employees for each establishment.
-  * **Some aspects of a city scale sub-linearly.**
-    * There are often economies of scale in the infrastructure of big cities (or at least, economies of density). 
-    * If a city doubles in population size, meaning it grows by 100%, parts of the supporting infrastructure tend to only grow by 85%. This is tends to be true for networks of roads, electrical cables, and municipal sewers and water pipes.
-  * **Some aspects of a city scale super-linearly.**
-    *
+
+
+
+
 
 
 
@@ -558,7 +604,30 @@ It could be built on the outskirts of an existing city, or it could be built in 
 
 <div class="hr"><a name="3"></a></div>
 
-## <span class="chapter">_Chapter 3_ &mdash; Why this matters NOW</span>
+## <span class="chapter">_Chapter 3_ &mdash; Bonus features beyond mobility</span>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="hr"><a name="4"></a></div>
+
+## <span class="chapter">_Chapter 4_ &mdash; Why this matters now</span>
 
 ## <a name="people"></a>More space for more people
 
@@ -589,9 +658,14 @@ Read about [more space for more people](people).
 
 
 
-<div class="hr"><a name="4"></a></div>
 
-## <span class="chapter">_Chapter 4_ &mdash; How to fund it</span>
+
+
+
+
+<div class="hr"><a name="5"></a></div>
+
+## <span class="chapter">_Chapter 5_ &mdash; This requires better funding models & value capture agreements</span>
 
 ## <a name="costs"></a>Costs & land value
 
@@ -600,12 +674,145 @@ Constructing even small buildings is expensive. Constructing entire neighborhood
 Read more about [costs & land value](economics)
 
 
-<div class="hr"><a name="glossary"></a></div>
 
-## <span class="chapter">Glossary & key concepts</span>
 
-* [Glossary](glossary#glossary)
-* [Key concepts](glossary#key-concepts)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="hr"><a name="appendixes"></a></div>
+
+## <span class="chapter">_Appendixes_</span>
+
+* [Rules of thumb](#rules-of-thumb)
+* [Glossary](#glossary)
+
+
+
+### <a name="rules-of-thumb"></a><span class="chapter">Rules of thumb</span>
+
+  * **People tend to travel about one hour a day.**
+    * For people who commute, the average commute is about 30 minutes each way.
+    * For people who aren’t commuting, it is common to spend about an hour each day on other sorts of trips: chores, errands, appointments, etc.
+    * This "one hour per day" number has been found to be surprisingly consistent across different cities in different centuries, different cultures, and different continents, regardless of the different modes of travel used to commute. This is called the **Marchetti constant** (named for Cesare Marchetti, although it was really Yacov Zahavi who first wrote about it).
+  * **Some aspects of a city scale linearly.**
+    * If a city doubles in population size, many measurable characteristics of the city, such as the number of businesses, also double in size. Around the world, from small towns to big cities, regardless of the size of city, there's always about one business establishment per 22 people, and an average of about 8 employees for each establishment.
+  * **Some aspects of a city scale sub-linearly.**
+    * There are often economies of scale in the infrastructure of big cities (or at least, economies of density). 
+    * If a city doubles in population size, meaning it grows by 100%, parts of the supporting infrastructure tend to only grow by 85%. This is tends to be true for networks of roads, electrical cables, and municipal sewers and water pipes.
+  * TODO: **Some aspects of a city scale super-linearly.**
+    *
+  * TODO: **Jevons paradox**
+    * as **X** gets faster (and cheaper), people use more **X** [^wiki_jevons]
+  * TODO: **induced demand**
+    * if you add lanes to a freeway, it leads to more trips, not faster trips [^wiki_induced_demand]
+
+
+
+### <a name="glossary"></a><span class="chapter">Glossary</span>
+
+* **Architectural, Engineering and Construction (AEC)**
+  * the entire industry of companies and people who build structures
+  
+* **Building Information Modeling (BIM)**
+  * TODO: ???
+  
+* **co-design**
+  * an design approach where stakeholders and end users are partners in the design process 
+
+* **curb-cut effect**
+  * systems designed to benefit vulnerable groups, such as the disabled, often end up benefiting all of society
+  
+* **Global Compact on Refugees (GCR)**
+  * a 2018 United Nations draft agreement on refugees
+
+* **Global Compact on Safe, Orderly and Regular Migration (GCM)**
+  * a 2018 United Nations agreement about international migration [^wiki_gcm]
+
+* **induced demand**
+  * if you add lanes to a freeway, it leads to more trips, not faster trips [^wiki_induced_demand]
+
+* **isochrone map**
+  * a map with concentric isochrone lines around a center location, where all the points on any given line represent places that are equally distant, in terms of travel time, from the center location [^wiki_isochrone]
+
+* **Jevons paradox**
+  * as **X** gets faster (and cheaper), people use more **X** [^wiki_jevons]
+
+* <a name="kinematic"></a>**kinematic**
+  * concerned with the motion of bodies, and their range of motion
+
+* **Marchetti constant**
+  * people will commute about 30 minutes each way per day
+
+* **New Urban Agenda (NUA)**
+  * a 2016 United Nations agreement serving as a guideline for global urban development from 2016 to 2036 [^wiki_habitat_iii]
+
+* **Refugee City**
+  * a proposal for a type of Special Economic Zone (SEZ) for displaced people [^castle-miller]
+  * see also: Sustainable Development Zone (SDZ)
+
+* **Urban Consolidation Center (UCC)**
+  * neighborhood-level freight hubs, place around the edge of a town, where trucks or large vehicles drop off packages to be loaded into small vehicles, like electric cargo bikes, for last-mile delivery
+
+## TODO: merge these...
+
+* **charter city**
+  * a special jurisdiction with a blank slate in commercial law, to allow for the adoption of new practices in areas such as a business registration, labor law, tax administration, and commercial dispute resolution
+  * _typically built on greenfield sites to avoid the challenges of implementing such a wide array of reforms in an existing polity_
+  * _typically privately financed_
+  * see: special economic zone
+
+* **Community Land Trust (CLT)**
+  * A nonprofit organization that owns land and sells or rents housing units (or retail or office space) built on the land, usually with the goal of providing affordable housing. A household typically leases a unit for a 99-year term, rather than buying a house outright, or may buy a house outright but leases the land that the house built on. Members elect a board so that the CLT is democratically self-governing. When a member sells a unit, the CLT may collect a cut of the sales price (in practice, as high as 75%), which it can use to subside purchases for new homeowners. [^schneider_2019-04-29]
+
+* **effective altruism**
+  * using empirical analysis to direct resources towards efforts that do the most possible good
+  * _anti-malaria efforts, deworming initiatives, and direct cash transfer programs are among the interventions most widely credited with providing the most cost-effective improvement in welfare for the global poor than any other intervention_ 
+  * see [GiveWell](https://www.givewell.org/)
+
+* **Housing co-op**
+  * A group of households in a multi-family building, where each household owns a share of the whole building co-op and has the right to occupy a single unit, rather than owning that unit outright. An elected board makes decisions. [^schneider_2019-04-29]
+
+* **Inclusionary Zoning (IZ)**
+  * city zoning restrictions that requires (or incentivizes) private developers to private some portion of the units in a new building at a below market rate
+
+* **land value capture**
+  * TODO: ???
+
+* **limited equity housing cooperatives**
+  * TODO: ???
+
+* <a name="long-tail"></a>**long tail**
+  * TODO: ???
+ 
+* **Special Economic Zone (SEZ)**
+  * a part of a country in which the business and trade laws are different from the rest of the country [^wiki_sez]
+  * there have been SEZs since the 1950s, and there are now thousands of SEZs around the world [^mason]
+
+* **Sustainable Development Zone (SDZ)**
+  * a proposal for designated areas that are designed to promote economic development via a combination of governance and physical infrastructure, in economies composed of displaced people [^sustainable_development_zones]
+  * see also: **Refugee City**
+
+* **Tax Increment Financing (TIF)**
+  * special tax districts around targeted redevelopment areas, where future tax revenues are diverted to finance infrastructure improvements or development [^schneider]
+
+
+
+
+
+
+
 
 
 
@@ -686,7 +893,10 @@ Read more about [costs & land value](economics)
 
 _______________________________________________
 
-## <a name="references"></a>References, Chapter 1
+
+## <a name="references"></a><span class="chapter">References</span>
+
+### <a name="references-1"></a>References, Chapter 1
 
 [^bertaud]: _[Order without Design](https://mitpress.mit.edu/books/order-without-design): How Markets Shape Cities_, by Alain Bertaud
 
@@ -699,7 +909,7 @@ _______________________________________________
 [^speed-limits]: ["Manhattan Speed Limits"](https://www1.nyc.gov/html/dot/downloads/pdf/current-pre-vision-zero-speed-limit-maps.pdf).  _NYC Department of Transportation_.
 
 
-## <a name="references"></a>References, Chapter 2
+### <a name="references"-2></a>References, Chapter 2
 
 [^google_eie]: [Environmental Insights Explorer](https://insights.sustainability.google/places/ChIJIQBpAG2ahYAR_6128GcTUEo/transportation). _Google_. 2018.
 
@@ -708,8 +918,33 @@ _______________________________________________
 [^scale]: [_Scale_](https://www.penguinrandomhouse.com/books/314049/scale-by-geoffrey-west/), by Geoffrey West. 2018.
 
 
----------
-## <a name="references"></a><span class="chapter">References</span>
+
+### <a name="references-glossary"></a>References, Glossary
+
+[^wiki_gcm]: ["Global Compact for Migration"](https://en.wikipedia.org/wiki/Global_Compact_for_Migration). _Wikipedia_.
+
+[^wiki_induced_demand]: ["Induced demand"](https://en.wikipedia.org/wiki/Induced_demand). _Wikipedia_.
+
+[^wiki_isochrone]: ["Isochrone map"](https://en.wikipedia.org/wiki/Isochrone_map). _Wikipedia_.
+
+[^wiki_jevons]: ["Jevons paradox"](https://en.wikipedia.org/wiki/Jevons_paradox). _Wikipedia_.
+
+[^wiki_habitat_iii]: ["Habitat III: New Urban Agenda"](https://en.wikipedia.org/wiki/Habitat_III#New_Urban_Agenda). _Wikipedia_.
+
+[^castle-miller]: ["The Law and Policy of Refugee Cities: Special Economic Zones for Migrants"](https://refugeecities.files.wordpress.com/2018/07/refugee-cities-law-review-article.pdf). Michael Castle-Miller, _Politas Consulting_. July 2018.
+
+[^schneider_2019-04-29]: ["CityLab University: Shared-Equity Homeownership"](https://www.citylab.com/equity/2019/04/home-ownership-ideas-housing-co-ops-shared-equity-land-trust/585658/). Benjamin Schneider, _CityLab_. 29 April 2019.
+
+[^wiki_sez]: ["Special economic zone"](https://en.wikipedia.org/wiki/Special_economic_zone). _Wikipedia_.
+
+[^mason]: ["The Case for Charter Cities Within the Effective Altruist Framework"](https://assets.website-files.com/5d253237e31f051057dc0a2b/5d88effe42420361c5e0c3c2_The%20Case%20for%20Charter%20Cities%20Within%20the%20Effective%20Altruist%20Framework.pdf). Jeffrey Mason, _Charter Cities Institute_. Sept 2019.
+
+[^sustainable_development_zones]: ["Sustainable Development Zones"](https://refugeecities.files.wordpress.com/2018/07/sdz-concept-proposal-071118-final.pdf). July 2018.
+
+[^schneider]: ["CityLab University: Tax Increment Financing"](https://www.citylab.com/equity/2019/10/tax-increment-financing-explained-tif-economic-development/597313/). Benjamin Schneider, _CityLab_. 24 Oct 2019.
+
+
+### <a name="references-glossary"></a>References, ???
 
 [^growth]: ["Should we build cities from scratch?"](https://www.theguardian.com/cities/2019/jul/10/should-we-build-cities-from-scratch). _The Guardian_. 10 July 2019.
 
