@@ -23,11 +23,12 @@ body {
 hr {
   padding: 4em 0em 4em 0em;
   border-top: 6em solid white;
+  /* margin-right: 20px; */
   display: block;
   background-image: linear-gradient(#DF4911, white);
-  position: relative; /* absolute */
+  position: relative;
   left: -20px;
-  right: 20px; /* 100% */
+  right: 120px; /* 100% */
   width: 100%;
 }
 
