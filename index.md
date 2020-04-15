@@ -28,6 +28,7 @@ body {
   position: relative;
   left: -20px;
   width: 100%;
+  z-index: -1;
 }
 
 
