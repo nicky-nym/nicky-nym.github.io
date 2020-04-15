@@ -158,10 +158,10 @@ h3 {
 
 
 
-
+<a name="1"></a>
 _______________________________________________
 
-## <a name="1"></a><span class="chapter">_Chapter 1_ &mdash; Streets designed for mobility</span>
+## <span class="chapter">_Chapter 1_ &mdash; Streets designed for mobility</span>
 
 The Impossible City proposal hinges on a basic re-design of what a city street could look like. 
 
