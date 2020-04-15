@@ -22,10 +22,10 @@ body {
 
 /*
 hr {
-  padding: 4em 40px 4em 0em;
-  border-top: 6em solid transparent;
+  padding: 0em 40px 8em 0em;
+  border-top: 12em solid transparent;
   display: block;
-  background-image: linear-gradient(#DF4911, white);
+  background-image: linear-gradient(#f58961, white); /* #DF4911 */ 
   position: relative;
   left: -20px;
   width: 100%;
