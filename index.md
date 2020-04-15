@@ -20,6 +20,13 @@ body {
   color: #222222;
 }
 
+hr {
+  padding: 2em;
+  display: block;
+  background-image: linear-gradient(#DF4911, blue);
+  left: 0px;
+}
+
 .chapter::before  {
   content: " ";
   padding: 2em;
