@@ -160,7 +160,8 @@ h3 {
         <ul>
           <li><a href="#rules-of-thumb">Rules of thumb</a></li>
           <li><a href="#glossary">Glossary</a></li>
-          <li><a href="#source">Source material</a></li>
+          <li><a href="#source-material">Source material</a></li>
+          <li><a href="#notes" class="minor">Author's notes to self</a></li>
           <li><a href="#references">References</a></li>
         </ul>
       </details>
@@ -697,6 +698,8 @@ Read more about [costs & land value](economics)
 
 * [Rules of thumb](#rules-of-thumb)
 * [Glossary](#glossary)
+* [Source material](#source-material)
+* [References](#references)
 
 
 
@@ -826,20 +829,11 @@ Read more about [costs & land value](economics)
 
 
 
-<div class="hr"><a name="scrap"></a></div>
-
-## Scrap heap
-
-  * Left-over [transportation](transportation) notes
-  * Left-over [notes & quotes](remainder)
-  * Work-in-progress towards a [3d city demo](demo)
-  * List of [architectural terms](architecture)
-
 
 ---------
-## <a name="sources"></a><span class="chapter">Source material, Chapter 1</span>
+### <a name="source-material"></a><span class="chapter">Source material</span>
 
-### <a name="throughput"></a>Throughput per lane (source: NACTO[^gsdg])
+#### <a name="throughput"></a>Throughput per lane (source: NACTO[^gsdg])
 
 |---
 | Throughput | Width | Mode 
@@ -852,7 +846,7 @@ Read more about [costs & land value](economics)
 | 8,000 to 9,000 | one lane, **3 meters** wide | **sidewalk**
 | 10,000 to 25,000 | one lane, **3 meters** wide | on-street **transitway**, **bus** or **rail**
 
-### <a name="throughput"></a>Throughput per lane (source: Bertaud[^bertaud])
+#### <a name="throughput"></a>Throughput per lane (source: Bertaud[^bertaud])
 
 |---
 | Throughput | Vehicle type
@@ -866,7 +860,7 @@ Read more about [costs & land value](economics)
 |---
 
 
-### <a name="throughput"></a>Width per 10,000 throughput (source: NACTO[^nacto])
+#### <a name="throughput"></a>Width per 10,000 throughput (source: NACTO[^nacto])
 
 |---
 | Throughput | Width | Mode 
@@ -891,12 +885,28 @@ Read more about [costs & land value](economics)
 
 
 
-_______________________________________________
 
 
-## <a name="references"></a><span class="chapter">References</span>
+### Author's notes to self
 
-### <a name="references-1"></a>References, Chapter 1
+  * Left-over [transportation](transportation) notes
+  * Left-over [notes & quotes](remainder)
+  * Work-in-progress towards a [3d city demo](demo)
+  * List of [architectural terms](architecture)
+
+
+
+
+
+
+
+
+
+
+### <a name="references"></a><span class="chapter">References</span>
+
+
+<!-- References, Chapter 1 -->
 
 [^bertaud]: _[Order without Design](https://mitpress.mit.edu/books/order-without-design): How Markets Shape Cities_, by Alain Bertaud
 
@@ -909,7 +919,15 @@ _______________________________________________
 [^speed-limits]: ["Manhattan Speed Limits"](https://www1.nyc.gov/html/dot/downloads/pdf/current-pre-vision-zero-speed-limit-maps.pdf).  _NYC Department of Transportation_.
 
 
-### <a name="references"-2></a>References, Chapter 2
+
+
+
+
+
+
+
+
+<!-- References, Chapter 2 -->
 
 [^google_eie]: [Environmental Insights Explorer](https://insights.sustainability.google/places/ChIJIQBpAG2ahYAR_6128GcTUEo/transportation). _Google_. 2018.
 
@@ -919,7 +937,14 @@ _______________________________________________
 
 
 
-### <a name="references-glossary"></a>References, Glossary
+
+
+
+
+
+
+
+<!-- References, Glossary -->
 
 [^wiki_gcm]: ["Global Compact for Migration"](https://en.wikipedia.org/wiki/Global_Compact_for_Migration). _Wikipedia_.
 
@@ -944,7 +969,15 @@ _______________________________________________
 [^schneider]: ["CityLab University: Tax Increment Financing"](https://www.citylab.com/equity/2019/10/tax-increment-financing-explained-tif-economic-development/597313/). Benjamin Schneider, _CityLab_. 24 Oct 2019.
 
 
-### <a name="references-glossary"></a>References, ???
+
+
+
+
+
+
+
+
+<!-- References, ??? -->
 
 [^growth]: ["Should we build cities from scratch?"](https://www.theguardian.com/cities/2019/jul/10/should-we-build-cities-from-scratch). _The Guardian_. 10 July 2019.
 
