@@ -20,48 +20,21 @@ body {
   color: #222222;
 }
 
-/*
-hr {
-  padding: 0em 40px 8em 0em;
-  border-top: 12em solid transparent;
-  display: block;
-  background-image: linear-gradient(#f58961, white); /* #DF4911 */ 
-  position: relative;
-  left: -20px;
-  width: 100%;
-}
-*/
-
 .hr {
-  padding: 4em 40px 4em 0em;
-  border-top: 6em solid white; /*transparent*/
+  padding: 0em 40px 8em 0em;
+  border-top: 12em solid white; /*transparent*/
   display: block;
-  background-image: linear-gradient(#DF4911, white);
+  background-image: linear-gradient(#f58961, white); /* #DF4911 */
   position: relative;
   left: -20px;
   width: 100%;
 }
 
-/*
-.chapter::before  {
-  content: " ";
-  padding: 2em;
-  display: block;
-  background-image: linear-gradient(#DF4911, white);
-  left: 0px;
-}
-*/
 
 .chapter {
   /* margin-top: 3em !important; */
   padding: 1.8em 0em 1.8em 0em;
   line-height: 2;
-  /*
-  border-style: solid solid none none;
-  border-width: medium;
-  border-color: lightgrey;
-  border-radius: 0.5em;
-  */
 }
 
 h2 {
@@ -175,7 +148,7 @@ h3 {
 
 ## <span class="chapter">_Chapter 1_ &mdash; Streets designed for mobility</span>
 
-The Impossible City proposal hinges on a basic re-design of what a city street could look like. 
+The Impossible City proposal hinges on a basic redesign of what a city street could look like. 
 
 The Impossible design
   * replaces cars & buses with **bicycles** & **bike-sized** vehicles
