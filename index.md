@@ -24,7 +24,7 @@ body {
   padding: 0em 40px 8em 0em;
   border-top: 12em solid white; /*transparent*/
   display: block;
-  background-image: linear-gradient(#f58961, white); /* #DF4911 */
+  background-image: linear-gradient(#ffc4ae, white); /* #f58961 #DF4911 */
   position: relative;
   left: -20px;
   width: 100%;
