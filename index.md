@@ -24,6 +24,7 @@ hr {
   padding: 4em;
   display: block;
   background-image: linear-gradient(#DF4911, white);
+  position: absolute; /* relative */
   left: -20px;
 }
 
