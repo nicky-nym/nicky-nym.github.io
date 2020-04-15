@@ -25,6 +25,7 @@ body {
   padding: 2em;
   display: block;
   background-image: linear-gradient(#DF4911, white);
+  left: 0px;
 }
 
 .chapter {
