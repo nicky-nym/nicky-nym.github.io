@@ -32,6 +32,16 @@ hr {
   width: 100%;
 }
 
+.hr {
+  padding: 4em 40px 4em 0em;
+  border-top: 6em solid transparent;
+  display: block;
+  background-image: linear-gradient(#DF4911, yellow);
+  position: relative;
+  left: -20px;
+  width: 100%;
+}
+
 /*
 .chapter::before  {
   content: " ";
@@ -160,7 +170,9 @@ h3 {
 
 
 
-<a name="1"><hr/></a><hr/>
+<hr><a name="1"></a></hr>
+
+<div class="hr"><a name="1"></a></div>
 
 _______________________________________________
 
