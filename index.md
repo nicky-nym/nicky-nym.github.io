@@ -22,7 +22,7 @@ body {
 
 hr {
   padding: 4em 40px 4em 0em;
-  border-top: 6em solid white;
+  border-top: 6em solid transparent;
   /* margin-right: 20px; */
   display: block;
   background-image: linear-gradient(#DF4911, white);
