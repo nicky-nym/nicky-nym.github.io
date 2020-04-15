@@ -22,7 +22,7 @@ body {
 
 hr {
   padding: 4em 0em 4em 0em;
-  border-top: 3em solid white;
+  border-top: 6em solid white;
   display: block;
   background-image: linear-gradient(#DF4911, white);
   position: relative; /* absolute */
