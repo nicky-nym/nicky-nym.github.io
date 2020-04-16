@@ -369,6 +369,13 @@ This 15% superlinear growth seems to apply to the whole physical and social meta
 TODO: add a graph illustrating 15% doubling
 ```
 
+### <a name="incrementalist"></a>How Kinematic are existing cities?
+
+```
+TODO: comparison of public transit in Singapore vs. cars in Dallas-Fort Worth. (See Velotopia page 44.) 
+```
+
+
 ### <a name="incrementalist"></a>How do existing cities try to become more Kinematic?
 
 Existing cities work hard, and spend billions, to try to incrementally improve mobility and kinematic range.
