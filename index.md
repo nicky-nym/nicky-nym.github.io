@@ -660,10 +660,11 @@ We know that:
 * we can design new 21st century cities that would work far better for poeple than the default 20th century designs. 
 
 Unfortunately, actually building cities this way is probably impossible, because of:
-* <a href="#network-effect">network effect problems</a>
-* <a href="#location">location problems</a>
-* <a href="#cost">cost problems</a>
+* <a href="#network-effect">Network effect problems</a>
+* <a href="#location">Location problems</a>
+* <a href="#cost">Cost problems</a>
 * <a href="#land-value-capture">land value capture & fiscal framework problems</a>
+* <a href="#bootstrapping">Bootstrapping problems</a>
 
 
 
@@ -749,9 +750,43 @@ Read more about [costs & land value](economics)
 
 ```
 TODO: This requires better funding models & value capture agreements
+
+## Georgism
+
+https://en.wikipedia.org/wiki/Georgism
+
+## Depreciating licenses
+
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2744810
 ```
 
 
+### <a name="bootstrapping"></a>Bootstrapping problems
+
+```
+TODO: The chicken-and-egg problem.
+```
+
+A minimum viable start would need:
+
+  + a city charter (the legal documents)
+  + an independent city government
+  + one or more corporate real estate development partners
+  + tens of square miles of fairly empty, but not remote, real estate
+  + one or more existing local construction companies
+  + whole-hearted support from existing county & state governments
+  + a big anchor employer (like Amazon, or the Indonesian Government)
+  + an existing airport, port, and interstate highway not too far away
+  + start-up capital:
+    - billions of dollars (in Africa)
+    - or tens of billions (in the US)
+  + a few years of time, for initial construction work, to build:
+    - enough housing and office space for tens of thousand of people
+    - covered laneways for vehicle circulation
+    - a power grid
+    - water supply
+    - a sanitation system
+    - other minimum basic infrastructure
 
 
 
