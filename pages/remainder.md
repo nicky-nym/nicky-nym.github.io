@@ -122,7 +122,7 @@ Instead, we have
       * battery swapping services
   * **covered laneways**
     * rain-sheltered pedestrian sidewalks
-    * rain-sheltered bike-sized lanes &mdash; 5-foot wide lanes, not 10' or 12' wide lines
+    * rain-sheltered bike-sized lanes &mdash; 5-foot wide lanes, not 10' or 12' wide car lines
   * **laneway tolls** & **parking tolls**
     * no tolls on laneways that aren't congested
     * highest tolls at rush-hour, or on busy laneways
