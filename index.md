@@ -228,7 +228,7 @@ The result is:
   | **intersections** | at-grade conventional intersections | grade-separated intersections
   | **trees** | about 150 per mile | about 200 per mile
   | **speed limits**<br>as posted | 25 mph[^speed-limits] | 18 mph 
-  | **actual speed**<br>average | 7.1 mph for cars[^nycdot] <br> 7.5 mph for buses[^nycdot] | 15 mph 
+  | **actual speed**<br>average | 7.1 mph for cars[^nycdot][^haag] <br> 7.5 mph for buses[^nycdot] | 15 mph 
   | **vehicle<br>throughput** | 1 bus lane at about 6,000 people per hour (+/- 2,000)<br> 4 car lanes at about 1,000 people per hour each (+/- 400)<br>1 parking & delivery lane at 0 people per hour<br>**total:** about 11,000 people per hour | 8 bike lanes at about 3,500 people per hour per bike lane each (+/- 250 per hour)<br>**total:** about 28,000 people per hour
   | **sidewalk<br>throughput** | about 10,000 people per hour | about 10,000 people per hour
   | **bottom line** | less than half as many people<br>each moving half as fast | 
@@ -1000,6 +1000,11 @@ A minimum viable start would need:
 |---
 
 
+### <a name="cars"></a>Car speeds
+
+> "cars in the busiest parts of Manhattan now move just above a jogger's pace, about 7 m.p.h., roughly 23 percent slower than at the beginning of the decade." [^haag]
+
+
 
 ### <a name="pedestrians"></a>Pedestrian speeds
 
@@ -1235,6 +1240,9 @@ There are established public-sector mechanisms for funding development projects,
 [^fujiyama]: ["An Explicit Study on Walking Speeds of Pedestrians on Stairs"](https://discovery.ucl.ac.uk/id/eprint/1243/1/2004_21.pdf), Taku Fujiyama and Nick Tyler, _University College London_.
 
 [^wiki_walking]: ["Walking"](https://en.wikipedia.org/wiki/Walking). _Wikipedia_.
+
+[^haag]: ["1.5 Million Packages a Day: The Internet Brings Chaos to N.Y. Streets"](https://www.nytimes.com/2019/10/27/nyregion/nyc-amazon-delivery.html). Matthew Haag and Winnie Hu, _New York Times_. 27 Oct 2019.
+
 
 
 
