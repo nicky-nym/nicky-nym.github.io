@@ -564,7 +564,7 @@ If you're building from scratch, then with a few good design choices it should b
 
 * **Agglomeration economies.** The term "industrial agglomeration" means the clustering of a lot of business firms in one region. Industrial agglomeration leads to "agglomeration economies" (somewhat similar to the separate idea of "economies of scale"). "Agglomeration economies" are economic benefits that come from having businesses be near each other, such as shared infrastructure development. But we need our designs to be mindful of avoiding "agglomeration diseconomies", which are the disadvantages of proximity, such as traffic congestion.
 
-* **Affordability.** There's no point in designing a new kinematic city that is too expensive to build, or building a new city that is too expensive for most people to afford to move to. The initial kinematic city designs intentionally focus on avoiding expensive transportation options like light rail, and even bus rapid transit. The designs also avoid expensive buildings, like skyscrapers or even ten-story buildings with concrete service cores and elevators, in favor of less expensive "4-over-1" podium construction.
+* **Affordability.** There's no point in designing a new kinematic urban development that is too expensive to build, or building a new urban development that is too expensive for most people to afford to move to. The initial kinematic city designs intentionally focus on avoiding expensive transportation options like light rail, and even bus rapid transit. The designs also avoid expensive buildings, like skyscrapers or even ten-story buildings with concrete service cores and elevators, in favor of less expensive "4-over-1" podium construction.
    - readily available housing
    - affordabability at market prices, without subsidies or rent control
 
@@ -787,10 +787,10 @@ TODO:
 
 ### <a name="location"></a>Location problems
 
-So, **where** could these new city designs actually be built? There are a few different types of locations, but they all have problems:
+So, **where** could these new urban development designs actually be built? There are a few different types of locations, but they all have problems:
 * infill & rebuilding in existing cities
 * new suburbs & satellite cities around existing cities
-* "new city" greenfield cities
+* "new city" greenfield developments
 
 #### Infill & rebuilding in existing cities
 
@@ -819,12 +819,12 @@ TODO:
 
 Perhaps existing cities will absorb nearly all of the 2.5 billion additional people who will live in cities by 2050, but in doing so some of their suburbs will essentially develop into big satellite cities of their own right, so the Kinematic city ideas are relevant for how new developments in those satellite cities are designed.
 
-If 4% of the people did move to entirely new cities, that would be 100 million people in new cities. A single new kinematic city could "just" be 10 million people.
+If 4% of the people did move to entirely new urban developments, that would be 100 million people in new urban developments. A single new kinematic city could "just" be 10 million people.
 ```
 
-#### "new city" greenfield cities
+#### "new city" greenfield developments
 
-Building on a new empty, greenfield site is a lot less expensive than building in an existing city. New cities provide more space at lower cost per capita. New cities create value, and demand.<sup>[citation needed]</sup>
+Building on a new empty, greenfield site is a lot less expensive than building in an existing city. New developments could provide more space at lower cost per capita. 
 
 > "We are at the beginning of the next wave of urbanization — a period of 
 > rapid growth in both area and population... The next wave of urbanization 
@@ -1329,7 +1329,7 @@ As of 2018, **70 million people** were currently displaced by war, persecution a
 
 
 
-### <a name="precident"></a>"New city" greenfield growth
+### <a name="precident"></a>"New city" greenfield developments
 
 More than **120 new cities** are currently being built in 40 nations around the world[^growth], and 11,000 new buildings are built every day, meaning **4 million new buildings a year** [^metabuild].
 
@@ -1356,7 +1356,7 @@ More than **120 new cities** are currently being built in 40 nations around the 
 
 
 
-### <a name="funding"></a>Funding for new cities
+### <a name="funding"></a>Funding for new city projects
 
 > "The money being thrown at new cities is staggering. 
 > Saudi Arabia's King Abdullah Economic City comes at a price tag of **$100bn** (£78bn), 
