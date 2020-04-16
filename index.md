@@ -545,6 +545,25 @@ It could be built on the outskirts of an existing city, or it could be built in 
 
 ## <span class="chapter">_Chapter 3_ &mdash; Bonus features beyond mobility</span>
 
+If you're building from scratch, then with a few good design choices it should be possible to build an urban layout that **works far better** than normal conventional cities do.
+
+* an Impossible city: 
+   1. should have **less traffic** congestion
+   1. should have **more commute destinations**
+   1. should **thrive economically** compared to similarly-sized normal cities
+   1. should have **better air quality**
+   1. should be **more affordable** to build than conventional cities
+   1. should have **lower operating costs**
+   1. should have **lower housing costs**, and potentially **no homelessness**
+   1. should be **safer** and more fun to live in
+   1. should have **better accessibility**
+   1. should be more **kid-friendly**
+   1. should be more **elder-friendly**
+   1. should have a **smaller carbon footprint** per capita
+   1. should be **more resilient** after a natural disaster or other emergency
+   1. could be established as a **charter city**[^mason]
+
+
 |---
 | <span class="h3">Existing city problems</span> | <span class="h3">Impossible improvements</span> |  |
 |:-|:-:|:-:|:-:|:-:
@@ -558,6 +577,7 @@ It could be built on the outskirts of an existing city, or it could be built in 
 | **not quickly alterable**<br>making one significant change can take decades |  |  |
 | **not cheaply alterable**<br>it is staggeringly expensive to add subways or highways to an existing city |  |  |
 | are **too few and too small**, by a factor of two, for everyone who will live in them by 2050 | 
+
 
 
 ### <a name="goals"></a>What are the design goals?
@@ -771,19 +791,26 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2744810
 TODO: The chicken-and-egg problem.
 ```
 
-A minimum viable start would need:
+Building a kinematic city would take a long time and lot of resources. A minimum viable start would need:
 
   + a city charter (the legal documents)
   + an independent city government
   + one or more corporate real estate development partners
-  + tens of square miles of fairly empty, but not remote, real estate
+  + tens of square miles of fairly empty land
+    - it needs to be fairly empty, yet not remote
+    - it needs to be clear of conservation restrictions and legal show-stoppers
   + one or more existing local construction companies
   + whole-hearted support from existing county & state governments
+  + whole-hearted support among the neighbors
   + a big anchor employer (like Amazon, or the Indonesian Government)
+  + a population of people willing to move into the new housing as it is completed
+  + a population of companies willing to move into new office space as it is completed
   + an existing airport, port, and interstate highway not too far away
   + start-up capital:
     - billions of dollars (in Africa)
     - or tens of billions (in the US)
+    - existing construction firms & hundreds of experienced construction teams
+    - reliable supplies for millions of pounds of steel, concrete, and pre-fab parts
   + a few years of time, for initial construction work, to build:
     - enough housing and office space for tens of thousand of people
     - covered laneways for vehicle circulation
