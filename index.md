@@ -657,8 +657,8 @@ To handle the influx, cities will build another **2.5 trillion square feet** of 
 ## <span class="chapter">_Chapter 5_ &mdash; Why this is impossible</span>
 
 We know that:
-* the world desparately needs more cities & bigger cities
-* we can design new 21st century cities that would work far better for poeple than the default 20th century designs. 
+* The world desparately needs more cities & bigger cities. (See <a href="#4">chapter 4</a>)
+* We can design new 21st century cities that would work far better for poeple than the default 20th century designs. (See chapters <a href="#1">1</a>, <a href="#2">2</a> & <a href="#3">3</a>)
 
 Unfortunately, actually building cities this way is probably impossible, because of:
 * <a href="#network-effect">Network effect problems</a>
