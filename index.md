@@ -1323,7 +1323,7 @@ As of 2018, **70 million people** were currently displaced by war, persecution a
 
 > "Indonesia has already announced a $34 billion plan to move its sinking, flood-prone 30-million-person capital to higher ground"[^shepard]
 
-> "There are billions of people living on coastlines that are going to be flooded. It’s going to be worse and worse and worse year by year and they are going to have to move eventually, and where are they going to move to? ... we're going to have to deal with that on a large scale" &mdash Dr. Tom Goreau, president of the Global Coral Reef Alliance.[^shepard]
+> "There are billions of people living on coastlines that are going to be flooded. It’s going to be worse and worse and worse year by year and they are going to have to move eventually, and where are they going to move to? ... we're going to have to deal with that on a large scale" &mdash; Dr. Tom Goreau, president of the Global Coral Reef Alliance.[^shepard]
 
 > "it has been estimated that it’s going to cost the USA alone around $400 billion over the next two decades in sea level rise damage control"[^shepard]
 
