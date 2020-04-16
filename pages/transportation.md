@@ -54,10 +54,6 @@ permalink: /transportation/
 
 > The emergence of small footprint, on-demand, shared vehicles ... will change the way urban transport is organized. The pattern of roads and arterials may also change to adapt to these new modes of urban transport. Instead of concentric traffic on a few high-capacity highways or arterials, numerous smaller low-capacity roads would allow the flexibility required by trips from dispersed origins to dispersed destinations.[^bertaud]
 
-### <a name="cars"></a>Cars
-
-> "cars in the busiest parts of Manhattan now move just above a jogger's pace, about 7 m.p.h., roughly 23 percent slower than at the beginning of the decade." [^haag]
-
 ### <a name="small_cars"></a>Small cars
 
 > By contrast, compared to the motorcycle, compact Smart car performance (except for energy use) in terms of road capacity is not much better than that of an ordinary car. ... The width of the vehicle, not its length, is the important parameter to consider when trying to reduce street area consumption.[^bertaud]
@@ -100,8 +96,6 @@ https://medium.com/sidewalk-talk/https-medium-com-sidewalk-talk-street-sim-33da7
 ## <a name="references"></a>References
 
 [^bertaud]: _[Order without Design](https://mitpress.mit.edu/books/order-without-design): How Markets Shape Cities_, by Alain Bertaud
-
-[^haag]: ["1.5 Million Packages a Day: The Internet Brings Chaos to N.Y. Streets"](https://www.nytimes.com/2019/10/27/nyregion/nyc-amazon-delivery.html). Matthew Haag and Winnie Hu, _New York Times_. 27 Oct 2019.
 
 [^sun]: ["The influence of surface slope on human gait characteristics: a study of urban pedestrians walking on an inclined surface"](https://www.tandfonline.com/doi/abs/10.1080/00140139608964489). JIE SUN, MEGAN WALTERS, NOEL SVENSSON & DAVID LLOYD, _Ergonomics_ Volume 39, 1996 - Issue 4
 
