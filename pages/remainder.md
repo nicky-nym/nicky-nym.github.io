@@ -589,16 +589,6 @@ Building from scratch has its own challenges, and is also crazy expensive, but i
 
 
 
-### The solution
-
-The problems above could be greatly ameliorated by just making a handful of different design choices in a new city project:
-  * **[transportation choices](#transportation)**
-    * what vehicles to use to move people and packages &mdash; cars and trucks vs. small low-power vehicles
-  * **[spatial layout choices](#spatial-layout)**
-    * the size and shape of city features &mdash; building heights, block sizes, and street lane widths
-  * **[elevator vs. wheelchair ramp choices](#ramp)**
-    * stairs, elevators, and escalators vs. flights of wheelchair ramps
-
 
 
 ---
