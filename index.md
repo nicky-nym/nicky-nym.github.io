@@ -302,9 +302,16 @@ The [impossible streets & intersections](#1) are designed to yield **faster trav
 
 ### Beyond a faster commute
 
-You might think that faster travel times would lead to faster commute times, but, surprisingly, that's usually not the case. Instead, when faster travel is possible, most people choose to use it to travel **further per day**, instead of using it to travel for **less time per day**.
+You might think that faster travel times would lead to faster commute times, but, surprisingly, that's usually not the case. Instead, when faster travel is possible, most people choose to use it to travel **further per day**, instead of using it to travel for **less time per day**. (See [Rules of thumb: Marchetti](#marchetti)
 
 The result of faster travel times is not shorter commute times for everyone, but is instead an increase in daily **kinematic range** for everyone.
+
+### <a name="kinematic_range"></a>Kinematic range
+
+  * **Kinematic range** is a measure of urban mobility. It's the number of destinations you can get to in 30 minutes or less _(or some other set amount of time)_.
+  * Different cities have different kinematic ranges
+    * In **Haxby, Montana**, there's not any traffic congestion, but there also aren't many places to go. With a car, in 30 minutes you can probably reach a total of about **a half dozen homes**, with perhaps **10 thousand square feet of floorspace**.
+    * In **San Francsico**, there are lots of places to go, but there's a lot of congestion. In 30 minutes you can reach hundreds of thousands of homes, offices, and stores, with perhaps **500 million square feet of floorspace**.  San Francisco has a kinematic range that's about 50 thousand times larger than Haxby, Montana.
 
 ### <a name="congestion"></a>Congestion vs. kinematic range
 
@@ -312,12 +319,6 @@ The result of faster travel times is not shorter commute times for everyone, but
   * A **sleepy** little town is one where there's no traffic, but there's almost nothing in town to go to.
   * A **kinematic** city is one that has lots of destinations **_and_** they're all easy to get to.
 
-### <a name="kinematic_range"></a>Kinematic range
-
-  * **Kinematic range** is a measure of urban mobility. It's the number of destinations you can get to in 30 minutes or less _(or some other set time)_.
-  * Different cities have different kinematic ranges
-    * In **Haxby, Montana**, there's not any traffic congestion, but there also aren't many places to go. With a car, in 30 minutes you can probably reach a total of about **a half dozen homes**, with perhaps **10 thousand square feet of floorspace**.
-    * In **San Francsico**, there are lots of places to go, but there's a lot of congestion. In 30 minutes you can reach hundreds of thousands of homes, offices, and stores, with perhaps **500 million square feet of floorspace**.  San Francisco has a kinematic range that's about 50 thousand times larger than Haxby, Montana.
 
 ```
 TODO: add a diagram showing different ranges?
@@ -325,7 +326,7 @@ TODO: add a diagram showing different ranges?
 
 ### <a name="who_cares"></a>Why does Kinematic Range matter?
 
-  * Urban mobility is *important*
+Urban mobility isn't just a matter of convenience. Mobility is *fundamental* to a thriving lives and livelihoods. 
 
   * **For people**, having more destinations within reach means:
     * more **job offers** that are close enough to commute to
@@ -334,7 +335,7 @@ TODO: add a diagram showing different ranges?
     * more **doctors** to choose from, and a wider variety of **specialists** available
     * a wider variety of **churches** and **religious communities**
     * a wider variety of **events**, **meetups**, and **clubs**, and more people who share your interests
-    * a wider variety of **[long tail](/glossary#long-tail)** destinations
+    * a wider variety of **[long tail](#glossary:long-tail)** destinations
   * **For shops**, **employers**, and **industry**, it means:
     * more **job candidates** to choose from
     * more **vendors** and **parts suppliers** to choose from
@@ -697,15 +698,18 @@ Read more about [costs & land value](economics)
 
 ### <a name="rules-of-thumb"></a><span class="chapter">Rules of thumb</span>
 
-  * **People tend to travel about one hour a day.**
+  * <a name="marchetti"></a>**People tend to travel about one hour a day.**
     * For people who commute, the average commute is about 30 minutes each way.
     * For people who aren’t commuting, it is common to spend about an hour each day on other sorts of trips: chores, errands, appointments, etc.
     * This "one hour per day" number has been found to be surprisingly consistent across different cities in different centuries, different cultures, and different continents, regardless of the different modes of travel used to commute. This is called the **Marchetti constant** (named for Cesare Marchetti, although it was really Yacov Zahavi who first wrote about it).
+
   * **Some aspects of a city scale linearly.**
     * If a city doubles in population size, many measurable characteristics of the city, such as the number of businesses, also double in size. Around the world, from small towns to big cities, regardless of the size of city, there's always about one business establishment per 22 people, and an average of about 8 employees for each establishment.
+
   * **Some aspects of a city scale sub-linearly.**
     * There are often economies of scale in the infrastructure of big cities (or at least, economies of density). 
     * If a city doubles in population size, meaning it grows by 100%, parts of the supporting infrastructure tend to only grow by 85%. This is tends to be true for networks of roads, electrical cables, and municipal sewers and water pipes.
+
   * TODO: **Some aspects of a city scale super-linearly.**
     *
   * TODO: **Jevons paradox**
@@ -788,7 +792,7 @@ Read more about [costs & land value](economics)
 * **limited equity housing cooperatives**
   * TODO: ???
 
-* <a name="long-tail"></a>**long tail**
+* <a name="glossary:long-tail"></a>**long tail**
   * TODO: ???
  
 * **Special Economic Zone (SEZ)**
