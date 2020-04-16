@@ -53,20 +53,6 @@ permalink: /transportation/
 
 ## <a name="comparisons"></a>Comparisons
 
-
-### <a name="co2"></a>CO2-e emissions
-
-|---
-| CO2-e emissions[^bertaud] | Vehicle type
-|-:|:-
-| grams per passenger km
-| 151 | average US car
-|  26 | Nissan Leaf in California
-|   5 | Nissan Leaf in Sweden
-|  67 | New York subway
-| 180 | US urban bus
-|---
-
 ### <a name="noise"></a>Noise
 
 > "...the population in Wuhan is 8.3 million, much greater than that in Sheffield, at 0.6 million. ... For Wuhan, given that the number of vehicles per person is still much lower than that in Sheffield by tenfold ... it is very interesting to note that the average noise levels in all of the sampled areas are lower than those in Sheffield by 2dBA to 11dBA. ... In terms of L<sub>min</sub> and L<sub>90</sub> ... the difference is even greater -- for example, up to 15dBA in the area with a motorway."[^kang] &mdash; Jian Kang
@@ -94,32 +80,7 @@ permalink: /transportation/
 
 > By contrast, compared to the motorcycle, compact Smart car performance (except for energy use) in terms of road capacity is not much better than that of an ordinary car. ... The width of the vehicle, not its length, is the important parameter to consider when trying to reduce street area consumption.[^bertaud]
 
-### <a name="pedestrians"></a>Pedestrians
 
-> "the average human walking speed at crosswalks is about 5.0 kilometres per hour (km/h), or about 1.4 meters per second (m/s), or about 3.1 miles per hour (mph). Specific studies have found pedestrian walking speeds at crosswalks ranging from 4.51 kilometres per hour (2.80 mph) to 4.75 kilometres per hour (2.95 mph) for older individuals and from 5.32 kilometres per hour (3.31 mph) to 5.43 kilometres per hour (3.37 mph) for younger individuals" [^wiki_walking]
-
-* walking speed: 2.17 mph up a 1:12 ADA ramp
-* walking speed: 2.6 mph UP or DOWN an 1:12 ADA ramp [^sun]
-
-
-|---
-|       |   | Walking<br>speeds<br>per<br>horizontal<br>distance[^fujiyama] |
-| Stair<br>gradient  | Grade | Up stairs | Down stairs | Up stairs | Down stairs |
-| (degrees) | (rise:run) | over 50 | age 30 to 50 | over 50 | age 30 to 50
-|  :-:  |  :-:  |  :-:  |  :-:  |  :-:  |  :-:  |
-|  38.8 |   80:100 | 0.435 m/s | 0.485 m/s | 0.47 m/s  | 0.59 m/s  
-|  35.0 |   70:100 | 0.515 m/s | 0.565 m/s | 0.585 m/s | 0.645 m/s 
-|  30.5 |   59:100 | 0.58 m/s  | 0.635 m/s | 0.64 m/s  | 0.74 m/s 
-|  24.6 |   46:100 | 0.72 m/s  | 0.76 m/s  | 0.80 m/s  | 0.865 m/s 
-|  32   | 62.5:100 | 0.41 m/s  | 0.60 m/s  | 0.52 m/s  | 0.60 m/s 
-|  27   |   51:100 | 0.43 m/s  | 0.73 m/s  | 0.58 m/s  | 0.73 m/s 
-|---
-
-```
-tan(27 degrees) = 0.51 => 51% grade = 51 foot rise per 100 foot run
-
-0.73 m/s horizontal on 27 degree stairs => 0.37 m/s vertical = 1.22 feet/sec vertical
-```
 
 ---
 
