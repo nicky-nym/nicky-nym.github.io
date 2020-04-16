@@ -633,6 +633,9 @@ In the next 30 years, **by 2050**, we expect another **2.5 billion more people**
 
 To handle the influx, cities will build another **2.5 trillion square feet** of new buildings. These numbers can be hard to believe at first. For different projects by different authors, see the [notes about urban growth](#growth) below.
 
+```
+TODO: more here about land value & lost opportunties
+```
 
 
 
