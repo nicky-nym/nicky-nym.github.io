@@ -1232,6 +1232,9 @@ There are established public-sector mechanisms for funding development projects,
 
 [^kang]: ["Sound Environment: High- versus Low-Density Cities"], by Jian Kang, Chapter 12 of ["Designing High-Density Cities"](), edited by Edward Ng
 
+[^fujiyama]: ["An Explicit Study on Walking Speeds of Pedestrians on Stairs"](https://discovery.ucl.ac.uk/id/eprint/1243/1/2004_21.pdf), Taku Fujiyama and Nick Tyler, _University College London_.
+
+[^wiki_walking]: ["Walking"](https://en.wikipedia.org/wiki/Walking). _Wikipedia_.
 
 
 
