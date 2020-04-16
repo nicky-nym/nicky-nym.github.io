@@ -971,7 +971,102 @@ Building a kinematic city would take a long time and lot of resources. A minimum
 
 
 
+### <a name="units-of-measure"></a>(4.2) Units of measure
 
+**population** and **land area** are examples of common physical metrics for measuring cities.
+
+**GDP per capita** is an example of an common economic metric.
+
+There are a huge number of metrics that people measure cities by. We're going to ignore most of them, and just focus on the handful that are most important for describing the kinematics of cities. 
+
+* <a name="land-area"></a>**Land Area** is the total size of all the land occupied by a city.
+  * unit: square miles (or square kilometers)
+
+* <a name="parcel-area"></a>**Parcel Area** is the size of the lot of land that a house (or other building) is built on.
+  * unit: square feet (or acres, hectares, or square meters)
+
+* <a name="floor-area"></a>**Floor Area** is the amount of floorspace in a building, including the floorspace on all the different floors of a multi-story building.
+  * unit: square feet (or square meters)
+
+* <a name="population-density"></a>**Population Density** usually means the number of people per [Land Area](#land-area). Alternatively, you can also think about density in terms of [Floor Area](#floor-area) per person.
+  * unit: people per square mile
+  * unit: square feet per person
+
+  |---
+  | People per<br>square mile | City | Land area<br>square feet<br>per person 
+  |-:|:-|-:|
+  |  85,829 | Central Paris[^crawford]                  |   325 | 
+  | **78,874** | **Kinematic City Proposal**<br>(density of city districts, sans greenbelt)    |   353 |
+  |  71,340 | Manhattan, New York[^wiki_manhattan]      |   391 | 
+  |  68,376 | J.H.Crawford's _Carfree Cities_ Reference Design<br>(density of city districts, sans greenbelt)[^crawford]  |   408 | 
+  |  52,593 | Paris[^wiki_paris]                        |   530 | 
+  |  27,751 | New York City[^wiki_new_york_city]        | 1,005 |
+  |  18,838 | San Francisco[^wiki_san_francisco]        | 1,480 | 
+  |  10,117 | J.H.Crawford's _Carfree Cities_ Reference Design<br>(combined density of city districts **and** greenbelt)[^crawford]  |   2,756 | 
+  |  10,101 | Suburban single-family housing[^crawford] | 2,760 | 
+  |         | _For more examples of city densities, check out [DensityAtlas.org](http://densityatlas.org/)._ |  | 
+  |---
+  
+  
+
+<!--
+  |---
+  | people<br>per<br>mile<sup>2</sup> | region | feet<sup>2</sup><br>per<br>person | land area of cities<br>meters<sup>2</sup><br>per person<br>in 2014
+  |-:|-:|:-|-:
+  |  55,106 | South and Central Asia                   |   506 |  47[^bertaud]
+  |  34,079 | Southeast Asia                           |   818 |  76[^bertaud]
+  |  28,461 | Western Asia and North Africa            |   980 |  91[^bertaud]
+  |  27,263 | Sub-Saharan Africa                       | 1,023 |  95[^bertaud]
+  |  25,900 | Latin America and the Caribbean          | 1,076 | 100[^bertaud]
+  |  20,555 | East Asia and the Pacific                | 1,356 | 126[^bertaud]
+  |  15,988 | Europe and Japan                         | 1,744 | 162[^bertaud]
+  |   6,080 | Land-rich developed countries            | 4,585 | 426[^bertaud]
+  |---
+-->
+
+
+
+* <a name="far-parcel"></a>**FAR<sub>parcel</sub>** is the **Floor Area Ratio** for a building on a parcel, meaning the ratio of [Floor Area](#floor-area) to [Parcel Area](#parcel-area).
+* <a name="far-overall"></a>**FAR<sub>overall</sub>** is the **Floor Area Ratio** for a neighborhood of a city, meaning the ratio of the total [Floor Area](#floor-area) of all the buildings to the total [Land Area](#land-area) of the neighborhood, including all the land area used for streets and sidewalks and parks, as well as the land area of all the [Parcel Area](#parcel-area).
+  * unit: square feet per square feet (or square meters per square meters)
+
+  |---
+  | FAR<sub>parcel</sub> | FAR<sub>overall</sub> | Place
+  |-:|-:|:-
+  |     0.3[^bertaud] |        | US suburbs
+  |                   |   0.41 | San Francisco
+  |                ~  |    1.7 | Proposed kinematic city
+  |     3.5[^bertaud] |        | Historical Paris
+  | 4 to 10[^bertaud] | 3 to 7[^densityatlas] | Manhattan residential
+  |      15[^bertaud] |     10 | Manhattan office buildings
+  |      25[^bertaud] |        | Singapore highest FAR
+  |                   |        | _For more FAR examples, check out [DensityAtlas.org](http://densityatlas.org/)._ |  | 
+  |---
+
+* <a name="gross-area"></a>**Gross Floor Area** is the total floor area of a building, including all the area taken up by lobbies, hallways, elevator shafts, walls, offices, apartments, etc.
+  * unit: square feet (or square meters)
+
+* <a name="usable-area"></a>**Usable Floor Area** is an area of a building, such as a studio apartment or dentist's office, that could be rented out to be used exclusively by a tenant, or sold for the exclusive use of an owner. 
+  * unit: square feet (or square meters)
+
+* <a name="circulation-area"></a>**Circulation Area** for a building is an area of a building taken up by hallways, elevator shafts, stairways, and lobbies. 
+* **Circulation Area** for a city also includes the land area taken up by streets and sidewalks, parking lots, driveways, bus stops, train tracks, etc.
+  * unit: square feet (or square meters)
+
+* <a name="circulation-area-ratio"></a>**Circulation Area Ratio** for a city is the ratio of the total [Circulation Area](#circulation-area) to the total [Usable Floor Area](#usable-area). In New York City, for typical Manhattan city blocks, the streets and sidewalks take up 30% of the land area, with the remaining 70% available for building parcels. Within an office building, hallways, stairs, and elevators typically take up 30% of the [Floor Area](#floor-area) of the building, leaving only the remaining 70% as [Usable Floor Area](#usable-area).
+  * unit: square feet per square feet (or square meters per square meters)
+
+* <a name="journey-distance"></a>**D<sub>j</sub>** is a **Journey Distance**, meaning total length of the path taken by a person (or package) as they travel from point A to point B in a building or in a city.
+  * unit: feet (or meters, kilometers, or miles)
+
+* <a name="journey-time"></a>**T<sub>j</sub>** is a **Journey Time**, meaning the total length of the time it takes for a person (or package) to travel from point A to point B in a building or in a city.
+  * unit: minutes
+
+* <a name="journey-cost"></a>**$<sub>j</sub>** is a **Journey Cost**, meaning the total dollar cost of a trip, including any tolls, train fares, vehicle purchase costs, insurance payments, parking fees, etc.
+  * unit: dollars
+
+* <a name="kinematic-range"></a>**Kinematic Range<sub>t=30_minutes</sub>** is the total amount of [Floor Area](#floor-area) a person could possibly get to in a given [Journey Time](#journey-time), such as [30 minutes](#marchetti).
+  * units: square feet as of minute (or square meters as of second)
 
 
 
