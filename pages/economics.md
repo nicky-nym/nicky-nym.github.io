@@ -12,8 +12,6 @@ permalink: /economics/
       <details>
         <summary><a href="#notes">Notes</a></summary>
         <ul>
-          <li><a href="#hong_kong">Hong Kong</a></li>
-          <li><a href="#georgism">Georgism</a></li>
           <li><a href="#depreciating_licenses">Depreciating licenses</a></li>
           <li><a href="#gdp">GDP</a></li>
           <li><a href="#construction-costs">Construction costs</a></li>
@@ -39,14 +37,6 @@ permalink: /economics/
 
 All the land within the Hong Kong Special Administrative Region, with the single exception of St. John's Cathedral, is owned by the government, and has been since 1843.
 
-## Georgism
-
-https://en.wikipedia.org/wiki/Georgism
-
-## Depreciating licenses
-
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2744810
-
 
 ## GDP
 
@@ -63,10 +53,6 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2744810
 > "San Francisco has the world's second-highest construction costs... The city's average construction costs of $330 per square foot was second only to New York, according to a study last year by Turner and Townsend, a construction consultant. Apartments cost around $425,000 per unit to build." [^li]
 
 > "New York and San Francisco topped the list of the most expensive construction markets, costing respectively an average of $354 and $330 per square foot to build. Seattle, which faces many of the same labor market and housing supply pressures as San Francisco, came in at $280 per square foot."[^reid]
-
-## Bootstrapping
-
-TODO: The chicken-and-egg problem.
 
 ## Land Value
 
@@ -143,28 +129,7 @@ Although both approaches have huge hurdles, I do think the Big Bet approach is a
   * zone it all so that it can grow in a kinematic shape (without getting clogged up with junk like traffic lights), and 
   * find an "anchor employer" (like Amazon or Apple) to open their new headquarters there, or convince a government to build their new capital there.
 
-## Minimum viable Kinematic city
 
-A minimum viable start would need:
-
-  + a city charter (the legal documents)
-  + an independent city government
-  + one or more corporate real estate development partners
-  + tens of square miles of fairly empty, but not remote, real estate
-  + one or more existing local construction companies
-  + whole-hearted support from existing county & state governments
-  + a big anchor employer (like Amazon, or the Indonesian Government)
-  + an existing airport, port, and interstate highway not too far away
-  + start-up capital:
-    - billions of dollars (in Africa)
-    - or tens of billions (in the US)
-  + a few years of time, for initial construction work, to build:
-    - enough housing and office space for tens of thousand of people
-    - covered laneways for vehicle circulation
-    - a power grid
-    - water supply
-    - a sanitation system
-    - other minimum basic infrastructure
 
 ## Land Value Created vs. Land Value Capture
 
