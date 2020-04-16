@@ -97,7 +97,5 @@ https://medium.com/sidewalk-talk/https-medium-com-sidewalk-talk-street-sim-33da7
 
 [^bertaud]: _[Order without Design](https://mitpress.mit.edu/books/order-without-design): How Markets Shape Cities_, by Alain Bertaud
 
-[^sun]: ["The influence of surface slope on human gait characteristics: a study of urban pedestrians walking on an inclined surface"](https://www.tandfonline.com/doi/abs/10.1080/00140139608964489). JIE SUN, MEGAN WALTERS, NOEL SVENSSON & DAVID LLOYD, _Ergonomics_ Volume 39, 1996 - Issue 4
-
 
 
