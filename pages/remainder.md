@@ -62,13 +62,6 @@ permalink: /remainder/
 
 ## <a name="summary"></a>Summary
 
- 1. We understand a lot about **[how cities work](#how-cities-work)**.
- 
- 1. We **[want better cities](#work-better)** for everyone.
- 
- 1. We can make **[better design choices](#design-choices)**, to make better-working cities.
- 
- 1. We can get **[better outcomes](#better-outcomes)**.
 
 > "Studies have consistently linked city living with poorer mental health. For example, growing up in an urban environment is correlated with twice the risk of developing schizophrenia as growing up in the countryside."[^macdonald]
 
@@ -77,18 +70,6 @@ permalink: /remainder/
 > "Meyer-Lindenberg is currently tracking how different parts of the city affect our mental wellbeing, using a technique called ecological momentary assessment, in which participants repeatedly report on the environment around them in real time. Various studies have suggested that nature – be that a tree or a park – has an important impact on people’s mental health."[^macdonald]
 
 ---
-
-## <a name="proposal"></a>(1) The proposal for kinematic cities
-
-The proposal here is that new cities that are build from scratch could be built as "kinematic cities". **"Kinematic city"** is a newly made-up name for a specific set of ideas about ways to design cities. No one has yet built a kinematic city. The design revolves around striving to maximize "kinematic range", meaning the number of destinations that are in the daily range of travel for everybody. 
-
- 1. Kinematic cities are cities designed to maximize everyone's **mobility**, travel range, and opportunity, within the city.
- 1. Improved urban mobility leads to significant economic improvements &mdash; in wages, GDP, patent applications per capita, etc.
- 1. The improved mobility and travel range in the kinematic design results from unconventional design choices.
-    * **[transportation choices](#transportation)**: what vehicles to use to move people and packages &mdash; cars and trucks vs. small low-power vehicles
-    * **[spatial layout choices](#spatial-layout)**: the size and shape of city features &mdash; building heights, block sizes, and street lane widths
-    * **[elevator choices](#elevator)**: stairs, elevators, and escalators vs. flights of wheelchair ramps
-
 
 ### <a name="transportation"></a>(1.1) Transportation proposal
 
