@@ -151,6 +151,10 @@ h3 {
       <details>
         <summary><a href="#5">5. Why this is impossible</a></summary>
         <ul>
+          <li><a href="#network-effect">Network effect problems</a></li>
+          <li><a href="#location">Location problems</a></li>
+          <li><a href="#cost">Cost problems</a></li>
+          <li><a href="#land-value-capture">Land value capture & fiscal framework problems</a></li>
         </ul>
       </details>
     </div>
@@ -656,10 +660,12 @@ We know that:
 * we can design new 21st century cities that would work far better for poeple than the default 20th century designs. 
 
 Unfortunately, actually building cities this way is probably impossible, because of:
-* network effect problems
-* location problems
-* cost problems
-* fiscal model
+* <a href="#network-effect">network effect problems</a>
+* <a href="#location">location problems</a>
+* <a href="#cost">cost problems</a>
+* <a href="#land-value-capture">land value capture & fiscal framework problems</a>
+
+
 
 ### <a name="network-effect"></a>Network effect problems
 
@@ -667,7 +673,7 @@ Unfortunately, actually building cities this way is probably impossible, because
 TODO:
 ```
 
-### <a name="network-effect"></a>Location problems
+### <a name="location"></a>Location problems
 
 So, **where** could these new city designs actually be built? There are a few different types of locations, but they all have problems:
 * infill & rebuilding in existing cities
@@ -723,7 +729,7 @@ Building on a new empty, greenfield site is a lot less expensive than building i
 
 
 
-### <a name="costs"></a>Cost problems
+### <a name="cost"></a>Cost problems
 
 Constructing even small buildings is expensive. Constructing entire neighborhoods or cities requires not just building housing and office space, but also building all the transportation infrastruction for roads, street lights, traffic lights, bus shelters, subway stops, and more. Plus all of the utility infrastructure, including sewers, water supply, power lines, telephone lines, and the rest.
 
