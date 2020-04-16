@@ -571,10 +571,10 @@ If you're building from scratch, then with a few good design choices it should b
   |---
   | **goals** | **implications**
   |:-:|:-
-  | keep construction costs down       | use conventional construction techniques <br> no skyscrapers (expensive per square foot) <br> no elevators  <br> strive for economies of scale 
-  | keep land costs low                | pick an inexpensive site <br> maximize Floor Area Ratio (FAR), or floor space per square mile 
-  | keep developer financing costs low | use tight construction timelines <br> avoid planning and permitting delays <br> avoid big risks <br> minimize vacancy <br> produce revenue early on <br> do "just-in-time" production of square footage
-  | keep transportation costs down     | keep everything close <br> no automobiles (at $20,000+ each) <br> no buses (at $500,000 each, or $8,000+ per passenger seat) <br> no subway cars (at $10,000+ per passenger seat) <br> no subway tunnels (at $100,000,000+ per mile) 
+  | keep construction costs down       | ~ use conventional construction techniques <br> ~ no skyscrapers (expensive per square foot) <br> ~ no elevators  <br> ~ strive for economies of scale 
+  | keep land costs low                | ~ pick an inexpensive site <br> ~ maximize Floor Area Ratio (FAR), or floor space per square mile 
+  | keep developer financing costs low | ~ use tight construction timelines (for example, by using prefab construction) <br> ~ avoid planning and permitting delays <br> ~ avoid big risks <br> ~ minimize vacancy <br> ~ produce revenue early on <br> ~ do "just-in-time" production of square footage
+  | keep transportation costs down     | ~ keep everything close <br> ~ no automobiles (at $20,000+ each) <br> ~ no buses (at $500,000 each, or $8,000+ per passenger seat) <br> ~ no subway cars (at $10,000+ per passenger seat) <br> ~ no subway tunnels (at $100,000,000+ per mile) 
 
 * **Safety.**
   - freedom from harassment
@@ -596,7 +596,7 @@ If you're building from scratch, then with a few good design choices it should b
   - predictable navigation for people with limited vision
   - frequent pathside seating for elderly people
 
-* **Proximity.** &mdash; everything within 30 minutes
+* **Proximity.** Everything within 30 minutes
   - school & work
   - friends & family
   - groceries & restaurants
@@ -610,19 +610,19 @@ If you're building from scratch, then with a few good design choices it should b
     - a maker space with an Atomic Force Microscope
     - etc.
 
-* **Airiness.**
+* **Airiness**
   - nearby parks and trees
   - fresh air
   - sunlight
 
-* **Resiliency.** Cities should be designed to be resilient after natural disasters and other emergencies. For example, it should be possible to evacuate a building quickly even when the power is out. And it should be safe to quickly reopen as many buildings as possible after an earthquake, hurricane, or flood. These are goals that can be furthered by simply avoiding "fragile" technologies, like elevators, and traffic lights. 
+* **Resiliency** Cities should be designed to be resilient after natural disasters and other emergencies. For example, it should be possible to evacuate a building quickly even when the power is out. And it should be safe to quickly reopen as many buildings as possible after an earthquake, hurricane, or flood. These are goals that can be furthered by simply avoiding "fragile" technologies, like elevators, and traffic lights. 
 
   > "Resiliency is the ability to bounce back better, but also the ability to not have to bounce back as much." 
   > &mdash; Sylvester Wong, Vice President of AECOM[^new-clark]
 
   > "Because its location and design were deliberately chosen to withstand natural calamities, New Clark City will serve as the government’s continuity hub, disaster and risk recovery center – an alternative capital city in case a disaster strikes Manila"[^new-clark]
 
-* **Durability** & **Reliability.** Make infrastructure durable and easy to maintain.
+* **Durability** & **Reliability** Make infrastructure durable and easy to maintain.
 
   > "even when a [New York City subway] station has an elevator, workers have struggled to keep them working properly. Only about 94 percent of elevators were available in August, according to the transit agency. The rate is worse for escalators -- 87 percent were working." [^fitzsimmons]
 
