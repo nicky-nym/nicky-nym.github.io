@@ -9,15 +9,6 @@ permalink: /transportation/
     <p>&nbsp;</p>
     <div>
       <details>
-        <summary><a href="#comparisons">Comparisons</a></summary>
-        <ul>
-          <li><a href="#co2">CO2-e emissions</a></li>
-          <li><a href="#noise">Noise</a></li>
-        </ul>
-      </details>
-    </div>
-    <div>
-      <details>
         <summary><a href="#vehicles">Vehicles</a></summary>
         <ul>
           <li><a href="#bicycles">Bicycles</a></li>
@@ -48,15 +39,6 @@ permalink: /transportation/
     </div>
   </div>
 </div>
-
----
-
-## <a name="comparisons"></a>Comparisons
-
-### <a name="noise"></a>Noise
-
-> "...the population in Wuhan is 8.3 million, much greater than that in Sheffield, at 0.6 million. ... For Wuhan, given that the number of vehicles per person is still much lower than that in Sheffield by tenfold ... it is very interesting to note that the average noise levels in all of the sampled areas are lower than those in Sheffield by 2dBA to 11dBA. ... In terms of L<sub>min</sub> and L<sub>90</sub> ... the difference is even greater -- for example, up to 15dBA in the area with a motorway."[^kang] &mdash; Jian Kang
-
 
 ---
 
@@ -119,14 +101,9 @@ https://medium.com/sidewalk-talk/https-medium-com-sidewalk-talk-street-sim-33da7
 
 [^bertaud]: _[Order without Design](https://mitpress.mit.edu/books/order-without-design): How Markets Shape Cities_, by Alain Bertaud
 
-[^fujiyama]: ["An Explicit Study on Walking Speeds of Pedestrians on Stairs"](https://discovery.ucl.ac.uk/id/eprint/1243/1/2004_21.pdf), Taku Fujiyama and Nick Tyler, _University College London_.
-
 [^haag]: ["1.5 Million Packages a Day: The Internet Brings Chaos to N.Y. Streets"](https://www.nytimes.com/2019/10/27/nyregion/nyc-amazon-delivery.html). Matthew Haag and Winnie Hu, _New York Times_. 27 Oct 2019.
-
-[^kang]: ["Sound Environment: High- versus Low-Density Cities"], by Jian Kang, Chapter 12 of ["Designing High-Density Cities"](), edited by Edward Ng
 
 [^sun]: ["The influence of surface slope on human gait characteristics: a study of urban pedestrians walking on an inclined surface"](https://www.tandfonline.com/doi/abs/10.1080/00140139608964489). JIE SUN, MEGAN WALTERS, NOEL SVENSSON & DAVID LLOYD, _Ergonomics_ Volume 39, 1996 - Issue 4
 
-[^wiki_walking]: ["Walking"](https://en.wikipedia.org/wiki/Walking). _Wikipedia_.
 
 
