@@ -238,7 +238,7 @@ The result is:
   | **cost of public transit**<br>annual dollars per capita | $360 in fares paid by riders<br>$720 in city funded transit subsidies<br>**$1,080** total | $0
   | **private vehicle costs**<br>annual dollars per capita | $1,000<br>_mostly for cars_<br>_about 1 car per 10 people_ | $1,000<br>_mostly for bicycles, e-bikes, mopeds, scooters, etc._<br>_about 1 vehicle per person_
   | **air quality** | good | _really_ good
-  | **noise levels** | noisier | quieter
+  | **noise levels** | noisier | quieter<br><span class="minor">(see [noise](#noise))</span>
   |  | <a name="costs"></a><span class="h3">Real estate</span> | 
   | **floorspace** | no real estate floorspace in street | 680,000 sqaure feet of floor space per mile
 
@@ -1044,6 +1044,13 @@ tan(27 degrees) = 0.51 => 51% grade = 51 foot rise per 100 foot run
 
 
 
+### <a name="noise"></a>Noise
+
+> "...the population in Wuhan is 8.3 million, much greater than that in Sheffield, at 0.6 million. ... For Wuhan, given that the number of vehicles per person is still much lower than that in Sheffield by tenfold ... it is very interesting to note that the average noise levels in all of the sampled areas are lower than those in Sheffield by 2dBA to 11dBA. ... In terms of L<sub>min</sub> and L<sub>90</sub> ... the difference is even greater -- for example, up to 15dBA in the area with a motorway."[^kang] &mdash; Jian Kang
+
+
+
+
 ### <a name="growth"></a>Global urban growth
 
 "Half of the urban area that will be needed [by 2050] hasn't been built yet."[^growth]
@@ -1222,6 +1229,9 @@ There are established public-sector mechanisms for funding development projects,
 [^nycdot]: ["New York City Mobility Report"](http://www.nyc.gov/html/dot/downloads/pdf/mobility-report-2018-screen-optimized.pdf), June 2018. _NYC Department of Transportation_.
 
 [^speed-limits]: ["Manhattan Speed Limits"](https://www1.nyc.gov/html/dot/downloads/pdf/current-pre-vision-zero-speed-limit-maps.pdf).  _NYC Department of Transportation_.
+
+[^kang]: ["Sound Environment: High- versus Low-Density Cities"], by Jian Kang, Chapter 12 of ["Designing High-Density Cities"](), edited by Edward Ng
+
 
 
 
