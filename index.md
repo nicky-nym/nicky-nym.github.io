@@ -149,7 +149,7 @@ h3 {
     </div>
     <div>
       <details>
-        <summary><a href="#5">5. This requires better funding models and value capture agreements</a></summary>
+        <summary><a href="#5">5. Why this is impossible</a></summary>
         <ul>
         </ul>
       </details>
@@ -302,7 +302,7 @@ The [impossible streets & intersections](#1) are designed to yield **faster trav
 
 ### Beyond a faster commute
 
-You might think that faster travel times would lead to faster commute times, but, surprisingly, that's usually not the case. Instead, when faster travel is possible, most people choose to use it to travel **further per day**, instead of using it to travel for **less time per day**. (See [Rules of thumb: Marchetti](#marchetti)
+You might think that faster travel times would lead to faster commute times, but, surprisingly, that's usually not the case. Instead, when faster travel is possible, most people choose to use it to travel **further per day**, instead of using it to travel for **less time per day**. (See [Rules of thumb: Marchetti](#marchetti).)
 
 The result of faster travel times is not shorter commute times for everyone, but is instead an increase in daily **kinematic range** for everyone.
 
@@ -382,13 +382,13 @@ Existing cities work hard, and spend billions, to try to incrementally improve m
 
 Cities can improve kinematic range by **moving more people** or **moving people faster**
   * **public transit projects**
-    * the **2nd Avenue Subway** project in New York, 
-    * the **Transbay Transit Center** in San Francisco, 
+    * the **2nd Avenue Subway** project in New York
+    * the **Transbay Transit Center** in San Francisco
   * **more highways**, or **more lanes**
-    * the **Big Dig** in Boston, 
+    * the **Big Dig** in Boston
   * **more throughput per lane**
-    * the **HOV Carpool Lanes** in Los Angeles, 
-    * the **congestion pricing** in Londo*
+    * the **HOV Carpool Lanes** in Los Angeles
+    * the **congestion pricing** in London
 
 Cities can also improve kinematic range by **becoming denser**, so that more people and more destinations are nearby
   * **transit oriented development**
@@ -541,7 +541,7 @@ It could be built on the outskirts of an existing city, or it could be built in 
 ## <span class="chapter">_Chapter 3_ &mdash; Bonus features beyond mobility</span>
 
 |---
-| Problems existing cities have | Impossible improvements |  |
+| <span class="h3">Existing city problems</span> | <span class="h3">Impossible improvements</span> |  |
 |:-|:-:|:-:|:-:|:-:
 | **traffic congestion** |  |  |
 | **housing costs** are too high |  |  |
@@ -624,11 +624,9 @@ It could be built on the outskirts of an existing city, or it could be built in 
 
 ## <span class="chapter">_Chapter 4_ &mdash; Why this matters now</span>
 
-## <a name="people"></a>More space for more people
-
 In the next 30 years, **by 2050**, we expect another **2.5 billion more people** to be living in cities.[^growth]
 
-To handle the influx, cities will build another **2.5 trillion square feet** of new buildings.[^bienkowski] [^watts] [^growth]
+To handle the influx, cities will build another **2.5 trillion square feet** of new buildings. These numbers can be hard to believe at first. For different projects by different authors, see the [notes about urban growth](#growth) below.
 
 
 
@@ -651,13 +649,102 @@ To handle the influx, cities will build another **2.5 trillion square feet** of 
 
 <div class="hr"><a name="5"></a></div>
 
-## <span class="chapter">_Chapter 5_ &mdash; This requires better funding models & value capture agreements</span>
+## <span class="chapter">_Chapter 5_ &mdash; Why this is impossible</span>
 
-## <a name="costs"></a>Costs & land value
+We know that:
+* the world desparately needs more cities & bigger cities
+* we can design new 21st century cities that would work far better for poeple than the default 20th century designs. 
+
+Unfortunately, actually building cities this way is probably impossible, because of:
+* network effect problems
+* location problems
+* cost problems
+* fiscal model
+
+### <a name="network-effect"></a>Network effect problems
+
+```
+TODO:
+```
+
+### <a name="network-effect"></a>Location problems
+
+So, **where** could these new city designs actually be built? There are a few different types of locations, but they all have problems:
+* infill & rebuilding in existing cities
+* new suburbs & satellite cities around existing cities
+* "new city" greenfield cities
+
+#### Infill & rebuilding in existing cities
+
+Zoning restrictions in existing cities prevent any large-scale changes to their spatial layout.
+
+> "Three-quarters of the residential land in Los Angeles is restricted to single-family homes, according to UrbanFootprint, software that helps government and businesses understand cities and urban markets. In San Jose, the figure is 94%." [^buhayar]
+
+Projects in existing cities can be staggeringly expensive.
+  * **$4.5 billion** for the San Francisco **Transbay Transit Center & Salesforce Tower** <sup>[citation needed]</sup>
+  * **$17 billion** for the **2nd Avenue Subway** project in New York <sup>[citation needed]</sup>
+  * **$20 billion** for the **Hudson Yards** project in New York <sup>[citation needed]</sup>
+  * **$21 billion** for the **Big Dig** in Boston <sup>[citation needed]</sup>
+  * **$23 billion** for the **Riyadh Metro** <sup>[citation needed]</sup>
+  * **$32 billion** to rebuild the **World Trade Center** in New York <sup>[citation needed]</sup>
+
+> "Retrofitting cities, where cities already exist, can be up to three times more expensive than planning for infrastructure in advance of settlement." [^haas]
+
+> "only about a quarter of New York City's 472 subway stations are wheelchair accessible" ... "subway officials ... plan to add elevators at 70 stations in the next five years." ... "The Metropolitan Transportation Authority ... estimates that accessibility fixes will cost about $78 million per station." [^fitzsimmons]
+
+
+#### New suburbs & satellite cities
+
+
+```
+TODO:
+
+Perhaps existing cities will absorb nearly all of the 2.5 billion additional people who will live in cities by 2050, but in doing so some of their suburbs will essentially develop into big satellite cities of their own right, so the Kinematic city ideas are relevant for how new developments in those satellite cities are designed.
+
+If 4% of the people did move to entirely new cities, that would be 100 million people in new cities. A single new kinematic city could "just" be 10 million people.
+```
+
+#### "new city" greenfield cities
+
+Building on a new empty, greenfield site is a lot less expensive than building in an existing city. New cities provide more space at lower cost per capita. New cities create value, and demand.<sup>[citation needed]</sup>
+
+> "We are at the beginning of the next wave of urbanization — a period of 
+> rapid growth in both area and population... The next wave of urbanization 
+> will also be defined by its sheer size — a tripling of land cover in the 
+> first half of this century alone. While the carrying capacity of existing 
+> cities is under increasing strain, unsustainable urban growth threatens to 
+> outstrip any mitigation efforts in our urban cores. The result is a need 
+> for new sites of politics, housing, commerce, industry, and energy. One 
+> solution is the accelerating development of greenfield cities around the world. 
+> Building new cities from the ground up is a bold (and monumentally difficult) 
+> attempt to relieve the strain on our currently overloaded urban systems. It 
+> promises to build energy efficiency, sustainability, and resilience in to the core of a place."[^caspar]
+> &mdash; Caspar Herzberg, Schneider Electric
+
+
+
+### <a name="costs"></a>Cost problems
 
 Constructing even small buildings is expensive. Constructing entire neighborhoods or cities requires not just building housing and office space, but also building all the transportation infrastruction for roads, street lights, traffic lights, bus shelters, subway stops, and more. Plus all of the utility infrastructure, including sewers, water supply, power lines, telephone lines, and the rest.
 
+```
+TODO:
+
+  * spending is somewhere between the high hundreds of billions of dollars, and the low trillions of dollars
+  * real estate development projects now operate at a scale where it is possible to complete a coordinated, monolithic, **privately financed $10 billion construction project**
+```
+
+
+
+
+### <a name="land-value-capture"></a>Land value capture & fiscal framework problems
+
 Read more about [costs & land value](economics)
+
+```
+TODO: This requires better funding models & value capture agreements
+```
+
 
 
 
@@ -695,7 +782,7 @@ Read more about [costs & land value](economics)
 
 
 
-### <a name="rules-of-thumb"></a><span class="chapter">Rules of thumb</span>
+## <a name="rules-of-thumb"></a><span class="chapter">Rules of thumb</span>
 
   * <a name="marchetti"></a>**People tend to travel about one hour a day.**
     * For people who commute, the average commute is about 30 minutes each way.
@@ -725,7 +812,7 @@ Read more about [costs & land value](economics)
 
 
 
-### <a name="glossary"></a><span class="chapter">Glossary</span>
+## <a name="glossary"></a><span class="chapter">Glossary</span>
 
 * **Architectural, Engineering and Construction (AEC)**
   * the entire industry of companies and people who build structures
@@ -733,17 +820,37 @@ Read more about [costs & land value](economics)
 * **Building Information Modeling (BIM)**
   * TODO: ???
   
+* **charter city**
+  * a special jurisdiction with a blank slate in commercial law, to allow for the adoption of new practices in areas such as a business registration, labor law, tax administration, and commercial dispute resolution
+  * _typically built on greenfield sites to avoid the challenges of implementing such a wide array of reforms in an existing polity_
+  * _typically privately financed_
+  * see: special economic zone
+
 * **co-design**
   * an design approach where stakeholders and end users are partners in the design process 
+
+* **Community Land Trust (CLT)**
+  * A nonprofit organization that owns land and sells or rents housing units (or retail or office space) built on the land, usually with the goal of providing affordable housing. A household typically leases a unit for a 99-year term, rather than buying a house outright, or may buy a house outright but leases the land that the house built on. Members elect a board so that the CLT is democratically self-governing. When a member sells a unit, the CLT may collect a cut of the sales price (in practice, as high as 75%), which it can use to subside purchases for new homeowners. [^schneider_2019-04-29]
 
 * **curb-cut effect**
   * systems designed to benefit vulnerable groups, such as the disabled, often end up benefiting all of society
   
+* **effective altruism**
+  * using empirical analysis to direct resources towards efforts that do the most possible good
+  * _anti-malaria efforts, deworming initiatives, and direct cash transfer programs are among the interventions most widely credited with providing the most cost-effective improvement in welfare for the global poor than any other intervention_ 
+  * see [GiveWell](https://www.givewell.org/)
+
 * **Global Compact on Refugees (GCR)**
   * a 2018 United Nations draft agreement on refugees
 
 * **Global Compact on Safe, Orderly and Regular Migration (GCM)**
   * a 2018 United Nations agreement about international migration [^wiki_gcm]
+
+* **Housing co-op**
+  * A group of households in a multi-family building, where each household owns a share of the whole building co-op and has the right to occupy a single unit, rather than owning that unit outright. An elected board makes decisions. [^schneider_2019-04-29]
+
+* **Inclusionary Zoning (IZ)**
+  * city zoning restrictions that requires (or incentivizes) private developers to private some portion of the units in a new building at a below market rate
 
 * **induced demand**
   * if you add lanes to a freeway, it leads to more trips, not faster trips [^wiki_induced_demand]
@@ -757,6 +864,15 @@ Read more about [costs & land value](economics)
 * <a name="kinematic"></a>**kinematic**
   * concerned with the motion of bodies, and their range of motion
 
+* **land value capture**
+  * TODO: ???
+
+* **limited equity housing cooperatives**
+  * TODO: ???
+
+* <a name="glossary:long-tail"></a>**long tail**
+  * TODO: ???
+ 
 * **Marchetti constant**
   * people will commute about 30 minutes each way per day
 
@@ -767,40 +883,6 @@ Read more about [costs & land value](economics)
   * a proposal for a type of Special Economic Zone (SEZ) for displaced people [^castle-miller]
   * see also: Sustainable Development Zone (SDZ)
 
-* **Urban Consolidation Center (UCC)**
-  * neighborhood-level freight hubs, place around the edge of a town, where trucks or large vehicles drop off packages to be loaded into small vehicles, like electric cargo bikes, for last-mile delivery
-
-## TODO: merge these...
-
-* **charter city**
-  * a special jurisdiction with a blank slate in commercial law, to allow for the adoption of new practices in areas such as a business registration, labor law, tax administration, and commercial dispute resolution
-  * _typically built on greenfield sites to avoid the challenges of implementing such a wide array of reforms in an existing polity_
-  * _typically privately financed_
-  * see: special economic zone
-
-* **Community Land Trust (CLT)**
-  * A nonprofit organization that owns land and sells or rents housing units (or retail or office space) built on the land, usually with the goal of providing affordable housing. A household typically leases a unit for a 99-year term, rather than buying a house outright, or may buy a house outright but leases the land that the house built on. Members elect a board so that the CLT is democratically self-governing. When a member sells a unit, the CLT may collect a cut of the sales price (in practice, as high as 75%), which it can use to subside purchases for new homeowners. [^schneider_2019-04-29]
-
-* **effective altruism**
-  * using empirical analysis to direct resources towards efforts that do the most possible good
-  * _anti-malaria efforts, deworming initiatives, and direct cash transfer programs are among the interventions most widely credited with providing the most cost-effective improvement in welfare for the global poor than any other intervention_ 
-  * see [GiveWell](https://www.givewell.org/)
-
-* **Housing co-op**
-  * A group of households in a multi-family building, where each household owns a share of the whole building co-op and has the right to occupy a single unit, rather than owning that unit outright. An elected board makes decisions. [^schneider_2019-04-29]
-
-* **Inclusionary Zoning (IZ)**
-  * city zoning restrictions that requires (or incentivizes) private developers to private some portion of the units in a new building at a below market rate
-
-* **land value capture**
-  * TODO: ???
-
-* **limited equity housing cooperatives**
-  * TODO: ???
-
-* <a name="glossary:long-tail"></a>**long tail**
-  * TODO: ???
- 
 * **Special Economic Zone (SEZ)**
   * a part of a country in which the business and trade laws are different from the rest of the country [^wiki_sez]
   * there have been SEZs since the 1950s, and there are now thousands of SEZs around the world [^mason]
@@ -812,6 +894,8 @@ Read more about [costs & land value](economics)
 * **Tax Increment Financing (TIF)**
   * special tax districts around targeted redevelopment areas, where future tax revenues are diverted to finance infrastructure improvements or development [^schneider]
 
+* **Urban Consolidation Center (UCC)**
+  * neighborhood-level freight hubs, place around the edge of a town, where trucks or large vehicles drop off packages to be loaded into small vehicles, like electric cargo bikes, for last-mile delivery
 
 
 
@@ -832,10 +916,9 @@ Read more about [costs & land value](economics)
 
 
 
----------
-### <a name="source-material"></a><span class="chapter">Source material</span>
+## <a name="source-material"></a><span class="chapter">Source material</span>
 
-#### <a name="throughput"></a>Throughput per lane (source: NACTO[^gsdg])
+### <a name="throughput"></a>Throughput per lane (source: NACTO[^gsdg])
 
 |---
 | Throughput | Width | Mode 
@@ -848,7 +931,7 @@ Read more about [costs & land value](economics)
 | 8,000 to 9,000 | one lane, **3 meters** wide | **sidewalk**
 | 10,000 to 25,000 | one lane, **3 meters** wide | on-street **transitway**, **bus** or **rail**
 
-#### <a name="throughput"></a>Throughput per lane (source: Bertaud[^bertaud])
+### <a name="throughput"></a>Throughput per lane (source: Bertaud[^bertaud])
 
 |---
 | Throughput | Vehicle type
@@ -862,7 +945,7 @@ Read more about [costs & land value](economics)
 |---
 
 
-#### <a name="throughput"></a>Width per 10,000 throughput (source: NACTO[^nacto])
+### <a name="throughput"></a>Width per 10,000 throughput (source: NACTO[^nacto])
 
 |---
 | Throughput | Width | Mode 
@@ -877,7 +960,7 @@ Read more about [costs & land value](economics)
 
 
 
-#### <a name="growth"></a>Chapter 4: urban growth
+### <a name="growth"></a>Global urban growth
 
 "Half of the urban area that will be needed [by 2050] hasn't been built yet."[^growth]
 
@@ -896,6 +979,24 @@ It is estimated that **by 2050**:
 * there will be at least **nine African "megacities" of 10 million people or more** (and more than two dozen African cities of 5 million or more, about the size of metropolitan Washington), but currently 60 percent of Africa’s city dwellers live in slums [^bloomberg]
 * one-third of all of the French Polynesian islands will be submerged[^fast-company]
 
+> "This will be by far the largest migration of human beings to have ever taken place on the planet ... The resulting challenges to the availability of energy and resources and the enormous stress on the social fabric across the globe are mind-boggling ... and the timescales to address them are very short."[^scale] &mdash; Geoffrey West
+
+> "The UN estimates that each year cities across the world will gain more than 72 million new residents."[^lutter]
+
+> "averaged over the next thirty-five years, about a million and a half people will be urbanized each week ... the equivalent of another New York metropolitan area [every two months]"[^scale]
+
+> **120 new cities** are currently being built, **in 40 countries**[^haas]
+
+> "China ... is on a fast track to build up to **three hundred new cities** each in excess of a million people over the next twenty to twenty-five years. ...  At the present rate it will be moving the equivalent of the entire U.S. population (more than 300 million people) to cities in the next twenty to twenty-five years."[^scale]
+
+> "India, for example, will be home to 7 cities with populations greater than 10 million residents by 2050."[^lutter]
+
+> "projections show that Kinshasa, the capital of the Democratic Republic of Congo, will reach 35 million residents by 2050."[^lutter]
+
+
+
+### <a name="california"></a>California urban growth
+
 In California alone, "to satisfy pent-up demand and meet the needs of a growing population, California needs to build 3.5 million homes by 2025."[^mckinsey]
 
 > "Broadly speaking, there is no solution to the California housing crisis without the construction of millions of new houses," said David Garcia, policy director for the Terner Center for Housing Innovation at the University of California, Berkeley.[^buhayar]
@@ -904,17 +1005,9 @@ In California alone, "to satisfy pent-up demand and meet the needs of a growing 
 
 > "58 of the 89 biggest — with headquarters of 100,000 square feet and above — tech and life science companies based in the Bay Area have leased 30.4 million square feet of office space in other U.S. cities since January 2010"[^sumagaysay]
 
-> "This will be by far the largest migration of human beings to have ever taken place on the planet ... The resulting challenges to the availability of energy and resources and the enormous stress on the social fabric across the globe are mind-boggling ... and the timescales to address them are very short."[^scale] &mdash; Geoffrey West
-
-> "The UN estimates that each year cities across the world will gain more than 72 million new residents."[^lutter]
-
-> "India, for example, will be home to 7 cities with populations greater than 10 million residents by 2050."[^lutter]
-
-> "projections show that Kinshasa, the capital of the Democratic Republic of Congo, will reach 35 million residents by 2050."[^lutter]
 
 
-
-### Refugee numbers are increasing
+### <a name="refugees"></a>Refugee migration
 
 "An estimated 2.4 billion people–40% of the world’s population–live in a coastal region and will likely be impacted by rising sea levels as a result of climate change."[^fast-company]
 
@@ -927,40 +1020,8 @@ As of 2018, **70 million people** were currently displaced by war, persecution a
 > "it has been estimated that it’s going to cost the USA alone around $400 billion over the next two decades in sea level rise damage control"[^shepard]
 
 
-### TODO: Greenfield city projects can help
 
-> "We are at the beginning of the next wave of urbanization — a period of 
-> rapid growth in both area and population... The next wave of urbanization 
-> will also be defined by its sheer size — a tripling of land cover in the 
-> first half of this century alone. While the carrying capacity of existing 
-> cities is under increasing strain, unsustainable urban growth threatens to 
-> outstrip any mitigation efforts in our urban cores. The result is a need 
-> for new sites of politics, housing, commerce, industry, and energy. One 
-> solution is the accelerating development of greenfield cities around the world. 
-> Building new cities from the ground up is a bold (and monumentally difficult) 
-> attempt to relieve the strain on our currently overloaded urban systems. It 
-> promises to build energy efficiency, sustainability, and resilience in to the core of a place."[^caspar]
-> &mdash; Caspar Herzberg, Schneider Electric
-
-
-### TODO: Spending
-
-The current market size for new city construction is large:
-  * in the next 30 years, **another 2.5 billion people** will live cities
-  * "averaged over the next thirty-five years, about a million and a half people will be urbanized each week ... the equivalent of another New York metropolitan area [every two months]"[^scale]
-  * **120 new cities** are currently being built, **in 40 countries**[^haas]
-  * "China ... is on a fast track to build up to **three hundred new cities** each in excess of a million people over the next twenty to twenty-five years. ...  At the present rate it will be moving the equivalent of the entire U.S. population (more than 300 million people) to cities in the next twenty to twenty-five years."[^scale]
-  * spending is somewhere between the high hundreds of billions of dollars, and the low trillions of dollars
-  * real estate development projects now operate at a scale where it is possible to complete a coordinated, monolithic, **privately financed $10 billion construction project**
-
-
-## New cities vs. new suburbs & satellite cities vs. new apartments in existing cities
-
-Perhaps existing cities will absorb nearly all of the 2.5 billion additional people who will live in cities by 2050, but in doing so some of their suburbs will essentially develop into big satellite cities of their own right, so the Kinematic city ideas are relevant for how new developments in those satellite cities are designed.
-
-If 4% of the people did move to entirely new cities, that would be 100 million people in new cities. A single new kinematic city could "just" be 10 million people.
-
-## <a name="precident"></a>People are undertaking to build "new cities"
+### <a name="precident"></a>"New city" greenfield growth
 
 More than **120 new cities** are currently being built in 40 nations around the world[^growth], and 11,000 new buildings are built every day, meaning **4 million new buildings a year** [^metabuild].
 
@@ -977,32 +1038,17 @@ More than **120 new cities** are currently being built in 40 nations around the 
 > "Forest City is a $100 billion new city development which will house 700,000 residents when completed. Forest city is a 5600-acre development."[^lutter]
 
 
-## <a name="cost"></a>Greenfield development vs. retrofitting
+
+### <a name="cost"></a>Greenfield development vs. retrofitting
 
 > "when planned, built, and governed well, cities can be massive agents of positive change," ... "They can be catalysts for inclusion and powerhouses of equitable economic growth. They can help us protect the environment and limit climate change. That is why we need a new vision for urbanization." &mdash; UN Secretary-General Ban Ki-moon [^totaro]
 
 > "Our biggest urban problems today—growing inequality, rampant gentrification, housing unaffordability, and increasing segregation—all have roots in the staggering cost of urban land."[^manhattan]
 
-Projects in existing cities can be staggeringly expensive.
-  * **$4.5 billion** for the San Francisco **Transbay Transit Center & Salesforce Tower** <sup>[citation needed]</sup>
-  * **$17 billion** for the **2nd Avenue Subway** project in New York <sup>[citation needed]</sup>
-  * **$20 billion** for the **Hudson Yards** project in New York <sup>[citation needed]</sup>
-  * **$21 billion** for the **Big Dig** in Boston <sup>[citation needed]</sup>
-  * **$23 billion** for the **Riyadh Metro** <sup>[citation needed]</sup>
-  * **$32 billion** to rebuild the **World Trade Center** in New York <sup>[citation needed]</sup>
-
-> "Retrofitting cities, where cities already exist, can be up to three times more expensive than planning for infrastructure in advance of settlement." [^haas]
-
-> "only about a quarter of New York City's 472 subway stations are wheelchair accessible" ... "subway officials ... plan to add elevators at 70 stations in the next five years." ... "The Metropolitan Transportation Authority ... estimates that accessibility fixes will cost about $78 million per station." [^fitzsimmons]
-
-Zoning restrictions in existing cities prevent any large-scale changes to their spatial layout.
-
-> "Three-quarters of the residential land in Los Angeles is restricted to single-family homes, according to UrbanFootprint, software that helps government and businesses understand cities and urban markets. In San Jose, the figure is 94%." [^buhayar]
-
-Building on a new empty, greenfield site is a lot less expensive than building in an existing city. New cities provide more space at lower cost per capita. New cities create value, and demand.<sup>[citation needed]</sup>
 
 
-## <a name="funding"></a>There is some funding available for new cities
+
+### <a name="funding"></a>Funding for new cities
 
 > "The money being thrown at new cities is staggering. 
 > Saudi Arabia's King Abdullah Economic City comes at a price tag of **$100bn** (£78bn), 
