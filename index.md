@@ -155,6 +155,7 @@ h3 {
           <li><a href="#location">Location problems</a></li>
           <li><a href="#cost">Cost problems</a></li>
           <li><a href="#land-value-capture">Land value capture & fiscal framework problems</a></li>
+          <li><a href="#bootstrapping">Bootstrapping problems</a></li>
         </ul>
       </details>
     </div>
