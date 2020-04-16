@@ -30,7 +30,6 @@ permalink: /remainder/
         <summary><a href="#work-better">What we want to achieve</a></summary>
         <ul>
           <li><a href="#design-goals">Design goals</a></li>
-          <li><a href="#design-constraints">Constraints</a></li>
           <li><a href="#construction-costs">Construction costs</a></li>
         </ul>
       </details>
@@ -237,103 +236,6 @@ Ideally the kinematic city buildings would all be built with standpipes and fire
 > "If we stick to business as usual most of it is going to be 
 > disorderly and less functional than the stuff we already have."[^growth]
 > &mdash; Paul Romer, Nobel prize-winning economist, New York University.
-
-### <a name="design-goals"></a>(2.1) Design goals
-
-* **Carbon footprint.** Because climate change is a serious problem, minimizing carbon footprint needs to be a serious design goal. Carbon footprint goals include:
-  * carbon footprint of travel within the city
-  * carbon footprint of travel and shipping to and from the city
-  * carbon footprint of HVAC in the city
-  * carbon footprint of the initial city construction materials and construction work
-
-* **Economic prosperity.** A city should provide for a good life for the people who live in it and the people who have offices there. Because global poverty is a serious problem, economic growth is a force for good, so long as the economic growth is "green growth" and so long as GDP growth goes up while carbon footprint goes down, habitat restoration use goes up, and Gini coefficients go down.
-
-* **Social prosperity.** It should be:
-  * easy to go see your friends
-  * easy to do an errand for your mom
-  * easy to go to weird new clubs and meetup groups to see who's there
-
-* **Agglomeration economies.** The term "industrial agglomeration" means the clustering of a lot of business firms in one region. Industrial agglomeration leads to "agglomeration economies" (somewhat similar to the separate idea of "economies of scale"). "Agglomeration economies" are economic benefits that come from having businesses be near each other, such as shared infrastructure development. But we need our designs to be mindful of avoiding "agglomeration diseconomies", which are the disadvantages of proximity, such as traffic congestion.
-
-* **Affordability.** There's no point in designing a new kinematic city that is too expensive to build, or building a new city that is too expensive for most people to afford to move to. The initial kinematic city designs intentionally focus on avoiding expensive transportation options like light rail, and even bus rapid transit. The designs also avoid expensive buildings, like skyscrapers or even ten-story buildings with concrete service cores and elevators, in favor of less expensive "4-over-1" podium construction.
-   - readily available housing
-   - affordabability at market prices, without subsidies or rent control
-
-  |---
-  | **goals** | **implications**
-  |:-:|:-
-  | keep construction costs down       | use conventional construction techniques <br> no skyscrapers (expensive per square foot) <br> no elevators  <br> strive for economies of scale 
-  | keep land costs low                | pick an inexpensive site <br> maximize Floor Area Ratio (FAR), or floor space per square mile 
-  | keep developer financing costs low | use tight construction timelines <br> avoid planning and permitting delays <br> avoid big risks <br> minimize vacancy <br> produce revenue early on <br> do "just-in-time" production of square footage
-  | keep transportation costs down     | keep everything close <br> no automobiles (at $20,000+ each) <br> no buses (at $500,000 each, or $8,000+ per passenger seat) <br> no subway cars (at $10,000+ per passenger seat) <br> no subway tunnels (at $100,000,000+ per mile) 
-
-* **Safety.**
-  - freedom from harassment
-  - safe enough that parents can opt to have "free-range children" who explore the city on their own
-  - no traffic accident deaths
-  - no fire-related deaths
-  - fast response to 911 calls
-
-* **Equity.**
-  - equal access to safe passage for everyone through all public space
-  - full mobility for women [^gadepalli]
-  - no "pink tax" for women [^mccasland]
-  - no "trip-range" tax for women [^gonzalez]
-
-* **Accessibility.**
-  - stroller-friendly buildings and stroller-friendly transportation
-  - wheelchair accessible routes to every part of every building
-  - make everything accessible to a variety of wheeled vehicles, from delivery robots to ambulance gurnies
-  - predictable navigation for people with limited vision
-  - frequent pathside seating for elderly people
-
-* **Proximity.** &mdash; everything within 30 minutes
-  - school & work
-  - friends & family
-  - groceries & restaurants
-  - parks & playgrounds
-  - gyms & laundromats
-  - dentists & doctors
-  - libraries & museums
-  - long tail destinations (aka _That One Unusual Thing_ that most people wouldn't care about, but that you really want to go to)
-    - a monthly Renaissance Faire meetup
-    - a weekly Burning Man art car workshop
-    - a maker space with an Atomic Force Microscope
-    - etc.
-
-* **Airiness.**
-  - nearby parks and trees
-  - fresh air
-  - sunlight
-
-* **Resiliency.** Cities should be designed to be resilient after natural disasters and other emergencies. For example, it should be possible to evacuate a building quickly even when the power is out. And it should be safe to quickly reopen as many buildings as possible after an earthquake, hurricane, or flood. These are goals that can be furthered by simply avoiding "fragile" technologies, like elevators, and traffic lights. 
-
-  > "Resiliency is the ability to bounce back better, but also the ability to not have to bounce back as much." 
-  > &mdash; Sylvester Wong, Vice President of AECOM[^new-clark]
-
-  > "Because its location and design were deliberately chosen to withstand natural calamities, New Clark City will serve as the government’s continuity hub, disaster and risk recovery center – an alternative capital city in case a disaster strikes Manila"[^new-clark]
-
-* **Durability** & **Reliability.** Make infrastructure durable and easy to maintain.
-
-  > "even when a [New York City subway] station has an elevator, workers have struggled to keep them working properly. Only about 94 percent of elevators were available in August, according to the transit agency. The rate is worse for escalators -- 87 percent were working." [^fitzsimmons]
-
-
-
-* **Simplicity.** Keep systems simple, which helps keep them resilient, durable, and affordable.
-
-* **Impossibility.** Enable new experiences that were not possible before. Enable more people to get to more places. Make more different places to live affordable for more people. Make it safe for little kids to walk to school on their own, without having to cross the street.
-
-### <a name="design-constraints"></a>(2.2) Design constraints
-
-+ engineering constraints
-  - daylight available — arctic circle, seattle rain
-  - transportation modes available — hyperloop, flying cars
-+ market constraints
-  - construction costs
-  - land prices
-+ civic constraints
-  - zoning
-  - environmental review
 
 
 
