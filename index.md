@@ -993,6 +993,21 @@ tan(27 degrees) = 0.51 => 51% grade = 51 foot rise per 100 foot run
 ```
 
 
+### <a name="co2"></a>CO2-e emissions
+
+|---
+| CO2-e emissions[^bertaud] | Vehicle type
+|-:|:-
+| grams per passenger km
+| 151 | average US car
+|  26 | Nissan Leaf in California
+|   5 | Nissan Leaf in Sweden
+|  67 | New York subway
+| 180 | US urban bus
+|---
+
+
+
 ### <a name="growth"></a>Global urban growth
 
 "Half of the urban area that will be needed [by 2050] hasn't been built yet."[^growth]
