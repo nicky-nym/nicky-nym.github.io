@@ -604,47 +604,10 @@ The problems above could be greatly ameliorated by just making a handful of diff
 ---
 ## <a name="faq"></a>FAQ: Frequently Asked Questions
 
- * [Could we build a kinematic city?](#could-we-build)
- * [Why build kinematic cities?](#why-build)
- * [What would it take to build a kinematic city?](#what-would-it-take)
- * [Could we turn London or Paris into kinematic cities?](#could-we-transform)
- * [Could kinematic ideas trickle down to existing cities?](#could-ideas-trickle-down)
- * [Do kinematic ideas impact democracy and governance?](#do-ideas-impact-democracy)
-
 
 ### <a name="could-we-build"></a>Could we build a kinematic city?
 
 **Yes.** The kinematic city plans are designed with existing technology in mind, and with an eye toward simple, affordable technologies. It's about bicycles and water pipes, not about floating ocean domes and orbital towers.
-
-### <a name="why-build"></a>Why build kinematic cities?
-
-If you're starting from scratch, then with a few good design choices it should be possible to build a city that **works far better** than normal conventional cities.
-
-* a kinematic city: 
-   1. should have **less traffic** congestion
-   1. should have **more commute destinations**
-   1. should **thrive economically** compared to similarly-sized normal cities
-   1. should have **better air quality**
-   1. should be **more affordable** to build than conventional cities
-   1. should have **lower operating costs**
-   1. should have **lower housing costs**, and potentially **no homelessness**
-   1. should be **safer** and more fun to live in
-   1. should have **better accessibility**
-   1. should be more **kid-friendly**
-   1. should be more **elder-friendly**
-   1. should have a **smaller carbon footprint** per capita
-   1. should be **more resilient** after a natural disaster or other emergency
-   1. could be established as a **charter city**[^mason]
-
-### <a name="what-would-it-take"></a>What would it take to build a kinematic city?
-
-Rome wasn't built in a day. Building a kinematic city would take a long time and lot of resources:
-  * miles of empty land, clear of conservation restrictions and legal show-stoppers 
-  * local government support, and local popular support among the neighbors
-  * billions of dollars of start-up capital
-  * millions of pounds of steel and concrete, and hundreds of construction teams 
-  * a population of people willing to move into the new housing as it is completed
-  * a population of companies willing to move into new office space as it is completed
 
 ### <a name="could-we-transform"></a>Could we turn London or Paris into kinematic cities?
 
