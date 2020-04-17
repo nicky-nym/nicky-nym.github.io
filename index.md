@@ -165,7 +165,7 @@ h3 {
       <details>
         <summary><a href="#4">4. This matters now</a></summary>
         <ul>
-          <li><a href="#incoming-influx">Incoming influx</a></li>
+          <li><a href="#incoming-urban-influx">Incoming urban influx</a></li>
           <li><a href="#spilt-milk">Spilt milk</a></li>
           <li><a href="#trillion">Trillion dollar opportunities</a></li>
         </ul>
@@ -750,7 +750,7 @@ TODO: when new cities are being built from scratch, or when new suburbs or satel
 ```
 
 
-### <a name="incoming-influx"></a>Incoming influx
+### <a name="incoming-urban-influx"></a>Incoming urban influx
 
 In the next 30 years, **by 2050**, we expect another **2.5 billion more people** to be living in cities.[^growth]
 
