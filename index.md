@@ -142,6 +142,14 @@ h3 {
       <details>
         <summary><a href="#3">3. Bonus features beyond mobility</a></summary>
         <ul>
+          <li><a href="#greener"></a>Greener & cleaner</a></li>
+          <li><a href="#resilient"></a>More resilient, durable & reliable</a></li>
+          <li><a href="#freedom"></a>More free, fair & friendly</a></li>
+          <li><a href="#economic-prosperity"></a>More economic prosperity</a></li>
+          <li><a href="#social-prosperity"></a>More social prosperity</a></li>
+          <li><a href="#affordability"></a>More affordable</a></li>
+          <li><a href="#safer"></a>Safer & healthier</a></li>
+          <li><a href="#convenience"></a>More convenience & more possibilities</a></li>
         </ul>
       </details>
     </div>
@@ -522,22 +530,92 @@ TODO:
 
 If you're building from scratch, then with a few good design choices it should be possible to build an urban layout that **works far better** than normal conventional cities do.
 
-### <a name="design-goals"></a>Design goals
 
-* **Carbon footprint.** Because climate change is a serious problem, minimizing carbon footprint needs to be a serious design goal. Carbon footprint goals include:
-  * carbon footprint of travel within the city
-  * carbon footprint of travel and shipping to and from the city
-  * carbon footprint of HVAC in the city
-  * carbon footprint of the initial city construction materials and construction work
+### <a name="greener"></a>Greener & cleaner
 
-* **Economic prosperity.** A city should provide for a good life for the people who live in it and the people who have offices there. Because global poverty is a serious problem, economic growth is a force for good, so long as the economic growth is "green growth" and so long as GDP growth goes up while carbon footprint goes down, habitat restoration use goes up, and Gini coefficients go down.
+* **smaller carbon footprint** per capita
+* **more trees**
+* **better air quality**
+* **less noise**
 
-* **Social prosperity.** It should be:
+
+### <a name="resilient"></a>More resilient, durable & reliable
+
+* **simpler** &mdash; systems that are simpler, which helps keep them more resilient, durable, reliable, and affordable.
+
+* **more resilient** after a natural disaster or other emergency
+
+* Cities should be designed to be resilient after natural disasters and other emergencies. For example, it should be possible to evacuate a building quickly even when the power is out. And it should be safe to quickly reopen as many buildings as possible after an earthquake, hurricane, or flood. These are goals that can be furthered by simply avoiding "fragile" technologies, like elevators, and traffic lights. 
+
+  > "Resiliency is the ability to bounce back better, but also the ability to not have to bounce back as much." 
+  > &mdash; Sylvester Wong, Vice President of AECOM[^new-clark]
+
+  > "Because its location and design were deliberately chosen to withstand natural calamities, New Clark City will serve as the government’s continuity hub, disaster and risk recovery center – an alternative capital city in case a disaster strikes Manila"[^new-clark]
+
+* **more durable** & **more reliable** &mdash; infrastructure that is durable and easy to maintain.
+
+  > "even when a [New York City subway] station has an elevator, workers have struggled to keep them working properly. Only about 94 percent of elevators were available in August, according to the transit agency. The rate is worse for escalators -- 87 percent were working." [^fitzsimmons]
+
+
+
+
+### <a name="freedom"></a>More free, fair & friendly
+
+* **Freedom.**
+  - free-range kids
+  - travel without a car & without government intervention
+
+* **Fairness.**
+  - a **level playing field** for urban mobility
+  - equal access to safe passage for everyone through all public space
+  - full mobility for women [^gadepalli]
+  - no "pink tax" for women [^mccasland]
+  - no "trip-range" tax for women [^gonzalez]
+  - more **kid-friendly**
+  - more **elder-friendly**
+  - more **disability-friendly**
+
+* **Accessibility.**
+  - stroller-friendly buildings and stroller-friendly transportation
+  - wheelchair accessible routes to every part of every building
+  - make everything accessible to a variety of wheeled vehicles, from delivery robots to ambulance gurnies
+  - predictable navigation for people with limited vision
+  - frequent pathside seating for elderly people
+
+
+### <a name="economic-prosperity"></a>More economic prosperity
+
+* should **thrive economically** compared to similarly-sized normal cities
+* should experience a 15% windfall in wages, wealth, patents, land value, etc.
+
+```
+TODO: individuals, businesses, governments
+
+    
+A city should provide for a good life for the people who live in it and the people who have offices there. Because global poverty is a serious problem, economic growth is a force for good, so long as the economic growth is "green growth" and so long as GDP growth goes up while carbon footprint goes down, habitat restoration use goes up, and Gini coefficients go down.
+
+* **Agglomeration economies.** The term "industrial agglomeration" means the clustering of a lot of business firms in one region. Industrial agglomeration leads to "agglomeration economies" (somewhat similar to the separate idea of "economies of scale"). "Agglomeration economies" are economic benefits that come from having businesses be near each other, such as shared infrastructure development. But we need our designs to be mindful of avoiding "agglomeration diseconomies", which are the disadvantages of proximity, such as traffic congestion.
+
+```
+
+
+### <a name="social-prosperity"></a>More social prosperity
+
+It should be:
   * easy to go see your friends
   * easy to do an errand for your mom
   * easy to go to weird new clubs and meetup groups to see who's there
 
-* **Agglomeration economies.** The term "industrial agglomeration" means the clustering of a lot of business firms in one region. Industrial agglomeration leads to "agglomeration economies" (somewhat similar to the separate idea of "economies of scale"). "Agglomeration economies" are economic benefits that come from having businesses be near each other, such as shared infrastructure development. But we need our designs to be mindful of avoiding "agglomeration diseconomies", which are the disadvantages of proximity, such as traffic congestion.
+
+### <a name="affordability"></a>More affordable
+
+* affordable to build
+  * vs. subways, light rail, buses, cars
+* affordable to operate
+  * vs. subways, light rail, buses, cars
+* affordable to live in
+  * lower housing costs & less homelessness
+  * transporation affordability
 
 * **Affordability.** There's no point in designing a new kinematic urban development that is too expensive to build, or building a new urban development that is too expensive for most people to afford to move to. The initial kinematic city designs intentionally focus on avoiding expensive transportation options like light rail, and even bus rapid transit. The designs also avoid expensive buildings, like skyscrapers or even ten-story buildings with concrete service cores and elevators, in favor of less expensive "4-over-1" podium construction.
    - readily available housing
@@ -551,25 +629,24 @@ If you're building from scratch, then with a few good design choices it should b
   | keep developer financing costs low | ~ use tight construction timelines (for example, by using prefab construction) <br> ~ avoid planning and permitting delays <br> ~ avoid big risks <br> ~ minimize vacancy <br> ~ produce revenue early on <br> ~ do "just-in-time" production of square footage
   | keep transportation costs down     | ~ keep everything close <br> ~ no automobiles (at $20,000+ each) <br> ~ no buses (at $500,000 each, or $8,000+ per passenger seat) <br> ~ no subway cars (at $10,000+ per passenger seat) <br> ~ no subway tunnels (at $100,000,000+ per mile) 
 
-* **Safety.**
-  - freedom from harassment
-  - safe enough that parents can opt to have "free-range children" who explore the city on their own
+
+### <a name="safer"></a>Safer & healthier
+
+* should be **safer** and more fun to live in
+
+  - **better air quality** & **less noise**
+  - **more nearby parks and trees**, for better mental health
+  - **less traffic congestion**, for better mental health
+  - more exercise  
+  - faster 911 response time
   - no traffic accident deaths
-  - no fire-related deaths
-  - fast response to 911 calls
+  - freedom from harassment
+    - less harassment on buses & subways
+    - less unemployment, poverty & homelessness
+  - safe enough that parents can opt to have "free-range children" who explore the city on their own
 
-* **Equity.**
-  - equal access to safe passage for everyone through all public space
-  - full mobility for women [^gadepalli]
-  - no "pink tax" for women [^mccasland]
-  - no "trip-range" tax for women [^gonzalez]
 
-* **Accessibility.**
-  - stroller-friendly buildings and stroller-friendly transportation
-  - wheelchair accessible routes to every part of every building
-  - make everything accessible to a variety of wheeled vehicles, from delivery robots to ambulance gurnies
-  - predictable navigation for people with limited vision
-  - frequent pathside seating for elderly people
+### <a name="convenience"></a>More convenience & more possibilities
 
 * **Proximity.** Everything within 30 minutes
   - school & work
@@ -585,78 +662,16 @@ If you're building from scratch, then with a few good design choices it should b
     - a maker space with an Atomic Force Microscope
     - etc.
 
-* **Airiness.**
-  - nearby parks and trees
-  - fresh air
-  - sunlight
-
-* **Resiliency.** Cities should be designed to be resilient after natural disasters and other emergencies. For example, it should be possible to evacuate a building quickly even when the power is out. And it should be safe to quickly reopen as many buildings as possible after an earthquake, hurricane, or flood. These are goals that can be furthered by simply avoiding "fragile" technologies, like elevators, and traffic lights. 
-
-  > "Resiliency is the ability to bounce back better, but also the ability to not have to bounce back as much." 
-  > &mdash; Sylvester Wong, Vice President of AECOM[^new-clark]
-
-  > "Because its location and design were deliberately chosen to withstand natural calamities, New Clark City will serve as the government’s continuity hub, disaster and risk recovery center – an alternative capital city in case a disaster strikes Manila"[^new-clark]
-
-* **Durability** & **Reliability.** Make infrastructure durable and easy to maintain.
-
-  > "even when a [New York City subway] station has an elevator, workers have struggled to keep them working properly. Only about 94 percent of elevators were available in August, according to the transit agency. The rate is worse for escalators -- 87 percent were working." [^fitzsimmons]
-
-
-
-* **Simplicity.** Keep systems simple, which helps keep them resilient, durable, and affordable.
-
 * **Impossibility.** Enable new experiences that were not possible before. Enable more people to get to more places. Make more different places to live affordable for more people. Make it safe for little kids to walk to school on their own, without having to cross the street.
 
 
 
-* an Impossible city: 
-   1. should have **less traffic** congestion
-   1. should have **more commute destinations**
-   1. should **thrive economically** compared to similarly-sized normal cities
-   1. should have **better air quality**
-   1. should be **more affordable** to build than conventional cities
-   1. should have **lower operating costs**
-   1. should have **lower housing costs**, and potentially **no homelessness**
-   1. should be **safer** and more fun to live in
-   1. should have **better accessibility**
-   1. should be more **kid-friendly**
-   1. should be more **elder-friendly**
-   1. should have a **smaller carbon footprint** per capita
-   1. should be **more resilient** after a natural disaster or other emergency
-   1. could be established as a **charter city**[^mason]
-
-
-|---
-| <span class="h3">Existing city problems</span> | <span class="h3">Impossible improvements</span> |  |
-|:-|:-:|:-:|:-:|:-:
-| **traffic congestion** |  |  |
-| **housing costs** are too high |  |  |
-| **transportation costs** are too high |  |  |
-| **not safe enough** |  |  |
-| **not good for people's mental health** |  |  |
-| **not resilient** after natural disasters and power failures |  |  |
-| **limit mobility** of kids, elders, and people with disabilities |  |  |
-| **not quickly alterable**<br>making one significant change can take decades |  |  |
-| **not cheaply alterable**<br>it is staggeringly expensive to add subways or highways to an existing city |  |  |
 
 
 
-### <a name="goals"></a>What are the design goals?
 
-  * improved overall **urban mobility** & **kinematic range**
-    * realize a 15% dividend in wages, wealth, patents, land value, etc.
-    * increase economic prosperity
-    * increase social prosperity
-  * **more affordable** transportation and housing 
-  * a **level playing field** for urban mobility
-    * more **kid-friendly**
-    * more **elder-friendly**
-    * more **accessible** for people with disabilites
-  * a **cleaner**, **quieter**, **safer** city
-  * reduced **carbon footprint** and **air pollution**
-  * a **more resilient** city and after natural disasters and power failures
-  * **simplicity**, **durability**, and **reliability**
-    
+
+
 ### <a name="comparison"></a>How would it compare?
 
 |---
