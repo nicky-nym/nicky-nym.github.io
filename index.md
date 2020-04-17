@@ -130,7 +130,12 @@ h3 {
       <details>
         <summary><a href="#2">2. Mobility for prosperity, not for speed</a></summary>
         <ul>
-        </ul>
+          <li><a href="#kinematic_range">Kinematic range</a></li>
+          <li><a href="#why-does-it-matter">Why does kinematic range matter?</a></li>
+          <li><a href="#dividend">15% dividend per doubling?</a></li>
+          <li><a href="#existing-cities">The kinematics of existing cities</a></li>
+          <li><a href="#impossible">The "Impossible city" design proposal</a></li>
+       </ul>
       </details>
     </div>
     <div>
@@ -319,25 +324,21 @@ The result of faster travel times is not shorter commute times for everyone, but
     * In **Haxby, Montana**, there's not any traffic congestion, but there also aren't many places to go. With a car, in 30 minutes you can probably reach a total of about **a half dozen homes**, with perhaps **10 thousand square feet of floorspace**.
     * In **San Francsico**, there are lots of places to go, but there's a lot of congestion. In 30 minutes you can reach hundreds of thousands of homes, offices, and stores, with perhaps **500 million square feet of floorspace**.  San Francisco has a kinematic range that's about 50 thousand times larger than Haxby, Montana.
 
-### <a name="congestion"></a>Congestion vs. kinematic range
-
-  * A **congested** city is one where it's hard to get where you want to go, because there's too much traffic.
-  * A **sleepy** little town is one where there's no traffic, but there's almost nothing in town to go to.
-  * A **kinematic** city is one that has lots of destinations **_and_** they're all easy to get to.
-
-
 ```
 TODO: add a diagram showing different ranges?
 ```
 
-### <a name="who_cares"></a>Why does Kinematic Range matter?
+<!--
+### Congestion vs. kinematic range
 
-Good mobility is more important than it sounds. It's not just about making rush-hour traffic a little less tiresome. Good mobility actually has significant implications for:
-  * job opportunities
-  * affordable housing
-  * economic growth & prosperity
-  * social prosperity
+  * A **congested** city is one where it's hard to get where you want to go, because there's too much traffic.
+  * A **sleepy** little town is one where there's no traffic, but there's almost nothing in town to go to.
+  * A **kinematic** city is one that has lots of destinations **_and_** they're all easy to get to.
+-->
 
+### <a name="why-does-it-matter"></a>Why does kinematic range matter?
+
+Good mobility is more important than it sounds. It's not just about making rush-hour traffic a little less tiresome. Beyond just convenience, better mobility and kinematic range bring serious changes to the entire metabolism of a city, and to the amount of **opportunity** and **prosperity** available to people.
 
 **For people**, having more destinations within reach means:
   * more **job offers** that are close enough to commute to
@@ -358,13 +359,9 @@ Good mobility is more important than it sounds. It's not just about making rush-
   * **faster response times** and **better incident outcomes**
 
 
-### <a name="convenience"></a>Convenience, opportunity, prosperity
-
-**Convenience** is one benefit of better urban mobility. Having more destinations in your kinematic range means it's easier to do the things you want to do.
-
-Beyond just convenience, better mobility and kinematic range bring serious changes to the entire metabolism of a city, and to the amount of **opportunity** and **prosperity** available to people. 
 
 ### <a name="dividend"></a>15% dividend per doubling
+
 
 Around the world, larger cities, with their larger kinematic ranges, tend to have higher wages than smaller cities.
 
@@ -383,15 +380,11 @@ This 15% superlinear growth seems to apply to the whole physical and social meta
 TODO: add a graph illustrating 15% doubling
 ```
 
-### <a name="incrementalist"></a>How Kinematic are existing cities?
+### <a name="existing-cities"></a>The kinematics of existing cities
 
 ```
 TODO: comparison of public transit in Singapore vs. cars in Dallas-Fort Worth. (See Velotopia page 44.) 
 ```
-
-
-### <a name="incrementalist"></a>How do existing cities try to become more Kinematic?
-
 Existing cities work hard, and spend billions, to try to incrementally improve mobility and kinematic range.
 
 Cities can improve kinematic range by **moving more people** or **moving people faster**
@@ -409,8 +402,6 @@ Cities can also improve kinematic range by **becoming denser**, so that more peo
   * **dense urban cores**
   * **infill development**
   * **multi-use zoning**
-
-### <a name="future"></a>Future possibilities
 
 Someday, in the future, cities might also be able to improve kinematic range by using **newly invented transit options**
   * **hyperloop** transit tubes
@@ -457,11 +448,9 @@ If we could plan a whole urban transporation network from scratch, what's the op
 What follows is a design proposal for what I believe is a **simple**, **cheap**, **reliable**, **low-risk** transportation network that has **high throughput**, good **transit speed**, nearly **door-to-door** convenience, and takes up less space than roads, leaving more **land area** for parks and buildings.
 
 
-### <a name="impossible"></a>"Impossible city" design proposal
+### <a name="impossible"></a>The "Impossible city" design proposal
 
 The **Impossible city** is just one simple design for a more Kinematic city. I'm not suggesting that this is the best design; rather, I'm putting it out as a *straw-man* proposal, in hopes that it might be a step in the right direction, and that it might spark conversation that leads to better ideas.
-
-### <a name="features"></a>What are the main design features?
 
 The Impossible design calls for:
 
