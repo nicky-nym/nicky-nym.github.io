@@ -237,23 +237,6 @@ Ideally the kinematic city buildings would all be built with standpipes and fire
 
 ### <a name="kinematic-range"></a>(4.3) Kinematic range
 
-**Kinematic range** is a measure of **mobility**. It's a measure of the capactiy and efficiency of a transportation network. Good mobility is more important than it sounds. It's not just about making rush-hour traffic a little less tiresome. Good mobility actually has significant implications for:
-  * job opportunities
-  * affordable housing
-  * economic growth & prosperity
-  * social prosperity
-
-**Kinematic range** is measured in [Floor Area](#floor-area), but it really represents the range of destinations that a person can get to. In the real world, a destination would be something like your friend's house, your dentist's office, or a library or coffee shop.
-
-  * **factors:** kinematic range is a function of lots of different factors:
-    * **_starting location_** &mdash; are you starting at the center of town, or out at the edge?
-    * **_urban density_** &mdash; how many destinations are there per square mile?
-    * **_mode of transport_** &mdash; are you walking, or in a car?
-    * **_encumbrances_** &mdash; do you have a stroller, or a wheelchair?
-    * **_age_**, **_race_**, & **_gender_** &mdash; can you safely take the subway, or do you need to take a cab?
-    * **_time of day_** &mdash; are the trains even running at this hour?
-    * **_traffic congestion_**
-    * **_travel bans_** & **_security checkpoints_** &mdash; are you allowed into that area?
 
   * In **Haxby, Montana**, with a car, in 30 minutes you can probably reach about a half dozen homes, with perhaps 10,000 square feet of floorspace, so that means your 30-minute Kinematic Range, **KR<sub>30</sub>**, is about **10,000 square feet**.
   
@@ -264,43 +247,6 @@ Ideally the kinematic city buildings would all be built with standpipes and fire
   * On the **UC Berkeley campus**, traveling by foot, it takes about 25 minutes to walk between two buildings at opposite ends of the main campus. If it takes another 2 minutes to get from the lobby door of a building to a top-floor room, and vice-versa, that means any two rooms on the whole campus are within a 29-minute range. If the campus has about 10 million square feet of floorspace<sup>[citation needed]</sup>, then your **KR<sub>30</sub>** would be about **10 million square feet**.  
 
   * In the **US Pentagon building**, it is possible to walk between any two points in less than seven minutes. The Pentagon has 6.6 million square feet of floorspace, so that's a **KR<sub>7</sub>** of **6.6 million square feet**.[^wiki_pentagon] 
-
-### <a name="kinematic-booster-effect"></a>(4.4) Kinematic windfall
-
-This next section is conjectural, so please evaluate it more skeptically.
-
-[Kinematic range](#kinematic-range) almost always increases as cities get bigger. I believe that increase in kinematic range is what drives the [15% superlinear scaling](#superlinear) effect.
-
-> Prud'homme and Lee's paper, titled "Size, Sprawl, Speed and the Efficiency of Cities," shows that productivity per worker is closely correlated to the average number of jobs per worker that are reachable in less than 60 minutes. In Korean cities, a 10 percent increase in the number of jobs accessible per worker corresponds to a 2.4 percent increase in workers' productivity.[^bertaud]
-
-As a city grows, at first, kinematic range increases as population increases, perhaps in a roughly linear relationship. Unfortunately, as cities get too big, they start to sprawl and suffer from traffic congestion. Eventually, there's a **kinematic lag**, where the kinematic range stops its 1-to-1 tracking of population growth, and begins to lag behind.
-
-This whole kinematic cities proposal is all about trying to reduce that kinematic lag in larger cities. The proposed kinematic city design is an attempt to keep increasing a city's kinematic range even as its population grows in the millions.
-
-Take the **San Francisco Bay Area** as an example. The Bay Area is a conurbation that encompasses major cities like San Francisco and San Jose, as well as lots of smaller cities, like Oakland, Berkeley, and Mountain View. The entire population is about 8 million people, depending where you draw the boundaries. 
-
-If you estimate floorspace at about 600 square feet per person, that means there's about 5 billion square feet of floorspace in the Bay Area. Your **KR<sub>30</sub>** would be **5 billion square feet**, if you could magically get from any point in the area to any other point in under 30 minutes. But you can't.
-
-As a rough estimate, let's say that from any room in any random building in the Bay Area, within 30 minutes you can reach about one quarter of the other buildings in the Bay Area. That means your actual **KR<sub>30</sub>** would be about **1.25 billion square feet**.
-
-If we could just improve your travel times, we could quadruple your KR<sub>30</sub> range. If kinematic range is in fact what drives the [15% superlinear scaling](#superlinear) effect, then doubling the KR<sub>30</sub> for the Bay Area would yield a 15% windfall in average hourly wages, patents per capita, GDP, etc. Doubling KR<sub>30</sub> gets you a 15% windfall, and quadrupling gets you **a 30% windfall** (actually more like 32%, because 1.15^2 is 1.3225).
-
-The San Francisco Bay Area GDP was about $535 billion in 2019.[^facc]  A 30% increase would be an **additional $160 billion annual GDP**.
-
-Is it conceivable that the Bay Area could be re-engineered to quadruple travel ranges? Yes, but it would require a lot of changes: maybe a hyperloop, or a lot of Boring Company tunnels. It would be expensive, and it would take decades. For example:
-  * the 2013 Bay Bridge Eastern Span, from San Francisco to Oakland, took over a decade to build and cost $7 billion
-  * the 1976 BART system was a comparable amount, if measured in today's dollars
-  * the 2006 Big Dig in Boston cost $21 billion
-
-Building from scratch has its own challenges, and is also crazy expensive, but it does have the advantage that it can be done much more quickly.
-
-> "If you build a new city you don't have to relocate or work 
-> around existing roads or rivers or factories or houses. 
-> You also don’t have to work around existing political processes, 
-> community groups, civic organisations ... or even existing 
-> regulations and rules."[^growth]
-> &mdash; John Macomber, senior lecturer, Harvard Business School.
-
 
 
 
