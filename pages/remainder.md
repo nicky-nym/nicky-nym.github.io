@@ -435,17 +435,6 @@ A more natural pairing would be small-scale kinematic neighborhoods centered on 
 * [TravelTime platform](https://www.traveltimeplatform.com/blog/commute-time-visualization-map), by iGeolise, Ltd
 
 ---
-## Further Reading
-
-* _[Carfree Cities](http://www.carfree.com/book/)_, by J.H. Crawford
-
-* _[Order without Design](https://mitpress.mit.edu/books/order-without-design): How Markets Shape Cities_, by Alain Bertaud
-
-* _[Scale](https://www.penguinrandomhouse.com/books/314049/scale-by-geoffrey-west/)_, by Geoffrey West
-
-* _[Velotopia](https://www.nai010.com/en/publicaties/velotopia/130528)_, by Steven Fleming
-
-* _[Urban Bikeway Design Guide](https://nacto.org/publication/urban-bikeway-design-guide/)_, and the [other street design guides](https://nacto.org/publications/design-guides/), by the The National Association of City Transportation Officials (NACTO)
 
 
 ## <a name="references"></a>References
