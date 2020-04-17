@@ -1,4 +1,4 @@
-# <a name="1"></a>Impossible cities
+# <a name="0"></a>Impossible cities
 
 This paper outlines a summer 2020 design proposal for building car-free cities.
 
@@ -117,7 +117,12 @@ h3 {
   <div id="contents-entries">
     <p>&nbsp;</p>
     <div>
-      <span><a href="#0">Impossible cities</a></span>
+      <details>
+        <summary><a href="#0">Impossible cities</a></summary>
+        <ul>
+          <li><a href="#0">Summary</a></li>
+        </ul>
+      </details>
     </div>
     <div>
       <details>
