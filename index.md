@@ -1015,6 +1015,11 @@ Building a kinematic city would take a long time and lot of resources. A minimum
     * For people who aren’t commuting, it is common to spend about an hour each day on other sorts of trips: chores, errands, appointments, etc.
     * This "one hour per day" number has been found to be surprisingly consistent across different cities in different centuries, different cultures, and different continents, regardless of the different modes of travel used to commute. This is called the **Marchetti constant** (named for Cesare Marchetti, although it was really Yacov Zahavi who first wrote about it).
 
+  * **As supply increases, consumption goes up.**
+    * The <a name="jevons"></a>**Jevons paradox**, or Jevons effect, says that if it becomes possible to use a resource more and more efficiently, then instead of using less of the resource, people actually use more. Total consumption increases because demand increases as efficiency drives the costs down.
+    * <a name="induced-demand"></a>**Induced demand** says that as the supply of a resource increases, more of it will be consumed. If you add a new lane to a congested highway, it does not result in reduced congestion and faster trips, but instead results in an increase in the total number of trips made. Induced demand might be better described as **latent demand**. The demand was actually there all along, there was just a lack of supply to meet the demand. The concept of induced demand is often used as an argument against increasing roadway traffic capacity. I think this is misguided. The existance of latent demand is a sign that we should be striving to increase the supply of transportation capacity, and increase [Kinematic Range](#kinematic-range).[^wiki_induced_demand]
+
+
   * **Some aspects of a city scale linearly.**
     * If a city doubles in population size, many measurable characteristics of the city, such as the number of businesses, also double in size. Around the world, from small towns to big cities, regardless of the size of city, there's always about one business establishment per 22 people, and an average of about 8 employees for each establishment.
 
@@ -1022,14 +1027,15 @@ Building a kinematic city would take a long time and lot of resources. A minimum
     * There are often economies of scale in the infrastructure of big cities (or at least, economies of density). 
     * If a city doubles in population size, meaning it grows by 100%, parts of the supporting infrastructure tend to only grow by 85%. This is tends to be true for networks of roads, electrical cables, and municipal sewers and water pipes.
 
-* <a name="superlinear"></a>**15% superlinear scaling** is the phenomenon where if a city population grows by 100% (meaning it doubles in population size), then the economy of the city tends to grow by about 115% (meaning it **more than doubles** in size), so that there is effectively a 15% "bonus" in per-capita economic output for everyone in the city.[^scale] This 15% superlinear growth seems to apply to the whole physical and social metabolism of the city, rather than just the economic aspects of the city. The 15% surplus shows up in statistics about:
-  * wages
-  * wealth
-  * patents
-  * AIDS cases
-  * crime
-  * restaurants
-  * variety of business services available (meaning, how long the "long tail" of the city is)
+  * **Some aspects of a city scale super-linearly.**
+    * <a name="superlinear"></a>**15% superlinear scaling** is the phenomenon where if a city population grows by 100% (meaning it doubles in population size), then the economy of the city tends to grow by about 115% (meaning it **more than doubles** in size), so that there is effectively a 15% "bonus" in per-capita economic output for everyone in the city.[^scale] This 15% superlinear growth seems to apply to the whole physical and social metabolism of the city, rather than just the economic aspects of the city. The 15% surplus shows up in statistics about:
+      * wages
+      * wealth
+      * patents
+      * AIDS cases
+      * crime
+      * restaurants
+      * variety of business services available (meaning, how long the "long tail" of the city is)
 
   > "... it's illuminating to ask how many different types of businesses there are in a city. ... The data confirm that diversity systematically increases with poplution size. ... an extrapolation of the data strongly suggests that if we could measure diversity to the finest possible resolution it would scale logarithmically with city size."[^scale] &mdash; Geoffrey West
 
@@ -1037,6 +1043,7 @@ Building a kinematic city would take a long time and lot of resources. A minimum
 TODO: label this as an example, not as observed data!
 TODO: display this as a graph instead of a table?
 ```
+
   |---
   | City Population | Average Hourly Wage | Superlinear Scale Factor |
   |-:|:-:|:-:
@@ -1081,13 +1088,6 @@ TODO: important? consider moving into one of the chapters above?
   > City clusters already exist of course, like the Randstad in the Netherlands, which links Amsterdam, Rotterdam, The Hague, and Utrecht. The urban development around San Francisco Bay could also be considered a city cluster. What is different with the Chinese concept of cluster is their scale. The Randstad connects only 7 million people, while San Francisco Bay (including Silicon Valley) has only 6.2 million people. By contrast, the urban cluster of the Pearl River Delta already had 65 million people in 2010, larger than the entire population of the United Kingdom but concentrated on less than 10,000 square kilometers! The recent urban cluster including Beijing-Tianjin-Hebei links together more than 105 million people.[^bertaud]
 
 
-
-  * <a name="jevons"></a>**Jevons paradox**
-    * The or Jevons effect, says that if it becomes possible to use a resource more and more efficiently, then instead of using less of the resource, people actually use more. Total consumption increases because demand increases as efficiency drives the costs down.
-
-  * <a name="induced-demand"></a>**Induced demand**
-    * If you add lanes to a freeway, it leads to more trips, not faster trips 
-    * <a name="induced-demand"></a>**Induced demand** says that as the supply of a resource increases, more of it will be consumed. If you add a new lane to a congested highway, it does not reduce congestion, but instead increases the total number of trips made. Induced demand might be better described as **latent demand**. The demand was actually there all along, there was just a lack of supply to meet the demand. The concept of induced demand is often used as an argument against increasing roadway traffic capacity. I think this is misguided. The existance of latent demand is a sign that we should be striving to increase the supply of transportation capacity, and increase [Kinematic Range](#kinematic-range).[^wiki_induced_demand]
 
 
 
