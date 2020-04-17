@@ -227,84 +227,10 @@ Ideally the kinematic city buildings would all be built with standpipes and fire
 
 ### <a name="rules-of-thumb"></a>(4.1) Rules of thumb
 
-* <a name="marchetti"></a>The **Marchetti constant** says that **people tend to travel about one hour a day**. The Marchetti constant is named for Cesare Marchetti, although **it was really Yacov Zahavi** who first wrote about it.
-
-  For people that commute to a job, the average commute is about 30 minutes each way. For people who aren't commuting, it is common to spend about an hour each day on other sorts of trips: chores, errands, appointments, etc. 
-
-  > In the United States in 2013, commuting trips represented only 20 percent of weekday urban trips, 28 percent of vehicle kilometers traveled, and 39 percent of public transport passenger-kilometer traveled.[^bertaud]
-  
-  The one-hour number seems to be surprizingly consistent across different cities in different centuries, different cultures, and different continents, regardless of the different modes of travel used to commute. The one-hour constant is believed to have held true in:
-  + Ancient Rome
-  + Medieval Paris
-  + Victorian London — steam train
-  + New York — subway
-  + Los Angles — car 
-
-  > "Using data from cities across several countries, including the United States, England, Germany, and some developing nations, [Yacov] Zahavi discovered the surprising result that the total amount of time an average individual spends on travel each day is approximately the same regardless of the city size or the mode of transportation. ... we tend to spend about an hour each day traveling, whoever and wherever we are. ... the average commute time from home to work is about half an hour each way independent of the city or the means of transportation.
-  > 
-  > ... the increase in transportation speed resulting from the marvelous innovations of the past couple of hundred years has not been used to reduce commuting time but instead has been used to increase commuting distances. ... the size of cities has to some degree been determined by the efficiency of their transportation systems for delivering people to their workplaces in not much more than half an hour's time."[^scale] &mdash; Geoffrey West
-
-* <a name="jevons"></a>The **Jevons paradox**, or Jevons effect, says that if it becomes possible to use a resource more and more efficiently, then instead of using less of the resource, people actually use more. Total consumption increases because demand increases as efficiency drives the costs down.
-
-* <a name="induced-demand"></a>**Induced demand** says that as the supply of a resource increases, more of it will be consumed. If you add a new lane to a congested highway, it does not reduce congestion, but instead increases the total number of trips made. Induced demand might be better described as **latent demand**. The demand was actually there all along, there was just a lack of supply to meet the demand. The concept of induced demand is often used as an argument against increasing roadway traffic capacity. I think this is misguided. The existance of latent demand is a sign that we should be striving to increase the supply of transportation capacity, and increase [Kinematic Range](#kinematic-range).
-
-* <a name="feedback-loops"></a>**Feedback loops** will cause either vicious cycles and virtuous cycles in the amount of land area required for roads or other transportation networks.
-  * Suburban vicious cycle
-    * Suburban sprawl  ➔  longer roads  ➔  more circulation overhead
-  * Urban virtuous cycle
-    * Dense urban core  ➔  shorter distances  ➔  less overhead
 
 * <a name="linear"></a>**Linear scaling** says that if a city doubles in size, many measurable characteristics of the city, such as the number of businesses, also double in size.
 
   > "Double the size of a city and on average you'll find twice as many businesses. The proportionality constant is 21.6, meaning that there is approximately one establishment for about every 22 people in a city, regardless of the city size. Or to put it slightly differently, on average a new workplace is created each time the population of a city increases by just 22 people. ... on average, there are only about 8 employees for every establishment, again regardless of the size of city."[^scale] &mdash; Geoffrey West
-
-* <a name="superlinear"></a>**15% superlinear scaling** is the phenomenon where if a city population grows by 100% (meaning it doubles in population size), then the economy of the city tends to grow by about 115% (meaning it **more than doubles** in size), so that there is effectively a 15% "bonus" in per-capita economic output for everyone in the city.[^scale] This 15% superlinear growth seems to apply to the whole physical and social metabolism of the city, rather than just the economic aspects of the city. The 15% surplus shows up in statistics about:
-  * wages
-  * wealth
-  * patents
-  * AIDS cases
-  * crime
-  * restaurants
-  * variety of business services available (meaning, how long the "long tail" of the city is)
-
-  > "... it's illuminating to ask how many different types of businesses there are in a city. ... The data confirm that diversity systematically increases with poplution size. ... an extrapolation of the data strongly suggests that if we could measure diversity to the finest possible resolution it would scale logarithmically with city size."[^scale] &mdash; Geoffrey West
-
-  |---
-  | City Population | Average Hourly Wage | Superlinear Scale Factor |
-  |-:|:-:|:-:
-  | 40,000 | $16 | (-15%)^4 below $28
-  | 80,000 | $18 | (-15%)^3 below $28
-  | 160,000 | $21 | (-15%)^2 below $28
-  | 320,000 | $24 | -15% below $28
-  | 640,000 | **$28** | **100% average**
-  | 1.25 million | $32 | +15% above $28
-  | 2.5 million | $37 | (+15%)^2 above $28
-  | 5 million | $43 | (+15%)^3 above $28
-  | 10 million | $49 | (+15%)^4 above $28
-  |---
-
-  > Economic literature linking the wealth of cities to spatial concentrations is quite abundant and is no longer controversial in academic circles. ... The 2009 World Bank Development Report "Reshaping Economic Geography," and the report of the Commission on Growth and Development "Urbanization and Growth" (published the same year) exhaustively summarize and document the theoretical and empirical arguments justifying the economic advantage provided by the spatial concentration of economic activities in large cities.[^bertaud]
-  > &mdash; Alain Bertaud
-
-  > "High-tech invention is extraordinarily concentrated in just a handful of cities. ... The top 10 city-regions account for nearly 60 percent of inventors in biology, chemistry and medicine, with greater New York and the San Francisco Bay Area accounting for more than 10 percent each. Seventy percent of inventors in computer science are in the top 10 regions; the Bay Area alone has more than one-quarter of them. And the top 10 regions account for almost 80 percent of inventors in semiconductors, with one-quarter again in the Bay Area and another 15 percent in greater New York." ... "This clustering of inventors has only increased over time, growing by about five percentage points for biology, chemistry, and medicine, 15 percentage points for computer science, and about 20 percentage points for semiconductors between 1971 and 2007."[^florida]
-  
-  > "The study finds that when inventors move from a smaller to a large cluster, they experience increases in both the number of patents they generate and the impact of those patents, based on their subsequent citations. For example, a computer scientist who moves from the median cluster to a cluster at the 75th percentile in size would experience a 12 percent increase in productivity, while an inventor in biology and chemistry doing the same would see an 8.4 percent productivity gain. Overall, a just a 10 percent increase in the size of a cluster leads to a 0.66 percent increase in the number of patents produced by a top inventor each year."[^florida]
-
-  > "Third, the clustering of high-tech inventors brings real benefits to the American economy as a whole. ... [Enrico Moretti] estimates that the U.S. would produce about 11 percent fewer patents each year under such a scenario. The country would see a roughly 15 percent annual decline in semiconductor patents, a 13 percent decline in computer science, and a 10 percent decline in biology and chemistry, if the geography of inventors was more equal."[^florida]
-
-
-  
-* <a name="sublinear"></a>**15% economies of scale** is the phenomenon where if a city population grows by 100% (meaning it doubles in population size), then the network of roads, electrical cables, and other supporting infrastructure of the city tends to grow by about 85% (meaning it **less than doubles** in size), so that there is effectively a 15% "bonus" economy of scale, both economically and environmentally.[^scale] 
-
-  > "Once one starts to think about (the causes of economic growth),
-  > it is hard to think about anything else."
-  > &mdash; Robert Lucas, Nobel laureate in Economics 
-
-* <a name="zoning"></a>**TODO: need a name for these notes on zoning, scale, etc.** 
-
-  > In a paper published in 2015, the economists Chang-Tai Hsieh and Enrico Moretti found that, between 1964 and 2009, the high cost of housing in some US cities relative to wages had lowered aggregate US GDP by 13.5 percent: "Most of the loss was likely caused by increased constraints to housing supply in high productivity cities like New York, San Francisco and San Jose. Lowering regulatory constraints in these cities to the level of the median city would expand their work force and increase U.S. GDP by 9.5%.[^bertaud]
-
-  > City clusters already exist of course, like the Randstad in the Netherlands, which links Amsterdam, Rotterdam, The Hague, and Utrecht. The urban development around San Francisco Bay could also be considered a city cluster. What is different with the Chinese concept of cluster is their scale. The Randstad connects only 7 million people, while San Francisco Bay (including Silicon Valley) has only 6.2 million people. By contrast, the urban cluster of the Pearl River Delta already had 65 million people in 2010, larger than the entire population of the United Kingdom but concentrated on less than 10,000 square kilometers! The recent urban cluster including Beijing-Tianjin-Hebei links together more than 105 million people.[^bertaud]
 
 
 
