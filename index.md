@@ -142,14 +142,14 @@ h3 {
       <details>
         <summary><a href="#3">3. Bonus features beyond mobility</a></summary>
         <ul>
-          <li><a href="#greener"></a>Greener & cleaner</a></li>
-          <li><a href="#resilient"></a>More resilient, durable & reliable</a></li>
-          <li><a href="#freedom"></a>More free, fair & friendly</a></li>
-          <li><a href="#economic-prosperity"></a>More economic prosperity</a></li>
-          <li><a href="#social-prosperity"></a>More social prosperity</a></li>
-          <li><a href="#affordability"></a>More affordable</a></li>
-          <li><a href="#safer"></a>Safer & healthier</a></li>
-          <li><a href="#convenience"></a>More convenience & more possibilities</a></li>
+          <li><a href="#greener">Greener & cleaner</a></li>
+          <li><a href="#resilient">More resilient, durable & reliable</a></li>
+          <li><a href="#freedom">More free, fair & friendly</a></li>
+          <li><a href="#economic-prosperity">More economic prosperity</a></li>
+          <li><a href="#social-prosperity">More social prosperity</a></li>
+          <li><a href="#affordability">More affordable</a></li>
+          <li><a href="#safer">Safer & healthier</a></li>
+          <li><a href="#convenience">More convenience & more possibilities</a></li>
         </ul>
       </details>
     </div>
