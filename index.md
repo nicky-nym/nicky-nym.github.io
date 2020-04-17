@@ -149,6 +149,9 @@ h3 {
       <details>
         <summary><a href="#4">4. This matters now</a></summary>
         <ul>
+          <li><a href="#incoming-influx">Incoming influx</a></li>
+          <li><a href="#spilt-milk">Spilt milk</a></li>
+          <li><a href="#trillion">Trillion dollar opportunities</a></li>
         </ul>
       </details>
     </div>
@@ -708,33 +711,33 @@ If you're building from scratch, then with a few good design choices it should b
 
 ## <span class="chapter">_Chapter 4_ &mdash; Why this matters now</span>
 
-In the next 30 years, **by 2050**, we expect another **2.5 billion more people** to be living in cities.[^growth]
 
-To handle the influx, cities will build another **2.5 trillion square feet** of new buildings. These numbers can be hard to believe at first. For different projects by different authors, see the [notes about urban growth](#growth) below.
 
 ```
 TODO: when new cities are being built from scratch, or when new suburbs or satellite cities are being developed, planners should consider designing them as "kinematic cities" 
 ```
 
 
-```
-TODO: more here about land value & lost opportunties
-```
+### <a name="incoming-influx"></a>Incoming influx
 
-### <a name="kinematic-windfall"></a>Kinematic windfall
+In the next 30 years, **by 2050**, we expect another **2.5 billion more people** to be living in cities.[^growth]
 
-This next section is conjectural, so please evaluate it more skeptically.
-
-[Kinematic range](#kinematic-range) almost always increases as cities get bigger. I believe that increase in kinematic range is what drives the [15% superlinear scaling](#superlinear) effect.
+To handle the influx, cities will build another **2.5 trillion square feet** of new buildings. These numbers can be hard to believe at first. For different projects by different authors, see the [notes about urban growth](#growth) below.
 
 ```
 TODO: important quote?
 ```
 > Prud'homme and Lee's paper, titled "Size, Sprawl, Speed and the Efficiency of Cities," shows that productivity per worker is closely correlated to the average number of jobs per worker that are reachable in less than 60 minutes. In Korean cities, a 10 percent increase in the number of jobs accessible per worker corresponds to a 2.4 percent increase in workers' productivity.[^bertaud]
 
+### <a name="kinematic-lag"></a>Kinematic lag
+
+[Kinematic range](#kinematic-range) generally increases as cities get bigger. I believe that increase in kinematic range is what drives the [15% superlinear scaling](#superlinear) effect.
+
 As a city grows, at first, kinematic range increases as population increases, perhaps in a roughly linear relationship. Unfortunately, as cities get too big, they start to sprawl and suffer from traffic congestion. Eventually, there's a **kinematic lag**, where the kinematic range stops its 1-to-1 tracking of population growth, and begins to lag behind.
 
 This whole kinematic cities proposal is all about trying to reduce that kinematic lag in larger cities. The proposed kinematic city design is an attempt to keep increasing a city's kinematic range even as its population grows in the millions.
+
+### <a name="spilt-milk"></a>Spilt milk
 
 Take the **San Francisco Bay Area** as an example. The Bay Area is a conurbation that encompasses major cities like San Francisco and San Jose, as well as lots of smaller cities, like Oakland, Berkeley, and Mountain View. The entire population is about 8 million people, depending where you draw the boundaries. 
 
@@ -753,6 +756,12 @@ Is it conceivable that the Bay Area could be re-engineered to quadruple travel r
   * the 2013 Bay Bridge Eastern Span, from San Francisco to Oakland, took over a decade to build and cost $7 billion
   * the 1976 BART system was a comparable amount, if measured in today's dollars
   * the 2006 Big Dig in Boston cost $21 billion
+
+### <a name="trillion"></a>Trillion dollar opportunities
+
+```
+TODO: more here about land value & lost opportunties
+```
 
 Building from scratch has its own challenges, and is also crazy expensive, but it does have the advantage that it can be done much more quickly.
 
