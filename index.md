@@ -332,23 +332,31 @@ TODO: add a diagram showing different ranges?
 
 ### <a name="who_cares"></a>Why does Kinematic Range matter?
 
-Urban mobility isn't just a matter of convenience. Mobility is *fundamental* to a thriving lives and livelihoods. 
+Good mobility is more important than it sounds. It's not just about making rush-hour traffic a little less tiresome. Good mobility actually has significant implications for:
+  * job opportunities
+  * affordable housing
+  * economic growth & prosperity
+  * social prosperity
 
-  * **For people**, having more destinations within reach means:
-    * more **job offers** that are close enough to commute to
-    * more **friends** & **family** who are actually close enough to drop by
-    * more **schools** to choose from, and more **special classes**
-    * more **doctors** to choose from, and a wider variety of **specialists** available
-    * a wider variety of **churches** and **religious communities**
-    * a wider variety of **events**, **meetups**, and **clubs**, and more people who share your interests
-    * a wider variety of **[long tail](#glossary:long-tail)** destinations
-  * **For shops**, **employers**, and **industry**, it means:
-    * more **job candidates** to choose from
-    * more **vendors** and **parts suppliers** to choose from
-    * more **contractors** in different **specialized fields**
-    * more **"industrial agglomeration"**, which leads to **"agglomeration economies"** (somewhat similar to the separate idea of "economies of scale")
-  * **For 911 calls** & first responders, it means:
-    * **faster response times** and **better incident outcomes**
+
+**For people**, having more destinations within reach means:
+  * more **job offers** that are close enough to commute to
+  * more **friends** & **family** who are actually close enough to drop by
+  * more **schools** to choose from, and more **special classes**
+  * more **doctors** to choose from, and a wider variety of **specialists** available
+  * a wider variety of **churches** and **religious communities**
+  * a wider variety of **events**, **meetups**, and **clubs**, and more people who share your interests
+  * a wider variety of **[long tail](#glossary:long-tail)** destinations
+
+**For shops**, **employers**, and **industry**, it means:
+  * more **job candidates** to choose from
+  * more **vendors** and **parts suppliers** to choose from
+  * more **contractors** in different **specialized fields**
+  * more **"industrial agglomeration"**, which leads to **"agglomeration economies"** (somewhat similar to the separate idea of "economies of scale")
+
+**For 911 calls** & first responders, it means:
+  * **faster response times** and **better incident outcomes**
+
 
 ### <a name="convenience"></a>Convenience, opportunity, prosperity
 
@@ -1114,66 +1122,69 @@ TODO: important? consider moving into one of the chapters above?
 
 ## <a name="glossary"></a><span class="chapter">Glossary</span>
 
-* **Architectural, Engineering and Construction (AEC)**
+* **architectural, engineering and construction (AEC)<a name="glossary:AEC"></a>**
   * the entire industry of companies and people who build structures
   
-* **Building Information Modeling (BIM)**
-  * TODO: ???
+* **building information modeling (BIM)<a name="glossary:BIM"></a>**
+  * instead of old 2D paper blueprints for architectural designs, BIM uses digital models of buildings, where the models include not only the 3D geometry of the building, but also information about specific part numbers for components, costs, sustainability analysis information, etc.
   
-* **charter city**
+* **charter city<a name="glossary:charter-city"></a>**
   * a special jurisdiction with a blank slate in commercial law, to allow for the adoption of new practices in areas such as a business registration, labor law, tax administration, and commercial dispute resolution
   * _typically built on greenfield sites to avoid the challenges of implementing such a wide array of reforms in an existing polity_
   * _typically privately financed_
-  * see: special economic zone
+  * see: [special economic zone](#glossary:SEZ)
 
-* **co-design**
+* **co-design<a name="glossary:co-design"></a>**
   * an design approach where stakeholders and end users are partners in the design process 
 
-* **Community Land Trust (CLT)**
+* **community land trust (CLT)<a name="glossary:CLT"></a>**
   * A nonprofit organization that owns land and sells or rents housing units (or retail or office space) built on the land, usually with the goal of providing affordable housing. A household typically leases a unit for a 99-year term, rather than buying a house outright, or may buy a house outright but leases the land that the house built on. Members elect a board so that the CLT is democratically self-governing. When a member sells a unit, the CLT may collect a cut of the sales price (in practice, as high as 75%), which it can use to subside purchases for new homeowners. [^schneider_2019-04-29]
 
-* **curb-cut effect**
+* **curb-cut effect<a name="glossary:curb-cut-effect">**
   * systems designed to benefit vulnerable groups, such as the disabled, often end up benefiting all of society
   
-* **effective altruism**
+* **effective altruism<a name="glossary:effective-altruism">**
   * using empirical analysis to direct resources towards efforts that do the most possible good
   * _anti-malaria efforts, deworming initiatives, and direct cash transfer programs are among the interventions most widely credited with providing the most cost-effective improvement in welfare for the global poor than any other intervention_ 
   * see [GiveWell](https://www.givewell.org/)
 
-* **Global Compact on Refugees (GCR)**
+* **global compact on refugees (GCR)<a name="glossary:GCR"></a>**
   * a 2018 United Nations draft agreement on refugees
 
-* **Global Compact on Safe, Orderly and Regular Migration (GCM)**
+* **global compact on safe, orderly and regular migration (GCM)<a name="glossary:GCM"></a>**
   * a 2018 United Nations agreement about international migration [^wiki_gcm]
 
-* **Housing co-op**
+* **housing cooperative** or **housing co-op<a name="glossary:housing-co-op"></a>**
   * A group of households in a multi-family building, where each household owns a share of the whole building co-op and has the right to occupy a single unit, rather than owning that unit outright. An elected board makes decisions. [^schneider_2019-04-29]
 
-* **Inclusionary Zoning (IZ)**
+* **inclusionary zoning<a name="glossary:inclusionary-zoning"></a>**
   * city zoning restrictions that requires (or incentivizes) private developers to private some portion of the units in a new building at a below market rate
 
-* **induced demand**
+* **induced demand<a name="glossary:induced-demand"></a>**
   * if you add lanes to a freeway, it leads to more trips, not faster trips [^wiki_induced_demand]
 
-* **isochrone map**
+* **isochrone map<a name="glossary:isochrone-map"></a>**
   * a map with concentric isochrone lines around a center location, where all the points on any given line represent places that are equally distant, in terms of travel time, from the center location [^wiki_isochrone]
 
-* **Jevons paradox**
+* **Jevons paradox<a name="glossary:jevons-paradox"></a>**
   * as **X** gets faster (and cheaper), people use more **X** [^wiki_jevons]
 
-* <a name="kinematic"></a>**kinematic**
+* **kinematic<a name="glossary:kinematic"></a>**
   * concerned with the motion of bodies, and their range of motion
 
-* **land value capture**
+* **kinematic range<a name="glossary:kinematic-range"></a>**
+  * TODO: 
+
+* **land value capture<a name="glossary:land-value-capture"></a>**
   * TODO: ???
 
-* **limited equity housing cooperatives**
+* **limited equity housing co-op<a name="glossary:limited-equity-housing-co-op"></a>**
   * TODO: ???
 
-* <a name="glossary:long-tail"></a>**long tail**
+* **long tail<a name="glossary:long-tail"></a>**
   * TODO: ???
  
-* **Marchetti constant**
+* **Marchetti constant<a name="glossary:Marchetti-constant"></a>**
   * People will commute about 30 minutes each way per day
   * <a name="marchetti"></a>The **Marchetti constant** says that **people tend to travel about one hour a day**. The Marchetti constant is named for Cesare Marchetti, although **it was really Yacov Zahavi** who first wrote about it.
   * For people that commute to a job, the average commute is about 30 minutes each way. For people who aren't commuting, it is common to spend about an hour each day on other sorts of trips: chores, errands, appointments, etc. 
@@ -1191,49 +1202,58 @@ TODO: important? consider moving into one of the chapters above?
   > 
   > ... the increase in transportation speed resulting from the marvelous innovations of the past couple of hundred years has not been used to reduce commuting time but instead has been used to increase commuting distances. ... the size of cities has to some degree been determined by the efficiency of their transportation systems for delivering people to their workplaces in not much more than half an hour's time."[^scale] &mdash; Geoffrey West
 
-* **New Urban Agenda (NUA)**
+* **metrics<a name="glossary:metrics"></a>** & **measures<a name="glossary:measures"></a>**
+  * **floor area<a name="glossary:floor-area"></a>** &mdash; the amount of floorspace in a building, including the floorspace on all the different floors of a multi-story building.
+    * **gross floor area<a name="glossary:gross-floor-area"></a>** &mdash; the total [floor area](#glossary:floor-area) of a building, including all the area taken up by lobbies, hallways, elevator shafts, walls, offices, apartments, etc.
+    * **usable floor area<a name="glossary:usable-floor-area"></a>** &mdash; the subset of the [gross floor area](#glossary:gross-floor-area) that could be rented out to be used exclusively by a tenant, or sold for the exclusive use of an owner (for example, a studio apartment, or a dentist's office).
+    * **occupied floor area<a name="glossary:occupied-floor-area"></a>** &mdash; the subset of the [usable floor area](#glossary:usable-floor-area) that is being used, not sitting vacant. 
+    * **circulation area<a name="glossary:circulation-area"></a>** &mdash; for a building, the [floor area](#glossary:floor-area) of a building taken up by hallways, elevator shafts, stairways, and lobbies. (Or, for a city, the additional [land area](#glossary:land-area)  taken up by streets and sidewalks, parking lots, driveways, bus stops, train tracks, etc.)
+  * **floor area ratio (FAR)<a name="glossary:FAR"></a>**
+    * **FAR<sub>parcel</sub><a name="glossary:FAR-parcel"></a>** &mdash; the [floor area ratio](#glossary:FAR) for a building on a parcel, meaning the ratio of [floor area](#glossary:floor-area) to [parcel area](#glossary:parcel-area).
+    * **FAR<sub>overall</sub><a name="glossary:FAR-overall"></a>** &mdash; the [floor area ratio](#glossary:FAR) for a neighborhood of a city, meaning the ratio of the total [floor area](#glossary:floor-area) of all the buildings to the total [land area](#glossary:land-area) of the neighborhood, including all the land area used for streets and sidewalks and parks, as well as the land area of all the [parcel area](#glossary:parcel-area).
+    * **circulation area ratio<a name="circulation-area-ratio"></a>** &mdash; the ratio of the total [circulation area](#glossary:circulation-area) of a city to the total [usable floor area](#glossary:usable-floor-area). In New York City, for typical Manhattan city blocks, the streets and sidewalks take up 30% of the land area, with the remaining 70% available for building parcels. Within an office building, hallways, stairs, and elevators typically take up 30% of the [floor area](#glossary:floor-area) of the building, leaving only the remaining 70% as [usable floor area](#glossary:usable-floor-area).
+  * **GDP per capita**
+  * **kinematic range<sub>t=30_minutes</sub><a name="glossary:KR30"></a>** &mdash; the total amount of [occupied floor area](#glossary:occupied-floor-area) a person could possibly get to in [30 minutes](#marchetti).
+  * **kinematic range (KR)<a name="glossary:KR"></a>** &mdash; the total amount of [occupied floor area](#glossary:occupied-floor-area) a person could possibly get to in some fixed amount of time. KR is a measure of **mobility**, and a measure of the capactiy and efficiency of a transportation network. The KR measure serves a proxy represents the range of destinations that a person can get to. In the real world, a destination would be something like your friend's house, your dentist's office, or a library or coffee shop.
+    * **factors:** kinematic range is a function of lots of different factors:
+      * **_starting location_** &mdash; are you starting at the center of town, or out at the edge?
+      * **_urban density_** &mdash; how many destinations are there per square mile?
+      * **_mode of transport_** &mdash; are you walking, or in a car?
+      * **_encumbrances_** &mdash; do you have a stroller, or a wheelchair?
+      * **_age_**, **_race_**, & **_gender_** &mdash; can you safely take the subway, or do you need to take a cab?
+      * **_time of day_** &mdash; are the trains even running at this hour?
+      * **_traffic congestion_**
+      * **_travel bans_** & **_security checkpoints_** &mdash; are you allowed into that area?
+  * **land area<a name="glossary:land-area"></a>** &mdash; the total size of all the land occupied by a city.
+  * **parcel area<a name="glossary:parcel-area"></a>** &mdash; the size of the lot of land that a house (or other building) is built on.
+  * **population<a name="glossary:population"></a>**
+  * **population density<a name="glossary:population-density"></a>** &mdash; the number of people per [land area](#glossary:land-area). Alternatively, you can also think about density in terms of [floor area](#glossary:floor-area) per person.
+
+* **new urban agenda (NUA)<a name="glossary:NUA"></a>**
   * a 2016 United Nations agreement serving as a guideline for global urban development from 2016 to 2036 [^wiki_habitat_iii]
 
-* **Refugee City**
-  * a proposal for a type of Special Economic Zone (SEZ) for displaced people [^castle-miller]
-  * see also: Sustainable Development Zone (SDZ)
+* **refugee city<a name="glossary:refugee-city"></a>**
+  * a proposal for a type of [special economic zone](#glossary:SEZ) (SEZ) for displaced people [^castle-miller]
+  * see also: [sustainable development zone](#glossary:SDZ) (SDZ)
 
-* **Special Economic Zone (SEZ)**
+* **special economic zone (SEZ)<a name="glossary:SEZ"></a>**
   * a part of a country in which the business and trade laws are different from the rest of the country [^wiki_sez]
   * there have been SEZs since the 1950s, and there are now thousands of SEZs around the world [^mason]
 
-* **Sustainable Development Zone (SDZ)**
+* **sustainable development zone (SDZ)<a name="glossary:SDZ"></a>**
   * a proposal for designated areas that are designed to promote economic development via a combination of governance and physical infrastructure, in economies composed of displaced people [^sustainable_development_zones]
-  * see also: **Refugee City**
+  * see also: [refugee city](#glossary:refugee-city)
 
-* **Tax Increment Financing (TIF)**
+* **tax increment financing (TIF)<a name="glossary:TIF"></a>**
   * special tax districts around targeted redevelopment areas, where future tax revenues are diverted to finance infrastructure improvements or development [^schneider]
 
-* **Urban Consolidation Center (UCC)**
+* **urban consolidation center (UCC)<a name="glossary:UCC"></a>**
   * neighborhood-level freight hubs, place around the edge of a town, where trucks or large vehicles drop off packages to be loaded into small vehicles, like electric cargo bikes, for last-mile delivery
 
 
 
-### <a name="units-of-measure"></a>(4.2) Units of measure
 
-**population** and **land area** are examples of common physical metrics for measuring cities.
 
-**GDP per capita** is an example of an common economic metric.
-
-There are a huge number of metrics that people measure cities by. We're going to ignore most of them, and just focus on the handful that are most important for describing the kinematics of cities. 
-
-* <a name="land-area"></a>**Land Area** is the total size of all the land occupied by a city.
-  * unit: square miles (or square kilometers)
-
-* <a name="parcel-area"></a>**Parcel Area** is the size of the lot of land that a house (or other building) is built on.
-  * unit: square feet (or acres, hectares, or square meters)
-
-* <a name="floor-area"></a>**Floor Area** is the amount of floorspace in a building, including the floorspace on all the different floors of a multi-story building.
-  * unit: square feet (or square meters)
-
-* <a name="population-density"></a>**Population Density** usually means the number of people per [Land Area](#land-area). Alternatively, you can also think about density in terms of [Floor Area](#floor-area) per person.
-  * unit: people per square mile
-  * unit: square feet per person
 
 ```
 TODO: display as graph instead of table?
@@ -1254,7 +1274,7 @@ TODO: display as graph instead of table?
   |         | _For more examples of city densities, check out [DensityAtlas.org](http://densityatlas.org/)._ |  | 
   |---
   
-  
+
 
 <!--
   |---
@@ -1270,12 +1290,6 @@ TODO: display as graph instead of table?
   |   6,080 | Land-rich developed countries            | 4,585 | 426[^bertaud]
   |---
 -->
-
-
-
-* <a name="far-parcel"></a>**FAR<sub>parcel</sub>** is the **Floor Area Ratio** for a building on a parcel, meaning the ratio of [Floor Area](#floor-area) to [Parcel Area](#parcel-area).
-* <a name="far-overall"></a>**FAR<sub>overall</sub>** is the **Floor Area Ratio** for a neighborhood of a city, meaning the ratio of the total [Floor Area](#floor-area) of all the buildings to the total [Land Area](#land-area) of the neighborhood, including all the land area used for streets and sidewalks and parks, as well as the land area of all the [Parcel Area](#parcel-area).
-  * unit: square feet per square feet (or square meters per square meters)
 
 
 ```
@@ -1294,48 +1308,6 @@ TODO: display as graph instead of table?
   |                   |        | _For more FAR examples, check out [DensityAtlas.org](http://densityatlas.org/)._ |  | 
   |---
 
-* <a name="gross-area"></a>**Gross Floor Area** is the total floor area of a building, including all the area taken up by lobbies, hallways, elevator shafts, walls, offices, apartments, etc.
-  * unit: square feet (or square meters)
-
-* <a name="usable-area"></a>**Usable Floor Area** is an area of a building, such as a studio apartment or dentist's office, that could be rented out to be used exclusively by a tenant, or sold for the exclusive use of an owner. 
-  * unit: square feet (or square meters)
-
-* <a name="circulation-area"></a>**Circulation Area** for a building is an area of a building taken up by hallways, elevator shafts, stairways, and lobbies. 
-* **Circulation Area** for a city also includes the land area taken up by streets and sidewalks, parking lots, driveways, bus stops, train tracks, etc.
-  * unit: square feet (or square meters)
-
-* <a name="circulation-area-ratio"></a>**Circulation Area Ratio** for a city is the ratio of the total [Circulation Area](#circulation-area) to the total [Usable Floor Area](#usable-area). In New York City, for typical Manhattan city blocks, the streets and sidewalks take up 30% of the land area, with the remaining 70% available for building parcels. Within an office building, hallways, stairs, and elevators typically take up 30% of the [Floor Area](#floor-area) of the building, leaving only the remaining 70% as [Usable Floor Area](#usable-area).
-  * unit: square feet per square feet (or square meters per square meters)
-
-* <a name="journey-distance"></a>**D<sub>j</sub>** is a **Journey Distance**, meaning total length of the path taken by a person (or package) as they travel from point A to point B in a building or in a city.
-  * unit: feet (or meters, kilometers, or miles)
-
-* <a name="journey-time"></a>**T<sub>j</sub>** is a **Journey Time**, meaning the total length of the time it takes for a person (or package) to travel from point A to point B in a building or in a city.
-  * unit: minutes
-
-* <a name="journey-cost"></a>**$<sub>j</sub>** is a **Journey Cost**, meaning the total dollar cost of a trip, including any tolls, train fares, vehicle purchase costs, insurance payments, parking fees, etc.
-  * unit: dollars
-
-* <a name="kinematic-range"></a>**Kinematic Range<sub>t=30_minutes</sub>** is the total amount of [Floor Area](#floor-area) a person could possibly get to in a given [Journey Time](#journey-time), such as [30 minutes](#marchetti).
-  * units: square feet as of minute (or square meters as of second)
-
-**Kinematic range** is a measure of **mobility**. It's a measure of the capactiy and efficiency of a transportation network. Good mobility is more important than it sounds. It's not just about making rush-hour traffic a little less tiresome. Good mobility actually has significant implications for:
-  * job opportunities
-  * affordable housing
-  * economic growth & prosperity
-  * social prosperity
-
-**Kinematic range** is measured in occupied [Floor Area](#floor-area), but it really represents the range of destinations that a person can get to. In the real world, a destination would be something like your friend's house, your dentist's office, or a library or coffee shop.
-
-  * **factors:** kinematic range is a function of lots of different factors:
-    * **_starting location_** &mdash; are you starting at the center of town, or out at the edge?
-    * **_urban density_** &mdash; how many destinations are there per square mile?
-    * **_mode of transport_** &mdash; are you walking, or in a car?
-    * **_encumbrances_** &mdash; do you have a stroller, or a wheelchair?
-    * **_age_**, **_race_**, & **_gender_** &mdash; can you safely take the subway, or do you need to take a cab?
-    * **_time of day_** &mdash; are the trains even running at this hour?
-    * **_traffic congestion_**
-    * **_travel bans_** & **_security checkpoints_** &mdash; are you allowed into that area?
 
 
 
