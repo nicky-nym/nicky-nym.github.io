@@ -1003,9 +1003,15 @@ TODO: display this as a graph instead of a table?
   > &mdash; Alain Bertaud
 
   > "High-tech invention is extraordinarily concentrated in just a handful of cities. ... The top 10 city-regions account for nearly 60 percent of inventors in biology, chemistry and medicine, with greater New York and the San Francisco Bay Area accounting for more than 10 percent each. Seventy percent of inventors in computer science are in the top 10 regions; the Bay Area alone has more than one-quarter of them. And the top 10 regions account for almost 80 percent of inventors in semiconductors, with one-quarter again in the Bay Area and another 15 percent in greater New York." ... "This clustering of inventors has only increased over time, growing by about five percentage points for biology, chemistry, and medicine, 15 percentage points for computer science, and about 20 percentage points for semiconductors between 1971 and 2007."[^florida]
-  
+
+```
+TODO: important? consider moving into one of the chapters above?
+```
   > "The study finds that when inventors move from a smaller to a large cluster, they experience increases in both the number of patents they generate and the impact of those patents, based on their subsequent citations. For example, a computer scientist who moves from the median cluster to a cluster at the 75th percentile in size would experience a 12 percent increase in productivity, while an inventor in biology and chemistry doing the same would see an 8.4 percent productivity gain. Overall, a just a 10 percent increase in the size of a cluster leads to a 0.66 percent increase in the number of patents produced by a top inventor each year."[^florida]
 
+```
+TODO: important? consider moving into one of the chapters above?
+```
   > "Third, the clustering of high-tech inventors brings real benefits to the American economy as a whole. ... [Enrico Moretti] estimates that the U.S. would produce about 11 percent fewer patents each year under such a scenario. The country would see a roughly 15 percent annual decline in semiconductor patents, a 13 percent decline in computer science, and a 10 percent decline in biology and chemistry, if the geography of inventors was more equal."[^florida]
 
 
@@ -1164,6 +1170,10 @@ There are a huge number of metrics that people measure cities by. We're going to
   * unit: people per square mile
   * unit: square feet per person
 
+```
+TODO: display as graph instead of table?
+```
+
   |---
   | People per<br>square mile | City | Land area<br>square feet<br>per person 
   |-:|:-|-:|
@@ -1202,6 +1212,10 @@ There are a huge number of metrics that people measure cities by. We're going to
 * <a name="far-overall"></a>**FAR<sub>overall</sub>** is the **Floor Area Ratio** for a neighborhood of a city, meaning the ratio of the total [Floor Area](#floor-area) of all the buildings to the total [Land Area](#land-area) of the neighborhood, including all the land area used for streets and sidewalks and parks, as well as the land area of all the [Parcel Area](#parcel-area).
   * unit: square feet per square feet (or square meters per square meters)
 
+
+```
+TODO: display as graph instead of table?
+```
   |---
   | FAR<sub>parcel</sub> | FAR<sub>overall</sub> | Place
   |-:|-:|:-
@@ -1240,6 +1254,23 @@ There are a huge number of metrics that people measure cities by. We're going to
 * <a name="kinematic-range"></a>**Kinematic Range<sub>t=30_minutes</sub>** is the total amount of [Floor Area](#floor-area) a person could possibly get to in a given [Journey Time](#journey-time), such as [30 minutes](#marchetti).
   * units: square feet as of minute (or square meters as of second)
 
+**Kinematic range** is a measure of **mobility**. It's a measure of the capactiy and efficiency of a transportation network. Good mobility is more important than it sounds. It's not just about making rush-hour traffic a little less tiresome. Good mobility actually has significant implications for:
+  * job opportunities
+  * affordable housing
+  * economic growth & prosperity
+  * social prosperity
+
+**Kinematic range** is measured in occupied [Floor Area](#floor-area), but it really represents the range of destinations that a person can get to. In the real world, a destination would be something like your friend's house, your dentist's office, or a library or coffee shop.
+
+  * **factors:** kinematic range is a function of lots of different factors:
+    * **_starting location_** &mdash; are you starting at the center of town, or out at the edge?
+    * **_urban density_** &mdash; how many destinations are there per square mile?
+    * **_mode of transport_** &mdash; are you walking, or in a car?
+    * **_encumbrances_** &mdash; do you have a stroller, or a wheelchair?
+    * **_age_**, **_race_**, & **_gender_** &mdash; can you safely take the subway, or do you need to take a cab?
+    * **_time of day_** &mdash; are the trains even running at this hour?
+    * **_traffic congestion_**
+    * **_travel bans_** & **_security checkpoints_** &mdash; are you allowed into that area?
 
 
 
