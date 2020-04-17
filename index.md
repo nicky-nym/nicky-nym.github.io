@@ -132,7 +132,7 @@ h3 {
         <ul>
           <li><a href="#kinematic_range">Kinematic range</a></li>
           <li><a href="#why-does-it-matter">Why does kinematic range matter?</a></li>
-          <li><a href="#dividend">15% dividend per doubling?</a></li>
+          <li><a href="#dividend">15% dividend per doubling</a></li>
           <li><a href="#existing-cities">The kinematics of existing cities</a></li>
           <li><a href="#impossible">The "Impossible city" design proposal</a></li>
        </ul>
