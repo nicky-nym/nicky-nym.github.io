@@ -638,7 +638,6 @@ If you're building from scratch, then with a few good design choices it should b
 | **limit mobility** of kids, elders, and people with disabilities |  |  |
 | **not quickly alterable**<br>making one significant change can take decades |  |  |
 | **not cheaply alterable**<br>it is staggeringly expensive to add subways or highways to an existing city |  |  |
-| are **too few and too small**, by a factor of two, for everyone who will live in them by 2050 | 
 
 
 
@@ -722,7 +721,7 @@ TODO: when new cities are being built from scratch, or when new suburbs or satel
 
 In the next 30 years, **by 2050**, we expect another **2.5 billion more people** to be living in cities.[^growth]
 
-To handle the influx, cities will build another **2.5 trillion square feet** of new buildings. These numbers can be hard to believe at first. For different projects by different authors, see the [notes about urban growth](#growth) below.
+Existing cities are **too few and too small**, by a factor of two, for everyone who will live in them by 2050. To handle the influx, cities will build another **2.5 trillion square feet** of new buildings. These numbers can be hard to believe at first. For different projects by different authors, see the [notes about urban growth](#growth) below.
 
 ```
 TODO: important quote?
