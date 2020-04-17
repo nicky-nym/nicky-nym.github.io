@@ -759,6 +759,46 @@ TODO: when new cities are being built from scratch, or when new suburbs or satel
 TODO: more here about land value & lost opportunties
 ```
 
+### <a name="kinematic-windfall"></a>Kinematic windfall
+
+This next section is conjectural, so please evaluate it more skeptically.
+
+[Kinematic range](#kinematic-range) almost always increases as cities get bigger. I believe that increase in kinematic range is what drives the [15% superlinear scaling](#superlinear) effect.
+
+```
+TODO: important quote?
+```
+> Prud'homme and Lee's paper, titled "Size, Sprawl, Speed and the Efficiency of Cities," shows that productivity per worker is closely correlated to the average number of jobs per worker that are reachable in less than 60 minutes. In Korean cities, a 10 percent increase in the number of jobs accessible per worker corresponds to a 2.4 percent increase in workers' productivity.[^bertaud]
+
+As a city grows, at first, kinematic range increases as population increases, perhaps in a roughly linear relationship. Unfortunately, as cities get too big, they start to sprawl and suffer from traffic congestion. Eventually, there's a **kinematic lag**, where the kinematic range stops its 1-to-1 tracking of population growth, and begins to lag behind.
+
+This whole kinematic cities proposal is all about trying to reduce that kinematic lag in larger cities. The proposed kinematic city design is an attempt to keep increasing a city's kinematic range even as its population grows in the millions.
+
+Take the **San Francisco Bay Area** as an example. The Bay Area is a conurbation that encompasses major cities like San Francisco and San Jose, as well as lots of smaller cities, like Oakland, Berkeley, and Mountain View. The entire population is about 8 million people, depending where you draw the boundaries. 
+
+If you estimate floorspace at about 600 square feet per person, that means there's about 5 billion square feet of floorspace in the Bay Area. Your **KR<sub>30</sub>** would be **5 billion square feet**, if you could magically get from any point in the area to any other point in under 30 minutes. But you can't.
+
+As a rough estimate, let's say that from any room in any random building in the Bay Area, within 30 minutes you can reach about one quarter of the other buildings in the Bay Area. That means your actual **KR<sub>30</sub>** would be about **1.25 billion square feet**.
+
+If we could just improve your travel times, we could quadruple your KR<sub>30</sub> range. If kinematic range is in fact what drives the [15% superlinear scaling](#superlinear) effect, then doubling the KR<sub>30</sub> for the Bay Area would yield a 15% windfall in average hourly wages, patents per capita, GDP, etc. Doubling KR<sub>30</sub> gets you a 15% windfall, and quadrupling gets you **a 30% windfall** (actually more like 32%, because 1.15^2 is 1.3225).
+
+The San Francisco Bay Area GDP was about $535 billion in 2019.[^facc]  A 30% increase would be an **additional $160 billion annual GDP**.
+
+Is it conceivable that the Bay Area could be re-engineered to quadruple travel ranges? Yes, but it would require a lot of changes: maybe a hyperloop, or a lot of Boring Company tunnels. It would be expensive, and it would take decades. For example:
+  * the 2013 Bay Bridge Eastern Span, from San Francisco to Oakland, took over a decade to build and cost $7 billion
+  * the 1976 BART system was a comparable amount, if measured in today's dollars
+  * the 2006 Big Dig in Boston cost $21 billion
+
+Building from scratch has its own challenges, and is also crazy expensive, but it does have the advantage that it can be done much more quickly.
+
+> "If you build a new city you don't have to relocate or work 
+> around existing roads or rivers or factories or houses. 
+> You also don’t have to work around existing political processes, 
+> community groups, civic organisations ... or even existing 
+> regulations and rules."[^growth]
+> &mdash; John Macomber, senior lecturer, Harvard Business School.
+
+
 
 
 
