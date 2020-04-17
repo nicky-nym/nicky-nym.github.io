@@ -530,6 +530,16 @@ TODO:
 
 If you're building from scratch, then with a few good design choices it should be possible to build an urban layout that **works far better** than normal conventional cities do.
 
+<ul>
+  <li><a href="#greener">Greener & cleaner</a></li>
+  <li><a href="#resilient">More resilient, durable & reliable</a></li>
+  <li><a href="#freedom">More free, fair & friendly</a></li>
+  <li><a href="#economic-prosperity">More economic prosperity</a></li>
+  <li><a href="#social-prosperity">More social prosperity</a></li>
+  <li><a href="#affordability">More affordable</a></li>
+  <li><a href="#safer">Safer & healthier</a></li>
+  <li><a href="#convenience">More convenience & more possibilities</a></li>
+</ul>
 
 ### <a name="greener"></a>Greener & cleaner
 
