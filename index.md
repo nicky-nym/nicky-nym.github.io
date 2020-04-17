@@ -385,7 +385,8 @@ TODO: add a graph illustrating 15% doubling
 ```
 TODO: comparison of public transit in Singapore vs. cars in Dallas-Fort Worth. (See Velotopia page 44.) 
 ```
-Existing cities work hard, and spend billions, to try to incrementally improve mobility and kinematic range.
+
+Existing cities, all over the world, have serious traffic congestion problems, despite spending billions on transit projects and on widening roads, in efforts to incrementally improve mobility and kinematic range. As cities grow and economies grow, the congestion problems just get worse.
 
 Cities can improve kinematic range by **moving more people** or **moving people faster**
   * **public transit projects**
@@ -409,15 +410,11 @@ Someday, in the future, cities might also be able to improve kinematic range by 
   * **flying cars**
 
 
-### <a name="better"></a>Could we do better?
-
-Existing cities, all over the world, have serious traffic congestion problems, despite spending billions on transit projects and on widening roads. As cities grow and economies grow, the congestion problems just get worse.
-
 ### <a name="transit_vs_cars"></a>Transit vs. cars
 
 Here in the United States, in discussions about urban planning and transporation, many people fall into one of two opposing camps:
 
-  * **pro-transit people** , who want to see
+  * **pro-transit people**, who want to see
     * fewer cars on the road
     * less space set aside for parking
     * more bike lanes and bus lanes
@@ -427,28 +424,20 @@ Here in the United States, in discussions about urban planning and transporation
     * do now want to pay the huge costs of creating and operating public transit systems
     * do not want to take slow, inconvenient, public transit options when they could just drive
 
-### <a name="self_driving"></a>Self-driving cars & delivery drones
-
 In addition to the **pro-transit** camp and the **pro-status-quo** camp, there's also a third camp, of people who are optimistic about new technologies for **automated, on-demand transporation**, like self-driving cars and delivery drones. 
 
 **Proponents** of shared, self-driving cars point to advantages like the greatly reduced need for parking compared to conventional cars, yet the convenience of direct door-to-door routes.
 
 **Opponents** of self-driving cars point to inherently low throughput-per-lane numbers for cars vs. buses and trains, and the real-world congestion problems that we're already seeing from on-demand car-share services like Lyft and Uber.
 
-### <a name="micromobility"></a>Scooters & micromobility
 
-Cities around the world are experimenting with whole range of other new transportation options, from dockless rental scooters to designated bike-share stations. The advent of electric bikes and electric scooters also opens new possibilities.
-
-### <a name="best"></a>The best we could do...
+### <a name="impossible"></a>The "Impossible city" design proposal
 
 Given what we know about the cost and throughput of cars, buses, and rail, and given what we know about the emerging new alternatives, what's the best we could possibly do?
 
 If we could plan a whole urban transporation network from scratch, what's the optimal mix of different transit modes? Which options are the most affordable, and which ones maximize personal mobility, speedy deliveries, and kinematic range?
 
 What follows is a design proposal for what I believe is a **simple**, **cheap**, **reliable**, **low-risk** transportation network that has **high throughput**, good **transit speed**, nearly **door-to-door** convenience, and takes up less space than roads, leaving more **land area** for parks and buildings.
-
-
-### <a name="impossible"></a>The "Impossible city" design proposal
 
 The **Impossible city** is just one simple design for a more Kinematic city. I'm not suggesting that this is the best design; rather, I'm putting it out as a *straw-man* proposal, in hopes that it might be a step in the right direction, and that it might spark conversation that leads to better ideas.
 
