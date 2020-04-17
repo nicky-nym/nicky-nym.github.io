@@ -165,6 +165,7 @@ h3 {
         <ul>
           <li><a href="#rules-of-thumb">Rules of thumb</a></li>
           <li><a href="#glossary">Glossary</a></li>
+          <li><a href="#further-reading">Further reading</a></li>
           <li><a href="#source-material">Source material</a></li>
           <li><a href="#notes" class="minor">Author's notes to self</a></li>
           <li><a href="#references">References</a></li>
@@ -1080,6 +1081,27 @@ TODO: important? consider moving into one of the chapters above?
     * If you add lanes to a freeway, it leads to more trips, not faster trips 
     * <a name="induced-demand"></a>**Induced demand** says that as the supply of a resource increases, more of it will be consumed. If you add a new lane to a congested highway, it does not reduce congestion, but instead increases the total number of trips made. Induced demand might be better described as **latent demand**. The demand was actually there all along, there was just a lack of supply to meet the demand. The concept of induced demand is often used as an argument against increasing roadway traffic capacity. I think this is misguided. The existance of latent demand is a sign that we should be striving to increase the supply of transportation capacity, and increase [Kinematic Range](#kinematic-range).[^wiki_induced_demand]
 
+
+
+
+
+
+
+
+
+
+
+## <a name="further-reading"></a><span class="chapter">Further Reading</span>
+
+* _[Carfree Cities](http://www.carfree.com/book/)_, by J.H. Crawford
+
+* _[Order without Design](https://mitpress.mit.edu/books/order-without-design): How Markets Shape Cities_, by Alain Bertaud
+
+* _[Scale](https://www.penguinrandomhouse.com/books/314049/scale-by-geoffrey-west/)_, by Geoffrey West
+
+* _[Velotopia](https://www.nai010.com/en/publicaties/velotopia/130528)_, by Steven Fleming
+
+* _[Urban Bikeway Design Guide](https://nacto.org/publication/urban-bikeway-design-guide/)_, and the [other street design guides](https://nacto.org/publications/design-guides/), by the The National Association of City Transportation Officials (NACTO)
 
 
 
