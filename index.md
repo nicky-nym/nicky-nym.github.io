@@ -142,14 +142,14 @@ h3 {
       <details>
         <summary><a href="#3">3. Bonus features beyond mobility</a></summary>
         <ul>
-          <li><a href="#greener">Greener & cleaner</a></li>
-          <li><a href="#resilient">More resilient, durable & reliable</a></li>
-          <li><a href="#freedom">More free, fair & friendly</a></li>
-          <li><a href="#economic-prosperity">More economic prosperity</a></li>
-          <li><a href="#social-prosperity">More social prosperity</a></li>
-          <li><a href="#affordability">More affordable</a></li>
-          <li><a href="#safer">Safer & healthier</a></li>
-          <li><a href="#convenience">More convenience & more possibilities</a></li>
+          <li><a href="#greener">greener & cleaner</a></li>
+          <li>more <a href="#resilient">resilient, durable & reliable</a></li>
+          <li>more <a href="#freedom">free, fair & friendly</a></li>
+          <li>more <a href="#economic-prosperity">economic prosperity</a></li>
+          <li>more <a href="#social-prosperity">social prosperity</a></li>
+          <li>more <a href="#affordability">affordable</a></li>
+          <li><a href="#safer">safer & healthier</a></li>
+          <li>more <a href="#convenience">convenience & more possibilities</a></li>
         </ul>
       </details>
     </div>
@@ -531,14 +531,14 @@ TODO:
 If you're building from scratch, then with a few good design choices it should be possible to build an urban layout that **works far better** than normal conventional cities do.
 
 <ul>
-  <li><a href="#greener">Greener & cleaner</a></li>
-  <li><a href="#resilient">More resilient, durable & reliable</a></li>
-  <li><a href="#freedom">More free, fair & friendly</a></li>
-  <li><a href="#economic-prosperity">More economic prosperity</a></li>
-  <li><a href="#social-prosperity">More social prosperity</a></li>
-  <li><a href="#affordability">More affordable</a></li>
-  <li><a href="#safer">Safer & healthier</a></li>
-  <li><a href="#convenience">More convenience & more possibilities</a></li>
+  <li><a href="#greener">greener & cleaner</a></li>
+  <li>more <a href="#resilient">resilient, durable & reliable</a></li>
+  <li>more <a href="#freedom">free, fair & friendly</a></li>
+  <li>more <a href="#economic-prosperity">economic prosperity</a></li>
+  <li>more <a href="#social-prosperity">social prosperity</a></li>
+  <li>more <a href="#affordability">affordable</a></li>
+  <li><a href="#safer">safer & healthier</a></li>
+  <li>more <a href="#convenience">convenience & more possibilities</a></li>
 </ul>
 
 ### <a name="greener"></a>Greener & cleaner
