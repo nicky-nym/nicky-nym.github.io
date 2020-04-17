@@ -6,10 +6,10 @@ This paper outlines a summer 2020 design proposal for building car-free cities.
   * This proposal hinges on a re-design of what a city street looks like, to try to get less congestion, twice the average speed, and twice the total throughput (compared to, say, Manhattan New York). See <a href="#1">chapter 1</a>.
 2. **Mobility for prosperity, not for speed**
   * The main goal of the new design is to increase urban mobility. However, non-intuitively, the benefit is **not** faster commutes, but is instead higher wages & more social opportunities, as well as higher land values & better investment return rates. See <a href="#2">chapter 2</a>.
-3. **Beyond mobility &mdash; better working cities & better outcomes**
+3. **Beyond mobility &mdash; better cities & better outcomes**
   * The main goal is better mobility, but the design has a variety of other potential upsides. Cities like this should be greener, cleaner, fairer, safer, simpler, and more reliable & resilient. See <a href="#3">chapter 3</a>.
 4. **This matters now**
-  * This is an important area of study right now, because there's about to be a huge influx of urban population, and a huge increase in urban construction. The construction of buildings will happen no matter what, so it would be good to try to do it in conjunction with the construction of modern transporation networks, rather than just repeating what was done in past decades. See <a href="#4">chapter 4</a>.
+  * This is an important area for study & discussion right now, because there's about to be a huge influx of urban population, and a huge increase in urban construction. The construction of buildings will happen no matter what, so it would be good to try to do it in conjunction with the construction of modern transporation networks, rather than just repeating what was done in past decades. See <a href="#4">chapter 4</a>.
 5. **This requires better funding models & better value capture agreements**
   * Construction is **_very_** expensive. In order to fund the huge amount of construction required for new transportation networks, we need to get much better at **land value capture**. We need to set up reliable "fiscal engines" that can robustly recover the value created on each development project and reinvest it quickly on the next project. See <a href="#5">chapter 5</a>.
 
@@ -368,7 +368,7 @@ This 15% superlinear growth seems to apply to the whole physical and social meta
   * **AIDS cases**
   * **crime**
   * **restaurants**
-  * **diversity of business services** available (meaning, how long the "[long tail](/glossary#long-tail)" of the city is)
+  * **diversity of business services** available (meaning, how long the "[long tail](#glossary:long-tail)" of the city is)
 
 ```
 TODO: add a graph illustrating 15% doubling
@@ -490,6 +490,16 @@ Cars **truly are** fast when they're on highways, but in cities cars are hugely 
 
 Buses and trains **truly are** high-capacity and high-throughput when everyone on them is going from point A to point B. If you have a group of 50 people who are all gathered together (e.g., at a hotel) and who all need to go to the exact same place (e.g., an office or work site) at the same time, then a bus is a wonderfully efficient and effective choice. But in a city, if people are starting from a variety of different places (different apartment buildings on different blocks), and going to a variety of different places (schools, stores, offices), then buses turn out to have quite poor average throughput.
 
+```
+TODO:
+* <a name="feedback-loops"></a>**Feedback loops** will cause either vicious cycles and virtuous cycles in the amount of land area required for roads or other transportation networks.
+  * Suburban vicious cycle
+    * Suburban sprawl  ➔  longer roads  ➔  more circulation overhead
+  * Urban virtuous cycle
+    * Dense urban core  ➔  shorter distances  ➔  less overhead
+```
+
+
 
 ### <a name="how"></a>How do you know this is better?
 
@@ -604,25 +614,25 @@ If you're building from scratch, then with a few good design choices it should b
   - gyms & laundromats
   - dentists & doctors
   - libraries & museums
-  - long tail destinations (aka _That One Unusual Thing_ that most people wouldn't care about, but that you really want to go to)
+  - [long tail](#glossary:long-tail) destinations (aka _That One Unusual Thing_ that most people wouldn't care about, but that you really want to go to)
     - a monthly Renaissance Faire meetup
     - a weekly Burning Man art car workshop
     - a maker space with an Atomic Force Microscope
     - etc.
 
-* **Airiness**
+* **Airiness.**
   - nearby parks and trees
   - fresh air
   - sunlight
 
-* **Resiliency** Cities should be designed to be resilient after natural disasters and other emergencies. For example, it should be possible to evacuate a building quickly even when the power is out. And it should be safe to quickly reopen as many buildings as possible after an earthquake, hurricane, or flood. These are goals that can be furthered by simply avoiding "fragile" technologies, like elevators, and traffic lights. 
+* **Resiliency.** Cities should be designed to be resilient after natural disasters and other emergencies. For example, it should be possible to evacuate a building quickly even when the power is out. And it should be safe to quickly reopen as many buildings as possible after an earthquake, hurricane, or flood. These are goals that can be furthered by simply avoiding "fragile" technologies, like elevators, and traffic lights. 
 
   > "Resiliency is the ability to bounce back better, but also the ability to not have to bounce back as much." 
   > &mdash; Sylvester Wong, Vice President of AECOM[^new-clark]
 
   > "Because its location and design were deliberately chosen to withstand natural calamities, New Clark City will serve as the government’s continuity hub, disaster and risk recovery center – an alternative capital city in case a disaster strikes Manila"[^new-clark]
 
-* **Durability** & **Reliability** Make infrastructure durable and easy to maintain.
+* **Durability** & **Reliability.** Make infrastructure durable and easy to maintain.
 
   > "even when a [New York City subway] station has an elevator, workers have struggled to keep them working properly. Only about 94 percent of elevators were available in August, according to the transit agency. The rate is worse for escalators -- 87 percent were working." [^fitzsimmons]
 
@@ -739,6 +749,11 @@ If you're building from scratch, then with a few good design choices it should b
 In the next 30 years, **by 2050**, we expect another **2.5 billion more people** to be living in cities.[^growth]
 
 To handle the influx, cities will build another **2.5 trillion square feet** of new buildings. These numbers can be hard to believe at first. For different projects by different authors, see the [notes about urban growth](#growth) below.
+
+```
+TODO: when new cities are being built from scratch, or when new suburbs or satellite cities are being developed, planners should consider designing them as "kinematic cities" 
+```
+
 
 ```
 TODO: more here about land value & lost opportunties
@@ -955,12 +970,67 @@ Building a kinematic city would take a long time and lot of resources. A minimum
     * There are often economies of scale in the infrastructure of big cities (or at least, economies of density). 
     * If a city doubles in population size, meaning it grows by 100%, parts of the supporting infrastructure tend to only grow by 85%. This is tends to be true for networks of roads, electrical cables, and municipal sewers and water pipes.
 
-  * TODO: **Some aspects of a city scale super-linearly.**
-    *
-  * TODO: **Jevons paradox**
-    * as **X** gets faster (and cheaper), people use more **X** [^wiki_jevons]
-  * TODO: **induced demand**
-    * if you add lanes to a freeway, it leads to more trips, not faster trips [^wiki_induced_demand]
+* <a name="superlinear"></a>**15% superlinear scaling** is the phenomenon where if a city population grows by 100% (meaning it doubles in population size), then the economy of the city tends to grow by about 115% (meaning it **more than doubles** in size), so that there is effectively a 15% "bonus" in per-capita economic output for everyone in the city.[^scale] This 15% superlinear growth seems to apply to the whole physical and social metabolism of the city, rather than just the economic aspects of the city. The 15% surplus shows up in statistics about:
+  * wages
+  * wealth
+  * patents
+  * AIDS cases
+  * crime
+  * restaurants
+  * variety of business services available (meaning, how long the "long tail" of the city is)
+
+  > "... it's illuminating to ask how many different types of businesses there are in a city. ... The data confirm that diversity systematically increases with poplution size. ... an extrapolation of the data strongly suggests that if we could measure diversity to the finest possible resolution it would scale logarithmically with city size."[^scale] &mdash; Geoffrey West
+
+```
+TODO: label this as an example, not as observed data!
+TODO: display this as a graph instead of a table?
+```
+  |---
+  | City Population | Average Hourly Wage | Superlinear Scale Factor |
+  |-:|:-:|:-:
+  | 40,000 | $16 | (-15%)^4 below $28
+  | 80,000 | $18 | (-15%)^3 below $28
+  | 160,000 | $21 | (-15%)^2 below $28
+  | 320,000 | $24 | -15% below $28
+  | 640,000 | **$28** | **100% average**
+  | 1.25 million | $32 | +15% above $28
+  | 2.5 million | $37 | (+15%)^2 above $28
+  | 5 million | $43 | (+15%)^3 above $28
+  | 10 million | $49 | (+15%)^4 above $28
+  |---
+
+  > Economic literature linking the wealth of cities to spatial concentrations is quite abundant and is no longer controversial in academic circles. ... The 2009 World Bank Development Report "Reshaping Economic Geography," and the report of the Commission on Growth and Development "Urbanization and Growth" (published the same year) exhaustively summarize and document the theoretical and empirical arguments justifying the economic advantage provided by the spatial concentration of economic activities in large cities.[^bertaud]
+  > &mdash; Alain Bertaud
+
+  > "High-tech invention is extraordinarily concentrated in just a handful of cities. ... The top 10 city-regions account for nearly 60 percent of inventors in biology, chemistry and medicine, with greater New York and the San Francisco Bay Area accounting for more than 10 percent each. Seventy percent of inventors in computer science are in the top 10 regions; the Bay Area alone has more than one-quarter of them. And the top 10 regions account for almost 80 percent of inventors in semiconductors, with one-quarter again in the Bay Area and another 15 percent in greater New York." ... "This clustering of inventors has only increased over time, growing by about five percentage points for biology, chemistry, and medicine, 15 percentage points for computer science, and about 20 percentage points for semiconductors between 1971 and 2007."[^florida]
+  
+  > "The study finds that when inventors move from a smaller to a large cluster, they experience increases in both the number of patents they generate and the impact of those patents, based on their subsequent citations. For example, a computer scientist who moves from the median cluster to a cluster at the 75th percentile in size would experience a 12 percent increase in productivity, while an inventor in biology and chemistry doing the same would see an 8.4 percent productivity gain. Overall, a just a 10 percent increase in the size of a cluster leads to a 0.66 percent increase in the number of patents produced by a top inventor each year."[^florida]
+
+  > "Third, the clustering of high-tech inventors brings real benefits to the American economy as a whole. ... [Enrico Moretti] estimates that the U.S. would produce about 11 percent fewer patents each year under such a scenario. The country would see a roughly 15 percent annual decline in semiconductor patents, a 13 percent decline in computer science, and a 10 percent decline in biology and chemistry, if the geography of inventors was more equal."[^florida]
+
+
+  
+* <a name="sublinear"></a>**15% economies of scale** is the phenomenon where if a city population grows by 100% (meaning it doubles in population size), then the network of roads, electrical cables, and other supporting infrastructure of the city tends to grow by about 85% (meaning it **less than doubles** in size), so that there is effectively a 15% "bonus" economy of scale, both economically and environmentally.[^scale] 
+
+  > "Once one starts to think about (the causes of economic growth),
+  > it is hard to think about anything else."
+  > &mdash; Robert Lucas, Nobel laureate in Economics 
+
+* <a name="zoning"></a>**TODO: need a name for these notes on zoning, scale, etc.** 
+
+  > In a paper published in 2015, the economists Chang-Tai Hsieh and Enrico Moretti found that, between 1964 and 2009, the high cost of housing in some US cities relative to wages had lowered aggregate US GDP by 13.5 percent: "Most of the loss was likely caused by increased constraints to housing supply in high productivity cities like New York, San Francisco and San Jose. Lowering regulatory constraints in these cities to the level of the median city would expand their work force and increase U.S. GDP by 9.5%.[^bertaud]
+
+  > City clusters already exist of course, like the Randstad in the Netherlands, which links Amsterdam, Rotterdam, The Hague, and Utrecht. The urban development around San Francisco Bay could also be considered a city cluster. What is different with the Chinese concept of cluster is their scale. The Randstad connects only 7 million people, while San Francisco Bay (including Silicon Valley) has only 6.2 million people. By contrast, the urban cluster of the Pearl River Delta already had 65 million people in 2010, larger than the entire population of the United Kingdom but concentrated on less than 10,000 square kilometers! The recent urban cluster including Beijing-Tianjin-Hebei links together more than 105 million people.[^bertaud]
+
+
+
+  * <a name="jevons"></a>**Jevons paradox**
+    * The or Jevons effect, says that if it becomes possible to use a resource more and more efficiently, then instead of using less of the resource, people actually use more. Total consumption increases because demand increases as efficiency drives the costs down.
+
+  * <a name="induced-demand"></a>**Induced demand**
+    * If you add lanes to a freeway, it leads to more trips, not faster trips 
+    * <a name="induced-demand"></a>**Induced demand** says that as the supply of a resource increases, more of it will be consumed. If you add a new lane to a congested highway, it does not reduce congestion, but instead increases the total number of trips made. Induced demand might be better described as **latent demand**. The demand was actually there all along, there was just a lack of supply to meet the demand. The concept of induced demand is often used as an argument against increasing roadway traffic capacity. I think this is misguided. The existance of latent demand is a sign that we should be striving to increase the supply of transportation capacity, and increase [Kinematic Range](#kinematic-range).[^wiki_induced_demand]
+
 
 
 
@@ -1033,7 +1103,22 @@ Building a kinematic city would take a long time and lot of resources. A minimum
   * TODO: ???
  
 * **Marchetti constant**
-  * people will commute about 30 minutes each way per day
+  * People will commute about 30 minutes each way per day
+  * <a name="marchetti"></a>The **Marchetti constant** says that **people tend to travel about one hour a day**. The Marchetti constant is named for Cesare Marchetti, although **it was really Yacov Zahavi** who first wrote about it.
+  * For people that commute to a job, the average commute is about 30 minutes each way. For people who aren't commuting, it is common to spend about an hour each day on other sorts of trips: chores, errands, appointments, etc. 
+
+  > In the United States in 2013, commuting trips represented only 20 percent of weekday urban trips, 28 percent of vehicle kilometers traveled, and 39 percent of public transport passenger-kilometer traveled.[^bertaud]
+  
+  The one-hour number seems to be surprizingly consistent across different cities in different centuries, different cultures, and different continents, regardless of the different modes of travel used to commute. The one-hour constant is believed to have held true in:
+  + Ancient Rome
+  + Medieval Paris
+  + Victorian London — steam train
+  + New York — subway
+  + Los Angles — car 
+
+  > "Using data from cities across several countries, including the United States, England, Germany, and some developing nations, [Yacov] Zahavi discovered the surprising result that the total amount of time an average individual spends on travel each day is approximately the same regardless of the city size or the mode of transportation. ... we tend to spend about an hour each day traveling, whoever and wherever we are. ... the average commute time from home to work is about half an hour each way independent of the city or the means of transportation.
+  > 
+  > ... the increase in transportation speed resulting from the marvelous innovations of the past couple of hundred years has not been used to reduce commuting time but instead has been used to increase commuting distances. ... the size of cities has to some degree been determined by the efficiency of their transportation systems for delivering people to their workplaces in not much more than half an hour's time."[^scale] &mdash; Geoffrey West
 
 * **New Urban Agenda (NUA)**
   * a 2016 United Nations agreement serving as a guideline for global urban development from 2016 to 2036 [^wiki_habitat_iii]
@@ -1293,7 +1378,7 @@ It is estimated that **by 2050**:
 
 > "averaged over the next thirty-five years, about a million and a half people will be urbanized each week ... the equivalent of another New York metropolitan area [every two months]"[^scale]
 
-> **120 new cities** are currently being built, **in 40 countries**[^haas]
+> **120 "new cities"** are currently being built, **in 40 countries**.[^haas] These developments are frequently called "new cities", although often they are more like new suburbs or new satellite neighborhoods of existing cities, rather than brand new cities in their own right.
 
 > "China ... is on a fast track to build up to **three hundred new cities** each in excess of a million people over the next twenty to twenty-five years. ...  At the present rate it will be moving the equivalent of the entire U.S. population (more than 300 million people) to cities in the next twenty to twenty-five years."[^scale]
 
@@ -1331,7 +1416,11 @@ As of 2018, **70 million people** were currently displaced by war, persecution a
 
 ### <a name="precident"></a>"New city" greenfield developments
 
-More than **120 new cities** are currently being built in 40 nations around the world[^growth], and 11,000 new buildings are built every day, meaning **4 million new buildings a year** [^metabuild].
+More than **120 new cities** are currently being built in 40 nations around the world[^growth], and 11,000 new buildings are built every day, meaning **4 million new buildings a year** [^metabuild]. (These developments are frequently called "new cities", although often they are more like new suburbs or new satellite neighborhoods of existing cities, rather than brand new cities in their own right.)
+
+```
+TODO: this is a repeat of the '120 "new cities"' quote above. Need to delete one of the two.
+```
 
   * **Nkwashi**, in Zambia, being built by Thebe Investment Management, is expected to house up to 100,000 people.[^mason]
   * **Tatu City**, in Kenya, being built by Rendeavour, is planned for 150,000 residents.[^mason]
