@@ -145,8 +145,8 @@ h3 {
           <li><a href="#greener">greener & cleaner</a></li>
           <li>more <a href="#resilient">resilient, durable & reliable</a></li>
           <li>more <a href="#freedom">free, fair & friendly</a></li>
-          <li>more <a href="#economic-prosperity">economic prosperity</a></li>
           <li>more <a href="#social-prosperity">social prosperity</a></li>
+          <li>more <a href="#economic-prosperity">economic prosperity</a></li>
           <li>more <a href="#affordability">affordable</a></li>
           <li><a href="#safer">safer & healthier</a></li>
           <li>more <a href="#convenience">convenience & more possibilities</a></li>
@@ -530,16 +530,16 @@ TODO:
 
 If you're building from scratch, then with a few good design choices it should be possible to build an urban layout that **works far better** than normal conventional cities do.
 
-<ul>
-  <li><a href="#greener">greener & cleaner</a></li>
-  <li>more <a href="#resilient">resilient, durable & reliable</a></li>
-  <li>more <a href="#freedom">free, fair & friendly</a></li>
-  <li>more <a href="#economic-prosperity">economic prosperity</a></li>
-  <li>more <a href="#social-prosperity">social prosperity</a></li>
-  <li>more <a href="#affordability">affordable</a></li>
-  <li><a href="#safer">safer & healthier</a></li>
-  <li>more <a href="#convenience">convenience & more possibilities</a></li>
-</ul>
+
+* [**greener & cleaner**](#greener)
+* more [**resilient, durable & reliable**](#resilient)
+* more [**free, fair & friendly**](#freedom)
+* more [**social prosperity**](#social-prosperity)
+* more [**economic prosperity**](#economic-prosperity)
+* more [**affordable**](#affordability)
+* [**safer & healthier**](#safer)
+* more [**convenience & more possibilities**](#convenience)
+
 
 ### <a name="greener"></a>Greener & cleaner
 
@@ -593,6 +593,14 @@ If you're building from scratch, then with a few good design choices it should b
   - frequent pathside seating for elderly people
 
 
+### <a name="social-prosperity"></a>More social prosperity
+
+It should be:
+  * easy to go see your friends
+  * easy to do an errand for your mom
+  * easy to go to weird new clubs and meetup groups to see who's there
+
+
 ### <a name="economic-prosperity"></a>More economic prosperity
 
 * should **thrive economically** compared to similarly-sized normal cities
@@ -607,14 +615,6 @@ A city should provide for a good life for the people who live in it and the peop
 * **Agglomeration economies.** The term "industrial agglomeration" means the clustering of a lot of business firms in one region. Industrial agglomeration leads to "agglomeration economies" (somewhat similar to the separate idea of "economies of scale"). "Agglomeration economies" are economic benefits that come from having businesses be near each other, such as shared infrastructure development. But we need our designs to be mindful of avoiding "agglomeration diseconomies", which are the disadvantages of proximity, such as traffic congestion.
 
 ```
-
-
-### <a name="social-prosperity"></a>More social prosperity
-
-It should be:
-  * easy to go see your friends
-  * easy to do an errand for your mom
-  * easy to go to weird new clubs and meetup groups to see who's there
 
 
 ### <a name="affordability"></a>More affordable
