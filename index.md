@@ -400,9 +400,17 @@ TODO: add a graph illustrating 15% doubling
 
 ### <a name="existing-cities"></a>The kinematics of existing cities
 
-```
-TODO: comparison of public transit in Singapore vs. cars in Dallas-Fort Worth. (See Velotopia page 44.) 
-```
+Singapore and Dallas-Fort Worth have very different transportation networks, with very different kinematic ranges.
+
+  |---
+  |  | Singapore | Dallas-Fort Worth
+  |-:|:-|:-
+  | **population** | roughly 6 million | roughly 6 million
+  | **density** | 20,000<br>per square mile | 600<br>per square mile
+  | **main mode<br>of transportation** | public transit | cars
+  | **time it takes<br>for two people<br>on opposite ends<br>to meet in the middle**<br>source: [^velotopia] | 60 minutes | 30 minutes 
+
+
 
 Existing cities, all over the world, have serious traffic congestion problems, despite spending billions on transit projects and on widening roads, in efforts to incrementally improve mobility and kinematic range. As cities grow and economies grow, the congestion problems just get worse.
 
@@ -1197,7 +1205,6 @@ TODO: important? consider moving into one of the chapters above?
 
 * **long tail<a name="glossary:long-tail"></a>**
   * On Amazon, some popular books, like Harry Potter books, sell lots of copies. An obscure book may sell almost no copies, but there are **lots** of different obscure books, and togther the obscure titles sell more copies than the popular ones. Some statistical distributions, like the one that describes Amazon book sales, have a "long tail", which means that the uncommon items, when taken together, end up being just as significant as the common items, or more so. If a book seller sold **all** the popular titles but no unpopular ones, they would be failing to meet **most** of the demand for books. Similarly, if the city bus routes go to all of the popular destinations, but nowhere else, then they fail to meet most of the demand for mobility.
-  * <span class="minor"> </span>.
 
 <figure style="text-align: center; padding-bottom: 1em;">
   <object data="../svg/graphs/long_tail.svg"></object>
@@ -1654,7 +1661,7 @@ There are established public-sector mechanisms for funding development projects,
 
 [^scale]: [_Scale_](https://www.penguinrandomhouse.com/books/314049/scale-by-geoffrey-west/), by Geoffrey West. 2018.
 
-
+[^velotopia]: [_Velotopia_](https://www.nai010.com/en/publicaties/velotopia/130528), by Steven Fleming. 2017
 
 
 
