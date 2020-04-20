@@ -400,6 +400,8 @@ TODO: add a graph illustrating 15% doubling
 
 ### <a name="existing-cities"></a>The kinematics of existing cities
 
+Larger cities have more total destinations than smaller cities, but some destinatations may be too far away for some people to get too. Denser cities have more destinattions that are within a shorter distance, but in a congested city, even nearby destinations may take a long time to get to. In practice, different cities have very different kinematics.
+
 Singapore and Dallas-Fort Worth have very different transportation networks, with very different kinematic ranges.
 
   |---
