@@ -403,12 +403,12 @@ TODO: add a graph illustrating 15% doubling
 Singapore and Dallas-Fort Worth have very different transportation networks, with very different kinematic ranges.
 
   |---
-  |  | Singapore | Dallas-Fort Worth
-  |-:|:-|:-
-  | **population** | roughly 6 million | roughly 6 million
-  | **density** | 20,000<br>per square mile | 600<br>per square mile
-  | **main mode<br>of transportation** | public transit | cars
-  | **time it takes<br>for two people<br>on opposite ends<br>to meet in the middle**<br>source: [^velotopia] | 60 minutes | 30 minutes 
+  | Singapore |  | Dallas-Fort Worth
+  |:-:|:-:|:-:
+  | roughly 6 million | **population** | roughly 6 million
+  | 20,000<br>per square mile | **density** | 600<br>per square mile
+  | public transit | **main mode of<br>transportation** | cars
+  | 60 minutes | **time it takes<br>for two people<br>on opposite ends<br>to meet in the middle**[^velotopia] | 30 minutes 
 
 
 
