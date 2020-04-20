@@ -1198,8 +1198,8 @@ TODO: important? consider moving into one of the chapters above?
 * **long tail<a name="glossary:long-tail"></a>**
   * On Amazon, some popular books, like Harry Potter books, sell lots of copies. An obscure book may sell almost no copies, but there are **lots** of different obscure books, and togther the obscure titles sell more copies than the popular ones. Some statistical distributions, like the one that describes Amazon book sales, have a "long tail", which means that the uncommon items, when taken together, end up being just as significant as the common items, or more so.
 
-<object height="130" data="../svg/graphs/long_tail.svg"></object>
-  * Picture by <a class="minor" href="http://www.haykranen.nl/">Hay Kranen</a>.
+<object data="../svg/graphs/long_tail.svg"></object>
+  * <span class="minor"> Picture by <a href="http://www.haykranen.nl/">Hay Kranen</a></span>.
 
 * **Marchetti constant<a name="glossary:Marchetti-constant"></a>**
   * People will commute about 30 minutes each way per day
