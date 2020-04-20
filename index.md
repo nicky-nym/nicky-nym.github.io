@@ -328,13 +328,13 @@ The <a href="#1">Impossible street design</a> replaces cars & buses with a wide 
 
 ## <span class="chapter">_Chapter 2_ &mdash; Mobility for prosperity, not for speed</span>
 
-The [impossible streets & intersections](#1) are designed to yield **faster travel times** and **higher throughput**, compared to conventional city streets in places like San Franisco or Manhattan New York.
+The [impossible streets](#1) & intersections are designed to yield **faster travel times** and **higher throughput**, compared to conventional streets in cities like San Franisco or New York.
 
 ### Beyond a faster commute
 
 You might think that faster travel times would lead to faster commute times, but, surprisingly, that's usually not the case. Instead, when faster travel is possible, most people choose to use it to travel **further per day**, instead of using it to travel for **less time per day**. (See [Rules of thumb: Marchetti](#marchetti).)
 
-The result of faster travel times is not shorter commute times for everyone, but is instead an increase in daily **kinematic range** for everyone.
+In practice, the result of faster travel times is not shorter commute times for everyone, but is instead an increase in daily **kinematic range** for everyone.
 
 ### <a name="kinematic_range"></a>Kinematic range
 
@@ -1196,8 +1196,10 @@ TODO: important? consider moving into one of the chapters above?
   * TODO: ???
 
 * **long tail<a name="glossary:long-tail"></a>**
-  * TODO: ???
- 
+  * On Amazon, some popular books, like Harry Potter books, sell lots of copies. An obscure book may sell almost no copies, but there are **lots** of different obscure books, and togther the obscure titles sell more copies than the popular ones. Some statistical distributions, like the one that describes Amazon book sales, have a "long tail", which means that the uncommon items, when taken together, end up being just as significant as the common items, or more so.
+
+<object width="400" data="../svg/graphs/long_tail.svg"></object>
+
 * **Marchetti constant<a name="glossary:Marchetti-constant"></a>**
   * People will commute about 30 minutes each way per day
   * <a name="marchetti"></a>The **Marchetti constant** says that **people tend to travel about one hour a day**. The Marchetti constant is named for Cesare Marchetti, although **it was really Yacov Zahavi** who first wrote about it.
