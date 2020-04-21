@@ -569,7 +569,6 @@ If you're building from scratch, then with a few good design choices it's possib
 
   <span class="minor">(H)</span> **[Healthier & safer](#healthier)**
 
-  <span class="minor">(I)</span> **[Inconceivable](#inconceivable)**
 
 
 ### <a name="affordable"></a>Affordable
@@ -706,11 +705,6 @@ An impossible city should be **safer** and more fun to live in.
   - no traffic accident deaths
   - faster 911 response time
   - freedom from harassment on buses & subways
-
-
-### <a name="Impossibility"></a>Impossibility
-
-* **Impossibility.** Enable new experiences that were not possible before. Enable more people to get to more places. Make more different places to live affordable for more people. Make it safe for little kids to walk to school on their own, without having to cross the street.
 
 
 
