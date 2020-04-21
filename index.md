@@ -650,24 +650,24 @@ A city should provide for a good life for the people who live in it and work in 
 
 ### <a name="freedom"></a>Free, fair & friendly
 
-A city design should not inadvertantly restrict people's freedoms or obstruct fair access.
+A city design should not inadvertantly restrict people's freedoms or obstruct fair access. The impossible design offers more:
 
 * **Freedom**
   - freedom of movement for everyone in the community 
   - free-range kids &mdash; who can meet up to play at the park without needing a ride, and who can walk to school without learning how to look both ways before crossing a street
   - freedom to travel without being asked for a license & registration
 
-* **Fair**
+* **Fairness**
   - a **level playing field** for urban mobility
   - equal access to safe passage for everyone through all public space
   - full mobility for women[^gadepalli], with no "pink tax"[^mccasland] & no "trip-range" tax[^gonzalez]
 
-* **Friendly**
+* **Friendliness**
   - more **kid-friendly** streets
-  - more **elder-friendly**
-  - more **disability-friendly**, with safer streets for people with limited vision or limited hearing, and better accessibility for people in wheelchairs
+  - more **elder-friendly** streets
+  - more **disability-friendly** space, with safer streets for people with limited vision or limited hearing, and better accessibility for people in wheelchairs
 
-* **Accessible**
+* **Accessibility**
   - stroller-friendly buildings and stroller-friendly transportation
   - wheelchair accessible routes to every part of every building
   - predictable navigation for people with limited vision
@@ -676,30 +676,36 @@ A city design should not inadvertantly restrict people's freedoms or obstruct fa
 
 ### <a name="greener"></a>Greener & cleaner
 
+Compared to a conventional city, the impossible design should provide:
+
 * **Lower carbon footprint** per capita
+  - lower-energy commutes in smaller, more efficient vehicles
+  - more efficient heating and cooling of buildings
 
 * **More trees**
+  - more trees nearby at any one time, and more trees encountered per day
 
 * **Better air quality**
+  - no diesel engines, no gas engines, less motor oil, less tire wear
+  - more parks and trees
 
 * **Less noise**
+  * see [noise](#noise)
 
 
 ### <a name="safer"></a>Healthier & safer
 
-* should be **safer** and more fun to live in
+An impossible city should be **safer** and more fun to live in.
 
-  - **better air quality** & **less noise**
-  - **more nearby parks and trees**, for better mental health
-  - **less traffic congestion**, for better mental health
-  - more exercise  
-  - faster 911 response time
+* **Healthier**
+  - more opportunity to exercise while commuting
+  - better air quality & less noise
+  - less stressful, with less traffic congestion and more parks & tress
+
+* **Safer**
   - no traffic accident deaths
-  - freedom from harassment
-    - less harassment on buses & subways
-    - less unemployment, poverty & homelessness
-  - safe enough that parents can opt to have "free-range children" who explore the city on their own
-
+  - faster 911 response time
+  - freedom from harassment on buses & subways
 
 
 ### <a name="Impossibility"></a>Impossibility
@@ -737,7 +743,7 @@ A city design should not inadvertantly restrict people's freedoms or obstruct fa
 | **Cost of bike ownership**<br>bicycles, mopeds, scooters, segways, trikes, etc.<br>annual dollars per capita | $1,000 | $100
 | **Exercise while commuting**<br>minutes per day<br>(average per commuter) | 15 minutes<br>(if 3 of 4 bikes<br>are e-bikes) | 5 minutes | 	
 | **Air quality** | _really_ good | good 
-| **Noise levels** | slightly lower than<br>San Francisco | slightly more than<br>proposed city 
+| **Noise levels** | slightly lower than<br>San Francisco[^kang] | slightly more than<br>proposed city 
 | **ADA accessibility**<br>percent of total city floor space | 90% | ?
 | **Free-range kids** | yes | no		
 | **Power-outage impact**<br>on transit times | no bikeway lights<br>(just daylight/moonlight) | no BART<br>no traffic lights
