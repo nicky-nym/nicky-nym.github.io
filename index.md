@@ -1227,12 +1227,14 @@ TODO: important? consider moving into one of the chapters above?
   * TODO: ???
 
 * **long tail<a name="glossary:long-tail"></a>**
-  * On Amazon, some popular books, like Harry Potter books, sell lots of copies. An obscure book may sell almost no copies, but there are **lots** of different obscure books, and togther the obscure titles sell more copies than the popular ones. Some statistical distributions, like the one that describes Amazon book sales, have a "long tail", which means that the uncommon items, when taken together, end up being just as significant as the common items, or more so. If a book seller sold **all** the popular titles but no unpopular ones, they would be failing to meet **most** of the demand for books. Similarly, if the city bus routes go to all of the popular destinations, but nowhere else, then they fail to meet most of the demand for mobility.
+  * On Amazon, some popular books, like Harry Potter books, sell lots of copies. An obscure book may sell almost no copies, but there are **lots** of different obscure books, and togther the obscure titles sell more copies than the popular ones. Some statistical distributions, like the one that describes Amazon book sales, have a "long tail", which means that the uncommon items, when taken together, end up being just as significant as the common items, or more so. If a book seller sold **all** the popular titles but no unpopular ones, they would be failing to meet **most** of the demand for books. Similarly, if the city bus routes go to all of the popular destinations, but nowhere else, then they fail to meet most of the demand for mobility. <span class="minor">(Picture by <a href="http://www.haykranen.nl/">Hay Kranen</a>.)</span>
 
 <figure style="text-align: center; padding-bottom: 1em;">
   <object data="../svg/graphs/long_tail.svg"></object>
 
-  <figcaption class="minor" style="text-align: center">Picture by <a href="http://www.haykranen.nl/">Hay Kranen</a></figcaption>
+  <figcaption class="minor" style="text-align: center">
+<= more common &nbsp; &nbsp; vs. &nbsp; &nbsp; less common =>
+</figcaption>
 </figure>
 
 
