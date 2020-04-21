@@ -549,14 +549,15 @@ TODO:
 
 If you're building from scratch, then with a few good design choices it's possible to build an urban layout that **works far better** than traditional cities do. New designs can be:
 
-* **[greener & cleaner](#greener)**
-* more **[resilient, durable & reliable](#resilient)**
-* more **[free, fair & friendly](#freedom)**
-* more **[social prosperity](#social-prosperity)**
-* more **[economic prosperity](#economic-prosperity)**
-* more **[affordable](#affordability)**
-* **[safer & healthier](#safer)**
-* more **[convenience & more possibilities](#convenience)**
+* A. More **[affordable](#affordability)**
+* B.
+* C. More **[convivial & convenient](#convenience)**
+* D. More **[durable, reliable & resilient](#resilient)**
+* E. More **[economicly prosperous](#economic-prosperity)**
+* F. More **[free, fair & friendly](#freedom)**
+* G. **[greener & cleaner](#greener)**
+* H. **[healthier & safer](#safer)**
+* I. More **[impossible](#impossible)**
 
 
 ### <a name="greener"></a>Greener & cleaner
