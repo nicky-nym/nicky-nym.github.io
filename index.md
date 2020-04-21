@@ -550,37 +550,41 @@ TODO:
 If you're building from scratch, then with a few good design choices it's possible to build an urban layout that **works far better** than traditional cities do. New designs can be more:
 
   (A) **[Affordable](#affordability)**
+
   (B) ~~this space intentionally left blank~~
+
   (C) **[Convivial & convenient](#convenience)**
+
   (D) **[Durable, reliable & resilient](#resilient)**
+ 
   (E) **[Economicly prosperous](#economic-prosperity)**
+
   (F) **[Free, fair & friendly](#freedom)**
+
   (G) **[Greener & cleaner](#greener)**
+
   (H) **[Healthier & safer](#safer)**
+
   (I) **[Impossible](#impossible)**
 
 
 ### <a name="affordability"></a>Affordable
 
-* affordable to build
-  * vs. subways, light rail, buses, cars
-* affordable to operate
-  * vs. subways, light rail, buses, cars
-* affordable to live in
-  * lower housing costs & less homelessness
-  * transporation affordability
+There's no point in designing a new urban development that is too expensive to build, or building a new urban development that is too expensive for people to afford to move to.
 
-* **Affordability.** There's no point in designing a new kinematic urban development that is too expensive to build, or building a new urban development that is too expensive for most people to afford to move to. The initial kinematic city designs intentionally focus on avoiding expensive transportation options like light rail, and even bus rapid transit. The designs also avoid expensive buildings, like skyscrapers or even ten-story buildings with concrete service cores and elevators, in favor of less expensive "4-over-1" podium construction.
-   - readily available housing
-   - affordabability at market prices, without subsidies or rent control
+* **Affordable to build**
+  * The impossible street design use conventional construction techniques and avoids the most expensive transportation options. No automobiles (at $20,000+ each), no buses (at $500,000 each, or $8,000+ per passenger seat), no subway cars (at $10,000+ per passenger seat), and no subway tunnels (at $100,000,000+ per mile).
+  * The design lends itself to mid-rise density neighborhoods. Mid-rise housing, for example in buildings with "4-over-1" podium construction, is less expensive to than skyscrapers, and less expensive than even ten-story buildings with concrete service cores. Mid-rise housing is also less expensive than detached single family housing. The impossible street design also offers an optional extra feature that could replace ordinary sidewalks with inclined ramps, which would offer additional cost savings by conserving usable floorspace square-footage (vs. circulation overhead) while entirely obviating the need for elevators, escalators, and stairs. 
+  * For new developments built on greenfield sites, land should cost less than what it would cost in an established city. For new developments that are large, the development may gain economies of scale, in land acquisition, regulatory approval for planning and permitting, financing, and construction costs & timelines.
 
-  |---
-  | **goals** | **implications**
-  |:-:|:-
-  | keep construction costs down       | ~ use conventional construction techniques <br> ~ no skyscrapers (expensive per square foot) <br> ~ no elevators  <br> ~ strive for economies of scale 
-  | keep land costs low                | ~ pick an inexpensive site <br> ~ maximize Floor Area Ratio (FAR), or floor space per square mile 
-  | keep developer financing costs low | ~ use tight construction timelines (for example, by using prefab construction) <br> ~ avoid planning and permitting delays <br> ~ avoid big risks <br> ~ minimize vacancy <br> ~ produce revenue early on <br> ~ do "just-in-time" production of square footage
-  | keep transportation costs down     | ~ keep everything close <br> ~ no automobiles (at $20,000+ each) <br> ~ no buses (at $500,000 each, or $8,000+ per passenger seat) <br> ~ no subway cars (at $10,000+ per passenger seat) <br> ~ no subway tunnels (at $100,000,000+ per mile) 
+* **Affordable to operate**
+  * The design avoids all the costs of running public transit systems (bus driver salaries, rail car maintenance, etc.) and avoids the costs of private car ownership (insurance, car payments, fuel, new tires, etc.).
+
+* **Affordable to live in**
+  * Ideally, the lower costs to build and operate the city will mean that it is more affordable to live in &mdash; with lower government transportation subsidies, there is an opportunity to have lower taxes & lower vehicle registration fees. With lower housing construction costs, housing doesn't need to be as expensive. With more units of housing within kinematic range of any given workplace, there's more market competition for buyers and renters, and an opportunity for a more efficient housing market, so that developers and landlords can't easily artificially inflate prices. Hopefully this will result in market-rate housing that is naturally affordable, without the government having to impose rent control or subsidize affordable housing.  Hopefully this might lead to less homelessness, which in turn could lead to lower government spending.
+  
+
+
 
 ### <a name="convenience"></a>Convivial & convenient
 
