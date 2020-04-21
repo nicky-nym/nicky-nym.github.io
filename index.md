@@ -547,36 +547,72 @@ TODO:
 
 ## <span class="chapter">_Chapter 3_ &mdash; Bonus features beyond mobility</span>
 
-If you're building from scratch, then with a few good design choices it's possible to build an urban layout that **works far better** than traditional cities do. New designs can be:
+If you're building from scratch, then with a few good design choices it's possible to build an urban layout that **works far better** than traditional cities do. New designs can be more:
 
-* A. More **[affordable](#affordability)**
-* B.
-* C. More **[convivial & convenient](#convenience)**
-* D. More **[durable, reliable & resilient](#resilient)**
-* E. More **[economicly prosperous](#economic-prosperity)**
-* F. More **[free, fair & friendly](#freedom)**
-* G. **[greener & cleaner](#greener)**
-* H. **[healthier & safer](#safer)**
-* I. More **[impossible](#impossible)**
-
-
-### <a name="greener"></a>Greener & cleaner
-
-* **Lower carbon footprint** per capita
-
-* **More trees**
-
-* **Better air quality**
-
-* **Less noise**
+  (A) **[Affordable](#affordability)**
+  (B) ~~this space intentionally left blank~~
+  (C) **[Convivial & convenient](#convenience)**
+  (D) **[Durable, reliable & resilient](#resilient)**
+  (E) **[Economicly prosperous](#economic-prosperity)**
+  (F) **[Free, fair & friendly](#freedom)**
+  (G) **[Greener & cleaner](#greener)**
+  (H) **[Healthier & safer](#safer)**
+  (I) **[Impossible](#impossible)**
 
 
-### <a name="resilient"></a>More resilient, durable & reliable
+### <a name="affordability"></a>Affordable
 
-* **Simpler**
+* affordable to build
+  * vs. subways, light rail, buses, cars
+* affordable to operate
+  * vs. subways, light rail, buses, cars
+* affordable to live in
+  * lower housing costs & less homelessness
+  * transporation affordability
+
+* **Affordability.** There's no point in designing a new kinematic urban development that is too expensive to build, or building a new urban development that is too expensive for most people to afford to move to. The initial kinematic city designs intentionally focus on avoiding expensive transportation options like light rail, and even bus rapid transit. The designs also avoid expensive buildings, like skyscrapers or even ten-story buildings with concrete service cores and elevators, in favor of less expensive "4-over-1" podium construction.
+   - readily available housing
+   - affordabability at market prices, without subsidies or rent control
+
+  |---
+  | **goals** | **implications**
+  |:-:|:-
+  | keep construction costs down       | ~ use conventional construction techniques <br> ~ no skyscrapers (expensive per square foot) <br> ~ no elevators  <br> ~ strive for economies of scale 
+  | keep land costs low                | ~ pick an inexpensive site <br> ~ maximize Floor Area Ratio (FAR), or floor space per square mile 
+  | keep developer financing costs low | ~ use tight construction timelines (for example, by using prefab construction) <br> ~ avoid planning and permitting delays <br> ~ avoid big risks <br> ~ minimize vacancy <br> ~ produce revenue early on <br> ~ do "just-in-time" production of square footage
+  | keep transportation costs down     | ~ keep everything close <br> ~ no automobiles (at $20,000+ each) <br> ~ no buses (at $500,000 each, or $8,000+ per passenger seat) <br> ~ no subway cars (at $10,000+ per passenger seat) <br> ~ no subway tunnels (at $100,000,000+ per mile) 
+
+### <a name="convenience"></a>Convivial & convenient
+
+It should be:
+  * easy to go see your friends
+  * easy to do an errand for your mom
+  * easy to go to weird new clubs and meetup groups to see who's there
+
+* **Proximity.** Everything within 30 minutes
+  - school & work
+  - friends & family
+  - groceries & restaurants
+  - parks & playgrounds
+  - gyms & laundromats
+  - dentists & doctors
+  - libraries & museums
+  - [long tail](#glossary:long-tail) destinations (aka _That One Unusual Thing_ that most people wouldn't care about, but that you really want to go to)
+    - a monthly Renaissance Faire meetup
+    - a weekly Burning Man art car workshop
+    - a maker space with an Atomic Force Microscope
+    - etc.
+
+### <a name="resilient"></a>Durable, reliable & resilient
+
+* **Durable** & **reliable** &mdash; infrastructure that is durable and easy to maintain.
+
+  > "even when a [New York City subway] station has an elevator, workers have struggled to keep them working properly. Only about 94 percent of elevators were available in August, according to the transit agency. The rate is worse for escalators -- 87 percent were working." [^fitzsimmons]
+
+
+* **Simpler** & **more resilient** 
+  * more resilient after a natural disaster or other emergency
   * systems that are simpler, which helps keep them more resilient, durable, reliable, and affordable.
-
-* **more resilient** after a natural disaster or other emergency
 
 * Cities should be designed to be resilient after natural disasters and other emergencies. For example, it should be possible to evacuate a building quickly even when the power is out. And it should be safe to quickly reopen as many buildings as possible after an earthquake, hurricane, or flood. These are goals that can be furthered by simply avoiding "fragile" technologies, like elevators, and traffic lights. 
 
@@ -585,14 +621,24 @@ If you're building from scratch, then with a few good design choices it's possib
 
   > "Because its location and design were deliberately chosen to withstand natural calamities, New Clark City will serve as the government’s continuity hub, disaster and risk recovery center – an alternative capital city in case a disaster strikes Manila"[^new-clark]
 
-* **more durable** & **more reliable** &mdash; infrastructure that is durable and easy to maintain.
-
-  > "even when a [New York City subway] station has an elevator, workers have struggled to keep them working properly. Only about 94 percent of elevators were available in August, according to the transit agency. The rate is worse for escalators -- 87 percent were working." [^fitzsimmons]
 
 
+### <a name="economic-prosperity"></a>Economicly prosperous
 
+* should **thrive economically** compared to similarly-sized normal cities
+* should experience a 15% windfall in wages, wealth, patents, land value, etc.
 
-### <a name="freedom"></a>More free, fair & friendly
+```
+TODO: individuals, businesses, governments
+
+    
+A city should provide for a good life for the people who live in it and the people who have offices there. Because global poverty is a serious problem, economic growth is a force for good, so long as the economic growth is "green growth" and so long as GDP growth goes up while carbon footprint goes down, habitat restoration use goes up, and Gini coefficients go down.
+
+* **Agglomeration economies.** The term "industrial agglomeration" means the clustering of a lot of business firms in one region. Industrial agglomeration leads to "agglomeration economies" (somewhat similar to the separate idea of "economies of scale"). "Agglomeration economies" are economic benefits that come from having businesses be near each other, such as shared infrastructure development. But we need our designs to be mindful of avoiding "agglomeration diseconomies", which are the disadvantages of proximity, such as traffic congestion.
+
+```
+
+### <a name="freedom"></a>Free, fair & friendly
 
 * **Freedom.**
   - free-range kids
@@ -616,54 +662,18 @@ If you're building from scratch, then with a few good design choices it's possib
   - frequent pathside seating for elderly people
 
 
-### <a name="social-prosperity"></a>More social prosperity
+### <a name="greener"></a>Greener & cleaner
 
-It should be:
-  * easy to go see your friends
-  * easy to do an errand for your mom
-  * easy to go to weird new clubs and meetup groups to see who's there
+* **Lower carbon footprint** per capita
 
+* **More trees**
 
-### <a name="economic-prosperity"></a>More economic prosperity
+* **Better air quality**
 
-* should **thrive economically** compared to similarly-sized normal cities
-* should experience a 15% windfall in wages, wealth, patents, land value, etc.
-
-```
-TODO: individuals, businesses, governments
-
-    
-A city should provide for a good life for the people who live in it and the people who have offices there. Because global poverty is a serious problem, economic growth is a force for good, so long as the economic growth is "green growth" and so long as GDP growth goes up while carbon footprint goes down, habitat restoration use goes up, and Gini coefficients go down.
-
-* **Agglomeration economies.** The term "industrial agglomeration" means the clustering of a lot of business firms in one region. Industrial agglomeration leads to "agglomeration economies" (somewhat similar to the separate idea of "economies of scale"). "Agglomeration economies" are economic benefits that come from having businesses be near each other, such as shared infrastructure development. But we need our designs to be mindful of avoiding "agglomeration diseconomies", which are the disadvantages of proximity, such as traffic congestion.
-
-```
+* **Less noise**
 
 
-### <a name="affordability"></a>More affordable
-
-* affordable to build
-  * vs. subways, light rail, buses, cars
-* affordable to operate
-  * vs. subways, light rail, buses, cars
-* affordable to live in
-  * lower housing costs & less homelessness
-  * transporation affordability
-
-* **Affordability.** There's no point in designing a new kinematic urban development that is too expensive to build, or building a new urban development that is too expensive for most people to afford to move to. The initial kinematic city designs intentionally focus on avoiding expensive transportation options like light rail, and even bus rapid transit. The designs also avoid expensive buildings, like skyscrapers or even ten-story buildings with concrete service cores and elevators, in favor of less expensive "4-over-1" podium construction.
-   - readily available housing
-   - affordabability at market prices, without subsidies or rent control
-
-  |---
-  | **goals** | **implications**
-  |:-:|:-
-  | keep construction costs down       | ~ use conventional construction techniques <br> ~ no skyscrapers (expensive per square foot) <br> ~ no elevators  <br> ~ strive for economies of scale 
-  | keep land costs low                | ~ pick an inexpensive site <br> ~ maximize Floor Area Ratio (FAR), or floor space per square mile 
-  | keep developer financing costs low | ~ use tight construction timelines (for example, by using prefab construction) <br> ~ avoid planning and permitting delays <br> ~ avoid big risks <br> ~ minimize vacancy <br> ~ produce revenue early on <br> ~ do "just-in-time" production of square footage
-  | keep transportation costs down     | ~ keep everything close <br> ~ no automobiles (at $20,000+ each) <br> ~ no buses (at $500,000 each, or $8,000+ per passenger seat) <br> ~ no subway cars (at $10,000+ per passenger seat) <br> ~ no subway tunnels (at $100,000,000+ per mile) 
-
-
-### <a name="safer"></a>Safer & healthier
+### <a name="safer"></a>Healthier & safer
 
 * should be **safer** and more fun to live in
 
@@ -679,21 +689,8 @@ A city should provide for a good life for the people who live in it and the peop
   - safe enough that parents can opt to have "free-range children" who explore the city on their own
 
 
-### <a name="convenience"></a>More convenience & more possibilities
 
-* **Proximity.** Everything within 30 minutes
-  - school & work
-  - friends & family
-  - groceries & restaurants
-  - parks & playgrounds
-  - gyms & laundromats
-  - dentists & doctors
-  - libraries & museums
-  - [long tail](#glossary:long-tail) destinations (aka _That One Unusual Thing_ that most people wouldn't care about, but that you really want to go to)
-    - a monthly Renaissance Faire meetup
-    - a weekly Burning Man art car workshop
-    - a maker space with an Atomic Force Microscope
-    - etc.
+### <a name="Impossibility"></a>Impossibility
 
 * **Impossibility.** Enable new experiences that were not possible before. Enable more people to get to more places. Make more different places to live affordable for more people. Make it safe for little kids to walk to school on their own, without having to cross the street.
 
