@@ -1176,10 +1176,10 @@ TODO: important? consider moving into one of the chapters above?
 * **community land trust (CLT)<a name="glossary:CLT"></a>**
   * A nonprofit organization that owns land and sells or rents housing units (or retail or office space) built on the land, usually with the goal of providing affordable housing. A household typically leases a unit for a 99-year term, rather than buying a house outright, or may buy a house outright but leases the land that the house built on. Members elect a board so that the CLT is democratically self-governing. When a member sells a unit, the CLT may collect a cut of the sales price (in practice, as high as 75%), which it can use to subside purchases for new homeowners. [^schneider_2019-04-29]
 
-* **curb-cut effect<a name="glossary:curb-cut-effect">**
+* **curb-cut effect<a name="glossary:curb-cut-effect"></a>**
   * systems designed to benefit vulnerable groups, such as the disabled, often end up benefiting all of society
   
-* **effective altruism<a name="glossary:effective-altruism">**
+* **effective altruism<a name="glossary:effective-altruism"></a>**
   * using empirical analysis to direct resources towards efforts that do the most possible good
   * _anti-malaria efforts, deworming initiatives, and direct cash transfer programs are among the interventions most widely credited with providing the most cost-effective improvement in welfare for the global poor than any other intervention_ 
   * see [GiveWell](https://www.givewell.org/)
@@ -1249,17 +1249,22 @@ TODO: important? consider moving into one of the chapters above?
   > ... the increase in transportation speed resulting from the marvelous innovations of the past couple of hundred years has not been used to reduce commuting time but instead has been used to increase commuting distances. ... the size of cities has to some degree been determined by the efficiency of their transportation systems for delivering people to their workplaces in not much more than half an hour's time."[^scale] &mdash; Geoffrey West
 
 * **metrics<a name="glossary:metrics"></a>** & **measures<a name="glossary:measures"></a>**
+
   * **floor area<a name="glossary:floor-area"></a>** &mdash; the amount of floorspace in a building, including the floorspace on all the different floors of a multi-story building.
     * **gross floor area<a name="glossary:gross-floor-area"></a>** &mdash; the total [floor area](#glossary:floor-area) of a building, including all the area taken up by lobbies, hallways, elevator shafts, walls, offices, apartments, etc.
     * **usable floor area<a name="glossary:usable-floor-area"></a>** &mdash; the subset of the [gross floor area](#glossary:gross-floor-area) that could be rented out to be used exclusively by a tenant, or sold for the exclusive use of an owner (for example, a studio apartment, or a dentist's office).
     * **occupied floor area<a name="glossary:occupied-floor-area"></a>** &mdash; the subset of the [usable floor area](#glossary:usable-floor-area) that is being used, not sitting vacant. 
     * **circulation area<a name="glossary:circulation-area"></a>** &mdash; for a building, the [floor area](#glossary:floor-area) of a building taken up by hallways, elevator shafts, stairways, and lobbies. (Or, for a city, the additional [land area](#glossary:land-area)  taken up by streets and sidewalks, parking lots, driveways, bus stops, train tracks, etc.)
+
   * **floor area ratio (FAR)<a name="glossary:FAR"></a>**
     * **FAR<sub>parcel</sub><a name="glossary:FAR-parcel"></a>** &mdash; the [floor area ratio](#glossary:FAR) for a building on a parcel, meaning the ratio of [floor area](#glossary:floor-area) to [parcel area](#glossary:parcel-area).
     * **FAR<sub>overall</sub><a name="glossary:FAR-overall"></a>** &mdash; the [floor area ratio](#glossary:FAR) for a neighborhood of a city, meaning the ratio of the total [floor area](#glossary:floor-area) of all the buildings to the total [land area](#glossary:land-area) of the neighborhood, including all the land area used for streets and sidewalks and parks, as well as the land area of all the [parcel area](#glossary:parcel-area).
     * **circulation area ratio<a name="circulation-area-ratio"></a>** &mdash; the ratio of the total [circulation area](#glossary:circulation-area) of a city to the total [usable floor area](#glossary:usable-floor-area). In New York City, for typical Manhattan city blocks, the streets and sidewalks take up 30% of the land area, with the remaining 70% available for building parcels. Within an office building, hallways, stairs, and elevators typically take up 30% of the [floor area](#glossary:floor-area) of the building, leaving only the remaining 70% as [usable floor area](#glossary:usable-floor-area).
+
   * **GDP per capita**
+
   * **kinematic range<sub>t=30_minutes</sub><a name="glossary:KR30"></a>** &mdash; the total amount of [occupied floor area](#glossary:occupied-floor-area) a person could possibly get to in [30 minutes](#marchetti).
+
   * **kinematic range (KR)<a name="glossary:KR"></a>** &mdash; the total amount of [occupied floor area](#glossary:occupied-floor-area) a person could possibly get to in some fixed amount of time. KR is a measure of **mobility**, and a measure of the capactiy and efficiency of a transportation network. The KR measure serves a proxy represents the range of destinations that a person can get to. In the real world, a destination would be something like your friend's house, your dentist's office, or a library or coffee shop.
     * **factors:** kinematic range is a function of lots of different factors:
       * **_starting location_** &mdash; are you starting at the center of town, or out at the edge?
@@ -1270,9 +1275,13 @@ TODO: important? consider moving into one of the chapters above?
       * **_time of day_** &mdash; are the trains even running at this hour?
       * **_traffic congestion_**
       * **_travel bans_** & **_security checkpoints_** &mdash; are you allowed into that area?
+
   * **land area<a name="glossary:land-area"></a>** &mdash; the total size of all the land occupied by a city.
+
   * **parcel area<a name="glossary:parcel-area"></a>** &mdash; the size of the lot of land that a house (or other building) is built on.
-  * **population<a name="glossary:population"></a>**
+
+  * **population<a name="glossary:population"></a>** &mdash; the number of people who live in a city
+
   * **population density<a name="glossary:population-density"></a>** &mdash; the number of people per [land area](#glossary:land-area). Alternatively, you can also think about density in terms of [floor area](#glossary:floor-area) per person.
 
 * **new urban agenda (NUA)<a name="glossary:NUA"></a>**
