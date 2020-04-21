@@ -372,11 +372,10 @@ Good mobility is more important than it sounds. It's not just about making rush-
   * more **job candidates** to choose from
   * more **vendors** and **parts suppliers** to choose from
   * more **contractors** in different **specialized fields**
-  * more **"industrial agglomeration"**, which leads to **"agglomeration economies"** (somewhat similar to the separate idea of "economies of scale")
+  * more **"[industrial agglomeration](#glossary:industrial-agglomeration)"**, which leads to **"[agglomeration economies](#glossary:agglomeration-economies)"** (somewhat similar to the separate idea of "economies of scale")
 
 **For 911 calls** & first responders, it means:
   * **faster response times** and **better incident outcomes**
-
 
 
 ### <a name="windfall"></a>Kinematic windfall
@@ -397,6 +396,8 @@ This 15% superlinear growth seems to apply to the whole physical and social meta
 ```
 TODO: add a graph illustrating 15% doubling
 ```
+
+
 
 ### <a name="existing-cities"></a>The kinematics of existing cities
 
@@ -438,6 +439,10 @@ Someday, in the future, cities might also be able to improve kinematic range by 
   * **Boring company tunnels**
   * **flying cars**
 
+
+```
+TODO: add section "Co-location won't work"
+```
 
 ### <a name="transit_vs_cars"></a>Transit vs. cars
 
@@ -549,26 +554,26 @@ TODO:
 
 If you're building from scratch, then with a few good design choices it's possible to build an urban layout that **works far better** than traditional cities do. New designs can be more:
 
-  (A) **[Affordable](#affordability)**
+  _(A)_ **[Affordable](#affordable)**
 
-  (B) ~~Blank (this space intentionally left blank)~~
+  _(B)_ ~~Blank (this space intentionally left blank)~~
 
-  (C) **[Convivial & convenient](#convenience)**
+  _(C)_ **[Convivial & convenient](#convenient)**
 
-  (D) **[Durable, reliable & resilient](#resilient)**
+  _(D)_ **[Durable, reliable & resilient](#durable)**
  
-  (E) **[Economicly prosperous](#economic-prosperity)**
+  _(E)_ **[Economicly prosperous](#economicly-prosperous)**
 
-  (F) **[Free, fair & friendly](#freedom)**
+  _(F)_ **[Free, fair & friendly](#freedom)**
 
-  (G) **[Greener & cleaner](#greener)**
+  _(G)_ **[Greener & cleaner](#greener)**
 
-  (H) **[Healthier & safer](#safer)**
+  _(H)_ **[Healthier & safer](#safer)**
 
-  (I) **[Inconceivable](#inconceivable)**
+  _(I)_ **[Inconceivable](#inconceivable)**
 
 
-### <a name="affordability"></a>Affordable
+### <a name="affordable"></a>Affordable
 
 There's no point in designing a new urban development that is too expensive to build, and no point in building a new urban development that is too expensive for people to afford to move to.
 
@@ -592,9 +597,9 @@ There's no point in designing a new urban development that is too expensive to b
 
 
 
-### <a name="convenience"></a>Convivial & convenient
+### <a name="convenient"></a>Convivial & convenient
 
-Significantly increased mobility & kinematic range means that it's easier to go see people and easier to get to more places. A mobile city is a city with lots of social opportunities and social prosperity.
+Significantly increased mobility & kinematic range means that it's easier to go see people and easier to get to more places. A more mobile city is a city with more social opportunities and social prosperity.
 
 * **Convivial**
   * easy to go see your friends & family
@@ -608,15 +613,15 @@ Significantly increased mobility & kinematic range means that it's easier to go 
   - gyms & laundromats
   - dentists & doctors
   - libraries & museums
-  - [long tail](#glossary:long-tail) destinations (aka _That One Unusual Thing_ that most people wouldn't care about, but that you really want to go to)
+  - [long tail](#glossary:long-tail) destinations &mdash; including _That One Unusual Thing_ that most people wouldn't care about, but that you really want to go to:
     - a monthly Renaissance Faire meetup
     - a weekly Burning Man art car workshop
     - a maker space with an Atomic Force Microscope
     - etc.
 
-### <a name="resilient"></a>Durable, reliable & resilient
+### <a name="durable"></a>Durable, reliable & resilient
 
-By striving for simplicity, these new designs simply avoid using lots of "fragile" technologies, like elevators and traffic lights. 
+By striving for simplicity, these new designs avoid using lots of "fragile" technologies, like elevators and traffic lights. 
 
 * **Durable** & **reliable** 
   * The impossible design is a more reliable design, because it has fewer parts that can break, and fewer parts that need power sources. It has a transportation system that can be run by human power alone, if necessary. That's one of the advantages of getting rid of all the traffic lights, buses, subway cars, automobiles, taxis, elevators, escalators, delivery drones, etc.
@@ -630,20 +635,14 @@ By striving for simplicity, these new designs simply avoid using lots of "fragil
 
 
 
-### <a name="economic-prosperity"></a>Economicly prosperous
+### <a name="economicly-prosperous"></a>Economicly prosperous
 
-* should **thrive economically** compared to similarly-sized normal cities
-* should experience a 15% windfall in wages, wealth, patents, land value, etc.
+A city should provide for a good life for the people who live in it and work in it. That's what I mean when I talk about "prosperity". I don't mean prosperity in the sense of Wall Street bankers with vacation homes in the Hamptons. I mean prosperity in the sense of kids who get to go to good schools, teachers who have the books they need, parks with playgrounds and basketball courts, libraries with books & wifi, parents with jobs and health insurance, and jobs with safety standards and protective equipment. These are things that are common in places like rich European countries, and that can become more and more common everywhere in the world. 
 
-```
-TODO: individuals, businesses, governments
+Global poverty is a serious problem, and economic growth is a force for good, so long as the economic growth is "green growth" and so long as GDP growth goes up while carbon footprint goes down, habitat restoration use goes up, and Gini coefficients go down.
 
-    
-A city should provide for a good life for the people who live in it and the people who have offices there. Because global poverty is a serious problem, economic growth is a force for good, so long as the economic growth is "green growth" and so long as GDP growth goes up while carbon footprint goes down, habitat restoration use goes up, and Gini coefficients go down.
+The impossible city design is intended to create cities that **thrive economically** compared to similarly-sized typical cities. The impossible design strives to maximize mobility and kinematic range, with the goal of harvesting a 15% windfall in wages, wealth, patents, land value, etc. See [chapter 2](#2).
 
-* **Agglomeration economies.** The term "industrial agglomeration" means the clustering of a lot of business firms in one region. Industrial agglomeration leads to "agglomeration economies" (somewhat similar to the separate idea of "economies of scale"). "Agglomeration economies" are economic benefits that come from having businesses be near each other, such as shared infrastructure development. But we need our designs to be mindful of avoiding "agglomeration diseconomies", which are the disadvantages of proximity, such as traffic congestion.
-
-```
 
 ### <a name="freedom"></a>Free, fair & friendly
 
@@ -1155,6 +1154,10 @@ TODO: important? consider moving into one of the chapters above?
 
 ## <a name="glossary"></a><span class="chapter">Glossary</span>
 
+* **agglomeration economies<a name="glossary:agglomeration-economies"></a>**
+  * The ideas of agglomeration economies is similar to the separate idea of "economies of scale". Agglomeration economies are the economic benefits that come from "industrial agglomeration", which means the clustering of a lot of business firms in one region. (Our designs to be mindful of avoiding "agglomeration diseconomies", which are the disadvantages of proximity, such as traffic congestion.)
+  * The term  means . Industrial agglomeration leads to "agglomeration economies" (somewhat similar to the separate idea of "economies of scale"). "
+
 * **architectural, engineering and construction (AEC)<a name="glossary:AEC"></a>**
   * the entire industry of companies and people who build structures
   
@@ -1195,6 +1198,9 @@ TODO: important? consider moving into one of the chapters above?
 
 * **induced demand<a name="glossary:induced-demand"></a>**
   * if you add lanes to a freeway, it leads to more trips, not faster trips [^wiki_induced_demand]
+
+* **industrial agglomeration<a name="glossary:industrial-agglomeration"></a>**
+  * see [agglomeration economies](#glossary:agglomeration-economies)
 
 * **isochrone map<a name="glossary:isochrone-map"></a>**
   * a map with concentric isochrone lines around a center location, where all the points on any given line represent places that are equally distant, in terms of travel time, from the center location [^wiki_isochrone]
