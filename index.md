@@ -562,15 +562,15 @@ If you're building from scratch, then with a few good design choices it's possib
 
   <span class="minor">(D)</span> **[Durable, reliable & resilient](#durable)**
  
-  _(E)_ **[Economicly prosperous](#economicly-prosperous)**
+  <span class="minor">(E)</span> **[Economicly prosperous](#economicly-prosperous)**
 
-  _(F)_ **[Free, fair & friendly](#freedom)**
+  <span class="minor">(F)</span> **[Free, fair & friendly](#freedom)**
 
-  _(G)_ **[Greener & cleaner](#greener)**
+  <span class="minor">(G)</span> **[Greener & cleaner](#greener)**
 
-  _(H)_ **[Healthier & safer](#safer)**
+  <span class="minor">(H)</span> **[Healthier & safer](#safer)**
 
-  _(I)_ **[Inconceivable](#inconceivable)**
+  <span class="minor">(I)</span> **[Inconceivable](#inconceivable)**
 
 
 ### <a name="affordable"></a>Affordable
@@ -578,21 +578,21 @@ If you're building from scratch, then with a few good design choices it's possib
 There's no point in designing a new urban development that is too expensive to build, and no point in building a new urban development that is too expensive for people to afford to move to.
 
 * **Affordable to build**
-  * The impossible street design use conventional construction techniques and avoids the most expensive transportation options: 
+  - The impossible street design use conventional construction techniques and avoids the most expensive transportation options: 
     * no buses (at $500,000 each, or $8,000+ per passenger seat)
     * no subway cars (at $10,000+ per passenger seat)
     * no subway tunnels (at $100,000,000+ per mile)
     * no automobiles (at $20,000+ each)
     * no multi-story parking garage structures (at $20,000 per parking space)[^carl_walker]
     * no sprawling suburban road network
-  * The design lends itself to mid-rise density neighborhoods. Mid-rise housing, for example in buildings with "4-over-1" podium construction, is less expensive to than skyscrapers, and less expensive than even ten-story buildings with concrete service cores. Mid-rise housing is also less expensive than detached single family housing. The impossible street design also offers an optional extra feature that could replace ordinary sidewalks with inclined ramps, which would offer additional cost savings by conserving usable floorspace square-footage (vs. circulation overhead) while entirely obviating the need for elevators, escalators, and stairs. 
-  * For new developments built on greenfield sites, land should cost less than what it would cost in an established city. For new developments that are large, the development may gain economies of scale, in land acquisition, regulatory approval for planning and permitting, financing, and construction costs & timelines.
+  - The design lends itself to mid-rise density neighborhoods. Mid-rise housing, for example in buildings with "4-over-1" podium construction, is less expensive to than skyscrapers, and less expensive than even ten-story buildings with concrete service cores. Mid-rise housing is also less expensive than detached single family housing. The impossible street design also offers an optional extra feature that could replace ordinary sidewalks with inclined ramps, which would offer additional cost savings by conserving usable floorspace square-footage (vs. circulation overhead) while entirely obviating the need for elevators, escalators, and stairs. 
+  - For new developments built on greenfield sites, land should cost less than what it would cost in an established city. For new developments that are large, the development may gain economies of scale, in land acquisition, regulatory approval for planning and permitting, financing, and construction costs & timelines.
 
 * **Affordable to operate**
-  * The design avoids all the costs of running public transit systems (bus driver salaries, rail car maintenance, etc.) and avoids the costs of private car ownership (insurance, car payments, fuel, new tires, etc.).
+  - The design avoids all the costs of running public transit systems (bus driver salaries, rail car maintenance, etc.) and avoids the costs of private car ownership (insurance, car payments, fuel, new tires, etc.).
 
 * **Affordable to live in**
-  * Ideally, the lower costs to build and operate the city will mean that it is more affordable to live in &mdash; with lower government transportation subsidies, there is an opportunity to have lower taxes & lower vehicle registration fees. With lower housing construction costs, housing doesn't need to be as expensive. With more units of housing within kinematic range of any given workplace, there's more market competition for buyers and renters, and an opportunity for a more efficient housing market, so that developers and landlords can't easily artificially inflate prices. Hopefully this will result in market-rate housing that is naturally affordable, without the government having to impose rent control or subsidize affordable housing.  Hopefully this might lead to less homelessness, which in turn could lead to lower government spending.
+  - Ideally, the lower costs to build and operate the city will mean that it is more affordable to live in &mdash; with lower government transportation subsidies, there is an opportunity to have lower taxes & lower vehicle registration fees. With lower housing construction costs, housing doesn't need to be as expensive. With more units of housing within kinematic range of any given workplace, there's more market competition for buyers and renters, and an opportunity for a more efficient housing market, so that developers and landlords can't easily artificially inflate prices. Hopefully this will result in market-rate housing that is naturally affordable, without the government having to impose rent control or subsidize affordable housing.  Hopefully this might lead to less homelessness, which in turn could lead to lower government spending.
   
 
 
@@ -602,10 +602,10 @@ There's no point in designing a new urban development that is too expensive to b
 Significantly increased mobility & kinematic range means that it's easier to go see people and easier to get to more places. A more mobile city is a city with more social opportunities and social prosperity.
 
 * **Convivial**
-  * easy to go see your friends & family
-  * easy to do an errand for your mom
-  * easy to go to weird new clubs and meetup groups to see who's there
-  * easy for kids to go to parks & playgrounds on their own, without needing a ride
+  - easy to go see your friends & family
+  - easy to do an errand for your mom
+  - easy to go to weird new clubs and meetup groups to see who's there
+  - easy for kids to go to parks & playgrounds on their own, without needing a ride
 
 * **Convenient** &mdash; easy access to:
   - school & work
@@ -614,23 +614,23 @@ Significantly increased mobility & kinematic range means that it's easier to go 
   - dentists & doctors
   - libraries & museums
   - [long tail](#glossary:long-tail) destinations &mdash; including _That One Unusual Thing_ that most people wouldn't care about, but that you really want to go to:
-    - a monthly Renaissance Faire meetup
-    - a weekly Burning Man art car workshop
-    - a maker space with an Atomic Force Microscope
-    - etc.
+    * a monthly Renaissance Faire meetup
+    * a weekly Burning Man art car workshop
+    * a maker space with an Atomic Force Microscope
+    * etc.
 
 ### <a name="durable"></a>Durable, reliable & resilient
 
 By striving for simplicity, these new designs avoid using lots of "fragile" technologies, like elevators and traffic lights. 
 
 * **Durable** & **reliable** 
-  * The impossible design is a more reliable design, because it has fewer parts that can break, and fewer parts that need power sources. It has a transportation system that can be run by human power alone, if necessary. That's one of the advantages of getting rid of all the traffic lights, buses, subway cars, automobiles, taxis, elevators, escalators, delivery drones, etc.
+  - The impossible design is a more reliable design, because it has fewer parts that can break, and fewer parts that need power sources. It has a transportation system that can be run by human power alone, if necessary. That's one of the advantages of getting rid of all the traffic lights, buses, subway cars, automobiles, taxis, elevators, escalators, delivery drones, etc.
 
   > "even when a [New York City subway] station has an elevator, workers have struggled to keep them working properly. Only about 94 percent of elevators were available in August, according to the transit agency. The rate is worse for escalators -- 87 percent were working." [^fitzsimmons]
 
 
 * **Resilient** 
-  * The new design is intended to be much more resilient after a natural disaster like an earthquake, hurricane, or flood. It should be possible to evacuate a building quickly in an emergency, even when the power is out. It should be possible to evacuate a city quickly without running into problems with downed power lines and traffic lights that have gone dark.
+  - The new design is intended to be much more resilient after a natural disaster like an earthquake, hurricane, or flood. It should be possible to evacuate a building quickly in an emergency, even when the power is out. It should be possible to evacuate a city quickly without running into problems with downed power lines and traffic lights that have gone dark.
 
 
 
@@ -640,35 +640,37 @@ By striving for simplicity, these new designs avoid using lots of "fragile" tech
 A city should provide for a good life for the people who live in it and work in it. 
 
 * **Prosperous**
-  * When I say "prosperous", I don't mean Wall Street bankers with vacation homes in the Hamptons. I mean prosperity in the sense of kids who get to go to good schools, teachers who have the books they need, parks with playgrounds and basketball courts, libraries with books & wifi, parents with jobs and health insurance, and jobs with safety standards and protective equipment. These are things that are common in places like rich European countries, and that can become more and more common everywhere in the world. 
+  - When I say "prosperous", I don't mean Wall Street bankers with vacation homes in the Hamptons. I mean prosperity in the sense of kids who get to go to good schools, teachers who have the books they need, parks with playgrounds and basketball courts, libraries with books & wifi, parents with jobs and health insurance, and jobs with safety standards and protective equipment. These are things that are common in places like rich European countries, and that can become more and more common everywhere in the world. 
 
 * **Green growth**
-  * Global poverty is a serious problem, and economic growth is a force for good, so long as the economic growth is "green growth" and so long as GDP growth goes up while carbon footprint goes down, habitat restoration use goes up, and Gini coefficients go down.
+  - Global poverty is a serious problem, and economic growth is a force for good, so long as the economic growth is "green growth" and so long as GDP growth goes up while carbon footprint goes down, habitat restoration use goes up, and Gini coefficients go down.
 
 * **Kinematic windfall**
-  * The impossible city design is intended to create cities that **thrive economically** compared to similarly-sized typical cities. The impossible design strives to maximize mobility and kinematic range, with the goal of harvesting a 15% windfall in wages, wealth, patents, land value, etc. See [chapter 2](#2).
+  - The impossible city design is intended to create cities that **thrive economically** compared to similarly-sized typical cities. The impossible design strives to maximize mobility and kinematic range, with the goal of harvesting a 15% windfall in wages, wealth, patents, land value, etc. See [chapter 2](#2).
 
 
 ### <a name="freedom"></a>Free, fair & friendly
 
-* **Freedom.**
-  - free-range kids
-  - travel without a car & without government intervention
+A city design should not inadvertantly restrict people's freedoms or obstruct fair access.
 
-* **Fairness.**
+* **Freedom**
+  - freedom of movement for everyone in the community 
+  - free-range kids &mdash; who can meet up to play at the park without needing a ride, and who can walk to school without learning how to look both ways before crossing a street
+  - freedom to travel without being asked for a license & registration
+
+* **Fair**
   - a **level playing field** for urban mobility
   - equal access to safe passage for everyone through all public space
-  - full mobility for women [^gadepalli]
-  - no "pink tax" for women [^mccasland]
-  - no "trip-range" tax for women [^gonzalez]
-  - more **kid-friendly**
-  - more **elder-friendly**
-  - more **disability-friendly**
+  - full mobility for women[^gadepalli], with no "pink tax"[^mccasland] & no "trip-range" tax[^gonzalez]
 
-* **Accessibility.**
+* **Friendly**
+  - more **kid-friendly** streets
+  - more **elder-friendly**
+  - more **disability-friendly**, with safer streets for people with limited vision or limited hearing, and better accessibility for people in wheelchairs
+
+* **Accessible**
   - stroller-friendly buildings and stroller-friendly transportation
   - wheelchair accessible routes to every part of every building
-  - make everything accessible to a variety of wheeled vehicles, from delivery robots to ambulance gurnies
   - predictable navigation for people with limited vision
   - frequent pathside seating for elderly people
 
