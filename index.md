@@ -549,23 +549,23 @@ TODO:
 
 If you're building from scratch, then with a few good design choices it's possible to build an urban layout that **works far better** than traditional cities do. New designs can be more:
 
-  (A) **[Affordable](#affordability)**
+    (A) **[Affordable](#affordability)**
 
-  (B) ~~this space intentionally left blank~~
+    (B) ~~this space intentionally left blank~~
 
-  (C) **[Convivial & convenient](#convenience)**
+    (C) **[Convivial & convenient](#convenience)**
 
-  (D) **[Durable, reliable & resilient](#resilient)**
+    (D) **[Durable, reliable & resilient](#resilient)**
  
-  (E) **[Economicly prosperous](#economic-prosperity)**
+    (E) **[Economicly prosperous](#economic-prosperity)**
 
-  (F) **[Free, fair & friendly](#freedom)**
+    (F) **[Free, fair & friendly](#freedom)**
 
-  (G) **[Greener & cleaner](#greener)**
+    (G) **[Greener & cleaner](#greener)**
 
-  (H) **[Healthier & safer](#safer)**
+    (H) **[Healthier & safer](#safer)**
 
-  (I) **[Impossible](#impossible)**
+    (I) **[Impossible](#impossible)**
 
 
 ### <a name="affordability"></a>Affordable
@@ -588,16 +588,17 @@ There's no point in designing a new urban development that is too expensive to b
 
 ### <a name="convenience"></a>Convivial & convenient
 
-It should be:
-  * easy to go see your friends
+Significantly increased mobility & kinematic range means that it's easier to go see people and easier to get to more places.
+
+* **Convivial**
+  * easy to go see your friends & family
   * easy to do an errand for your mom
   * easy to go to weird new clubs and meetup groups to see who's there
+  * easy for kids to go to parks & playgrounds on their own, without needing a ride
 
-* **Proximity.** Everything within 30 minutes
+* **Convenient** &mdash; easy access to
   - school & work
-  - friends & family
   - groceries & restaurants
-  - parks & playgrounds
   - gyms & laundromats
   - dentists & doctors
   - libraries & museums
