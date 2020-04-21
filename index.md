@@ -776,7 +776,7 @@ An impossible city should be **safer** and more fun to live in.
 
 These questions, about how to design better cities, are especially important right now, at this moment in history, for a few reasons.
 
-* Urban population is about to increase by 60%, with [2.5 billion more people](#more-people).
+* Urban population is about to increase by 60%, with [2.5 billion more people](#more-people) incoming.
 * Urban construction is about to boom, with a projected [doubling of total built space](#more-buildings).
 * [Cities are getting larger](#bigger-cities)
 * Large cities are increasingly suffering from congestion and [kinematic lag](#kinematic-lag).
@@ -807,7 +807,7 @@ Existing cities are **too few and too small**, by a factor of two, for everyone 
 
 ### <a name="bigger-cities"></a>Bigger cities
 
-Currently, the world has about 33 "megacities", where a megacity is defined as an urban agglomerations with more than 10 million inhabitants. The world is projected to have 43 megacities by 2030, and about 50 megacities by 2050, with an additional 125 large-but-not-mega cities in that land in the range between 4 million and 10 million inhabitants.[^ontariotech]
+Currently, the world has about 33 "megacities", where a megacity is defined as an urban agglomerations with more than 10 million inhabitants. The world is projected to have 43 megacities by 2030, and about **50 megacities by 2050**, with an additional 125 large-but-not-mega cities in that land in the range between 4 million and 10 million inhabitants.[^ontariotech]
 
 
 ### <a name="kinematic-lag"></a>Kinematic lag
