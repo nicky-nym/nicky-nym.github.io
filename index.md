@@ -573,7 +573,13 @@ If you're building from scratch, then with a few good design choices it's possib
 There's no point in designing a new urban development that is too expensive to build, and no point in building a new urban development that is too expensive for people to afford to move to.
 
 * **Affordable to build**
-  * The impossible street design use conventional construction techniques and avoids the most expensive transportation options. No automobiles (at $20,000+ each), no buses (at $500,000 each, or $8,000+ per passenger seat), no subway cars (at $10,000+ per passenger seat), and no subway tunnels (at $100,000,000+ per mile).
+  * The impossible street design use conventional construction techniques and avoids the most expensive transportation options: 
+    * no buses (at $500,000 each, or $8,000+ per passenger seat)
+    * no subway cars (at $10,000+ per passenger seat)
+    * no subway tunnels (at $100,000,000+ per mile)
+    * no automobiles (at $20,000+ each)
+    * no multi-story parking garage structures (at $20,000 per parking space)[^carl_walker]
+    * no sprawling suburban road network
   * The design lends itself to mid-rise density neighborhoods. Mid-rise housing, for example in buildings with "4-over-1" podium construction, is less expensive to than skyscrapers, and less expensive than even ten-story buildings with concrete service cores. Mid-rise housing is also less expensive than detached single family housing. The impossible street design also offers an optional extra feature that could replace ordinary sidewalks with inclined ramps, which would offer additional cost savings by conserving usable floorspace square-footage (vs. circulation overhead) while entirely obviating the need for elevators, escalators, and stairs. 
   * For new developments built on greenfield sites, land should cost less than what it would cost in an established city. For new developments that are large, the development may gain economies of scale, in land acquisition, regulatory approval for planning and permitting, financing, and construction costs & timelines.
 
@@ -1676,6 +1682,10 @@ There are established public-sector mechanisms for funding development projects,
 
 
 
+
+<!-- References, Chapter 3 -->
+
+[^carl_walker]: ["Parking Structure Cost Outlook for 2017"](https://denver.streetsblog.org/wp-content/uploads/sites/14/2017/10/2017-Cost-Article.pdf). Gary Cudney, Carl Walker.  
 
 
 
