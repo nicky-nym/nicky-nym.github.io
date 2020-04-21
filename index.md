@@ -549,28 +549,28 @@ TODO:
 
 If you're building from scratch, then with a few good design choices it's possible to build an urban layout that **works far better** than traditional cities do. New designs can be more:
 
-    (A) **[Affordable](#affordability)**
+  (A) **[Affordable](#affordability)**
 
-    (B) ~~this space intentionally left blank~~
+  (B) ~~Blank (this space intentionally left blank)~~
 
-    (C) **[Convivial & convenient](#convenience)**
+  (C) **[Convivial & convenient](#convenience)**
 
-    (D) **[Durable, reliable & resilient](#resilient)**
+  (D) **[Durable, reliable & resilient](#resilient)**
  
-    (E) **[Economicly prosperous](#economic-prosperity)**
+  (E) **[Economicly prosperous](#economic-prosperity)**
 
-    (F) **[Free, fair & friendly](#freedom)**
+  (F) **[Free, fair & friendly](#freedom)**
 
-    (G) **[Greener & cleaner](#greener)**
+  (G) **[Greener & cleaner](#greener)**
 
-    (H) **[Healthier & safer](#safer)**
+  (H) **[Healthier & safer](#safer)**
 
-    (I) **[Impossible](#impossible)**
+  (I) **[Inconceivable](#inconceivable)**
 
 
 ### <a name="affordability"></a>Affordable
 
-There's no point in designing a new urban development that is too expensive to build, or building a new urban development that is too expensive for people to afford to move to.
+There's no point in designing a new urban development that is too expensive to build, and no point in building a new urban development that is too expensive for people to afford to move to.
 
 * **Affordable to build**
   * The impossible street design use conventional construction techniques and avoids the most expensive transportation options. No automobiles (at $20,000+ each), no buses (at $500,000 each, or $8,000+ per passenger seat), no subway cars (at $10,000+ per passenger seat), and no subway tunnels (at $100,000,000+ per mile).
@@ -588,7 +588,7 @@ There's no point in designing a new urban development that is too expensive to b
 
 ### <a name="convenience"></a>Convivial & convenient
 
-Significantly increased mobility & kinematic range means that it's easier to go see people and easier to get to more places.
+Significantly increased mobility & kinematic range means that it's easier to go see people and easier to get to more places. A mobile city is a city with lots of social opportunities and social prosperity.
 
 * **Convivial**
   * easy to go see your friends & family
@@ -596,7 +596,7 @@ Significantly increased mobility & kinematic range means that it's easier to go 
   * easy to go to weird new clubs and meetup groups to see who's there
   * easy for kids to go to parks & playgrounds on their own, without needing a ride
 
-* **Convenient** &mdash; easy access to
+* **Convenient** &mdash; easy access to:
   - school & work
   - groceries & restaurants
   - gyms & laundromats
@@ -610,21 +610,17 @@ Significantly increased mobility & kinematic range means that it's easier to go 
 
 ### <a name="resilient"></a>Durable, reliable & resilient
 
-* **Durable** & **reliable** &mdash; infrastructure that is durable and easy to maintain.
+By striving for simplicity, these new designs simply avoid using lots of "fragile" technologies, like elevators and traffic lights. 
+
+* **Durable** & **reliable** 
+  * The impossible design is a more reliable design, because it has fewer parts that can break, and fewer parts that need power sources. It has a transportation system that can be run by human power alone, if necessary. That's one of the advantages of getting rid of all the traffic lights, buses, subway cars, automobiles, taxis, elevators, escalators, delivery drones, etc.
 
   > "even when a [New York City subway] station has an elevator, workers have struggled to keep them working properly. Only about 94 percent of elevators were available in August, according to the transit agency. The rate is worse for escalators -- 87 percent were working." [^fitzsimmons]
 
 
-* **Simpler** & **more resilient** 
-  * more resilient after a natural disaster or other emergency
-  * systems that are simpler, which helps keep them more resilient, durable, reliable, and affordable.
+* **Resilient** 
+  * The new design is intended to be much more resilient after a natural disaster like an earthquake, hurricane, or flood. It should be possible to evacuate a building quickly in an emergency, even when the power is out. It should be possible to evacuate a city quickly without running into problems with downed power lines and traffic lights that have gone dark.
 
-* Cities should be designed to be resilient after natural disasters and other emergencies. For example, it should be possible to evacuate a building quickly even when the power is out. And it should be safe to quickly reopen as many buildings as possible after an earthquake, hurricane, or flood. These are goals that can be furthered by simply avoiding "fragile" technologies, like elevators, and traffic lights. 
-
-  > "Resiliency is the ability to bounce back better, but also the ability to not have to bounce back as much." 
-  > &mdash; Sylvester Wong, Vice President of AECOM[^new-clark]
-
-  > "Because its location and design were deliberately chosen to withstand natural calamities, New Clark City will serve as the government’s continuity hub, disaster and risk recovery center – an alternative capital city in case a disaster strikes Manila"[^new-clark]
 
 
 
@@ -1457,6 +1453,12 @@ tan(27 degrees) = 0.51 => 51% grade = 51 foot rise per 100 foot run
 > "...the population in Wuhan is 8.3 million, much greater than that in Sheffield, at 0.6 million. ... For Wuhan, given that the number of vehicles per person is still much lower than that in Sheffield by tenfold ... it is very interesting to note that the average noise levels in all of the sampled areas are lower than those in Sheffield by 2dBA to 11dBA. ... In terms of L<sub>min</sub> and L<sub>90</sub> ... the difference is even greater -- for example, up to 15dBA in the area with a motorway."[^kang] &mdash; Jian Kang
 
 
+### <a name="resiliency"></a>Resiliency
+
+  > "Resiliency is the ability to bounce back better, but also the ability to not have to bounce back as much." 
+  > &mdash; Sylvester Wong, Vice President of AECOM[^new-clark]
+
+  > "Because its location and design were deliberately chosen to withstand natural calamities, New Clark City will serve as the government’s continuity hub, disaster and risk recovery center – an alternative capital city in case a disaster strikes Manila"[^new-clark]
 
 
 ### <a name="growth"></a>Global urban growth
