@@ -567,7 +567,7 @@ If you're building from scratch, then with a few good design choices it's possib
 
   <span class="minor">(G)</span> **[Greener & cleaner](#greener)**
 
-  <span class="minor">(H)</span> **[Healthier & safer](#safer)**
+  <span class="minor">(H)</span> **[Healthier & safer](#healthier)**
 
   <span class="minor">(I)</span> **[Inconceivable](#inconceivable)**
 
@@ -693,7 +693,7 @@ Compared to a conventional city, the impossible design should provide:
   * see [noise](#noise)
 
 
-### <a name="safer"></a>Healthier & safer
+### <a name="healthier"></a>Healthier & safer
 
 An impossible city should be **safer** and more fun to live in.
 
