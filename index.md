@@ -763,15 +763,23 @@ An impossible city should be **safer** and more fun to live in.
 
 
 
+
+
+
+
 <div class="hr"><a name="4"></a></div>
 
 ## <span class="chapter">_Chapter 4_ &mdash; Why this matters now</span>
 
+These questions, about how to design better cities, are especially important right now, at this moment in history, for a few reasons.
 
+* Urban population is about to double.
+* Urban construction is about to double.
+* Cities are getting larger, and are increasingly suffering from congestion and kinematic lag.
+* Kinematic lag is already a problem that artificially depresses global GDP by trillions of dollars per year, slowing the rise from poverty of billions of people.
+* If we start doing better city design now, in the next few decades **we can prevent additional losses to kinematic lag** on the order of tens of trillions of dollars per year
 
-```
-TODO: when new cities are being built from scratch, or when new suburbs or satellite cities are being developed, planners should consider designing them as "kinematic cities" 
-```
+There's no way to cheaply or practically re-build existing cities, or move people _en masse_ from existing cities to new cities, but, when new cities, new suburbs, and new satellite developments are being being planned and built from scratch, it would be slightly crazy to fail to try designing them as "kinematic cities".
 
 
 ### <a name="incoming-urban-influx"></a>Incoming urban influx
