@@ -547,8 +547,7 @@ TODO:
 
 ## <span class="chapter">_Chapter 3_ &mdash; Bonus features beyond mobility</span>
 
-If you're building from scratch, then with a few good design choices it should be possible to build an urban layout that **works far better** than normal conventional cities do.
-
+If you're building from scratch, then with a few good design choices it's possible to build an urban layout that **works far better** than traditional cities do. New designs can be:
 
 * **[greener & cleaner](#greener)**
 * more **[resilient, durable & reliable](#resilient)**
