@@ -150,11 +150,11 @@ h3 {
       <details>
         <summary><a href="#3">3. Bonus features beyond mobility</a></summary>
         <ul>
-          <li>more <a href="#affordable">Affordable</a></li>
-          <li>more <a href="#convenient">Convivial & convenient</a></li>
-          <li>more <a href="#durable">Durable, reliable & resilient</a></li>
-          <li>more <a href="#economicly-prosperous">Economicly prosperous</a></li>
-          <li>more <a href="#freedom">Free, fair & friendly</a></li>
+          <li><a href="#affordable">Affordable</a></li>
+          <li><a href="#convenient">Convivial & convenient</a></li>
+          <li><a href="#durable">Durable, reliable & resilient</a></li>
+          <li><a href="#economicly-prosperous">Economicly prosperous</a></li>
+          <li><a href="#freedom">Free, fair & friendly</a></li>
           <li><a href="#greener">Greener & cleaner</a></li>
           <li><a href="#healthier">Healthier & safer</a></li>
         </ul>
