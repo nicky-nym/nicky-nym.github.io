@@ -646,6 +646,9 @@ A city should provide for a good life for the people who live in it and work in 
 * **Kinematic windfall**
   - The impossible city design is intended to create cities that **thrive economically** compared to similarly-sized typical cities. The impossible design strives to maximize mobility and kinematic range, with the goal of harvesting a 15% windfall in wages, wealth, patents, land value, etc. See [chapter 2](#2).
 
+> Prud'homme and Lee's paper, titled "Size, Sprawl, Speed and the Efficiency of Cities," shows that productivity per worker is closely correlated to the average number of jobs per worker that are reachable in less than 60 minutes. In Korean cities, a 10 percent increase in the number of jobs accessible per worker corresponds to a 2.4 percent increase in workers' productivity.[^bertaud]
+
+
 
 ### <a name="freedom"></a>Free, fair & friendly
 
@@ -773,25 +776,39 @@ An impossible city should be **safer** and more fun to live in.
 
 These questions, about how to design better cities, are especially important right now, at this moment in history, for a few reasons.
 
-* Urban population is about to double.
-* Urban construction is about to double.
-* Cities are getting larger, and are increasingly suffering from congestion and kinematic lag.
-* Kinematic lag is already a problem that artificially depresses global GDP by trillions of dollars per year, slowing the rise from poverty of billions of people.
+* Urban population is about to increase by 60%, with [2.5 billion more people](#more-people).
+* Urban construction is about to boom, with a projected [doubling of total built space](#more-buildings).
+* [Cities are getting larger](#bigger-cities)
+* Large cities are increasingly suffering from congestion and [kinematic lag](#kinematic-lag).
+* Kinematic lag is [already a problem](#lost-opportunity) that artificially depresses global GDP by trillions of dollars per year, slowing the rise from poverty of billions of people.
 * If we start doing better city design now, in the next few decades **we can prevent additional losses to kinematic lag** on the order of tens of trillions of dollars per year
 
 There's no way to cheaply or practically re-build existing cities, or move people _en masse_ from existing cities to new cities, but, when new cities, new suburbs, and new satellite developments are being being planned and built from scratch, it would be slightly crazy to fail to try designing them as "kinematic cities".
 
 
-### <a name="incoming-urban-influx"></a>Incoming urban influx
+### <a name="more-people"></a>More people
 
-In the next 30 years, **by 2050**, we expect another **2.5 billion more people** to be living in cities.[^growth]
+In the next 30 years, **by 2050**, we expect urban population to grow by 60%, with another **2.5 billion more people** living in cities.[^growth]
+
+  |---
+  | Year | Urban<br>portion<br>of world | Total urban population[^un-desa] |
+  |-:|:-:|:-
+  | 1950 |     | 0.75 billion
+  | 2018 | 55% | 4.2 billion
+  | 2050 | 68% | 6.7 billion
+  |---
+
+
+### <a name="more-buildings"></a>More buildings
 
 Existing cities are **too few and too small**, by a factor of two, for everyone who will live in them by 2050. To handle the influx, cities will build another **2.5 trillion square feet** of new buildings. These numbers can be hard to believe at first. For different projects by different authors, see the [notes about urban growth](#growth) below.
 
-```
-TODO: important quote?
-```
-> Prud'homme and Lee's paper, titled "Size, Sprawl, Speed and the Efficiency of Cities," shows that productivity per worker is closely correlated to the average number of jobs per worker that are reachable in less than 60 minutes. In Korean cities, a 10 percent increase in the number of jobs accessible per worker corresponds to a 2.4 percent increase in workers' productivity.[^bertaud]
+
+
+### <a name="bigger-cities"></a>Bigger cities
+
+Currently, the world has about 33 "megacities", where a megacity is defined as an urban agglomerations with more than 10 million inhabitants. The world is projected to have 43 megacities by 2030, and about 50 megacities by 2050, with an additional 125 large-but-not-mega cities in that land in the range between 4 million and 10 million inhabitants.[^ontariotech]
+
 
 ### <a name="kinematic-lag"></a>Kinematic lag
 
@@ -799,9 +816,12 @@ TODO: important quote?
 
 As a city grows, at first, kinematic range increases as population increases, perhaps in a roughly linear relationship. Unfortunately, as cities get too big, they start to sprawl and suffer from traffic congestion. Eventually, there's a **kinematic lag**, where the kinematic range stops its 1-to-1 tracking of population growth, and begins to lag behind.
 
-This whole kinematic cities proposal is all about trying to reduce that kinematic lag in larger cities. The proposed kinematic city design is an attempt to keep increasing a city's kinematic range even as its population grows in the millions.
+This whole impossible cities proposal is all about trying to reduce that kinematic lag in larger cities. The proposed kinematic city design is an attempt to keep increasing a city's kinematic range even as its population grows in the millions. 
 
-### <a name="spilt-milk"></a>Spilt milk
+As the world adds more and more large cities and megacities, kinematic lag becomes a bigger and bigger problem, kinematic range becomes more important, and design ideas like the impossible city design become more important.
+
+
+### <a name="lost-opportunity"></a>Lost opportunity
 
 Take the **San Francisco Bay Area** as an example. The Bay Area is a conurbation that encompasses major cities like San Francisco and San Jose, as well as lots of smaller cities, like Oakland, Berkeley, and Mountain View. The entire population is about 8 million people, depending where you draw the boundaries. 
 
@@ -1722,6 +1742,10 @@ There are established public-sector mechanisms for funding development projects,
 
 
 <!-- References, Chapter 4 -->
+
+[^un-desa]: ["68% of the world population projected to live in urban areas by 2050, says UN"](https://www.un.org/development/desa/en/news/population/2018-revision-of-world-urbanization-prospects.html). _United Nations, Department of Economic and Social Affairs_. 16 May 2018.
+
+[^ontariotech]: ["GCIF Working Paper No. 4: Population predictions of the 101 largest cities in the 21st century."](https://sites.ontariotechu.ca/sustainabilitytoday/urban-and-energy-systems/Worlds-largest-cities/population-projections/city-population-2050.php). Hoornweg & Pope. 
 
 [^facc]: ["Key Facts"](https://www.faccsf.com/info/key-facts.html). _French American Chamber of Commerce_.
 
