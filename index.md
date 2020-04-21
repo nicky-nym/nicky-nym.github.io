@@ -554,13 +554,13 @@ TODO:
 
 If you're building from scratch, then with a few good design choices it's possible to build an urban layout that **works far better** than traditional cities do. New designs can be more:
 
-  _(A)_ **[Affordable](#affordable)**
+  <span class="minor">(A)</span> **[Affordable](#affordable)**
 
-  _(B)_ ~~Blank (this space intentionally left blank)~~
+  <span class="minor">(B)</span> ~~Blank (this space intentionally left blank)~~
 
-  _(C)_ **[Convivial & convenient](#convenient)**
+  <span class="minor">(C)</span> **[Convivial & convenient](#convenient)**
 
-  _(D)_ **[Durable, reliable & resilient](#durable)**
+  <span class="minor">(D)</span> **[Durable, reliable & resilient](#durable)**
  
   _(E)_ **[Economicly prosperous](#economicly-prosperous)**
 
@@ -637,11 +637,16 @@ By striving for simplicity, these new designs avoid using lots of "fragile" tech
 
 ### <a name="economicly-prosperous"></a>Economicly prosperous
 
-A city should provide for a good life for the people who live in it and work in it. That's what I mean when I talk about "prosperity". I don't mean prosperity in the sense of Wall Street bankers with vacation homes in the Hamptons. I mean prosperity in the sense of kids who get to go to good schools, teachers who have the books they need, parks with playgrounds and basketball courts, libraries with books & wifi, parents with jobs and health insurance, and jobs with safety standards and protective equipment. These are things that are common in places like rich European countries, and that can become more and more common everywhere in the world. 
+A city should provide for a good life for the people who live in it and work in it. 
 
-Global poverty is a serious problem, and economic growth is a force for good, so long as the economic growth is "green growth" and so long as GDP growth goes up while carbon footprint goes down, habitat restoration use goes up, and Gini coefficients go down.
+* **Prosperous**
+  * When I say "prosperous", I don't mean Wall Street bankers with vacation homes in the Hamptons. I mean prosperity in the sense of kids who get to go to good schools, teachers who have the books they need, parks with playgrounds and basketball courts, libraries with books & wifi, parents with jobs and health insurance, and jobs with safety standards and protective equipment. These are things that are common in places like rich European countries, and that can become more and more common everywhere in the world. 
 
-The impossible city design is intended to create cities that **thrive economically** compared to similarly-sized typical cities. The impossible design strives to maximize mobility and kinematic range, with the goal of harvesting a 15% windfall in wages, wealth, patents, land value, etc. See [chapter 2](#2).
+* **Green growth**
+  * Global poverty is a serious problem, and economic growth is a force for good, so long as the economic growth is "green growth" and so long as GDP growth goes up while carbon footprint goes down, habitat restoration use goes up, and Gini coefficients go down.
+
+* **Kinematic windfall**
+  * The impossible city design is intended to create cities that **thrive economically** compared to similarly-sized typical cities. The impossible design strives to maximize mobility and kinematic range, with the goal of harvesting a 15% windfall in wages, wealth, patents, land value, etc. See [chapter 2](#2).
 
 
 ### <a name="freedom"></a>Free, fair & friendly
