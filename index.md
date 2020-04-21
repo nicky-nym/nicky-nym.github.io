@@ -561,15 +561,19 @@ If you're building from scratch, then with a few good design choices it's possib
 
 ### <a name="greener"></a>Greener & cleaner
 
-* **smaller carbon footprint** per capita
-* **more trees**
-* **better air quality**
-* **less noise**
+* **Lower carbon footprint** per capita
+
+* **More trees**
+
+* **Better air quality**
+
+* **Less noise**
 
 
 ### <a name="resilient"></a>More resilient, durable & reliable
 
-* **simpler** &mdash; systems that are simpler, which helps keep them more resilient, durable, reliable, and affordable.
+* **Simpler**
+  * systems that are simpler, which helps keep them more resilient, durable, reliable, and affordable.
 
 * **more resilient** after a natural disaster or other emergency
 
@@ -1635,7 +1639,7 @@ There are established public-sector mechanisms for funding development projects,
 
 [^speed-limits]: ["Manhattan Speed Limits"](https://www1.nyc.gov/html/dot/downloads/pdf/current-pre-vision-zero-speed-limit-maps.pdf).  _NYC Department of Transportation_.
 
-[^kang]: ["Sound Environment: High- versus Low-Density Cities"], by Jian Kang, Chapter 12 of ["Designing High-Density Cities"](), edited by Edward Ng
+[^kang]: ["Sound Environment: High- versus Low-Density Cities"](https://books.google.com/books?id=oThZvLKMnCYC&pg=PA163&lpg=PA163&dq=Sound+Environment:+High-+versus+Low-Density+Cities&source=bl&ots=cQs-vnAVTP&sig=ACfU3U17dCObgKhnwADmNIqxKvDQW8NUGA&hl=en&sa=X&ved=2ahUKEwjg_4mKuPjoAhVTHzQIHQPBB8QQ6AEwAHoECAoQAQ#v=onepage&q=Sound%20Environment%3A%20High-%20versus%20Low-Density%20Cities&f=false), by Jian Kang, Chapter 12 of ["Designing High-Density Cities"](https://www.amazon.com/Designing-High-Density-Cities-Environmental-Sustainability/dp/1844074609), edited by Edward Ng
 
 [^fujiyama]: ["An Explicit Study on Walking Speeds of Pedestrians on Stairs"](https://discovery.ucl.ac.uk/id/eprint/1243/1/2004_21.pdf), Taku Fujiyama and Nick Tyler, _University College London_.
 
