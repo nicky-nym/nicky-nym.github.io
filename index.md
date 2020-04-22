@@ -913,14 +913,14 @@ Unfortunately, trying to double the kinematic range of even a single city is pro
 ## <span class="chapter">_Chapter 5_ &mdash; Why this is impossible</span>
 
 We know that:
-* The world desparately needs more cities & bigger cities. (See <a href="#4">chapter 4</a>)
-* We can design new 21st century cities that would work far better for poeple than the default 20th century designs. (See chapters <a href="#1">1</a>, <a href="#2">2</a> & <a href="#3">3</a>)
+* The world is rapidly building more cities & bigger cities. (See <a href="#4">chapter 4</a>)
+* For new urban areas, we could design new 21st century transportation networks that would work far better for poeple than the default 20th century designs. (See chapters <a href="#1">1</a>, <a href="#2">2</a> & <a href="#3">3</a>)
 
 Unfortunately, actually building cities this way is probably impossible, because of:
 * <a href="#network-effect">Network effect problems</a>
 * <a href="#location">Location problems</a>
 * <a href="#cost">Cost problems</a>
-* <a href="#land-value-capture">land value capture & fiscal framework problems</a>
+* <a href="#land-value-capture">Land value capture & fiscal framework problems</a>
 * <a href="#bootstrapping">Bootstrapping problems</a>
 
 
