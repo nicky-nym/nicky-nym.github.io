@@ -792,7 +792,7 @@ These questions, about how to design better cities, are especially important rig
 * **[The rising current opportunities](#current-opportunities)**
   - If we start doing better city design now, in the next few decades **we can prevent additional losses** from kinematic lag on the order of **tens of trillions of dollars per year**.
 
-There's no way to cheaply or practically re-build existing cities, or move people _en masse_ from existing cities to new cities, but, when new cities, new suburbs, and new satellite developments are being being planned and built from scratch, it would be slightly crazy to fail to try designing them as "kinematic cities".
+There's no way to cheaply or practically re-build existing cities, or move people _en masse_ from existing cities to new cities, but, when new cities, new suburbs, and new satellite developments are being planned and built from scratch, it would be slightly crazy to fail to try designing them as "kinematic cities".
 
 
 ### <a name="population-boom"></a>Urban population boom
