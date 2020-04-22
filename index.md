@@ -839,7 +839,7 @@ As a rough estimate, let's say that from any room in any random building in the 
 
 If we could just improve your travel times, we could quadruple your KR<sub>30</sub> range. If kinematic range is in fact what drives the [15% superlinear scaling](#superlinear) effect, then doubling the KR<sub>30</sub> for the Bay Area would yield a 15% windfall in average hourly wages, patents per capita, GDP, etc. Doubling KR<sub>30</sub> gets you a 15% windfall, and quadrupling gets you **a 30% windfall** (actually more like 32%, because 1.15<sup>^2</sup> is 1.3225).
 
-**GDP.** The San Francisco Bay Area GDP was about $535 billion in 2019.[^facc]  A 30% increase would be an **additional $160 billion annual GDP**.
+**GDP.** The San Francisco Bay Area GDP was about $535 billion in 2019.[^facc]  A 30% annual increase would be an **additional $160 billion annual GDP**.
 
 **Real estate.** The San Francisco Bay Area has about $1.3 trillion of residential real estate. A 30% increase in value would be a $400 billion increase, just for the residential portion of the real estate. Commercial real estate would be roughly another $400 billion. There would also be additional floor space in the roadway buildings, which might amount to another $200 billion, for a total of about $1 trillion of additional real estate value.
 
