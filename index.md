@@ -162,11 +162,14 @@ h3 {
     </div>
     <div>
       <details>
-        <summary><a href="#4">4. This matters now</a></summary>
+        <summary><a href="#4">4. Why this matters now</a></summary>
         <ul>
-          <li><a href="#incoming-urban-influx">Incoming urban influx</a></li>
-          <li><a href="#spilt-milk">Spilt milk</a></li>
-          <li><a href="#trillion">Trillion dollar opportunities</a></li>
+          <li><a href="#population-boom">Urban population boom</a></li>
+          <li><a href="#construction-boom">Urban construction boom</a></li>
+          <li><a href="#megacities">"Megacity" urban agglomerations</a></li>
+          <li><a href="#kinematic-lag">Kinematic lag</a></li>
+          <li><a href="#lost-opportunities">Lost opportunities</a></li>
+          <li><a href="#current-opportunities">Current opportunities</a></li>
         </ul>
       </details>
     </div>
@@ -776,17 +779,17 @@ An impossible city should be **safer** and more fun to live in.
 
 These questions, about how to design better cities, are especially important right now, at this moment in history, for a few reasons.
 
-* Urban population is about to increase by 60%, with [2.5 billion more people](#more-people) incoming.
-* Urban construction is about to boom, with a projected [doubling of total built space](#more-buildings).
-* [Cities are getting larger](#bigger-cities)
-* Large cities are increasingly suffering from congestion and [kinematic lag](#kinematic-lag).
-* Kinematic lag is [already a problem](#lost-opportunity) that artificially depresses global GDP by trillions of dollars per year, slowing the rise from poverty of billions of people.
-* If we start doing better city design now, in the next few decades **we can prevent additional losses to kinematic lag** on the order of tens of trillions of dollars per year
+* **[The urban population boom](#population-boom)** &mdash; Urban population is about to increase by 60%, with **2.5 billion more people** incoming.
+* **[The urban construction boom](#construction-boom)** &mdash; There is a projected **doubling of total built space**.
+* **[The rise of "megacity" urban agglomerations](#megacities)
+* **[The onset of kinematic lag](#kinematic-lag)** &mdash; Large cities are increasingly suffering from congestion and kinematic lag.
+* **[The mounting lost opportunities](#lost-opportunities)** &mdash; Kinematic lag is already a problem that artificially depresses global GDP by trillions of dollars per year, slowing the rise from poverty of billions of people.
+* **[The rising current opportunities](#current-opportunities)** &mdash; If we start doing better city design now, in the next few decades **we can prevent additional losses** from kinematic lag on the order of **tens of trillions of dollars per year**.
 
 There's no way to cheaply or practically re-build existing cities, or move people _en masse_ from existing cities to new cities, but, when new cities, new suburbs, and new satellite developments are being being planned and built from scratch, it would be slightly crazy to fail to try designing them as "kinematic cities".
 
 
-### <a name="more-people"></a>More people
+### <a name="population-boom"></a>Urban population boom
 
 In the next 30 years, **by 2050**, we expect urban population to grow by 60%, with another **2.5 billion more people** living in cities.[^growth]
 
@@ -799,13 +802,12 @@ In the next 30 years, **by 2050**, we expect urban population to grow by 60%, wi
   |---
 
 
-### <a name="more-buildings"></a>More buildings
+### <a name="construction-boom"></a>Urban construction boom
 
 Existing cities are **too few and too small**, by a factor of two, for everyone who will live in them by 2050. To handle the influx, cities will build another **2.5 trillion square feet** of new buildings. These numbers can be hard to believe at first. For different projects by different authors, see the [notes about urban growth](#growth) below.
 
 
-
-### <a name="bigger-cities"></a>Bigger cities
+### <a name="megacities"></a>"Megacity" urban agglomerations
 
 Currently, the world has about 33 "megacities", where a megacity is defined as an urban agglomerations with more than 10 million inhabitants. The world is projected to have 43 megacities by 2030, and about **50 megacities by 2050**, with an additional 125 large-but-not-mega cities in that land in the range between 4 million and 10 million inhabitants.[^ontariotech]
 
@@ -821,7 +823,7 @@ This whole impossible cities proposal is all about trying to reduce that kinemat
 As the world adds more and more large cities and megacities, kinematic lag becomes a bigger and bigger problem, kinematic range becomes more important, and design ideas like the impossible city design become more important.
 
 
-### <a name="lost-opportunity"></a>Lost opportunity
+### <a name="lost-opportunities"></a>Lost opportunities
 
 Take the **San Francisco Bay Area** as an example. The Bay Area is a conurbation that encompasses major cities like San Francisco and San Jose, as well as lots of smaller cities, like Oakland, Berkeley, and Mountain View. The entire population is about 8 million people, depending where you draw the boundaries. 
 
@@ -835,13 +837,22 @@ If we could just improve your travel times, we could quadruple your KR<sub>30</s
 
 **Real estate.** The San Francisco Bay Area has about $1.3 trillion of residential real estate. A 30% increase in value would be a $400 billion increase, just for the residential portion of the real estate. Commercial real estate would be roughly another $400 billion. There would also be additional floor space in the roadway buildings, which might amount to another $200 billion, for a total of about $1 trillion of additional real estate value.
 
-
-Is it conceivable that the Bay Area could be re-engineered to quadruple travel ranges? Yes, but it would require a lot of changes: maybe a hyperloop, or a lot of Boring Company tunnels. It would be expensive, and it would take decades. For example:
+**Hope?** Is it conceivable that the Bay Area could be re-engineered to quadruple travel ranges? Yes, but it would require a lot of changes: maybe a hyperloop, or a lot of Boring Company tunnels. It would be expensive, and it would take decades. The Bay Area has already calcified, and for all practical purposes, big changes now are a pipe dreams. For context, here are a few examples of the giant cost of modest mobility improvements:
   * the 2013 Bay Bridge Eastern Span, from San Francisco to Oakland, took over a decade to build and cost $7 billion
   * the 1976 BART system was a comparable amount, if measured in today's dollars
   * the 2006 Big Dig in Boston cost $21 billion
 
-### <a name="trillion"></a>Trillion dollar opportunities
+
+### <a name="current-opportunities"></a>Current opportunities
+
+As of 2017, the worldwide gross national product (GNP) was about $80 trillion per year. Some of that GNP comes from rural activities, like farming, and other remote activities, like mining and fishing. But the majority, more than $40 trillion per year, comes from urban areas.
+
+By 2050, global GNP will probably roughly double, to about $160 trillion per year. By 2050, more than $120 trillion of that total will come from the urban areas. 
+
+Some of those "urban areas" are actually small towns with just a few thousand people, but increasingly, the majority of the urban population will be living in larger and larger cities, and those large cities also generate a disproportionately high amount of the total GNP. By 2050, about 16% of the world's population, 1.6 billion of the world's 9.8 billion people, will be living in the world's 175 largest cities, with 4 million to 40 million people each. A conservative estimate suggests those 175 cities will contribute more than $30 or $40 trillion per year to worldwide GNP.
+
+All of those 175 cities will suffer from kinematic lag. If we could intervene, and by 2050 we could somehow double the kinematic range in each of those cities, we could expect to yield a 15% kinematic windfall on the GNP from those cities. That would be an ongoing windfall of maybe $4 trillion to $6 trillion per year.
+
 
 ```
 TODO: more here about land value & lost opportunties
