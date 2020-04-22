@@ -790,7 +790,7 @@ These questions, about how to design better cities, are especially important rig
 * **[The mounting lost opportunities](#lost-opportunities)**
   - Kinematic lag is already a problem that artificially depresses global GDP by trillions of dollars per year, slowing the rise from poverty of billions of people.
 * **[The rising current opportunities](#current-opportunities)**
-  - If we start doing better city design now, in the next few decades **we can prevent additional losses** from kinematic lag on the order of **tens of trillions of dollars per year**.
+  - If we could start doing better city design now, in the next few decades **we could prevent additional losses** from kinematic lag on the order of **$5 trillion dollars per year**, as well as seeing a windfall of **$15 trillion** in residential real estate value. Unfortunately, in practice, that will be impossible.
 
 There's no way to cheaply or practically re-build existing cities, or move people _en masse_ from existing cities to new cities, but, when new cities, new suburbs, and new satellite developments are being planned and built from scratch, it would be slightly crazy to fail to try designing them as "kinematic cities". Building from scratch has its own challenges, and is also crazy expensive, but it does have the advantage that it can be done much more quickly. 
 
