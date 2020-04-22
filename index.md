@@ -851,7 +851,7 @@ If we could just improve your travel times, we could quadruple your KR<sub>30</s
 
 ### <a name="current-opportunities"></a>Current opportunities
 
-As of 2017, the worldwide gross national product (GNP) was about $80 trillion per year. Some of that GNP comes from rural activities, like farming, and other remote activities, like mining and fishing. But the majority, more than $40 trillion per year, comes from urban areas.
+As of 2017, the worldwide gross national product (GNP) was about $80 trillion per year. Some of that GNP comes from rural activities, like farming, and other remote activities, like mining and fishing. But the majority of GNP, more than 60%, comes from urban areas, for a total of more than $50 trillion per year.[^mgi]
 
 By 2050, global GNP will probably roughly double, to about $160 trillion per year. By 2050, more than $120 trillion of that total will come from the urban areas. 
 
@@ -1766,6 +1766,9 @@ There are established public-sector mechanisms for funding development projects,
 [^un-desa]: ["68% of the world population projected to live in urban areas by 2050, says UN"](https://www.un.org/development/desa/en/news/population/2018-revision-of-world-urbanization-prospects.html). _United Nations, Department of Economic and Social Affairs_. 16 May 2018.
 
 [^ontariotech]: ["GCIF Working Paper No. 4: Population predictions of the 101 largest cities in the 21st century."](https://sites.ontariotechu.ca/sustainabilitytoday/urban-and-energy-systems/Worlds-largest-cities/population-projections/city-population-2050.php). Hoornweg & Pope. 
+
+[^mgi]: ["Urban world: Mapping the economic power of cities"](https://www.mckinsey.com/~/media/McKinsey/Featured%20Insights/Urbanization/Urban%20world/MGI_urban_world_mapping_economic_power_of_cities_full_report.ashx). _McKinsey Global Institute, McKinsey & Company_. March 2011.
+
 
 [^facc]: ["Key Facts"](https://www.faccsf.com/info/key-facts.html). _French American Chamber of Commerce_.
 
