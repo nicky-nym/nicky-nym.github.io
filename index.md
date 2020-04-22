@@ -779,12 +779,18 @@ An impossible city should be **safer** and more fun to live in.
 
 These questions, about how to design better cities, are especially important right now, at this moment in history, for a few reasons.
 
-* **[The urban population boom](#population-boom)** &mdash; Urban population is about to increase by 60%, with **2.5 billion more people** incoming.
-* **[The urban construction boom](#construction-boom)** &mdash; There is a projected **doubling of total built space**.
+* **[The urban population boom](#population-boom)**
+  - Urban population is about to increase by 60%, with **2.5 billion more people** incoming by 2050.
+* **[The urban construction boom](#construction-boom)** 
+  - There is a projected **doubling of total built space** by 2050.
 * **[The rise of "megacity" urban agglomerations](#megacities)**
-* **[The onset of kinematic lag](#kinematic-lag)** &mdash; Large cities are increasingly suffering from congestion and kinematic lag.
-* **[The mounting lost opportunities](#lost-opportunities)** &mdash; Kinematic lag is already a problem that artificially depresses global GDP by trillions of dollars per year, slowing the rise from poverty of billions of people.
-* **[The rising current opportunities](#current-opportunities)** &mdash; If we start doing better city design now, in the next few decades **we can prevent additional losses** from kinematic lag on the order of **tens of trillions of dollars per year**.
+  - By 2050, we will have 175 cities with populations between 4 million and 40 million.
+* **[The onset of kinematic lag](#kinematic-lag)**
+  - Large cities are increasingly suffering from congestion and kinematic lag.
+* **[The mounting lost opportunities](#lost-opportunities)**
+  - Kinematic lag is already a problem that artificially depresses global GDP by trillions of dollars per year, slowing the rise from poverty of billions of people.
+* **[The rising current opportunities](#current-opportunities)**
+  - If we start doing better city design now, in the next few decades **we can prevent additional losses** from kinematic lag on the order of **tens of trillions of dollars per year**.
 
 There's no way to cheaply or practically re-build existing cities, or move people _en masse_ from existing cities to new cities, but, when new cities, new suburbs, and new satellite developments are being being planned and built from scratch, it would be slightly crazy to fail to try designing them as "kinematic cities".
 
