@@ -792,7 +792,9 @@ These questions, about how to design better cities, are especially important rig
 * **[The rising current opportunities](#current-opportunities)**
   - If we start doing better city design now, in the next few decades **we can prevent additional losses** from kinematic lag on the order of **tens of trillions of dollars per year**.
 
-There's no way to cheaply or practically re-build existing cities, or move people _en masse_ from existing cities to new cities, but, when new cities, new suburbs, and new satellite developments are being planned and built from scratch, it would be slightly crazy to fail to try designing them as "kinematic cities". Building from scratch has its own challenges, and is also crazy expensive, but it does have the advantage that it can be done much more quickly.
+There's no way to cheaply or practically re-build existing cities, or move people _en masse_ from existing cities to new cities, but, when new cities, new suburbs, and new satellite developments are being planned and built from scratch, it would be slightly crazy to fail to try designing them as "kinematic cities". Building from scratch has its own challenges, and is also crazy expensive, but it does have the advantage that it can be done much more quickly. 
+
+The impossible design does not depend on a particular climate, or on particular building materials. It's an anywhere-in-the world city, not just a European city, an African city, or an Arctic city. It could be built on the outskirts of an existing city, or it could be built in a brand new "greenfield" site.
 
 > "If you build a new city you don't have to relocate or work 
 > around existing roads or rivers or factories or houses. 
@@ -871,36 +873,6 @@ Because of their size, all of those 175 cities will probably suffer from kinemat
 ```
 TODO: more here about land value & lost opportunties
 ```
-
-
-### <a name="where"></a>Where would it be?
-
-**Anywhere:** The impossible design does not depend on a particular climate, or on particular building materials. It's an anywhere-in-the world city, not just a European city, an African city, or an Arctic city.
-
-It could be built on the outskirts of an existing city, or it could be built in a brand new "greenfield" site.
-
-### <a name="how_much"></a>How much would it cost?
-
-  * **The same as a regular city**
-    * Construction costs, per square foot, would be about the same for buildings in a kinematic city as buildings in a regular city.
-    * In a region with high construction costs, like California, constructing buildings in a kinematic city would be just as expensive as constructing buildings in other cities.
-    * In places with lower construction costs, like the UAE, or China, constructing buildings in a kinematic city would cost about the same as building any other building. 
-    
-  * **Maybe slightly cheaper**
-    * The simplest sorts of kinematic city designs could entirely omit some of the expensive transit systems found in conventional cities, such as subway systems and light rail. 
-    * A simple kinematic city designs could also be composed entirely of mid-rise buildings, which are cheaper to build, per square foot, than either high-rise or low-rise buildings.
-
-### <a name="how_long"></a>How long would it take?
-
-  * **The same as regular construction**
-
-
-
-
-
-
-
-
 
 
 
