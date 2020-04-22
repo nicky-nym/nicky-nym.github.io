@@ -781,7 +781,7 @@ These questions, about how to design better cities, are especially important rig
 
 * **[The urban population boom](#population-boom)** &mdash; Urban population is about to increase by 60%, with **2.5 billion more people** incoming.
 * **[The urban construction boom](#construction-boom)** &mdash; There is a projected **doubling of total built space**.
-* **[The rise of "megacity" urban agglomerations](#megacities)
+* **[The rise of "megacity" urban agglomerations](#megacities)**
 * **[The onset of kinematic lag](#kinematic-lag)** &mdash; Large cities are increasingly suffering from congestion and kinematic lag.
 * **[The mounting lost opportunities](#lost-opportunities)** &mdash; Kinematic lag is already a problem that artificially depresses global GDP by trillions of dollars per year, slowing the rise from poverty of billions of people.
 * **[The rising current opportunities](#current-opportunities)** &mdash; If we start doing better city design now, in the next few decades **we can prevent additional losses** from kinematic lag on the order of **tens of trillions of dollars per year**.
