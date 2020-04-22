@@ -838,6 +838,15 @@ This whole impossible cities proposal is all about trying to reduce that kinemat
 
 As the world adds more and more large cities and megacities, kinematic lag becomes a bigger and bigger problem, kinematic range becomes more important, and design ideas like the impossible city design become more important.
 
+> "Contrary to common perception, megacities have not been driving global
+> growth for the past 15 years. In fact, many have not grown faster than their host
+> economies, and we expect this trend to continue. We estimate that today's 23
+> megacities will contribute just over 10 percent of global growth to 2025, below
+> their 14 percent share of global GDP today. Instead, we see the 577 fast-growing 
+> middleweights ... contributing half of global growth to 2025, gaining share from 
+> today's megacities. Worldwide, we will see 13 middleweight cities become 
+> megacities by 2025."[^mgi]
+
 
 ### <a name="lost-opportunities"></a>Lost opportunities
 
