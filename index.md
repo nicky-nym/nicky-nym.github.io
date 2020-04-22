@@ -859,7 +859,7 @@ If we could just improve your travel times, we could quadruple your KR<sub>30</s
   * the 2006 Big Dig in Boston cost $21 billion
 
 
-### <a name="current-opportunities"></a>Current opportunities
+### <a name="current-opportunities"></a>Current opportunities, GNP
 
 As of 2017, the worldwide gross national product (GNP) was about $80 trillion per year. Some of that GNP comes from rural activities, like farming, and other remote activities, like mining and fishing. But the majority of GNP, more than 60%, comes from urban areas, for a total of more than $50 trillion per year.[^mgi]
 
@@ -867,12 +867,27 @@ By 2050, global GNP will probably roughly double, to about $160 trillion per yea
 
 Some of those "urban areas" are actually small towns with just a few thousand people, but increasingly, the majority of the urban population will be living in larger and larger cities, and those large cities also generate a disproportionately high amount of the total GNP. By 2050, about 16% of the world's population, 1.6 billion of the world's 9.8 billion people, will be living in the world's 175 largest cities, with 4 million to 40 million people each.[^ontariotech] A conservative estimate suggests those 175 cities will contribute more than $30 or $40 trillion per year to worldwide GNP.
 
-Because of their size, all of those 175 cities will probably suffer from kinematic lag. If we could intervene, and by 2050 we could somehow double the kinematic range in each of those cities, we could expect to yield a 15% kinematic windfall on the GNP from those cities. That would be an ongoing windfall of maybe $4 trillion to $6 trillion per year.
+Because of their size, all of those 175 cities will probably suffer from kinematic lag. If we could intervene, and by 2050 we could somehow double the kinematic range in each of those cities, we could expect to yield a 15% kinematic windfall on the GNP from those cities. That would be an ongoing windfall of maybe **$4 trillion to $6 trillion per year** in increased GNP.
+
+### <a name="current-opportunities"></a>Current opportunities, land value
+
+In the San Francisco Bay Area, the total residential and commercial real estate is worth about $2.6 trillion. 
+
+The total value of all real estate, worldwide, was about $280 trillion at the end of 2017. Of that total, most is residential real estate, at $220 trillion, with just $33 trillion of commercial real estate and $27 trillion of agricultural real estate. Worldwide, residential real estate is worth more than all of the equaties & debt securities combined. [^savills]
+
+Historically, real estate value has increased at roughly the same pace as GNP. By 2050, total worldwide real estate might be worth about $560 trillion.
+
+By 2050, the world's 175 largest cities will have residential real estate worth more than $100 trillion. If we could double the kinematic range in those cities, we could expect to yield a 15% kinematic windfall, for maybe a **$15 trillion** increase in residential real estate value.
+
+Unfortunately, trying to double the kinematic range of even a single city is probably impossible.
 
 
-```
-TODO: more here about land value & lost opportunties
-```
+
+
+
+
+
+
 
 
 
@@ -1741,6 +1756,7 @@ There are established public-sector mechanisms for funding development projects,
 
 [^mgi]: ["Urban world: Mapping the economic power of cities"](https://www.mckinsey.com/~/media/McKinsey/Featured%20Insights/Urbanization/Urban%20world/MGI_urban_world_mapping_economic_power_of_cities_full_report.ashx). _McKinsey Global Institute, McKinsey & Company_. March 2011.
 
+[^savills]: ["8 things to know about gloval real estate value"](https://www.savills.com/impacts/market-trends/8-things-you-need-to-know-about-the-value-of-global-real-estate.html). _Savills Impacts_. July 2018.
 
 [^facc]: ["Key Facts"](https://www.faccsf.com/info/key-facts.html). _French American Chamber of Commerce_.
 
