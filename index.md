@@ -861,11 +861,11 @@ If we could just improve your travel times, we could quadruple your KR<sub>30</s
 
 ### <a name="current-opportunities"></a>Current opportunities, GNP
 
-As of 2017, the worldwide gross national product (GNP) was about $80 trillion per year. Some of that GNP comes from rural activities, like farming, and other remote activities, like mining and fishing. But the majority of GNP, more than 60%, comes from urban areas, for a total of more than $50 trillion per year.[^mgi]
+As of 2017, the worldwide gross national product (GNP) was about $80 trillion per year. Some of that GNP comes from rural activities, like farming, and other remote activities, like mining and fishing. But the majority of GNP, more than 80%, comes from urban areas, for a total of about $65 trillion per year.[^mgi]
 
-By 2050, global GNP will probably roughly double, to about $160 trillion per year. By 2050, more than $120 trillion of that total will come from the urban areas. 
+By 2050, global GNP will probably roughly double, to about $160 trillion per year. By 2050, more than $140 trillion of that total is likely come from the urban areas. 
 
-Some of those "urban areas" are actually small towns with just a few thousand people, but increasingly, the majority of the urban population will be living in larger and larger cities, and those large cities also generate a disproportionately high amount of the total GNP. By 2050, about 16% of the world's population, 1.6 billion of the world's 9.8 billion people, will be living in the world's 175 largest cities, with 4 million to 40 million people each.[^ontariotech] A conservative estimate suggests those 175 cities will contribute more than $30 or $40 trillion per year to worldwide GNP.
+Some of those "urban areas" are actually small towns with just a few thousand people, but increasingly, the majority of the urban population will be living in larger and larger cities, and those large cities also generate a disproportionately high amount of the total GNP. By 2050, about 16% of the world's population, 1.6 billion of the world's 9.8 billion people, will be living in the world's 175 largest cities, with 4 million to 40 million people each.[^ontariotech] A conservative estimate suggests those 175 cities will contribute $30 or $40 trillion per year to worldwide GNP.
 
 Because of their size, all of those 175 cities will probably suffer from kinematic lag. If we could intervene, and by 2050 we could somehow double the kinematic range in each of those cities, we could expect to yield a 15% kinematic windfall on the GNP from those cities. That would be an ongoing windfall of maybe **$4 trillion to $6 trillion per year** in increased GNP.
 
