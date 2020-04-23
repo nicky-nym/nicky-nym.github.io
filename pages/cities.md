@@ -1685,12 +1685,6 @@ There are established public-sector mechanisms for funding development projects,
 
 
 
-### <a name="notes"></a>Author's notes to self
-
-  * Left-over [transportation](transportation) notes
-  * Left-over [notes & quotes](remainder)
-  * Work-in-progress towards a [3d city demo](demo)
-  * List of [architectural terms](architecture)
 
 #### <a name="size"></a>Size & density
 
