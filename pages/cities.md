@@ -196,7 +196,6 @@ h3 {
           <li><a href="#glossary">Glossary</a></li>
           <li><a href="#further-reading">Further reading</a></li>
           <li><a href="#source-material">Source material</a></li>
-          <li><a href="#notes" class="minor">Author's notes to self</a></li>
           <li><a href="#references">References</a></li>
         </ul>
       </details>
