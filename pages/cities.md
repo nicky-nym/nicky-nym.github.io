@@ -1,3 +1,6 @@
+---
+permalink: /cities/
+---
 # <a name="0"></a>Impossible cities
 
 This paper outlines a summer 2020 design proposal for building car-free cities.
