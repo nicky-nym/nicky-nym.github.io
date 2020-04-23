@@ -8,6 +8,8 @@
 
 ## [SFOAK International](sfoak) white paper
 
-# Working notes
+-----
+**Working notes**
+
   - List of [architectural terms](architecture)
 
