@@ -944,11 +944,11 @@ These new urban development designs could be built in a few different types of l
   - Neighbors frequently oppose developments that increase density.
   - Zoning restrictions typically restrict changes in land use and density.
     - Tor example, 75% of residential land in Los Angeles is restricted to single-family homes, and 94% of land in San Jose[^buhayar]
-  - There are no easy ways to integrate the new impossible neighborhood's transportation network into the city's existing transportation network(s). (See [network effect problems](network-effect) below.)
+  - There are no easy ways to integrate the new impossible neighborhood's transportation network into the city's existing transportation network(s). (See [network effect problems](#network-effect) below.)
 * **New suburbs** and/or satellite cities around existing cities
   - Land anywhere **near** large cities is expensive
   - Large parcels are rare.
-  - Connections between the new suburb's impossible-style transportation network and the city's existing transportation network(s) will require people to transfer between vehicles mid-trip, and will decrease mobility and kinematic range. (See [network effect problems](network-effect) below.)
+  - Connections between the new suburb's impossible-style transportation network and the city's existing transportation network(s) will require people to transfer between vehicles mid-trip, and will decrease mobility and kinematic range. (See [network effect problems](#network-effect) below.)
 * **Greenfield cities** and/or "new city" developments
   - Before starting construction, the new city project will need to pre-purchase (or otherwise reserve), all of the adjacent land that the city may someday need to grow into. Starting with anything less than 100 square miles of land may mean the new development is restricted from ever growing to bcome a "megacity" urban agglomeration, in which case it will fail to realize its kinematic windfall potential.
   - Starting from scratch, a new greenfield city will start off with almost no population initially. Even if there were immediate and uninterrupted exponential population growth from then on, it will still take decades for the new city to become a "megacity", by which time the window of opportunity has already passed.
