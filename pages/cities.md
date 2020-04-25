@@ -941,10 +941,10 @@ These new urban development designs could be built in a few different types of l
   - Retrofitting infrastructure in existing city can be several times more expensive than building new infrastructure in new sites.[^haas]
   - Land is much more expensive to aquire in existing cities than in remote areas.
   - Opportunities for buying large parcels of land are rare.
+  - There are no easy ways to integrate the new impossible neighborhood's transportation network into the city's existing transportation network(s). (See [network effect problems](#network-effect) below.)
   - Neighbors frequently oppose developments that increase density.
   - Zoning restrictions typically restrict changes in land use and density.
     - Tor example, 75% of residential land in Los Angeles is restricted to single-family homes, and 94% of land in San Jose[^buhayar]
-  - There are no easy ways to integrate the new impossible neighborhood's transportation network into the city's existing transportation network(s). (See [network effect problems](#network-effect) below.)
 * **New suburbs** and/or satellite cities around existing cities
   - Land anywhere **near** large cities is expensive
   - Large parcels are rare.
