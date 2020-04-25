@@ -1068,10 +1068,10 @@ Building a kinematic city would take a long time and lot of resources. A minimum
   |:-:|:-:|:-
   | <object width="20" data="../svg/logos/checkmark.svg"></object> | | **Vehicle technology (existing)**
   | <object width="64" data="../svg/logos/checkmark.svg"></object> | | **Construction technology (existing)**
-  | | <object width="20" height="40" class="orange" data="../svg/logos/flying_pig.svg"></object> | **Network effect problems**
-  | | <object width="30" data="../svg/logos/flying_pig.svg"></object> | **Location problems**
-  | | <object width="40" data="../svg/logos/flying_pig.svg"></object> | **Cost problems**
-  | | <object data="./favicon.svg"></object> | **Land value capture problems**
+  | | <object width="20" height="40" data="../favicon.svg"></object> | **Network effect problems**
+  | | <object width="30" data="../favicon.svg"></object> | **Location problems**
+  | | <object width="40" data=".../favicon.svg"></object> | **Cost problems**
+  | | <object data="../favicon.svg"></object> | **Land value capture problems**
   | | <object width="64" data="../favicon.svg"></object> | **Bootstrapping problems**
   |---
 
