@@ -184,8 +184,8 @@ h3 {
       <details>
         <summary><a href="#5">5. Why this is impossible</a></summary>
         <ul>
-          <li><a href="#network-effect">Network effect problems</a></li>
           <li><a href="#location">Location problems</a></li>
+          <li><a href="#network-effect">Network effect problems</a></li>
           <li><a href="#cost">Cost problems</a></li>
           <li><a href="#land-value-capture">Land value capture & fiscal framework problems</a></li>
           <li><a href="#bootstrapping">Bootstrapping problems</a></li>
@@ -924,8 +924,8 @@ We know that:
 * For new urban areas, we could design new 21st century transportation networks that would work far better for poeple than the default 20th century designs. (See chapters <a href="#1">1</a>, <a href="#2">2</a> & <a href="#3">3</a>)
 
 Unfortunately, actually building cities this way is probably impossible, because of:
-* <a href="#network-effect">Network effect problems</a>
 * <a href="#location">Location problems</a>
+* <a href="#network-effect">Network effect problems</a>
 * <a href="#cost">Cost problems</a>
 * <a href="#land-value-capture">Land value capture & fiscal framework problems</a>
 * <a href="#bootstrapping">Bootstrapping problems</a>
