@@ -185,6 +185,7 @@ h3 {
           <li><a href="#cost">Cost problems</a></li>
           <li><a href="#land-value-capture">Land value capture & fiscal framework problems</a></li>
           <li><a href="#bootstrapping">Bootstrapping problems</a></li>
+          <li><a href="#summary">Summary</a></li>
         </ul>
       </details>
     </div>
@@ -1056,7 +1057,19 @@ Building a kinematic city would take a long time and lot of resources. A minimum
 
 
 
+### <a name="summary"></a>Summary
 
+  |---
+  | Possible | Impossible| 
+  |:-:|:-:|:-
+  | <object data="../svg/logos/checkmark.svg"></object> | | **Vehicle technology (existing)**
+  | <object data="../svg/logos/checkmark.svg"></object> | | **Construction technology (existing)**
+  | | <object data="../svg/logos/favicon.svg"></object> | **Network effect problems**
+  | | <object data="../svg/logos/favicon.svg"></object> | **Location problems**
+  | | <object data="../svg/logos/favicon.svg"></object> | **Cost problems**
+  | | <object data="../svg/logos/favicon.svg"></object> | **Land value capture problems**
+  | | <object data="../svg/logos/favicon.svg"></object> | **Bootstrapping problems**
+  |---
 
 
 
@@ -1187,6 +1200,8 @@ TODO: important? consider moving into one of the chapters above?
 * _[Order without Design](https://mitpress.mit.edu/books/order-without-design): How Markets Shape Cities_, by Alain Bertaud
 
 * _[Scale](https://www.penguinrandomhouse.com/books/314049/scale-by-geoffrey-west/)_, by Geoffrey West
+
+* _[Soft City](https://islandpress.org/books/soft-city)_, by David Sim
 
 * _[Velotopia](https://www.nai010.com/en/publicaties/velotopia/130528)_, by Steven Fleming
 
