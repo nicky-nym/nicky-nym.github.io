@@ -824,6 +824,7 @@ In the next 30 years, **by 2050**, we expect urban population to grow by 60%, wi
   | 2050 | 68% | 6.7 billion
   |---
 
+Perhaps existing cities will absorb nearly all of the 2.5 billion additional people who will live in cities by 2050, but in doing so some of their suburbs will essentially develop into big satellite cities of their own right, so the Impossible city ideas are relevant for how new developments in those satellite cities are designed. If 4% of the people did move to entirely new urban developments, that would be 100 million people in new urban developments. 
 
 ### <a name="construction-boom"></a>Urban construction boom
 
@@ -943,28 +944,18 @@ These new urban development designs could be built in a few different types of l
   - Neighbors frequently oppose developments that increase density.
   - Zoning restrictions typically restrict changes in land use and density.
     - Tor example, 75% of residential land in Los Angeles is restricted to single-family homes, and 94% of land in San Jose[^buhayar]
-  - There are no easy ways to integrate the new impossible neighborhood's transportation network into the city's existing transportation network(s) (see [network effect problems](network-effect))
+  - There are no easy ways to integrate the new impossible neighborhood's transportation network into the city's existing transportation network(s). (See [network effect problems](network-effect) below.)
 * **New suburbs** and/or satellite cities around existing cities
-  - 
-* "new city" greenfield developments
-
-
-
-
-#### New suburbs & satellite cities
-
-
-```
-TODO:
-
-Perhaps existing cities will absorb nearly all of the 2.5 billion additional people who will live in cities by 2050, but in doing so some of their suburbs will essentially develop into big satellite cities of their own right, so the Kinematic city ideas are relevant for how new developments in those satellite cities are designed.
-
-If 4% of the people did move to entirely new urban developments, that would be 100 million people in new urban developments. A single new kinematic city could "just" be 10 million people.
-```
-
-#### "new city" greenfield developments
-
-Building on a new empty, greenfield site is a lot less expensive than building in an existing city. New developments could provide more space at lower cost per capita. 
+  - Land anywhere **near** large cities is expensive
+  - Large parcels are rare.
+  - Connections between the new suburb's impossible-style transportation network and the city's existing transportation network(s) will require people to transfer between vehicles mid-trip, and will decrease mobility and kinematic range. (See [network effect problems](network-effect) below.)
+* **Greenfield cities** and/or "new city" developments
+  - Before starting construction, the new city project will need to pre-purchase (or otherwise reserve), all of the adjacent land that the city may someday need to grow into. Starting with anything less than 100 square miles of land may mean the new development is restricted from ever growing to bcome a "megacity" urban agglomeration, in which case it will fail to realize its kinematic windfall potential.
+  - Starting from scratch, a new greenfield city will start off with almost no population initially. Even if there were immediate and uninterrupted exponential population growth from then on, it will still take decades for the new city to become a "megacity", by which time the window of opportunity has already passed.
+  - Good greenfield sites are hard to find. A good site should have:
+    - enough land
+    - proximity to existing cities that are thriving
+    - proximity to ports and airports
 
 > "We are at the beginning of the next wave of urbanization — a period of 
 > rapid growth in both area and population... The next wave of urbanization 
