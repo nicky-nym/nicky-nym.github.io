@@ -932,20 +932,6 @@ Unfortunately, actually building cities this way is probably impossible, because
 
 
 
-### <a name="network-effect"></a>Network effect problems
-
-Depending where construction happens, the impossible cities design faces one of two different network effect problems.
-
-* **Population growth network effects** &mdash; for new greenfield city sites
-  * People move to cities because of the opportunties there, or because they know people there. The bigger the city, the more draw it has. Once a major city has become established, and has a critical mass, it's not difficult to find people who want to move there. But if a new town is founded, with a small population, in a remote place, then it probably doesn't have enough critical mass to draw people to come live there. It's a chicken-and-egg problem: in order to attract a lot of people, a city has to be big, but before it can become big, it has to have attracted a lot of people.
-
-* **Transporation system network effects** &mdash; for infill and suburb/satellite sites
-  * Different transportation systems tend not to be complementary. 
-  * Dallas-Fort Worth is a car-based city. Cars work fairly well there, allowing millions of people to reach each other in under 30 minutes. Dallas-Fort Worth does also have a light rail system, DART, but it has less than 100,000 daily riders, because it only has 4 lines, with 64 stations, which means it doesn't effectively connect any two points in the city. The network of car-based streets **does** connect any two points in the city. Free parking is available at more than half of the DART stations, but if you already have a car, and you're already in your car, it may be faster and more convenient to just drive to your final destination, rather than drive to the DART station, park, wait for a train, pay a fare, ride the train, and then walk from from the station to your destination.
-  * New York City, by contrast, has a subway system with 5 million daily riders, using 36 lines with 470 stations. In New York, the subway system works well because it has achieved critical mass, effectively connecting most points in the city. Cars also work in New York, but street congestion makes cars slow, and parking is problem. In general, the car network & the subway network tend to be alternatives to each other, rather than being a unified system. The subway stations generally don't have parking lots or taxi stands, and a trip will take longer if it involves both a car leg and a subway leg.
-  * An impossible city design could be used to build a single new neighborhood in, or near, an existing car-centric city, either in an infill site or as a new suburb or satellite city. The impossible bikeways would work well for trips **within** the new neighborhood, but for any trips back and forth **between** the new neighborhood and the rest of the city, trips would take longer, because people would have to have both a car leg and a bikeway leg, with the need for parking and a transfer in between. In this situation, in terms of mobility and kinematic range, people would actually have been better off if the new neighborhood had been built to match the transportation system of the rest of the city, rather than introducing a new design.
-
-
 ### <a name="location"></a>Location problems
 
 So, **where** could these new urban development designs actually be built? There are a few different types of locations, but they all have problems:
@@ -1000,6 +986,20 @@ Building on a new empty, greenfield site is a lot less expensive than building i
 > promises to build energy efficiency, sustainability, and resilience in to the core of a place."[^caspar]
 > &mdash; Caspar Herzberg, Schneider Electric
 
+
+
+### <a name="network-effect"></a>Network effect problems
+
+Depending where construction happens, the impossible cities design faces one of two different network effect problems.
+
+* **Population growth network effects** &mdash; for new greenfield city sites
+  * People move to cities because of the opportunties there, or because they know people there. The bigger the city, the more draw it has. Once a major city has become established, and has a critical mass, it's not difficult to find people who want to move there. But if a new town is founded, with a small population, in a remote place, then it probably doesn't have enough critical mass to draw people to come live there. It's a chicken-and-egg problem: in order to attract a lot of people, a city has to be big, but before it can become big, it has to have attracted a lot of people.
+
+* **Transporation system network effects** &mdash; for infill and suburb/satellite sites
+  * Different transportation systems tend not to be complementary. 
+  * Dallas-Fort Worth is a car-based city. Cars work fairly well there, allowing millions of people to reach each other in under 30 minutes. Dallas-Fort Worth does also have a light rail system, DART, but it has less than 100,000 daily riders, because it only has 4 lines, with 64 stations, which means it doesn't effectively connect any two points in the city. The network of car-based streets **does** connect any two points in the city. Free parking is available at more than half of the DART stations, but if you already have a car, and you're already in your car, it may be faster and more convenient to just drive to your final destination, rather than drive to the DART station, park, wait for a train, pay a fare, ride the train, and then walk from from the station to your destination.
+  * New York City, by contrast, has a subway system with 5 million daily riders, using 36 lines with 470 stations. In New York, the subway system works well because it has achieved critical mass, effectively connecting most points in the city. Cars also work in New York, but street congestion makes cars slow, and parking is problem. In general, the car network & the subway network tend to be alternatives to each other, rather than being a unified system. The subway stations generally don't have parking lots or taxi stands, and a trip will take longer if it involves both a car leg and a subway leg.
+  * An impossible city design could be used to build a single new neighborhood in, or near, an existing car-centric city, either in an infill site or as a new suburb or satellite city. The impossible bikeways would work well for trips **within** the new neighborhood, but for any trips back and forth **between** the new neighborhood and the rest of the city, trips would take longer, because people would have to have both a car leg and a bikeway leg, with the need for parking and a transfer in between. In this situation, in terms of mobility and kinematic range, people would actually have been better off if the new neighborhood had been built to match the transportation system of the rest of the city, rather than introducing a new design.
 
 
 ### <a name="cost"></a>Cost problems
