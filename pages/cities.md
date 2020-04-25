@@ -934,28 +934,21 @@ Unfortunately, actually building cities this way is probably impossible, because
 
 ### <a name="location"></a>Location problems
 
-So, **where** could these new urban development designs actually be built? There are a few different types of locations, but they all have problems:
-* infill & rebuilding in existing cities
-* new suburbs & satellite cities around existing cities
+These new urban development designs could be built in a few different types of locations, but they all have problems:
+
+* **Infill in existing cities** and/or rebuilding portions of cities
+  - Retrofitting infrastructure in existing city can be several times more expensive than building new infrastructure in new sites.[^haas]
+  - Land is much more expensive to aquire in existing cities than in remote areas.
+  - Opportunities for buying large parcels of land are rare.
+  - Neighbors frequently oppose developments that increase density.
+  - Zoning restrictions typically restrict changes in land use and density.
+    - Tor example, 75% of residential land in Los Angeles is restricted to single-family homes, and 94% of land in San Jose[^buhayar]
+  - There are no easy ways to integrate the new impossible neighborhood's transportation network into the city's existing transportation network(s) (see [network effect problems](network-effect))
+* **New suburbs** and/or satellite cities around existing cities
+  - 
 * "new city" greenfield developments
 
-#### Infill & rebuilding in existing cities
 
-Zoning restrictions in existing cities prevent any large-scale changes to their spatial layout.
-
-> "Three-quarters of the residential land in Los Angeles is restricted to single-family homes, according to UrbanFootprint, software that helps government and businesses understand cities and urban markets. In San Jose, the figure is 94%." [^buhayar]
-
-Projects in existing cities can be staggeringly expensive.
-  * **$4.5 billion** for the San Francisco **Transbay Transit Center & Salesforce Tower** <sup>[citation needed]</sup>
-  * **$17 billion** for the **2nd Avenue Subway** project in New York <sup>[citation needed]</sup>
-  * **$20 billion** for the **Hudson Yards** project in New York <sup>[citation needed]</sup>
-  * **$21 billion** for the **Big Dig** in Boston <sup>[citation needed]</sup>
-  * **$23 billion** for the **Riyadh Metro** <sup>[citation needed]</sup>
-  * **$32 billion** to rebuild the **World Trade Center** in New York <sup>[citation needed]</sup>
-
-> "Retrofitting cities, where cities already exist, can be up to three times more expensive than planning for infrastructure in advance of settlement." [^haas]
-
-> "only about a quarter of New York City's 472 subway stations are wheelchair accessible" ... "subway officials ... plan to add elevators at 70 stations in the next five years." ... "The Metropolitan Transportation Authority ... estimates that accessibility fixes will cost about $78 million per station." [^fitzsimmons]
 
 
 #### New suburbs & satellite cities
@@ -1072,12 +1065,12 @@ Building a kinematic city would take a long time and lot of resources. A minimum
 ### <a name="summary"></a>Summary
 
   |---
-  | Possible | Impossible| 
+  | Possible | Impossible<br>Problems | 
   |:-:|:-:|:-
   | <object width="30" data="../svg/logos/checkmark.svg"></object> | | **Vehicle technology (existing)**
   | <object width="40" data="../svg/logos/checkmark.svg"></object> | | **Construction technology (existing)**
-  | | <object width="30" height="40" data="../favicon.svg"></object> | **Network effect problems**
   | | <object width="30" height="40" data="../favicon.svg"></object> | **Location problems**
+  | | <object width="30" height="40" data="../favicon.svg"></object> | **Network effect problems**
   | | <object width="30" height="40" data="../favicon.svg"></object> | **Cost problems**
   | | <object width="30" height="40" data="../favicon.svg"></object> | **Land value capture problems**
   | | <object width="30" height="40" data="../favicon.svg"></object> | **Bootstrapping problems**
@@ -1652,7 +1645,19 @@ TODO: this is a repeat of the '120 "new cities"' quote above. Need to delete one
 
 > "Our biggest urban problems today—growing inequality, rampant gentrification, housing unaffordability, and increasing segregation—all have roots in the staggering cost of urban land."[^manhattan]
 
+> "Three-quarters of the residential land in Los Angeles is restricted to single-family homes, according to UrbanFootprint, software that helps government and businesses understand cities and urban markets. In San Jose, the figure is 94%." [^buhayar]
 
+Projects in existing cities can be staggeringly expensive.
+  * **$4.5 billion** for the San Francisco **Transbay Transit Center & Salesforce Tower** <sup>[citation needed]</sup>
+  * **$17 billion** for the **2nd Avenue Subway** project in New York <sup>[citation needed]</sup>
+  * **$20 billion** for the **Hudson Yards** project in New York <sup>[citation needed]</sup>
+  * **$21 billion** for the **Big Dig** in Boston <sup>[citation needed]</sup>
+  * **$23 billion** for the **Riyadh Metro** <sup>[citation needed]</sup>
+  * **$32 billion** to rebuild the **World Trade Center** in New York <sup>[citation needed]</sup>
+
+> "Retrofitting cities, where cities already exist, can be up to three times more expensive than planning for infrastructure in advance of settlement." [^haas]
+
+> "only about a quarter of New York City's 472 subway stations are wheelchair accessible" ... "subway officials ... plan to add elevators at 70 stations in the next five years." ... "The Metropolitan Transportation Authority ... estimates that accessibility fixes will cost about $78 million per station." [^fitzsimmons]
 
 
 ### <a name="funding"></a>Funding for new city projects
