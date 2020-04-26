@@ -988,15 +988,15 @@ Depending where construction happens, the impossible cities design faces one of 
 
 ### <a name="cost"></a>Cost problems
 
-Constructing even small buildings is expensive. Constructing entire neighborhoods or cities requires not just building housing and office space, but also building all the transportation infrastruction for roads, street lights, traffic lights, bus shelters, subway stops, and more. Plus all of the utility infrastructure, including sewers, water supply, power lines, telephone lines, and the rest.
+Constructing even small buildings is expensive. Constructing entire neighborhoods or entire cities requires not just building housing and office space, but also building all the transportation infrastruction for roads, street lights, traffic lights, bus shelters, subway stops, and more. Plus all of the utility infrastructure, including sewers, water supply, power lines, telephone lines, and the rest.
 
-```
-TODO:
-
-  * spending is somewhere between the high hundreds of billions of dollars, and the low trillions of dollars
-  * real estate development projects now operate at a scale where it is possible to complete a coordinated, monolithic, **privately financed $10 billion construction project**
-```
-
+* **Low cost** vs. **high cost** locations
+  * An impossible city could be built in a high-cost location, such as California, or in a lower-cost location, in India or Africa. Starting in a lower-cost location is almost certainly a more promising approach, but it means that the benefits will be correspondingly lower. A 15% kinematic increase in wages & GDP is less dramatic if the wages & GDP were low to begin with
+* **Upfront costs** vs. **ongoing costs**
+  * Getting a new city started would be more feasible if it were possible to minimize the upfront costs, so that substantial costs only start to occur later, once value is being created and revenue opportunities are available. Unfortunately, the impossible city design doesn't lend itself to minimizing upfront costs. Because of the [network effect](#network-effect) problems, there's not much incentive to try starting a small project; a more promising approach would be to try to scale up as quickly as possible, but that would require raising funds from speculative investors, rather than funding growth on revenue from the value created.
+* **Coordinated funding** vs. **parallel funding**
+  * Real estate development projects have traditionally happened on the scale of one building at a time, or one small housing complex or office park at a time. A booming city may have hundreds or thousands of building projects going on in parallel, each with their own different land owner, general contractor, bank loan, and prospective tenant, and each with their own zoning and planning department approval. That arrangement lowers the bar for any single project, and enables lots of projects to move forward simultaniously, each at their own pace, without needing to coordinate tens of billions of dollars of funding and spending.
+  * In recent decades, the largest development projects in the world have been growing larger. Projects on the scale of $10 to $20 billion are now fairly common. Some of those are transporation infrastructure projects, such as the Chunnel, the Gotthard Base Tunnel, the Riyadh Metro, and the New York 2nd Avenue subway project. Others are more focused on creating large amounts of leasable square footage, such as Masdar City, or the Hudson Yards project in New York. However, when a single project has a $20 billion price tag, funding has to be coordinated from multiple sources, usually with significant public funding in the mix. Notable exceptions are privately funded projects like the Apple Park campus in Cupertino, at $5 billion, or the City Center project in Las Vegas, at $11 billion.
 
 
 
