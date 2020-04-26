@@ -884,7 +884,16 @@ By 2050, global GNP will probably roughly double, to about $160 trillion per yea
 
 Some of those "urban areas" are actually small towns with just a few thousand people, but increasingly, the majority of the urban population will be living in larger and larger cities, and those large cities also generate a disproportionately high amount of the total GNP. By 2050, about 16% of the world's population, 1.6 billion of the world's 9.8 billion people, will be living in the world's 175 largest cities, with 4 million to 40 million people each.[^ontariotech] A conservative estimate suggests those 175 cities will contribute $30 or $40 trillion per year to worldwide GNP.
 
-Because of their size, all of those 175 cities will probably suffer from kinematic lag. If we could intervene, and by 2050 we could somehow double the kinematic range in each of those cities, we could expect to yield a 15% kinematic windfall on the GNP from those cities. That would be an ongoing windfall of maybe **$4 trillion to $6 trillion per year** in increased GNP.
+Because of their size, all of those 175 cities will probably suffer from kinematic lag. If we could intervene, and by 2050 we could somehow double the kinematic range in each of those cities, we could expect to yield a 15% kinematic windfall on the GNP from those cities. A back-of-the-envelope calculation suggests that would be an ongoing windfall of maybe **$4 trillion to $6 trillion per year** in increased GNP. Other authors give significantly higher values for annual return in increased GDP from urbanization:
+
+> In Africa "we should be building 40 million new homes or 160 Atlantas every year. ... 
+> Africa has 54 countries. Altogether they do not build 1 million homes a year. 
+> The gap is the opportunity. 40 million modest homes require an investment of 
+> more than $1 trillion every year. The multiplier effects would add $10 trillion 
+> to annual GDP. That is 5 times current GDP. Closing Africa’s housing gap can 
+> generate 5 times current GDP!"
+> &mdash; Paul Musembwa, CEO of Warp Developments
+
 
 ### <a name="current-opportunities"></a>Current opportunities, land value
 
