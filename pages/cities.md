@@ -977,7 +977,7 @@ These new urban development designs could be built in a few different types of l
 Depending where construction happens, the impossible cities design faces one of two different network effect problems.
 
 * **Population growth network effects** &mdash; for new greenfield city sites
-  * People move to cities because of the opportunties there, or because they know people there. The bigger the city, the more draw it has. Once a major city has become established, and has a critical mass, it's not difficult to find people who want to move there. But if a new town is founded, with a small population, in a remote place, then it probably doesn't have enough critical mass to draw people to come live there. It's a chicken-and-egg problem: in order to attract a lot of people, a city has to be big, but before it can become big, it has to have attracted a lot of people.
+  * People move to cities because of the opportunties there, or because they know people there. The bigger the city, the more draw it has. Once a major city has become established, and has a critical mass, it's not difficult to find people who want to move there. Kids are born and raised in existing cities, not in greenfield city sites. If a new town is founded from scratch, with a small population, in a remote place, then it probably doesn't have enough critical mass to draw people to come live there. It's a chicken-and-egg problem: in order to attract a lot of people, a city has to be big, but before it can become big, it has to have attracted a lot of people.
 
 * **Transporation system network effects** &mdash; for infill and suburb/satellite sites
   * Different transportation systems tend not to be complementary. 
