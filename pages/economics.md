@@ -58,18 +58,6 @@ All the land within the Hong Kong Special Administrative Region, with the single
 
 > "Corner lots are significantly more valuable than mid-block lots, according to the study, and lots in close proximity to Broadway, which runs the length of the island, also have higher values."[^manhattan]
 
-### San Francisco land value
-
-
-### African land value
-
-> In Africa "we should be building 40 million new homes or 160 Atlantas every year. ... 
-> Africa has 54 countries. Altogether they do not build 1 million homes a year. 
-> The gap is the opportunity. 40 million modest homes require an investment of 
-> more than $1 trillion every year. The multiplier effects would add $10 trillion 
-> to annual GDP. That is 5 times current GDP. Closing Africa’s housing gap can 
-> generate 5 times current GDP!"
-> &mdash; Paul Musembwa, CEO of Warp Developments
 
 ## Economic potential
 
