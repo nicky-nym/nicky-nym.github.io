@@ -1199,7 +1199,9 @@ TODO: important? consider moving into one of the chapters above?
 
 
 
-## <a name="further-reading"></a><span class="chapter">Further Reading</span>
+## <a name="further-reading"></a><span class="chapter">Further resources</span>
+
+### Books
 
 * _[Carfree Cities](http://www.carfree.com/book/)_, by J.H. Crawford
 
@@ -1213,6 +1215,17 @@ TODO: important? consider moving into one of the chapters above?
 
 * _[Urban Bikeway Design Guide](https://nacto.org/publication/urban-bikeway-design-guide/)_, and the [other street design guides](https://nacto.org/publications/design-guides/), by the The National Association of City Transportation Officials (NACTO)
 
+### Books
+
+### Software Tools
+
+* [Sidewalk Widths NCY](https://www.sidewalkwidths.nyc/): An interactive web page with a map showing the width of the sidewalk of each city block in New York.
+
+* [Streetmix](https://streetmix.net/): An interactive web page where you can design and redesign different street layouts, making different choices for street & lane widths, lane-use types, sidewalks, parking, etc.
+
+* [SUMO](http://sumo.sourceforge.net/): Simulation of Urban MObility. An open source traffic simulation package designed to handle large road networks.
+
+* [TravelTime platform](https://www.traveltimeplatform.com/blog/commute-time-visualization-map), by iGeolise, Ltd
 
 
 
