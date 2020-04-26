@@ -1136,10 +1136,6 @@ Hong Kong is a great example. All the land within the Hong Kong Special Administ
 
 
 
-
-Read more about [costs & land value](economics)
-
-
 **Depreciating licenses**
 
 ```
@@ -1149,7 +1145,7 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2744810
 ```
 
 
-TODO: harvest material from [my old notes](economics)
+**TODO:** harvest material from [my old notes](economics)
 
 
 
