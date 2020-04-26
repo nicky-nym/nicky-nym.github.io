@@ -410,31 +410,6 @@ There are other similar sites up the California coast, like in the Eureka area, 
 
 
 ---
-## Small kinematic cities vs. small conventional cities
-
-A small-scale purely-kinematic city would work just fine, and it would have some advantages over a similarly sized car-centric or transit-centric city. Lower transportation costs might be the largest single selling point. But I think the advantages just might not be large enough to matter to anyone. For small-scale cities, car-centric designs actually work reasonably well, as do designs based on buses and bus rapid transit.
-
-The car & bus system only starts to break down once a city gets large enough to have serious traffic congestion problems, and it's only at that scale that the kinematic city design starts to really outshine the other options.
-
----
-## Small kinematic districts within large existing cities
-
-A different case is a small-scale kinematic neighborhood within a larger car-centric city. The problem with that scenario is that it may be the worst of both worlds: outside of the kinematic neighborhood you have to use a car to get around, but within the kinematic neighborhood there are no roads and no parking, so you can't use a car. So if you want to commute to a job in the kinematic neighborhood, you still need a car, and you still fight urban traffic congestion, but then you can't drive right up to your office, and instead have to park somewhere at the edge of the kinematic neighborhood and then switch to foot or small vehicle to get the last distance. That makes your commute *longer* than it would have been in a regular car-centric city.
-
-It seems like this would only work if there were some way that external trips outside the kinematic district weren't cumbersome. We need some innovation that allows people to start and end trips within a car-free area without paying any time penalty in the trip.
-
-Perhaps, for example, some way where you can ride your regular 40-pound e-bike right from your front door, at 15-mph, to the edge of the newly kinematically redeveloped Stanford Research Park. Then, when you reach the edge of the old traditional Palo Alto street grid, without getting off your e-bike, you ride right up a little ramp into the back of an empty "Tesla Fairing Van", which is like a full-size car, with it's own car-sized batteries, motors, and wheels, but which is designed so that you can steer it with your e-bike handlebars, without getting off your bike. Once you reach your job at the Google Mountain View campus, or at Apple Park, you ride your bike out of the Tesla Fairing Van, leave your bike at your desk, and the Tesla Fairing Van autonomously redeploys itself for someone else to use. But now we're back to a design where you have to start an R&D company and get NHTSA approvals before you buy land and break ground on new housing.
-
-A more natural pairing would be small-scale kinematic neighborhoods centered on train stations for either subway trains, or light rail, or commuter trains like Caltrain. That's a workable design, but I don't think there's much opportunity for it in existing cities. In existing cities, the area around subway stops and train stations is already very developed, with expensive real estate, and expensive existing buildings, and lots of land reserved for streets, so that the remaining parcels are separated into islands. It would take a lot of time and money to try to rebuild a few square miles of that into a kinematic neighborhood.
-
----
-## Software Tools
-
-* [SUMO](http://sumo.sourceforge.net/): Simulation of Urban MObility. An open source traffic simulation package designed to handle large road networks.
-
-* [TravelTime platform](https://www.traveltimeplatform.com/blog/commute-time-visualization-map), by iGeolise, Ltd
-
----
 
 
 ## <a name="references"></a>References
