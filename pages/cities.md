@@ -1049,16 +1049,49 @@ Building even a small seed of a kinematic city would take a long time and lot of
 
 ### <a name="land-value-capture"></a>Land value capture & fiscal framework problems
 
-Read more about [costs & land value](economics)
+Building good urban infrastructure, including transportation infrastructure, is extremely expensive. But in a city with good transportation infrastructure, the value created by the transportation infrastructure far exceeds the cost of the infrastructure. 
+
+### Value created
 
 ```
-TODO: This requires better funding models & value capture agreements
+TODO:
 
-## Georgism
+https://medium.com/sidewalk-talk/why-more-big-cities-should-give-value-capture-a-chance-b9c4cfac9768
 
-https://en.wikipedia.org/wiki/Georgism
+(That article gives examples in New York and California. It quantifies a lot of *value created*, and talks less about "value capture", which perhaps is the harder part of the problem.
 
-## Depreciating licenses
+One of the interesting things the article does mention is that "despite this potential ... value capture ... doesn't work in areas that are already developed. ... undeveloped area provide the most room for growth."  
+
+That seems to get a the crux of the problem: the place we really need better mobility is in existing big cities, but those are the places where all the land is already privately owned.
+```
+
+
+### Privatized gains and socialized costs
+
+The problem is, the cost of the transportation infrastructure development is generally paid by governments, using public funds, while the value create is harvested by private property owners. This is similar to the problem of "privatized gains and socialized losses". As a result, governments generally can't afford to invest as much in transportation infrastructure as would make sense to. Because of the disconnect between the investment costs and the return on investment, cities end up under-investing in mobility and kinematic range.
+
+### Georgism
+
+The solution to this underinvestment problem is to structure the financial system to better connect the investment costs with the return on investment. This is not a new idea. For example, the Georgism movement dates back to the 1870s, when Henry George's wrote his best-selling _Progress and Poverty_. One of the central ideas of Georgism is to tax land value, rather than tax labor.
+
+### Hong Kong
+
+In practice, there are interesting examples of places that have somewhat Georgist financial systems, with good connections between transportation costs and the value they create.
+
+Hong Kong is a great example. All the land within the Hong Kong Special Administrative Region, with the single exception of St. John’s Cathedral, is owned by the government, and has been since 1843.
+
+> "With the right framework, astonishing prosperity is possible. The independent city of Singapore overtook the world’s GDP per capita in less than 30 years, and that of the USA in less than 50 years." [^free-private-cities]
+
+
+
+
+Read more about [costs & land value](economics)
+
+
+### Depreciating licenses
+
+```
+TODO: 
 
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2744810
 ```
@@ -1948,6 +1981,8 @@ There are established public-sector mechanisms for funding development projects,
 [^reid]: ["Perspectives: Practitioners Weigh in on Drivers of Rising Housing Construction Costs in San Francisco"](http://ternercenter.berkeley.edu/uploads/San_Francisco_Construction_Cost_Brief_-_Terner_Center_January_2018.pdf). Carolina Reid and Hayley Raetz, _Terner Center for Housing Innovation_. January 2018.
 
 [^khan]: ["Goldman Sachs released a 34-page analysis of the effects of climate change. And the results are terrifying."](https://markets.businessinsider.com/news/stocks/goldman-sachs-climate-change-threatens-new-york-tokyo-lagos-cities-2019-9-1028552494). Yusuf Khan, _Markets Insider_. 25 September 2019.
+
+[^free-private-cities]: [Free Private Cities](https://freeprivatecities.com/en/concept/)
 
 
 
