@@ -868,7 +868,7 @@ If we could just improve your travel times, we could quadruple your KR<sub>30</s
 
 **GDP.** The San Francisco Bay Area GDP was about $535 billion in 2019.[^facc]  A 30% annual increase would be an **additional $160 billion annual GDP**.
 
-**Real estate.** The San Francisco Bay Area has about $1.3 trillion of residential real estate. A 30% increase in value would be a $400 billion increase, just for the residential portion of the real estate. Commercial real estate would be roughly another $400 billion. There would also be additional floor space in the roadway buildings, which might amount to another $200 billion, for a total of about $1 trillion of additional real estate value.
+**Real estate.** The San Francisco Bay Area has about $1.3 trillion of residential real estate. A 30% increase in value would be a $400 billion increase, just for the residential portion of the real estate. Commercial real estate would be roughly another $400 billion. There would also be additional floor space in the roadway buildings, which might amount to another $200 billion, for a total of about $1 trillion of additional real estate value. San Francisco is one of just a few cities in the United States that has a market value higher than the $1 trillion Apple Inc. value.[^hoeven]
 
 **Hope?** Is it conceivable that the Bay Area could be re-engineered to quadruple travel ranges? Yes, but it would require a lot of changes: maybe a hyperloop, or a lot of Boring Company tunnels. It would be expensive, and it would take decades. The Bay Area has already calcified, and for all practical purposes, big changes now are a pipe dreams. For context, here are a few examples of the giant cost of modest mobility improvements:
   * the 2013 Bay Bridge Eastern Span, from San Francisco to Oakland, took over a decade to build and cost $7 billion
@@ -1581,6 +1581,10 @@ It is estimated that **by 2050**:
 > "projections show that Kinshasa, the capital of the Democratic Republic of Congo, will reach 35 million residents by 2050."[^lutter]
 
 
+### <a name="chapter-4"></a>Chapter 4
+
+> "The San Francisco metro area [the counties of San Francisco, Alameda, Marin, Contra Costa, and San Mateo] is the third most valuable region in America based on the value of its residential real estate. The area's total residential real estate value hit an astonishing $1.3 trillion and it's outranked only by the Los Angeles and New York metro areas, with total residential real estate values of $2.2 trillion and $2.6 trillion, respectively." ... "San Francisco is one of three cities nationwide that can claim a market value higher than Apple Inc.'s $1 trillion."[^hoeven]
+
 
 ### <a name="california"></a>California urban growth
 
@@ -1855,6 +1859,9 @@ There are established public-sector mechanisms for funding development projects,
 [^watts]: ["Concrete: the most destructive material on Earth"](https://www.theguardian.com/cities/2019/feb/25/concrete-the-most-destructive-material-on-earth). Jonathan Watts, _The Guardian_. 25 Feb 2019 
 
 [^yang]: ["Andrew Yang’s plan to tackle climate change, explained"](https://www.vox.com/future-perfect/2019/8/26/20833263/andrew-yang-climate-plan). _Vox.com_. 26 August 2019.
+
+[^hoeven]: ["What's worth more: All of San Francisco's residential real estate or Apple Inc.?"](https://www.bizjournals.com/sanfrancisco/news/2018/08/29/value-sf-real-estate-homes.html). Emily Hoeven, _San Francisco Business Times_. 29 August 2018.
+
 
 
 
