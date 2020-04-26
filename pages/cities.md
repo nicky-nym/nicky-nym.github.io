@@ -1051,7 +1051,8 @@ Building even a small seed of a kinematic city would take a long time and lot of
 
 Building good urban infrastructure, including transportation infrastructure, is extremely expensive. But in a city with good transportation infrastructure, the value created by the transportation infrastructure far exceeds the cost of the infrastructure. 
 
-### Value created
+
+**Value created**
 
 ```
 TODO:
@@ -1065,20 +1066,68 @@ One of the interesting things the article does mention is that "despite this pot
 That seems to get a the crux of the problem: the place we really need better mobility is in existing big cities, but those are the places where all the land is already privately owned.
 ```
 
+> "Based on the studies in Asian countries including China, Singapore and South Korea, 
+> public transportation generally has a positive impact on property values, and the 
+> impact is closely related with distance to the station. On average, property value 
+> will decrease by 1% if the distance from a transport station is increased by 10% 
+> (Cervero & Murakami, 2009)."[^xu]
 
-### Privatized gains and socialized costs
+> "In most studies, proximity to transport stations has a positive correlation to land value. 
+> They can generate property value premiums ranging from 3% to 40% in different conditions 
+> (Medda, 2012)."[^xu]
+
+
+
+
+**Privatized gains and socialized costs**
 
 The problem is, the cost of the transportation infrastructure development is generally paid by governments, using public funds, while the value create is harvested by private property owners. This is similar to the problem of "privatized gains and socialized losses". As a result, governments generally can't afford to invest as much in transportation infrastructure as would make sense to. Because of the disconnect between the investment costs and the return on investment, cities end up under-investing in mobility and kinematic range.
 
-### Georgism
+
+**Georgism**
 
 The solution to this underinvestment problem is to structure the financial system to better connect the investment costs with the return on investment. This is not a new idea. For example, the Georgism movement dates back to the 1870s, when Henry George's wrote his best-selling _Progress and Poverty_. One of the central ideas of Georgism is to tax land value, rather than tax labor.
 
-### Hong Kong
+
+**Land value capture**
+
+> "Value capture is a way to generate revenue by recouping a portion of the gains 
+> in the value of land that result from improvements of public transportation. ...
+> Common value capture mechanisms include:"[^xu]
+> ~ Leasing development rights or selling land. (e.g. Hong Kong)
+> ~ Land Value Tax.
+> ~ Tax Increment Financing (TIF). (e.g. New York)
+
+
+> "To conclude from the above literatures, value capture models are applicable 
+> to cities that have a good coordination of land use, city planning and 
+> economic development."[^xu]
+
+
+> "Second, it should be able to acquire land at a favorable price, which will 
+> minimize the cost and maximize the profit from future land transition."[^xu]
+
+
+
+**Hong Kong**
 
 In practice, there are interesting examples of places that have somewhat Georgist financial systems, with good connections between transportation costs and the value they create.
 
 Hong Kong is a great example. All the land within the Hong Kong Special Administrative Region, with the single exception of St. John’s Cathedral, is owned by the government, and has been since 1843.
+
+> "Hong Kong’s public transit development method, which is well known as a distinctive example of transit value capture. ... Hong Kong is one of the few cities in the world where public transport makes a profit."[^xu]
+
+> "In terms of land attribute, all land in Hong Kong is state property and the only land tenure is leasehold. The government of Hong Kong is responsible for land management, development, and its lease to private entities, based on China’s Basic Law passed in 1990. Private developers bid to lease land with a general 50 years term."[^xu]
+
+> "The state leasehold system captures value from four major aspects: initial land auction, lease modification, lease renewal, and land rent collection. Among the four, initial land auction has been the major source of lease revenue, accounting for about 75 percent of government’s total land income (Hong, 1998)."[^xu]
+
+> "During the whole process, MTR is functioning as the master planner. It creates a development layout plan, monitors development quality, and manages the lease and sales of completed properties. It is a bridge between the government and developers. It sets clear rules to multiple stakeholders, making the partnership smooth and efficient."[^xu]
+
+> "One reason that projects like Tsing Yi Station come into success is that the land use integration is evaluated at the master planning stage by MTR (Tang, Chiang, Baldwin & Yeung, 2004). This magnifies the interaction between railway and property development."[^xu]
+
+> "Hong Kong's strategy can be applied in cities where government owns the land."[^xu]
+
+> "Thirdly, the planning of public transportation requires multiple levels of government and agencies to work together. It is important to form a good collaboration between the different development stages, including land acquisition, planning, construction, operation, and property management. In Hong Kong, for example, MTR as a single agency is responsible for the whole development cycle. The process is more efficient, because it saves additional administrative cost, and there is only one principle from beginning to end. For New York, however, as MTA is only responsible for railway construction and operation, and it has no right of land use, the capability of capturing land value is to some extent undermined."[^xu]
 
 > "With the right framework, astonishing prosperity is possible. The independent city of Singapore overtook the world’s GDP per capita in less than 30 years, and that of the USA in less than 50 years." [^free-private-cities]
 
@@ -1088,7 +1137,7 @@ Hong Kong is a great example. All the land within the Hong Kong Special Administ
 Read more about [costs & land value](economics)
 
 
-### Depreciating licenses
+**Depreciating licenses**
 
 ```
 TODO: 
@@ -1984,6 +2033,7 @@ There are established public-sector mechanisms for funding development projects,
 
 [^free-private-cities]: [Free Private Cities](https://freeprivatecities.com/en/concept/)
 
+[^xu]: ["Under What Circumstances Will Land Value Capture Work to Finance Public Transit?"](https://academiccommons.columbia.edu/doi/10.7916/D8DF6QC4). Yidan Xu, _Columbia University Libraries, Academic Commons_. May 2015.
 
 
 
