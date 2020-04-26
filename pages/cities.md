@@ -992,6 +992,8 @@ Constructing even small buildings is expensive. Constructing entire neighborhood
 
 * **Low cost** vs. **high cost** locations
   * An impossible city could be built in a high-cost location, such as California, or in a lower-cost location in a higher-growth area in India or Africa. Starting in a lower-cost location is almost certainly a more promising approach, but it means that the benefits will be correspondingly lower. A 15% kinematic increase in wages & GDP is less dramatic if the wages & GDP were low to begin with, even if higher population growth and GDP-per-capita growth is expected.
+  * In a place like San Francisco or New York, average construction costs are about $350 per square foot, so new apartments can cost over $400,000 per unit to build.[^li][^reid]
+  * Even in the lowest-income countries, where construction labor is least expensive, the basic costs of steel and concrete amount to about $50 per square foot, so even a very small single-room apartment can cost $5,000 to $10,000 in construction materials alone.[^bertaud]
 * **Coordinated funding** vs. **parallel funding**
   * Real estate development projects have traditionally happened on the scale of one building at a time, or one small housing complex or office park at a time. A booming city may have hundreds or thousands of building projects going on in parallel, each with their own different land owner, general contractor, bank loan, and prospective tenant, and each with their own zoning and planning department approval. That arrangement lowers the bar for any single project, and enables lots of projects to move forward simultaniously, each at their own pace, without needing to coordinate tens of billions of dollars of funding and spending. Each project can be tuned to the needs of the particular parties involved, resulting a vibrant diversity of approaches and results, rather than the less successful giant mono-culture developments sometimes found in planned economies.
   * In recent decades, the largest development projects in the world have been growing larger. Projects on the scale of $10 to $20 billion are now fairly common. Some of those are transporation infrastructure projects, such as the Chunnel, the Gotthard Base Tunnel, the Riyadh Metro, and the New York 2nd Avenue subway project. Others are more focused on creating large amounts of leasable square footage, such as Masdar City, or the Hudson Yards project in New York. However, when a single project has a $20 billion price tag, funding is still typically be coordinated from multiple sources, usually with significant public funding in the mix. Notable exceptions are privately funded projects like the Apple Park campus in Cupertino, at $5 billion, or the City Center project in Las Vegas, at $11 billion, the largest privately funded construction project in the history of the United States.[^wiki_citycenter] Any privately funded new city project would almost certainly need to have initial completion costs of no more than $10 or $20 billion.
@@ -1649,6 +1651,17 @@ Projects in existing cities can be staggeringly expensive.
 > "only about a quarter of New York City's 472 subway stations are wheelchair accessible" ... "subway officials ... plan to add elevators at 70 stations in the next five years." ... "The Metropolitan Transportation Authority ... estimates that accessibility fixes will cost about $78 million per station." [^fitzsimmons]
 
 
+## <a name="construction-costs"></a>Construction costs
+
+> "the price of construction for an apartment fully equipped with kitchen and bathrooms may cost several thousand US dollars per square meter (about US$2,500 per square meter in New York in 2013 for residential buildings three to seven stories tall)."[^bertaud]
+
+> "In the lowest-income countries, where construction is the cheapest, households would need to be able to afford at least US$6,000 for a studio of 12 square meters; US$6,000 is the global market commodity price for the basic construction materials of concrete and steel required to build 12 square meters."[^bertaud]
+
+> "San Francisco has the world's second-highest construction costs... The city's average construction costs of $330 per square foot was second only to New York, according to a study last year by Turner and Townsend, a construction consultant. Apartments cost around $425,000 per unit to build." [^li]
+
+> "New York and San Francisco topped the list of the most expensive construction markets, costing respectively an average of $354 and $330 per square foot to build. Seattle, which faces many of the same labor market and housing supply pressures as San Francisco, came in at $280 per square foot."[^reid]
+
+
 ### <a name="funding"></a>Funding for new city projects
 
 > "The money being thrown at new cities is staggering. 
@@ -1847,6 +1860,12 @@ There are established public-sector mechanisms for funding development projects,
 <!-- References, Chapter 5 -->
 
 [^wiki_citycenter]: ["CityCenter"](https://en.wikipedia.org/wiki/CityCenter). _Wikipedia_.
+
+[^bertaud]: _[Order without Design](https://mitpress.mit.edu/books/order-without-design): How Markets Shape Cities_, by Alain Bertaud
+
+[^li]: ["Why San Francisco has the second-highest construction costs in the world"](https://www.bizjournals.com/sanfrancisco/news/2018/01/24/sf-construction-costs-2nd-highest-housing-crisis.html). Roland Li, _San Francisco Business Times_. 24 Jan 2018
+
+[^reid]: ["Perspectives: Practitioners Weigh in on Drivers of Rising Housing Construction Costs in San Francisco"](http://ternercenter.berkeley.edu/uploads/San_Francisco_Construction_Cost_Brief_-_Terner_Center_January_2018.pdf). Carolina Reid and Hayley Raetz, _Terner Center for Housing Innovation_. January 2018.
 
 
 
