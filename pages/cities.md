@@ -187,8 +187,8 @@ h3 {
           <li><a href="#location">Location problems</a></li>
           <li><a href="#network-effect">Network effect problems</a></li>
           <li><a href="#cost">Cost problems</a></li>
-          <li><a href="#land-value-capture">Land value capture & fiscal framework problems</a></li>
           <li><a href="#bootstrapping">Bootstrapping problems</a></li>
+          <li><a href="#land-value-capture">Land value capture & fiscal framework problems</a></li>
           <li><a href="#summary">Summary</a></li>
         </ul>
       </details>
@@ -928,8 +928,8 @@ Unfortunately, actually building cities this way is probably impossible, because
 * <a href="#location">Location problems</a>
 * <a href="#network-effect">Network effect problems</a>
 * <a href="#cost">Cost problems</a>
-* <a href="#land-value-capture">Land value capture & fiscal framework problems</a>
 * <a href="#bootstrapping">Bootstrapping problems</a>
+* <a href="#land-value-capture">Land value capture & fiscal framework problems</a>
 
 
 
@@ -1059,15 +1059,13 @@ Building a kinematic city would take a long time and lot of resources. A minimum
   | Possible | Impossible<br>Problems | 
   |:-:|:-:|:-
   | <object width="30" data="../svg/logos/checkmark.svg"></object> | | **Vehicle technology (existing)**
-  | <object width="40" data="../svg/logos/checkmark.svg"></object> | | **Construction technology (existing)**
-  | | <object width="30" height="40" data="../favicon.svg"></object> | **Location problems**
-  | | <object width="30" height="40" data="../favicon.svg"></object> | **Network effect problems**
-  | | <object width="30" height="40" data="../favicon.svg"></object> | **Cost problems**
-  | | <object width="30" height="40" data="../favicon.svg"></object> | **Land value capture problems**
-  | | <object width="30" height="40" data="../favicon.svg"></object> | **Bootstrapping problems**
+  | <object width="30" data="../svg/logos/checkmark.svg"></object> | | **Construction technology (existing)**
+  | | <object width="30" height="40" data="../favicon.svg"></object> | **[Location problems](#location)**
+  | | <object width="30" height="40" data="../favicon.svg"></object> | **[Network effect problems](#network-effect)**
+  | | <object width="30" height="40" data="../favicon.svg"></object> | **[Cost problems](#cost)**
+  | | <object width="30" height="40" data="../favicon.svg"></object> | **[Bootstrapping problems](#bootstrapping)**
+  | | <object width="30" height="40" data="../favicon.svg"></object> | **[Land value capture problems](#land-value-capture)**
   |---
-
-
 
 
 
