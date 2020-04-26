@@ -1000,23 +1000,6 @@ Constructing even small buildings is expensive. Constructing entire neighborhood
 
 
 
-### <a name="land-value-capture"></a>Land value capture & fiscal framework problems
-
-Read more about [costs & land value](economics)
-
-```
-TODO: This requires better funding models & value capture agreements
-
-## Georgism
-
-https://en.wikipedia.org/wiki/Georgism
-
-## Depreciating licenses
-
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2744810
-```
-
-
 ### <a name="bootstrapping"></a>Bootstrapping problems
 
 ```
@@ -1050,6 +1033,25 @@ Building a kinematic city would take a long time and lot of resources. A minimum
     - water supply
     - a sanitation system
     - other minimum basic infrastructure
+
+
+
+### <a name="land-value-capture"></a>Land value capture & fiscal framework problems
+
+Read more about [costs & land value](economics)
+
+```
+TODO: This requires better funding models & value capture agreements
+
+## Georgism
+
+https://en.wikipedia.org/wiki/Georgism
+
+## Depreciating licenses
+
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2744810
+```
+
 
 
 
