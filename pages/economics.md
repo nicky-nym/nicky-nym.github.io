@@ -40,8 +40,6 @@ All the land within the Hong Kong Special Administrative Region, with the single
 
 ## GDP
 
-> "With the right framework, astonishing prosperity is possible. The independent city of Singapore overtook the world’s GDP per capita in less than 30 years, and that of the USA in less than 50 years." [^free-private-cities]
-
 ## Land Value
 
 ### New York land value
@@ -168,8 +166,6 @@ Common value capture mechanisms include:"[^xu]
 ## <a name="references"></a>References
 
 [^bertaud]: _[Order without Design](https://mitpress.mit.edu/books/order-without-design): How Markets Shape Cities_, by Alain Bertaud
-
-[^free-private-cities]: [Free Private Cities](https://freeprivatecities.com/en/concept/)
 
 [^manhattan]: ["What's Manhattan's Land Worth? Try 'Canada's Entire GDP'"](https://www.citylab.com/life/2018/04/what-manhattans-land-is-worth/558776/). Richard Florida, _CityLab_. 24 April 2018.
 
