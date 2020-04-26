@@ -199,7 +199,7 @@ h3 {
         <ul>
           <li><a href="#rules-of-thumb">Rules of thumb</a></li>
           <li><a href="#glossary">Glossary</a></li>
-          <li><a href="#further-reading">Further reading</a></li>
+          <li><a href="#further-reading">Further resources &mdash; books and software</a></li>
           <li><a href="#source-material">Source material</a></li>
           <li><a href="#references">References</a></li>
         </ul>
@@ -1214,8 +1214,6 @@ TODO: important? consider moving into one of the chapters above?
 * _[Velotopia](https://www.nai010.com/en/publicaties/velotopia/130528)_, by Steven Fleming
 
 * _[Urban Bikeway Design Guide](https://nacto.org/publication/urban-bikeway-design-guide/)_, and the [other street design guides](https://nacto.org/publications/design-guides/), by the The National Association of City Transportation Officials (NACTO)
-
-### Books
 
 ### Software Tools
 
