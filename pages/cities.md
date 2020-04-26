@@ -988,27 +988,23 @@ Depending where construction happens, the impossible cities design faces one of 
 
 ### <a name="cost"></a>Cost problems
 
-Constructing even small buildings is expensive. Constructing entire neighborhoods or entire cities requires not just building housing and office space, but also building all the transportation infrastruction for roads, street lights, traffic lights, bus shelters, subway stops, and more. Plus all of the utility infrastructure, including sewers, water supply, power lines, telephone lines, and the rest.
+Constructing even small buildings is expensive. Constructing entire neighborhoods or entire cities requires not just building housing and office space, but also building all the transportation infrastructure for roads, street lights, traffic lights, bus shelters, subway stops, and more. Plus all of the utility infrastructure, including sewers, water supply, power lines, telephone lines, and the rest.
 
 * **Low cost** vs. **high cost** locations
-  * An impossible city could be built in a high-cost location, such as California, or in a lower-cost location, in India or Africa. Starting in a lower-cost location is almost certainly a more promising approach, but it means that the benefits will be correspondingly lower. A 15% kinematic increase in wages & GDP is less dramatic if the wages & GDP were low to begin with
+  * An impossible city could be built in a high-cost location, such as California, or in a lower-cost location in a higher-growth area in India or Africa. Starting in a lower-cost location is almost certainly a more promising approach, but it means that the benefits will be correspondingly lower. A 15% kinematic increase in wages & GDP is less dramatic if the wages & GDP were low to begin with, even if higher population growth and GDP-per-capita growth is expected.
 * **Coordinated funding** vs. **parallel funding**
-  * Real estate development projects have traditionally happened on the scale of one building at a time, or one small housing complex or office park at a time. A booming city may have hundreds or thousands of building projects going on in parallel, each with their own different land owner, general contractor, bank loan, and prospective tenant, and each with their own zoning and planning department approval. That arrangement lowers the bar for any single project, and enables lots of projects to move forward simultaniously, each at their own pace, without needing to coordinate tens of billions of dollars of funding and spending.
-  * In recent decades, the largest development projects in the world have been growing larger. Projects on the scale of $10 to $20 billion are now fairly common. Some of those are transporation infrastructure projects, such as the Chunnel, the Gotthard Base Tunnel, the Riyadh Metro, and the New York 2nd Avenue subway project. Others are more focused on creating large amounts of leasable square footage, such as Masdar City, or the Hudson Yards project in New York. However, when a single project has a $20 billion price tag, funding has to be coordinated from multiple sources, usually with significant public funding in the mix. Notable exceptions are privately funded projects like the Apple Park campus in Cupertino, at $5 billion, or the City Center project in Las Vegas, at $11 billion. Any privately funded new city project would almost certainly need to have initial completion costs of no more than $10 or $20 billion.
+  * Real estate development projects have traditionally happened on the scale of one building at a time, or one small housing complex or office park at a time. A booming city may have hundreds or thousands of building projects going on in parallel, each with their own different land owner, general contractor, bank loan, and prospective tenant, and each with their own zoning and planning department approval. That arrangement lowers the bar for any single project, and enables lots of projects to move forward simultaniously, each at their own pace, without needing to coordinate tens of billions of dollars of funding and spending. Each project can be tuned to the needs of the particular parties involved, resulting a vibrant diversity of approaches and results, rather than the less successful giant mono-culture developments sometimes found in planned economies.
+  * In recent decades, the largest development projects in the world have been growing larger. Projects on the scale of $10 to $20 billion are now fairly common. Some of those are transporation infrastructure projects, such as the Chunnel, the Gotthard Base Tunnel, the Riyadh Metro, and the New York 2nd Avenue subway project. Others are more focused on creating large amounts of leasable square footage, such as Masdar City, or the Hudson Yards project in New York. However, when a single project has a $20 billion price tag, funding is still typically be coordinated from multiple sources, usually with significant public funding in the mix. Notable exceptions are privately funded projects like the Apple Park campus in Cupertino, at $5 billion, or the City Center project in Las Vegas, at $11 billion, the largest privately funded construction project in the history of the United States.[^wiki_citycenter] Any privately funded new city project would almost certainly need to have initial completion costs of no more than $10 or $20 billion.
 * **Upfront costs** vs. **ongoing costs**
-  * Getting a new city started would be more feasible if it were possible to minimize the upfront costs, so that substantial costs only start to occur later, once value is being created and revenue opportunities are available. Unfortunately, the impossible city design doesn't lend itself to minimizing upfront costs. Because of the [network effect](#network-effect) problems, there's not much incentive to try starting a small project; a more promising approach would be to try to scale up as quickly as possible, but that would require raising funds from speculative investors, rather than funding growth on revenue from the value created.
+  * Getting a new city started would be more feasible if it were possible to minimize the upfront costs, so that substantial costs only start to occur later, once people have already moved in, value is being created, and revenue opportunities are available. Unfortunately, the impossible city design doesn't lend itself to minimizing upfront costs. Because of the [network effect](#network-effect) problems, there's not much incentive to try starting a small project; a more promising approach would be to try to scale up as quickly as possible, but that would require raising funds from speculative investors, rather than funding growth on revenue from the value created.
 
 
 
 ### <a name="bootstrapping"></a>Bootstrapping problems
 
-The problem of how to minimize upfront costs comes down to a bootstrapping problem, which is a type of chicken-and-egg problem.
+The problem of how to minimize upfront costs comes down to a bootstrapping problem, and amounts to a chicken-and-egg problem. How do create a minimum viable seed that's large enough to spin up enough economic activity to propagate its own growth?
 
-```
-TODO: The chicken-and-egg problem.
-```
-
-Building a kinematic city would take a long time and lot of resources. A minimum viable start would need:
+Building even a small seed of a kinematic city would take a long time and lot of resources. A minimum viable start might need:
 
   + a city charter (the legal documents)
   + an independent city government
@@ -1016,12 +1012,12 @@ Building a kinematic city would take a long time and lot of resources. A minimum
   + tens of square miles of fairly empty land
     - it needs to be fairly empty, yet not remote
     - it needs to be clear of conservation restrictions and legal show-stoppers
-  + one or more existing local construction companies
+  + existing local construction companies
   + whole-hearted support from existing county & state governments
   + whole-hearted support among the neighbors
   + a big anchor employer (like Amazon, or the Indonesian Government)
-  + a population of people willing to move into the new housing as it is completed
-  + a population of companies willing to move into new office space as it is completed
+  + a pent-up demand of people eager to move into new housing as it is completed
+  + a pent-up demand of companies eager to move into new office space as it is completed
   + an existing airport, port, and interstate highway not too far away
   + start-up capital:
     - billions of dollars (in Africa)
@@ -1845,6 +1841,12 @@ There are established public-sector mechanisms for funding development projects,
 [^yang]: ["Andrew Yang’s plan to tackle climate change, explained"](https://www.vox.com/future-perfect/2019/8/26/20833263/andrew-yang-climate-plan). _Vox.com_. 26 August 2019.
 
 
+
+
+
+<!-- References, Chapter 5 -->
+
+[^wiki_citycenter]: ["CityCenter"](https://en.wikipedia.org/wiki/CityCenter). _Wikipedia_.
 
 
 
