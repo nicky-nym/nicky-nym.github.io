@@ -878,7 +878,7 @@ If we could just improve your travel times, we could quadruple your KR<sub>30</s
 
 ### <a name="current-opportunities"></a>Current opportunities, GNP
 
-As of 2017, the worldwide gross national product (GNP) was about $80 trillion per year. Some of that GNP comes from rural activities, like farming, and other remote activities, like mining and fishing. But the majority of GNP, more than 80%, comes from urban areas, for a total of about $65 trillion per year.[^mgi]
+As of 2017, the worldwide gross national product (GNP) was about $80 trillion per year. Some of that GNP comes from rural activities, like farming, and other remote activities, like mining and fishing. But the majority of GNP, more than 80%, comes from urban areas, for a total of about $65 trillion per year.[^mgi][^khan]
 
 By 2050, global GNP will probably roughly double, to about $160 trillion per year. By 2050, more than $140 trillion of that total is likely come from the urban areas. 
 
@@ -1664,6 +1664,9 @@ Projects in existing cities can be staggeringly expensive.
 
 ### <a name="funding"></a>Funding for new city projects
 
+> "Cities generate roughly 80% of global GDP and are home to more than half of the world's population today, a share that the United Nations projects will reach two-thirds by 2050," the report said. About 40% of the population lives within 100 kilometers of a coast, and one in 10 people live in areas less than 10 meters above sea level, it said. [^khan]
+
+
 > "The money being thrown at new cities is staggering. 
 > Saudi Arabia's King Abdullah Economic City comes at a price tag of **$100bn** (£78bn), 
 > while the country’s Neom megalopolis is slated to cost five times that. 
@@ -1866,6 +1869,9 @@ There are established public-sector mechanisms for funding development projects,
 [^li]: ["Why San Francisco has the second-highest construction costs in the world"](https://www.bizjournals.com/sanfrancisco/news/2018/01/24/sf-construction-costs-2nd-highest-housing-crisis.html). Roland Li, _San Francisco Business Times_. 24 Jan 2018
 
 [^reid]: ["Perspectives: Practitioners Weigh in on Drivers of Rising Housing Construction Costs in San Francisco"](http://ternercenter.berkeley.edu/uploads/San_Francisco_Construction_Cost_Brief_-_Terner_Center_January_2018.pdf). Carolina Reid and Hayley Raetz, _Terner Center for Housing Innovation_. January 2018.
+
+[^khan]: ["Goldman Sachs released a 34-page analysis of the effects of climate change. And the results are terrifying."](https://markets.businessinsider.com/news/stocks/goldman-sachs-climate-change-threatens-new-york-tokyo-lagos-cities-2019-9-1028552494). Yusuf Khan, _Markets Insider_. 25 September 2019.
+
 
 
 
