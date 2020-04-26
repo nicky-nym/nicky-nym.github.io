@@ -1096,7 +1096,9 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2744810
 ## <span class="chapter">_Appendixes_</span>
 
 * [Rules of thumb](#rules-of-thumb)
+* [Further resources &mdash; books and software](#further-reading)
 * [Glossary](#glossary)
+* [Hypothetical locations](#hypothetical-locations)
 * [Source material](#source-material)
 * [References](#references)
 
