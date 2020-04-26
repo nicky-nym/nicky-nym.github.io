@@ -1469,7 +1469,7 @@ TODO: display as graph instead of table?
 
 Just as a thought experiment, it can be interesting to look at regions of existing cities and think about which places might be large enough to sustain a new car-free kinematic district...
 
-**Treasure Island, near San Francisco**
+### Treasure Island, near San Francisco
 
 **Question:** Would a site like Treasure Island (including Yerba Buena Island) be a suitable test site for a new neighborhood with an impossible city design? It's about 2.5 square kilometers, but currently only has a population of about 2,500?
 
@@ -1479,7 +1479,7 @@ Treasure Island would certainly have huge market demand. Every apartment you bui
 
 In contrast, buying 50 square miles in a satellite location on the outskirts of a city in Africa could be relatively affordable, and you might be met with a warmer welcome in the whole multi-year design review & permitting process.
 
-**Brisbane, California**
+### Brisbane, California
 
 Brisbane Baylands would be a better site than Treasure Island. The city of Brisbane, just south of San Francisco, does have a large undeveloped parcel that would be big enough to build a bit of a Kinematic City in.
 
@@ -1487,25 +1487,25 @@ Brisbane Baylands has slightly more land area than Treasure Island, and there's 
 
 Brisbane Baylands already has a private land owner and private developer that want to build on it. It could be a great location for a kinematic district, but only if the voters in Brisbane wanted denser development, which they don't.
 
-**Standford University, California**
+### Standford University, California
 
 The Standford University campus, at 13 square miles, is more than an order of magnitude larger than Treasure Island and would be a candidate for a new impossible city district. It's also already situated in a developed urban area, with good connectivity to highways 101 and 280, Caltrain, and two existing international airports. And, unlike Treasure Island, it's not surrounded by water, which means all the area immediately around it falls into its kinematic range.
 
 But for Stanford to work as a location, people would have to be willing to tear down some of what's already built there. And the whole project would only be possible in some very like scenario where the city of Palo Alto were willing welcome hundreds of thousands of new neighbors, with all the strain that would bring on already congested highways, airports, and train lines.
 
-**Other San Francisco Bay Area sites**
+### Other San Francisco Bay Area sites
 
 There are other sites all around the Bay Area that are big enough and well located, if it were possible to get approval to build densely on them. Half Moon Bay, Pescadero, or, oddly, the huge empty space right in middle of the Bay itself, north of the Dumbarton bridge and south of the 92 bridge, which in many ways would be nearly perfect, except for the fact that construction in the Bay is completely off limits, given its status as a protected nature reserve. 
 
-**The Sea Ranch, California**
+### The Sea Ranch, California
 
 Further afield, there's the Sea Ranch. It has more land area than the Stanford Campus, but with a population of only 1,300 people, so there is only a small pool of existing owners to buy out, and a small number of buildings to be moved, removed, or incorporated into the new plans. The weather is great, the views are great, the hiking is great. But it's remote: it's only got a tiny airport, and no port, no rail, no major highway. I think it would only really work in some science fiction scenario where you could build a hyperloop tunnel to San Francisco and Silicon Valley.
 
-**Northern California Coast**
+### Northern California Coast
 
 There are other similar sites up the California coast, like in the Eureka area, with similar pros and cons. Or the area around the Little River Airport by Mendocino, if the State of California suddenly decided to allow development in the State Park property.
 
-**Greenfield locations**
+### Greenfield locations
 
 Instead of looking at infill locations in places like California, it might be easier, faster, and more fruitful to work with people who are already in the process of planning large new developments on open greenfield sites, the way people are doing in Asia, Africa, and the Middle East.
 
