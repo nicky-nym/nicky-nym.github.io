@@ -198,7 +198,7 @@ h3 {
         <summary><a href="#appendixes">Appendixes</a></summary>
         <ul>
           <li><a href="#rules-of-thumb">Rules of thumb</a></li>
-          <li><a href="#further-reading">Further resources &mdash; books and software</a></li>
+          <li><a href="#further-reading">Books and software</a></li>
           <li><a href="#glossary">Glossary</a></li>
           <li><a href="#hypothetical-locations">Hypothetical locations</a></li>
           <li><a href="#source-material">Source material</a></li>
@@ -1181,7 +1181,7 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2744810
 ## <span class="chapter">_Appendixes_</span>
 
 * [Rules of thumb](#rules-of-thumb)
-* [Further resources &mdash; books and software](#further-reading)
+* [Books and software](#further-reading)
 * [Glossary](#glossary)
 * [Hypothetical locations](#hypothetical-locations)
 * [Source material](#source-material)
@@ -1195,6 +1195,9 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2744810
 
 
 
+
+
+<div class="hr"><a name="1"></a></div>
 
 ## <a name="rules-of-thumb"></a><span class="chapter">Rules of thumb</span>
 
@@ -1287,7 +1290,10 @@ TODO: important? consider moving into one of the chapters above?
 
 
 
-## <a name="further-reading"></a><span class="chapter">Further resources</span>
+
+<div class="hr"><a name="1"></a></div>
+
+## <a name="further-reading"></a><span class="chapter">Books & software</span>
 
 ### Books
 
@@ -1320,6 +1326,9 @@ TODO: important? consider moving into one of the chapters above?
 
 
 
+
+
+<div class="hr"><a name="1"></a></div>
 
 ## <a name="glossary"></a><span class="chapter">Glossary</span>
 
@@ -1553,6 +1562,9 @@ TODO: display as graph instead of table?
 
 
 
+
+<div class="hr"><a name="1"></a></div>
+
 ## <a name="hypothetical-locations"></a><span class="chapter">Hypothetical locations</span>
 
 Just as a thought experiment, it can be interesting to look at regions of existing cities and think about which places might be large enough to sustain a new car-free kinematic district...
@@ -1598,6 +1610,17 @@ There are other similar sites up the California coast, like in the Eureka area, 
 Instead of looking at infill locations in places like California, it might be easier, faster, and more fruitful to work with people who are already in the process of planning large new developments on open greenfield sites, the way people are doing in Asia, Africa, and the Middle East.
 
 
+
+
+
+
+
+
+
+
+
+
+<div class="hr"><a name="1"></a></div>
 
 ## <a name="source-material"></a><span class="chapter">Source material</span>
 
@@ -1895,7 +1918,10 @@ There are established public-sector mechanisms for funding development projects,
 
 
 
-### <a name="references"></a><span class="chapter">References</span>
+
+<div class="hr"><a name="1"></a></div>
+
+## <a name="references"></a><span class="chapter">References</span>
 
 
 <!-- References, Chapter 1 -->
