@@ -1524,6 +1524,7 @@ TODO: display as graph instead of table?
 ```
 TODO: display as graph instead of table?
 ```
+
   |---
   | FAR<sub>parcel</sub> | FAR<sub>overall</sub> | Place
   |-:|-:|:-
