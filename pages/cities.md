@@ -668,8 +668,9 @@ A city design should not inadvertantly restrict people's freedoms, limit people'
 * **Freedom & independence**
   - freedom of movement for everyone in the community 
   - more **kid-friendly** streets
-    - kids can meet up to play at the park without being dependent on a parent for a ride
+    - kids can visit friends or meet up to play at the park without being dependent on a parent for a ride
     - kids can walk to school without learning how get across dangerous intersections
+    - kids can run errands around town for their folks
   - more **elder-friendly** streets
     - older people can get out of the house and run errands independently, without needing services like Lyft, Uber, or Meals on Wheels
   - more **disability-friendly** space
