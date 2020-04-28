@@ -909,6 +909,7 @@ By 2050, the world's 175 largest cities will have residential real estate worth 
 
 Unfortunately, trying to double the kinematic range of even a single city is probably impossible.
 
+![kinematic lag](../images/kinematic_lag_2.jpg "Kinematic lag")
 
 
 
