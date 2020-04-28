@@ -1371,6 +1371,9 @@ TODO: important? consider moving into one of the chapters above?
   * _anti-malaria efforts, deworming initiatives, and direct cash transfer programs are among the interventions most widely credited with providing the most cost-effective improvement in welfare for the global poor than any other intervention_ 
   * see [GiveWell](https://www.givewell.org/)
 
+* **generative design<a name="glossary:generative-design"></a>**
+  * a design process in which a computer generates a large number of possible solutions, and iterates towards more optimal designs, based on sets of constraints and design evaluation criteria
+
 * **global compact on refugees (GCR)<a name="glossary:GCR"></a>**
   * a 2018 United Nations draft agreement on refugees
 
