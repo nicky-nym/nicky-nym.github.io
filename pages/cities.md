@@ -856,6 +856,7 @@ As the world adds more and more large cities and megacities, kinematic lag becom
 > today's megacities. Worldwide, we will see 13 middleweight cities become 
 > megacities by 2025."[^mgi]
 
+![kinematic lag](../images/kinematic_lag_1.jpg "Kinematic lag")
 
 ### <a name="lost-opportunities"></a>Lost opportunities
 
