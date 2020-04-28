@@ -254,10 +254,10 @@ The result is:
   |:-:|:-|:-
   | | <object width="400" data="../svg/drawings/manhattan_ave.svg"></object><br><span class="h2">2nd Avenue, Manhattan</span><br> | <object width="400"   data="../svg/drawings/impossible_ave.svg"></object><br><span class="h2">Impossible Street Design</span><br>
   | **right-of-way** | 100-foot wide right-of-way<br>_(including sidewalks & street)_ | 100-foot wide right-of-way<br>_(including sidewalks & pair of center buildings)_
-  | **sidewalks**    | two 20-foot wide sidewalks | two 15-foot wide sidewalks at ground-level <br> two 25-foot wide highline greenways with footpaths
+  | **sidewalks**    | two 20-foot wide sidewalks | two 15-foot wide sidewalks at ground level <br> two 25-foot wide highline greenways with footpaths
   | **streets**      | one 60-foot wide open-air street      | two 30-foot wide enclosed streets elevated on 2nd floor
   | **lanes**        | six conventional vehicle lanes<br>_all one-way southbound_<br>_each lane 10 feet wide_ | eight bicycle lanes<br>_4 northbound & 4 southbound_<br>_each lane 6 feet wide, plus two shoulders, each 3 feet wide_
-  | **vehicles**     | 1 bus-only lane<br> 4 lanes for cars, trucks, taxis, etc. <br> 1 lane parking & curbside loading | 8 lanes for bicycles and <a href="#bike-sized">bike-sized vehicles</a> vehicles
+  | **vehicles**     | 1 bus-only lane<br> 4 lanes for cars, trucks, taxis, etc. <br> 1 lane parking & curbside loading | 8 lanes for bicycles and <a href="#bike-sized">bike-sized vehicles</a>
   | **cross-streets** | about 20 per mile | 8 per mile
   | **traffic lights** | about 20 per mile | none
   | **intersections** | at-grade conventional intersections | grade-separated intersections
@@ -266,7 +266,7 @@ The result is:
   | **actual speed**<br>average | 7.1 mph for cars[^nycdot]<sup>,</sup>[^haag] <br> 7.5 mph for buses[^nycdot] | 15 mph 
   | **vehicle<br>throughput** | 1 bus lane at about 6,000 people per hour (+/- 2,000)<br> 4 car lanes at about 1,000 people per hour each (+/- 400)<br>1 parking & delivery lane at 0 people per hour<br>**total:** about 11,000 people per hour | 8 bike lanes at about 3,500 people per hour per bike lane each (+/- 250 per hour)<br>**total:** about 28,000 people per hour
   | **sidewalk<br>throughput** | about 10,000 people per hour | about 10,000 people per hour
-  | **bottom line** | less than half as many people<br>each moving half as fast | 
+  | **bottom line** | less than half as many people as impossible design<br>each moving half as fast | twice as many people as Manhattan<br>each moving twice as fast
   |  | <a name="costs"></a><span class="h3">Costs</span> | 
   | **traffic fatalities** | 23 fatalities per million people per year | 1 fatality per million per year
   | **CO2 footprint<br>for transportation**<br>kg per person per year | 1,000 kg | 1 kg
@@ -275,7 +275,7 @@ The result is:
   | **air quality** | good | _really_ good
   | **noise levels** | noisier | quieter<br><span class="minor">(see [noise](#noise))</span>
   |  | <a name="costs"></a><span class="h3">Real estate</span> | 
-  | **floorspace** | no real estate floorspace in street | 680,000 sqaure feet of floor space per mile
+  | **floorspace** | no real estate floorspace in street | 680,000 square feet of floor space per mile
 
 
 <a name="intersection">&nbsp;</a>
@@ -378,13 +378,13 @@ Good mobility is more important than it sounds. It's not just about making rush-
   * a wider variety of **events**, **meetups**, and **clubs**, and more people who share your interests
   * a wider variety of **[long tail](#glossary:long-tail)** destinations
 
-**For shops**, **employers**, and **industry**, it means:
+**For shops**, **employers**, and **industry**, more kinematic range means:
   * more **job candidates** to choose from
   * more **vendors** and **parts suppliers** to choose from
   * more **contractors** in different **specialized fields**
   * more **"[industrial agglomeration](#glossary:industrial-agglomeration)"**, which leads to **"[agglomeration economies](#glossary:agglomeration-economies)"** (somewhat similar to the separate idea of "economies of scale")
 
-**For 911 calls** & first responders, it means:
+**For 911 calls** & first responders, more kinematic range means:
   * **faster response times** and **better incident outcomes**
 
 
@@ -411,7 +411,7 @@ TODO: add a graph illustrating 15% doubling
 
 ### <a name="existing-cities"></a>The kinematics of existing cities
 
-Larger cities have more total destinations than smaller cities, but some destinatations may be too far away for some people to get too. Denser cities have more destinattions that are within a shorter distance, but in a congested city, even nearby destinations may take a long time to get to. In practice, different cities have very different kinematics.
+Larger cities have more total destinations than smaller cities, but some destinatations may be too far away for some people to get too. Denser cities have more destinations that are within a shorter distance, but in a congested city, even nearby destinations may take a long time to get to. In practice, different cities have very different kinematics.
 
 Singapore and Dallas-Fort Worth have very different transportation networks, with very different kinematic ranges.
 
@@ -435,11 +435,11 @@ Cities can improve kinematic range by **moving more people** or **moving people 
   * **more highways**, or **more lanes**
     * the **Big Dig** in Boston
   * **more throughput per lane**
-    * the **HOV Carpool Lanes** in Los Angeles
+    * the **HOV carpool lanes** in Los Angeles
     * the **congestion pricing** in London
 
 Cities can also improve kinematic range by **becoming denser**, so that more people and more destinations are nearby
-  * **transit oriented development**
+  * **transit-oriented development**
   * **dense urban cores**
   * **infill development**
   * **multi-use zoning**
@@ -468,7 +468,7 @@ Here in the United States, in discussions about urban planning and transporation
     * do now want to pay the huge costs of creating and operating public transit systems
     * do not want to take slow, inconvenient, public transit options when they could just drive
 
-In addition to the **pro-transit** camp and the **pro-status-quo** camp, there's also a third camp, of people who are optimistic about new technologies for **automated, on-demand transporation**, like self-driving cars and delivery drones. 
+In addition to the **pro-transit** camp and the **pro-status-quo** camp, there's also a third camp: people who are optimistic about new technologies for **automated, on-demand transporation**, like self-driving cars and delivery drones. 
 
 **Proponents** of shared, self-driving cars point to advantages like the greatly reduced need for parking compared to conventional cars, yet the convenience of direct door-to-door routes.
 
@@ -496,7 +496,7 @@ The Impossible design calls for:
 ### <a name="look_like"></a>What would it look like?
 
 **A grid**
-  * The Impossible design has a **grid of city blocks**, similar to the layout of cities like Manhattan New York. That's in contrast to older cities like Rome and Paris, which have more intricate street layouts, and in contrast to many 20th century suburban developments or new cities like Dubai, which often have more circular or curvy streets, or layouts that are intentionally asymmetrical, with cul-de-sacs and loops.
+  * The Impossible design has a **grid of city blocks**, similar to places like Manhattan New York. That's in contrast to older cities like Rome and Paris, which have more intricate street layouts, and in contrast to many 20th century suburban developments or new cities like Dubai, which often have more circular or curvy streets, or layouts that are intentionally asymmetrical, with cul-de-sacs and loops.
  
 **A big grid**
   * Instead of the rectangular blocks that Manhattan has, the Impossible design has square blocks. Big blocks: more **like big Salt Lake City blocks** than little Portland, Oregon blocks.
@@ -513,7 +513,7 @@ The Impossible design calls for:
 
 ### <a name="why"></a>Why is this a better design?
 
-The Impossible design is built entirely around **bicycles**, **bike-sized electric vehicles**, and **sheltered streets** with **no interestions**. At first blush, it's hard to imagine that this is a practical design. It doesn't seem like an entire city could have no buses, trains, or cars, and still manage to move millions of people a day with reduced travel times and increased travel ranges.
+The Impossible design is built entirely around **bicycles**, **bike-sized electric vehicles**, and **sheltered streets** with **no intersections**. At first blush, it's hard to imagine that this is a practical design. It doesn't seem like an entire city could have no buses, trains, or cars, and still manage to move millions of people a day with reduced travel times and increased travel ranges.
 
 It **seems** impossible, because cars **seem** like fast, long-range vehicles, and buses and trains **seem** like high-capacity transit. 
 
@@ -1342,8 +1342,7 @@ TODO: important? consider moving into one of the chapters above?
 ## <a name="glossary"></a><span class="chapter">Glossary</span>
 
 * **agglomeration economies<a name="glossary:agglomeration-economies"></a>**
-  * The ideas of agglomeration economies is similar to the separate idea of "economies of scale". Agglomeration economies are the economic benefits that come from "industrial agglomeration", which means the clustering of a lot of business firms in one region. (Our designs to be mindful of avoiding "agglomeration diseconomies", which are the disadvantages of proximity, such as traffic congestion.)
-  * The term  means . Industrial agglomeration leads to "agglomeration economies" (somewhat similar to the separate idea of "economies of scale"). "
+  * The idea of agglomeration economies is similar to the separate idea of "economies of scale". Agglomeration economies are the economic benefits that come from "industrial agglomeration", which means the clustering of a lot of business firms in one region. (Our designs to be mindful of avoiding "agglomeration diseconomies", which are the disadvantages of proximity, such as traffic congestion.)
 
 * **architectural, engineering and construction (AEC)<a name="glossary:AEC"></a>**
   * the entire industry of companies and people who build structures
@@ -1437,7 +1436,7 @@ TODO: important? consider moving into one of the chapters above?
   + Medieval Paris
   + Victorian London — steam train
   + New York — subway
-  + Los Angles — car 
+  + Los Angeles — car 
 
   > "Using data from cities across several countries, including the United States, England, Germany, and some developing nations, [Yacov] Zahavi discovered the surprising result that the total amount of time an average individual spends on travel each day is approximately the same regardless of the city size or the mode of transportation. ... we tend to spend about an hour each day traveling, whoever and wherever we are. ... the average commute time from home to work is about half an hour each way independent of the city or the means of transportation.
   > 
