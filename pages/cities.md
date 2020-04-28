@@ -1631,7 +1631,7 @@ Instead of looking at infill locations in places like California, it might be ea
 
 <div class="hr"><a name="1"></a></div>
 
-## <a name="source-material"></a><span class="chapter">Source material</span>
+## <a name="source-material"></a><span class="chapter">Source material, chaper 1</span>
 
 ### <a name="throughput"></a>Throughput per lane (source: NACTO[^gsdg])
 
@@ -1727,6 +1727,33 @@ tan(27 degrees) = 0.51 => 51% grade = 51 foot rise per 100 foot run
 > "...the population in Wuhan is 8.3 million, much greater than that in Sheffield, at 0.6 million. ... For Wuhan, given that the number of vehicles per person is still much lower than that in Sheffield by tenfold ... it is very interesting to note that the average noise levels in all of the sampled areas are lower than those in Sheffield by 2dBA to 11dBA. ... In terms of L<sub>min</sub> and L<sub>90</sub> ... the difference is even greater -- for example, up to 15dBA in the area with a motorway."[^kang] &mdash; Jian Kang
 
 
+
+
+
+
+## <span class="chapter">Source material, chaper 2</span>
+
+### <a name="bicycles"></a>Bicycles
+
+> We see that bicycles provide a much higher road capacity at speeds below 15 km/h than any other mode of transport.[^bertaud]
+
+> Because of their higher speed and increased comfort, electric bicycles, where they are authorized (as in Chengdu, China), could meaningfully compete with buses or cars as a means of commuting in larger cities.[^bertaud]
+
+> The emergence of small footprint, on-demand, shared vehicles ... will change the way urban transport is organized. The pattern of roads and arterials may also change to adapt to these new modes of urban transport. Instead of concentric traffic on a few high-capacity highways or arterials, numerous smaller low-capacity roads would allow the flexibility required by trips from dispersed origins to dispersed destinations.[^bertaud]
+
+### <a name="small_cars"></a>Small cars
+
+> By contrast, compared to the motorcycle, compact Smart car performance (except for energy use) in terms of road capacity is not much better than that of an ordinary car. ... The width of the vehicle, not its length, is the important parameter to consider when trying to reduce street area consumption.[^bertaud]
+
+
+
+
+
+
+
+
+## <span class="chapter">Source material, chaper 3</span>
+
 ### <a name="resiliency"></a>Resiliency
 
   > "Resiliency is the ability to bounce back better, but also the ability to not have to bounce back as much." 
@@ -1734,6 +1761,16 @@ tan(27 degrees) = 0.51 => 51% grade = 51 foot rise per 100 foot run
 
   > "Because its location and design were deliberately chosen to withstand natural calamities, New Clark City will serve as the government’s continuity hub, disaster and risk recovery center – an alternative capital city in case a disaster strikes Manila"[^new-clark]
 
+
+
+
+
+
+
+
+
+
+## <span class="chapter">Source material, chaper 4</span>
 
 ### <a name="growth"></a>Global urban growth
 
@@ -1769,11 +1806,6 @@ It is estimated that **by 2050**:
 > "projections show that Kinshasa, the capital of the Democratic Republic of Congo, will reach 35 million residents by 2050."[^lutter]
 
 
-### <a name="chapter-4"></a>Chapter 4
-
-> "The San Francisco metro area [the counties of San Francisco, Alameda, Marin, Contra Costa, and San Mateo] is the third most valuable region in America based on the value of its residential real estate. The area's total residential real estate value hit an astonishing $1.3 trillion and it's outranked only by the Los Angeles and New York metro areas, with total residential real estate values of $2.2 trillion and $2.6 trillion, respectively." ... "San Francisco is one of three cities nationwide that can claim a market value higher than Apple Inc.'s $1 trillion."[^hoeven]
-
-
 ### <a name="california"></a>California urban growth
 
 In California alone, "to satisfy pent-up demand and meet the needs of a growing population, California needs to build 3.5 million homes by 2025."[^mckinsey]
@@ -1799,14 +1831,14 @@ As of 2018, **70 million people** were currently displaced by war, persecution a
 > "it has been estimated that it’s going to cost the USA alone around $400 billion over the next two decades in sea level rise damage control"[^shepard]
 
 
+### Lost opportunities
+> "The San Francisco metro area [the counties of San Francisco, Alameda, Marin, Contra Costa, and San Mateo] is the third most valuable region in America based on the value of its residential real estate. The area's total residential real estate value hit an astonishing $1.3 trillion and it's outranked only by the Los Angeles and New York metro areas, with total residential real estate values of $2.2 trillion and $2.6 trillion, respectively." ... "San Francisco is one of three cities nationwide that can claim a market value higher than Apple Inc.'s $1 trillion."[^hoeven]
+
+
 
 ### <a name="precident"></a>"New city" greenfield developments
 
 More than **120 new cities** are currently being built in 40 nations around the world[^growth], and 11,000 new buildings are built every day, meaning **4 million new buildings a year** [^metabuild]. (These developments are frequently called "new cities", although often they are more like new suburbs or new satellite neighborhoods of existing cities, rather than brand new cities in their own right.)
-
-```
-TODO: this is a repeat of the '120 "new cities"' quote above. Need to delete one of the two.
-```
 
   * **Nkwashi**, in Zambia, being built by Thebe Investment Management, is expected to house up to 100,000 people.[^mason]
   * **Tatu City**, in Kenya, being built by Rendeavour, is planned for 150,000 residents.[^mason]
@@ -1821,6 +1853,15 @@ TODO: this is a repeat of the '120 "new cities"' quote above. Need to delete one
 > "Forest City is a $100 billion new city development which will house 700,000 residents when completed. Forest city is a 5600-acre development."[^lutter]
 
 
+
+
+
+
+
+
+
+
+## <span class="chapter">Source material, chaper 5</span>
 
 ### <a name="cost"></a>Greenfield development vs. retrofitting
 
@@ -1913,8 +1954,12 @@ There are established public-sector mechanisms for funding development projects,
 
 
 
+## <span class="chapter">Source material, additional</span>
 
-#### <a name="size"></a>Size & density
+
+
+
+### <a name="size"></a>Size & density
 
   * **Bigger may not be better.** Big cities, with more people, have more destinations to go to, and have a wider variety of destinatations. But, if there's too much congestion, it may take too long to get to the other side of town, so that limits your kinematic range. Your range doesn't cover the whole city, just the region of the city that's within 30 minutes of you.
   * **Denser may not be better.** New York is much denser than Los Angeles, so there are more destinations per square mile in New York than there are in Los Angeles. But it takes longer to travel 10 miles in New York than in does in Los Angeles, so Los Angeles actually has a larger kinematic range than New York.
