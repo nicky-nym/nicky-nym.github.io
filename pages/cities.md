@@ -161,7 +161,7 @@ h3 {
           <li><a href="#convenient">Convivial & convenient</a></li>
           <li><a href="#durable">Durable, reliable & resilient</a></li>
           <li><a href="#economicly-prosperous">Economicly prosperous</a></li>
-          <li><a href="#freedom">Free, fair & friendly</a></li>
+          <li><a href="#freedom">Freedom & independence</a></li>
           <li><a href="#greener">Greener & cleaner</a></li>
           <li><a href="#healthier">Healthier & safer</a></li>
         </ul>
@@ -574,7 +574,7 @@ If you're building from scratch, then with a few good design choices it's possib
  
   <span class="minor">(E)</span> **[Economicly prosperous](#economicly-prosperous)**
 
-  <span class="minor">(F)</span> **[Free, fair & friendly](#freedom)**
+  <span class="minor">(F)</span> **[Freedom & indepence](#freedom)**
 
   <span class="minor">(G)</span> **[Greener & cleaner](#greener)**
 
@@ -661,24 +661,26 @@ A city should provide for a good life for the people who live in it and work in 
 
 
 
-### <a name="freedom"></a>Free, fair & friendly
+### <a name="freedom"></a>Freedom & independence
 
-A city design should not inadvertantly restrict people's freedoms or obstruct fair access. The impossible design offers more:
+A city design should not inadvertantly restrict people's freedoms, limit people's independence, or obstruct fair access. The impossible design offers more:
 
-* **Freedom**
+* **Freedom & independence**
   - freedom of movement for everyone in the community 
-  - free-range kids &mdash; who can meet up to play at the park without needing a ride, and who can walk to school without learning how to look both ways before crossing a street
+  - more **kid-friendly** streets
+    - kids can meet up to play at the park without being dependent on a parent for a ride
+    - kids can walk to school without learning how get across dangerous intersections
+  - more **elder-friendly** streets
+    - older people can get out of the house and run errands independently, without needing services like Lyft, Uber, or Meals on Wheels
+  - more **disability-friendly** space
+    - safer streets for people with limited vision or limited hearing
+    - better accessibility for people in wheelchairs
   - freedom to travel without being asked for a license & registration
 
 * **Fairness**
   - a **level playing field** for urban mobility
   - equal access to safe passage for everyone through all public space
   - full mobility for women[^gadepalli], with no "pink tax"[^mccasland] & no "trip-range" tax[^gonzalez]
-
-* **Friendliness**
-  - more **kid-friendly** streets
-  - more **elder-friendly** streets
-  - more **disability-friendly** space, with safer streets for people with limited vision or limited hearing, and better accessibility for people in wheelchairs
 
 * **Accessibility**
   - stroller-friendly buildings and stroller-friendly transportation
