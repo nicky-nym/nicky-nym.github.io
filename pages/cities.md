@@ -263,7 +263,7 @@ The result is:
   | **intersections** | at-grade conventional intersections | grade-separated intersections
   | **trees** | about 150 per mile | about 200 per mile
   | **speed limits**<br>as posted | 25 mph[^speed-limits] | 18 mph 
-  | **actual speed**<br>average | 7.1 mph for cars[^nycdot][^haag] <br> 7.5 mph for buses[^nycdot] | 15 mph 
+  | **actual speed**<br>average | 7.1 mph for cars[^nycdot]<sup>,</sup>[^haag] <br> 7.5 mph for buses[^nycdot] | 15 mph 
   | **vehicle<br>throughput** | 1 bus lane at about 6,000 people per hour (+/- 2,000)<br> 4 car lanes at about 1,000 people per hour each (+/- 400)<br>1 parking & delivery lane at 0 people per hour<br>**total:** about 11,000 people per hour | 8 bike lanes at about 3,500 people per hour per bike lane each (+/- 250 per hour)<br>**total:** about 28,000 people per hour
   | **sidewalk<br>throughput** | about 10,000 people per hour | about 10,000 people per hour
   | **bottom line** | less than half as many people<br>each moving half as fast | 
@@ -887,7 +887,7 @@ If we could just improve your travel times, we could quadruple your KR<sub>30</s
 
 ### <a name="current-opportunities"></a>Current opportunities, GNP
 
-As of 2017, the worldwide gross national product (GNP) was about $80 trillion per year. Some of that GNP comes from rural activities, like farming, and other remote activities, like mining and fishing. But the majority of GNP, more than 80%, comes from urban areas, for a total of about $65 trillion per year.[^mgi][^khan]
+As of 2017, the worldwide gross national product (GNP) was about $80 trillion per year. Some of that GNP comes from rural activities, like farming, and other remote activities, like mining and fishing. But the majority of GNP, more than 80%, comes from urban areas, for a total of about $65 trillion per year.[^mgi]<sup>,</sup>[^khan]
 
 By 2050, global GNP will probably roughly double, to about $160 trillion per year. By 2050, more than $140 trillion of that total is likely come from the urban areas. 
 
@@ -1012,7 +1012,7 @@ Constructing even small buildings is expensive. Constructing entire neighborhood
 
 * **Low cost** vs. **high cost** locations
   * An impossible city could be built in a high-cost location, such as California, or in a lower-cost location in a higher-growth area in India or Africa, like somewhere near the new Bagamoyo port and special economic zone, near Dar es Salaam, Tanzania. Starting in a lower-cost location is almost certainly a more promising approach, but it means that the benefits will be correspondingly lower. A 15% kinematic increase in wages & GDP is less dramatic if the wages & GDP were low to begin with, even if higher population growth and GDP-per-capita growth is expected.
-  * In a place like San Francisco or New York, average construction costs are about $350 per square foot, so new apartments can cost over $400,000 per unit to build.[^li][^reid]
+  * In a place like San Francisco or New York, average construction costs are about $350 per square foot, so new apartments can cost over $400,000 per unit to build.[^li]<sup>,</sup>[^reid]
   * Even in the lowest-income countries, where construction labor is least expensive, the basic costs of steel and concrete amount to about $50 per square foot, so even a very small single-room apartment can cost $5,000 to $10,000 in construction materials alone.[^bertaud]
 * **Coordinated funding** vs. **parallel funding**
   * Real estate development projects have traditionally happened on the scale of one building at a time, or one small housing complex or office park at a time. A booming city may have hundreds or thousands of building projects going on in parallel, each with their own different land owner, general contractor, bank loan, and prospective tenant, and each with their own zoning and planning department approval. That arrangement lowers the bar for any single project, and enables lots of projects to move forward simultaniously, each at their own pace, without needing to coordinate tens of billions of dollars of funding and spending. Each project can be tuned to the needs of the particular parties involved, resulting a vibrant diversity of approaches and results, rather than the less successful giant mono-culture developments sometimes found in planned economies.
@@ -1747,7 +1747,7 @@ tan(27 degrees) = 0.51 => 51% grade = 51 foot rise per 100 foot run
 
 It is estimated that **by 2050**:
 * about **2.5 billion additional people** will live in cities (vs. 2019), with 90% of the uptake in Asia and Africa[^growth]
-* **68% of the world's population** will be living in cities (vs. 55% in 2018)[^growth][^mason]
+* **68% of the world's population** will be living in cities (vs. 55% in 2018)[^growth]<sup>,</sup>[^mason]
 * about **200 million climate migrants** will settle in new locations. (Forecasts vary from 25 million to 1 billion.)[^migrants]
 * **400 million people in India** will migrate to cities[^sharma]
 * the **African population will double** from 1.3 billion today to over **2.5 billion** [^forbes]
