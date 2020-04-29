@@ -157,13 +157,13 @@ h3 {
       <details>
         <summary><a href="#3">3. Bonus features beyond mobility</a></summary>
         <ul>
-          <li><a href="#affordable">Affordable</a></li>
-          <li><a href="#convenient">Convivial & convenient</a></li>
-          <li><a href="#durable">Durable, reliable & resilient</a></li>
-          <li><a href="#economicly-prosperous">Economicly prosperous</a></li>
+          <li><a href="#affordability">Affordability</a></li>
+          <li><a href="#convenience">Conviviality & convenience</a></li>
+          <li><a href="#durability">Durability, reliability & resilience</a></li>
+          <li><a href="#economic-prosperity">Economic prosperity</a></li>
           <li><a href="#freedom">Freedom & independence</a></li>
-          <li><a href="#greener">Greener & cleaner</a></li>
-          <li><a href="#healthier">Healthier & safer</a></li>
+          <li><a href="#health">Green sustainability</a></li>
+          <li><a href="#health">Health & safety</a></li>
         </ul>
       </details>
     </div>
@@ -562,27 +562,27 @@ TODO:
 
 ## <span class="chapter">_Chapter 3_ &mdash; Bonus features beyond mobility</span>
 
-If you're building from scratch, then with a few good design choices it's possible to build an urban layout that **works far better** than traditional cities do. New designs can be more:
+If you're building from scratch, then with a few good design choices it's possible to build an urban layout that **works far better** than traditional cities do. New designs can maximize:
 
-  <span class="minor">(A)</span> **[Affordable](#affordable)**
+  <span class="minor">(A)</span> **[Affordability](#affordability)**
 
   <span class="minor">(B)</span> ~~Blank (this space intentionally left blank)~~
 
-  <span class="minor">(C)</span> **[Convivial & convenient](#convenient)**
+  <span class="minor">(C)</span> **[Conviviality & convenience](#convenience)**
 
-  <span class="minor">(D)</span> **[Durable, reliable & resilient](#durable)**
+  <span class="minor">(D)</span> **[Durability, reliability & resilience](#durability)**
  
-  <span class="minor">(E)</span> **[Economicly prosperous](#economicly-prosperous)**
+  <span class="minor">(E)</span> **[Economic prosperity](#economic-prosperity)**
 
-  <span class="minor">(F)</span> **[Freedom & indepence](#freedom)**
+  <span class="minor">(F)</span> **[Freedom & independence](#freedom)**
 
-  <span class="minor">(G)</span> **[Greener & cleaner](#greener)**
+  <span class="minor">(G)</span> **[Green sustainability](#sustainability)**
 
-  <span class="minor">(H)</span> **[Healthier & safer](#healthier)**
+  <span class="minor">(H)</span> **[Health & safety](#health)**
 
 
 
-### <a name="affordable"></a>Affordable
+### <a name="Affordability"></a>Affordability
 
 There's no point in designing a new urban development that is too expensive to build, and no point in building a new urban development that is too expensive for people to afford to move to.
 
@@ -606,7 +606,7 @@ There's no point in designing a new urban development that is too expensive to b
 
 
 
-### <a name="convenient"></a>Convivial & convenient
+### <a name="convenience"></a>Conviviality & convenience
 
 Significantly increased mobility & kinematic range means that it's easier to go see people and easier to get to more places. A more mobile city is a city with more social opportunities and social prosperity.
 
@@ -628,7 +628,7 @@ Significantly increased mobility & kinematic range means that it's easier to go 
     * a maker space with an Atomic Force Microscope
     * etc.
 
-### <a name="durable"></a>Durable, reliable & resilient
+### <a name="durability"></a>Durability, reliability & resilience
 
 By striving for simplicity, these new designs avoid using lots of "fragile" technologies, like elevators and traffic lights. 
 
@@ -644,7 +644,7 @@ By striving for simplicity, these new designs avoid using lots of "fragile" tech
 
 
 
-### <a name="economicly-prosperous"></a>Economicly prosperous
+### <a name="economic-prosperity"></a>Economic prosperity
 
 A city should provide for a good life for the people who live in it and work in it. 
 
@@ -694,7 +694,7 @@ A city design should not inadvertantly restrict people's freedoms, limit people'
   - frequent pathside seating for elderly people
 
 
-### <a name="greener"></a>Greener & cleaner
+### <a name="sustainability"></a>Green sustainability
 
 Compared to a conventional city, the impossible design should provide:
 
@@ -713,7 +713,7 @@ Compared to a conventional city, the impossible design should provide:
   * see [noise](#noise)
 
 
-### <a name="healthier"></a>Healthier & safer
+### <a name="health"></a>Health & safety
 
 An impossible city should be **safer** and more fun to live in.
 
