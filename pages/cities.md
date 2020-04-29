@@ -162,7 +162,7 @@ h3 {
           <li><a href="#durability">Durability, reliability & resilience</a></li>
           <li><a href="#economic-prosperity">Economic prosperity</a></li>
           <li><a href="#freedom">Freedom & independence</a></li>
-          <li><a href="#health">Green sustainability</a></li>
+          <li><a href="#sustainability">Green sustainability</a></li>
           <li><a href="#health">Health & safety</a></li>
         </ul>
       </details>
