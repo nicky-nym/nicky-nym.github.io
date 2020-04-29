@@ -721,7 +721,7 @@ An impossible city should be **safer** and more fun to live in.
 * **Healthier**
   - more opportunity to exercise while commuting
   - better air quality & less noise
-  - less stressful, with less traffic congestion and more parks & tress
+  - less stressful, with less traffic congestion and more parks & trees [^macdonald]
 
 * **Safer**
   - no traffic accident deaths
@@ -1767,6 +1767,17 @@ TODO: display as graph instead of table?
 
 
 ## <span class="chapter">Source material, chaper 3</span>
+
+
+### <a name="parks"></a>Parks & trees
+
+> "Meyer-Lindenberg is currently tracking how different parts of the city affect our mental wellbeing, using a technique called ecological momentary assessment, in which participants repeatedly report on the environment around them in real time. Various studies have suggested that nature – be that a tree or a park – has an important impact on people’s mental health."[^macdonald]
+
+> "Studies have consistently linked city living with poorer mental health. For example, growing up in an urban environment is correlated with twice the risk of developing schizophrenia as growing up in the countryside."[^macdonald]
+
+> "Mental health is almost uniformly worse in cities... that's just what the data shows," [Andreas] Meyer-Lindenberg says over the phone. "There isn't really a bright side to this."[^macdonald]
+
+
 
 ### <a name="resiliency"></a>Resiliency
 
