@@ -384,10 +384,6 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 
 [^caspar]: ["The Future of Greenfield Cities"](https://newcities.org/the-big-picture-the-future-of-greenfield-cities/). _NewCities_. 23 July 2019.
 
-[^crawford]: _[Carfree Cities](http://www.carfree.com/book/)_, by J.H. Crawford
-
-[^densityatlas]: ["Manhattan, Grand Street Neighborhood"](http://densityatlas.org/casestudies/profile.php?id=121). _Density Atlas_.
-
 [^dickey]: ["Ex-Uber exec launches startup to autonomously reposition electric scooters and bikes"](https://techcrunch.com/2019/10/15/ex-uber-exec-launches-startup-to-autonomously-reposition-electric-scooters-and-bikes/). Megan Rose Dickey, _TechCrunch_. 15 October 2019.
 
 [^displaced]: ["Worldwide displacement tops 70 million, UN Refugee Chief urges greater solidarity in response"](https://www.unhcr.org/uk/news/press/2019/6/5d03b22b4/worldwide-displacement-tops-70-million-un-refugee-chief-urges-greater-solidarity.html). _UNHCR: The UN Refugee Agency_. 19 June 2019.
@@ -426,8 +422,6 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 
 [^migrants]: ["Migration, Environment and Climate Change: Assessing the Evidence"](https://publications.iom.int/system/files/pdf/migration_and_environment.pdf). (PDF) _International Organization for Migration_. 2009.
 
-[^new-clark]: ["Resilient Growth: Building a Resilient City in the Philippines"](https://newcities.org/the-big-picture-resilient-growth-building-resilient-city-philippines/). _NewCities_. 2019.
-
 [^ng]: ["We ran traffic simulations on our people-first street designs. Here’s what we found"](https://medium.com/sidewalk-talk/https-medium-com-sidewalk-talk-street-sim-33da7e1a8ffb). Willa Ng, _Sidewalk Labs_. 9 September 2019.
 
 [^perez]: ["Apple commits $2.5 billion to address California’s housing crisis and homelessness issues"](https://techcrunch.com/2019/11/04/apple-commits-2-5-billion-to-address-californias-housing-crisis-and-homelessness-issues/). Sarah Perez, _TechCrunch_. 4 November 2019.
@@ -460,15 +454,7 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 
 [^west]: ["The Origins of Scaling in Cities"](), by Luis Bettencourt & Geoffrey West at the Santa Fe Institute. _Science (volume 340, issue 6139, page 1438)_. 21 June 2013.
 
-[^wiki_manhattan]: ["Manhattan"](https://en.wikipedia.org/wiki/Manhattan). _Wikipedia_.
-
-[^wiki_new_york_city]: ["New York City"](https://en.wikipedia.org/wiki/New_York_City). _Wikipedia_.
-
-[^wiki_paris]: ["Paris"](https://en.wikipedia.org/wiki/Paris). _Wikipedia_.
-
 [^wiki_pentagon]: ["The Pentagon"](https://en.wikipedia.org/wiki/The_Pentagon). _Wikipedia_.
-
-[^wiki_san_francisco]: ["San Francisco"](https://en.wikipedia.org/wiki/San_Francisco). _Wikipedia_.
 
 
 [^yang]: ["Andrew Yang’s plan to tackle climate change, explained"](https://www.vox.com/future-perfect/2019/8/26/20833263/andrew-yang-climate-plan). _Vox.com_. 26 August 2019.
