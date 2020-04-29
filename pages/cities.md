@@ -711,7 +711,7 @@ Compared to a conventional city, the impossible design should provide:
   - more parks and trees
 
 * **Less noise**
-  * see [noise](#noise)
+  * no cars and car noise in practice turns out to mean less overall noise, even with much higher urban densities [^kang]
 
 
 ### <a name="health"></a>Health & safety
