@@ -145,15 +145,6 @@ Although traditional fire engines can use the boulevards, they may not be necess
 Ideally the kinematic city buildings would all be built with standpipes and fire sprinkler systems, so pump engines and tender vehicles may be less important in a kinematic city, allowing the city to instead have more ambulances, hazmat vehicles and rescue vehicles.
 
 
-
-## <a name="work-better"></a>(2) What we want &mdash; things that should work better
-
-> "If we stick to business as usual most of it is going to be 
-> disorderly and less functional than the stuff we already have."[^growth]
-> &mdash; Paul Romer, Nobel prize-winning economist, New York University.
-
-
-
 ---
 
 ## <a name="how-cities-work"></a>(4) How cities work
