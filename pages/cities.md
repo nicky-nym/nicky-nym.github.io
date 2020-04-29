@@ -2095,6 +2095,8 @@ There are established public-sector mechanisms for funding development projects,
 
 [^new-clark]: ["Resilient Growth: Building a Resilient City in the Philippines"](https://newcities.org/the-big-picture-resilient-growth-building-resilient-city-philippines/). _NewCities_. 2019.
 
+[^macdonald]: ["Urban living makes us miserable. This city is trying to change that"](https://mosaicscience.com/story/urban-living-city-mental-health-glasgow-cities-happiness-regeneration/). Fleur Macdonald, _Mosaic_. 15 October 2019.
+
 
 
 
