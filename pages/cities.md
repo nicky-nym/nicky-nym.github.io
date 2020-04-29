@@ -766,8 +766,6 @@ An impossible city should be **safer** and more fun to live in.
 | **Home sizes**<br>square feet per person, average | 275 | 275 |
 | **Office space**<br>square feet per person, average | 260 | 260 |
 | **911 response time**<br>minutes, average | 4 minutes | 5.75 minutes |	
-| **Housing costs**<br>monthly rent per apartment<br>(750 square feet) | > $1,000 | $3,750 |
-|                   condo price, average | > $120,000 | $1.2 million
 |---
 
 
