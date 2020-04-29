@@ -1505,63 +1505,6 @@ TODO: important? consider moving into one of the chapters above?
 
 
 
-```
-TODO: display as graph instead of table?
-```
-
-  |---
-  | People per<br>square mile | City | Land area<br>square feet<br>per person 
-  |-:|:-|-:|
-  |  85,829 | Central Paris[^crawford]                  |   325 | 
-  | **78,874** | **Kinematic City Proposal**<br>(density of city districts, sans greenbelt)    |   353 |
-  |  71,340 | Manhattan, New York[^wiki_manhattan]      |   391 | 
-  |  68,376 | J.H.Crawford's _Carfree Cities_ Reference Design<br>(density of city districts, sans greenbelt)[^crawford]  |   408 | 
-  |  52,593 | Paris[^wiki_paris]                        |   530 | 
-  |  27,751 | New York City[^wiki_new_york_city]        | 1,005 |
-  |  18,838 | San Francisco[^wiki_san_francisco]        | 1,480 | 
-  |  10,117 | J.H.Crawford's _Carfree Cities_ Reference Design<br>(combined density of city districts **and** greenbelt)[^crawford]  |   2,756 | 
-  |  10,101 | Suburban single-family housing[^crawford] | 2,760 | 
-  |         | _For more examples of city densities, check out [DensityAtlas.org](http://densityatlas.org/)._ |  | 
-  |---
-  
-
-
-<!--
-  |---
-  | people<br>per<br>mile<sup>2</sup> | region | feet<sup>2</sup><br>per<br>person | land area of cities<br>meters<sup>2</sup><br>per person<br>in 2014
-  |-:|-:|:-|-:
-  |  55,106 | South and Central Asia                   |   506 |  47[^bertaud]
-  |  34,079 | Southeast Asia                           |   818 |  76[^bertaud]
-  |  28,461 | Western Asia and North Africa            |   980 |  91[^bertaud]
-  |  27,263 | Sub-Saharan Africa                       | 1,023 |  95[^bertaud]
-  |  25,900 | Latin America and the Caribbean          | 1,076 | 100[^bertaud]
-  |  20,555 | East Asia and the Pacific                | 1,356 | 126[^bertaud]
-  |  15,988 | Europe and Japan                         | 1,744 | 162[^bertaud]
-  |   6,080 | Land-rich developed countries            | 4,585 | 426[^bertaud]
-  |---
--->
-
-
-```
-TODO: display as graph instead of table?
-```
-
-  |---
-  | FAR<sub>parcel</sub> | FAR<sub>overall</sub> | Place
-  |-:|-:|:-
-  |     0.3[^bertaud] |        | US suburbs
-  |                   |   0.41 | San Francisco
-  |                ~  |    1.7 | Proposed kinematic city
-  |     3.5[^bertaud] |        | Historical Paris
-  | 4 to 10[^bertaud] | 3 to 7[^densityatlas] | Manhattan residential
-  |      15[^bertaud] |     10 | Manhattan office buildings
-  |      25[^bertaud] |        | Singapore highest FAR
-  |                   |        | _For more FAR examples, check out [DensityAtlas.org](http://densityatlas.org/)._ |  | 
-  |---
-
-
-
-
 
 
 
@@ -1728,6 +1671,73 @@ tan(27 degrees) = 0.51 => 51% grade = 51 foot rise per 100 foot run
 ### <a name="noise"></a>Noise
 
 > "...the population in Wuhan is 8.3 million, much greater than that in Sheffield, at 0.6 million. ... For Wuhan, given that the number of vehicles per person is still much lower than that in Sheffield by tenfold ... it is very interesting to note that the average noise levels in all of the sampled areas are lower than those in Sheffield by 2dBA to 11dBA. ... In terms of L<sub>min</sub> and L<sub>90</sub> ... the difference is even greater -- for example, up to 15dBA in the area with a motorway."[^kang] &mdash; Jian Kang
+
+
+
+
+
+
+
+
+
+### <a name="density"></a>Density
+
+
+```
+TODO: display as graph instead of table?
+```
+
+  |---
+  | People per<br>square mile | City | Land area<br>square feet<br>per person 
+  |-:|:-|-:|
+  |  85,829 | Central Paris[^crawford]                  |   325 | 
+  | **78,874** | **Kinematic City Proposal**<br>(density of city districts, sans greenbelt)    |   353 |
+  |  71,340 | Manhattan, New York[^wiki_manhattan]      |   391 | 
+  |  68,376 | J.H.Crawford's _Carfree Cities_ Reference Design<br>(density of city districts, sans greenbelt)[^crawford]  |   408 | 
+  |  52,593 | Paris[^wiki_paris]                        |   530 | 
+  |  27,751 | New York City[^wiki_new_york_city]        | 1,005 |
+  |  18,838 | San Francisco[^wiki_san_francisco]        | 1,480 | 
+  |  10,117 | J.H.Crawford's _Carfree Cities_ Reference Design<br>(combined density of city districts **and** greenbelt)[^crawford]  |   2,756 | 
+  |  10,101 | Suburban single-family housing[^crawford] | 2,760 | 
+  |         | _For more examples of city densities, check out [DensityAtlas.org](http://densityatlas.org/)._ |  | 
+  |---
+  
+
+
+<!--
+  |---
+  | people<br>per<br>mile<sup>2</sup> | region | feet<sup>2</sup><br>per<br>person | land area of cities<br>meters<sup>2</sup><br>per person<br>in 2014
+  |-:|-:|:-|-:
+  |  55,106 | South and Central Asia                   |   506 |  47[^bertaud]
+  |  34,079 | Southeast Asia                           |   818 |  76[^bertaud]
+  |  28,461 | Western Asia and North Africa            |   980 |  91[^bertaud]
+  |  27,263 | Sub-Saharan Africa                       | 1,023 |  95[^bertaud]
+  |  25,900 | Latin America and the Caribbean          | 1,076 | 100[^bertaud]
+  |  20,555 | East Asia and the Pacific                | 1,356 | 126[^bertaud]
+  |  15,988 | Europe and Japan                         | 1,744 | 162[^bertaud]
+  |   6,080 | Land-rich developed countries            | 4,585 | 426[^bertaud]
+  |---
+-->
+
+
+### <a name="far"></a>Floor area ratio
+
+```
+TODO: display as graph instead of table?
+```
+
+  |---
+  | FAR<sub>parcel</sub> | FAR<sub>overall</sub> | Place
+  |-:|-:|:-
+  |     0.3[^bertaud] |        | US suburbs
+  |                   |   0.41 | San Francisco
+  |                ~  |    1.7 | Proposed kinematic city
+  |     3.5[^bertaud] |        | Historical Paris
+  | 4 to 10[^bertaud] | 3 to 7[^densityatlas] | Manhattan residential
+  |      15[^bertaud] |     10 | Manhattan office buildings
+  |      25[^bertaud] |        | Singapore highest FAR
+  |                   |        | _For more FAR examples, check out [DensityAtlas.org](http://densityatlas.org/)._ |  | 
+  |---
 
 
 
