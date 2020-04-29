@@ -398,8 +398,6 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 
 [^fitzsimmons]: ["M.T.A. Pledges $5 Billion for Subway Elevators. Guess How Many."](https://www.nytimes.com/2019/10/07/nyregion/mta-nyc-subway-elevators.html). Emma G. Fitzsimmons & Rebecca Liebson, _New York Times_. 7 October 2019.
 
-[^florida]: ["Why U.S. Tech Inventors Are So Highly Clustered"](https://www.citylab.com/life/2019/10/technology-inventions-where-work-patents-agglomeration-data/599089/). Richard Florida, _CityLab_. 1 October 2019.
-
 [^forbes]: ["The Power Of Purpose: Unlocking Africa's $10 Trillion Opportunity In Housing"](https://www.forbes.com/sites/afdhelaziz/2019/09/12/the-power-of-purpose-unlocking-africas-10-trillion-opportunity-in-housing/#1e1fa3b714a0). _Forbes_. 12 September 2019.
 
 [^google_eie]: [Environmental Insights Explorer](https://insights.sustainability.google/places/ChIJIQBpAG2ahYAR_6128GcTUEo/transportation). _Google_. 2018.
