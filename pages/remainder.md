@@ -339,8 +339,6 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 
 [^lutter]: ["Exponents Magazine: A Beginner's Guide to Building New Cities"](https://www.chartercitiesinstitute.org/post/a-beginners-guide-to-building-new-cities?utm_source=Charter+Cities+Institute&utm_campaign=c1b3cc2a39-EMAIL_CAMPAIGN_2019_11_04_11_59&utm_medium=email&utm_term=0_fccc97d8cc-c1b3cc2a39-223014821). Dr. Mark Lutter, _Charter Cities Institute_. 9 October 2019.
 
-[^macdonald]: ["Urban living makes us miserable. This city is trying to change that"](https://mosaicscience.com/story/urban-living-city-mental-health-glasgow-cities-happiness-regeneration/). Fleur Macdonald, _Mosaic_. 15 October 2019.
-
 [^mckinsey]: ["A Tool Kit to Close California's Housing Gap: 3.5 Million Homes by 2025"](https://www.mckinsey.com/~/media/McKinsey/Featured%20Insights/Urbanization/Closing%20Californias%20housing%20gap/Closing-Californias-housing-gap-Full-report.ashx). _McKinsey & Company_. October 2016
 
 [^metabuild]: ["urbAIn – AI, Cities, and Climate Change"](https://www.metabuild.io/urbain-ai-cities-and-climate-change/). _Metabuild.io_. 15 June 2019.
