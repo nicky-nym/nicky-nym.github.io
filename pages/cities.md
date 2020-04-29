@@ -1897,7 +1897,7 @@ Projects in existing cities can be staggeringly expensive.
 > "only about a quarter of New York City's 472 subway stations are wheelchair accessible" ... "subway officials ... plan to add elevators at 70 stations in the next five years." ... "The Metropolitan Transportation Authority ... estimates that accessibility fixes will cost about $78 million per station." [^fitzsimmons]
 
 
-## <a name="construction-costs"></a>Construction costs
+### <a name="construction-costs"></a>Construction costs
 
 > "the price of construction for an apartment fully equipped with kitchen and bathrooms may cost several thousand US dollars per square meter (about US$2,500 per square meter in New York in 2013 for residential buildings three to seven stories tall)."[^bertaud]
 
