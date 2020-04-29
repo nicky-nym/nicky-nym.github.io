@@ -587,18 +587,18 @@ If you're building from scratch, then with a few good design choices it's possib
 There's no point in designing a new urban development that is too expensive to build, and no point in building a new urban development that is too expensive for people to afford to move to.
 
 * **Affordable to build**
-  - The impossible street design use conventional construction techniques and avoids the most expensive transportation options: 
+  - The impossible street design uses conventional construction techniques and avoids the most expensive transportation options: 
     * no buses (at $500,000 each, or $8,000+ per passenger seat)
     * no subway cars (at $10,000+ per passenger seat)
     * no subway tunnels (at $100,000,000+ per mile)
     * no automobiles (at $20,000+ each)
     * no multi-story parking garage structures (at $20,000 per parking space)[^carl_walker]
     * no sprawling suburban road network
-  - The design lends itself to mid-rise density neighborhoods. Mid-rise housing, for example in buildings with "4-over-1" podium construction, is less expensive to than skyscrapers, and less expensive than even ten-story buildings with concrete service cores. Mid-rise housing is also less expensive than detached single family housing. The impossible street design also offers an optional extra feature that could replace ordinary sidewalks with inclined ramps, which would offer additional cost savings by conserving usable floorspace square-footage (vs. circulation overhead) while entirely obviating the need for elevators, escalators, and stairs. 
-  - For new developments built on greenfield sites, land should cost less than what it would cost in an established city. For new developments that are large, the development may gain economies of scale, in land acquisition, regulatory approval for planning and permitting, financing, and construction costs & timelines.
+  - The design lends itself to mid-rise density neighborhoods. Mid-rise housing, for example in buildings with "4-over-1" podium construction, is less expensive to build than skyscrapers, and less expensive than even ten-story buildings with concrete service cores. Mid-rise housing is also less expensive than detached single family housing. The impossible street design also offers an optional extra feature that could replace ordinary sidewalks with inclined ramps, which would offer additional cost savings by conserving usable floorspace square-footage (vs. circulation overhead) while entirely obviating the need for elevators, escalators, and stairs. 
+  - For new developments built on greenfield sites, land should cost less than what it would cost in an established city. For new developments that are large, the development may gain economies of scale in land acquisition, regulatory approval for planning and permitting, financing, and construction costs & timelines.
 
 * **Affordable to operate**
-  - The design avoids all the costs of running public transit systems (bus driver salaries, rail car maintenance, etc.) and avoids the costs of private car ownership (insurance, car payments, fuel, new tires, etc.).
+  - The impossible street design avoids all the costs of running public transit systems (bus driver salaries, rail car maintenance, etc.) and avoids the costs of private car ownership (insurance, car payments, fuel, new tires, etc.).
 
 * **Affordable to live in**
   - Ideally, the lower costs to build and operate the city will mean that it is more affordable to live in &mdash; with lower government transportation subsidies, there is an opportunity to have lower taxes & lower vehicle registration fees. With lower housing construction costs, housing doesn't need to be as expensive. With more units of housing within kinematic range of any given workplace, there's more market competition for buyers and renters, and an opportunity for a more efficient housing market, so that developers and landlords can't easily artificially inflate prices. Hopefully this will result in market-rate housing that is naturally affordable, without the government having to impose rent control or subsidize affordable housing.  Hopefully this might lead to less homelessness, which in turn could lead to lower government spending.
@@ -2056,6 +2056,12 @@ There are established public-sector mechanisms for funding development projects,
 <!-- References, Chapter 3 -->
 
 [^carl_walker]: ["Parking Structure Cost Outlook for 2017"](https://denver.streetsblog.org/wp-content/uploads/sites/14/2017/10/2017-Cost-Article.pdf). Gary Cudney, Carl Walker.  
+
+[^gadepalli]: "Even though women comprise nearly half of the population, it is surprising they account for less than one in five trips made in Indian cities." ["Delhi Will Improve When Women Get to Move"](https://newcities.org/delhithe-big-picture-will-improve-women-get-move/). Shreya Gadepalli, _NewCities_. 8 March 2019.
+
+[^gonzalez]: "Evidence from Argentina shows that on average men and women’s commute time is roughly the same, but women travel at slower speeds and cover shorter distances." ["Transport is Not Gender Neutral"](https://newcities.org/the-big-picture-transport-is-not-gender-neutral-womens-mobility-and-accessibility-for-better-economic-opportunities/) Karla Dominguez Gonzalez, _NewCities_. 8 March 2019.
+
+[^mccasland]: ["Cities Foster Equity by Improving Urban Mobility for Women"](https://newcities.org/the-big-picture-cities-foster-equity-by-improving-urban-mobility-for-women/). Hannah McCasland, _NewCities_. 8 March 2019.
 
 
 
