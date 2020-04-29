@@ -12,7 +12,7 @@ This paper outlines a summer 2020 design proposal for building car-free cities.
 3. **Beyond mobility &mdash; better cities & better outcomes**
   * The main goal is better mobility, but the design has a variety of other potential upsides. Cities like this should be greener, cleaner, fairer, safer, simpler, and more reliable & resilient. See <a href="#3">chapter 3</a>.
 4. **This matters now**
-  * This is an important area for study & discussion right now, because there's about to be a huge influx of urban population, and a huge increase in urban construction. The construction of buildings will happen no matter what, so it would be good to try to do it in conjunction with the construction of modern transporation networks, rather than just repeating what was done in past decades. See <a href="#4">chapter 4</a>.
+  * This is an important area for study & discussion right now, because there's about to be a huge influx of urban population, and a huge increase in urban construction. The construction of buildings will happen no matter what, so it would be good to try to do it in conjunction with the construction of modern transportation networks, rather than just repeating what was done in past decades. See <a href="#4">chapter 4</a>.
 5. **This requires better funding models & better value capture agreements**
   * Construction is **_very_** expensive. In order to fund the huge amount of construction required for new transportation networks, we need to get much better at **land value capture**. We need to set up reliable "fiscal engines" that can robustly recover the value created on each development project and reinvest it quickly on the next project. See <a href="#5">chapter 5</a>.
 
@@ -254,7 +254,7 @@ The result is:
   |:-:|:-|:-
   | | <object width="400" data="../svg/drawings/manhattan_ave.svg"></object><br><span class="h2">2nd Avenue, Manhattan</span><br> | <object width="400"   data="../svg/drawings/impossible_ave.svg"></object><br><span class="h2">Impossible Street Design</span><br>
   | **right-of-way** | 100-foot wide right-of-way<br>_(including sidewalks & street)_ | 100-foot wide right-of-way<br>_(including sidewalks & pair of center buildings)_
-  | **sidewalks**    | two 20-foot wide sidewalks | two 15-foot wide sidewalks at ground level <br> two 25-foot wide highline greenways with footpaths
+  | **sidewalks**    | two 20-foot wide sidewalks | two 15-foot wide sidewalks at ground level <br> two 25-foot wide "[High Line](#glossary:high-line)"-style greenways with footpaths
   | **streets**      | one 60-foot wide open-air street      | two 30-foot wide enclosed streets elevated on 2nd floor
   | **lanes**        | six conventional vehicle lanes<br>_all one-way southbound_<br>_each lane 10 feet wide_ | eight bicycle lanes<br>_4 northbound & 4 southbound_<br>_each lane 6 feet wide, plus two shoulders, each 3 feet wide_
   | **vehicles**     | 1 bus-only lane<br> 4 lanes for cars, trucks, taxis, etc. <br> 1 lane parking & curbside loading | 8 lanes for bicycles and <a href="#bike-sized">bike-sized vehicles</a>
@@ -338,7 +338,7 @@ The <a href="#1">Impossible street design</a> replaces cars & buses with a wide 
 
 ## <span class="chapter">_Chapter 2_ &mdash; Mobility for prosperity, not for speed</span>
 
-The [impossible streets](#1) & intersections are designed to yield **faster travel times** and **higher throughput**, compared to conventional streets in cities like San Franisco or New York.
+The [impossible streets](#1) & intersections are designed to yield **faster travel times** and **higher throughput**, compared to conventional streets in cities like San Francisco or New York.
 
 ### Beyond a faster commute
 
@@ -351,7 +351,7 @@ In practice, the result of faster travel times is not shorter commute times for 
   * **Kinematic range** is a measure of urban mobility. It's the number of destinations you can get to in 30 minutes or less _(or some other set amount of time)_.
   * Different cities have different kinematic ranges
     * In **Haxby, Montana**, there's not any traffic congestion, but there also aren't many places to go. With a car, in 30 minutes you can probably reach a total of about **a half dozen homes**, with perhaps **10 thousand square feet of floorspace**.
-    * In **San Francsico**, there are lots of places to go, but there's a lot of congestion. In 30 minutes you can reach hundreds of thousands of homes, offices, and stores, with perhaps **500 million square feet of floorspace**.  San Francisco has a kinematic range that's about 50 thousand times larger than Haxby, Montana.
+    * In **San Francisco**, there are lots of places to go, but there's a lot of congestion. In 30 minutes you can reach hundreds of thousands of homes, offices, and stores, with perhaps **500 million square feet of floorspace**.  San Francisco has a kinematic range that's about 50 thousand times larger than Haxby, Montana.
 
 ```
 TODO: add a diagram showing different ranges?
@@ -392,7 +392,7 @@ Good mobility is more important than it sounds. It's not just about making rush-
 
 Around the world, larger cities, with their larger kinematic ranges, tend to have higher wages than smaller cities.
 
-As city size increases, when the number of people (and destinations) in the city grows by 100% (meaning a doubling in size), then the economy of the city tends to grow by about 115% (meaning it more than doubles in size), so that there is effectively a 15% "bonus" in per-capita economic output for everyone in the city.[^scale]
+As city size increases, when the number of people (and destinations) in the city grows by 100% (meaning a doubling in size), then the economy of the city tends to grow by about 115% (meaning it more than doubles in size), so that there is effectively a 15% "bonus" in per capita economic output for everyone in the city.[^scale]
 
 This 15% superlinear growth seems to apply to the whole physical and social metabolism of the city, rather than just the economic aspects of the city. The 15% surplus shows up in statistics about:
   * **wages**
@@ -411,7 +411,7 @@ TODO: add a graph illustrating 15% doubling
 
 ### <a name="existing-cities"></a>The kinematics of existing cities
 
-Larger cities have more total destinations than smaller cities, but some destinatations may be too far away for some people to get too. Denser cities have more destinations that are within a shorter distance, but in a congested city, even nearby destinations may take a long time to get to. In practice, different cities have very different kinematics.
+Larger cities have more total destinations than smaller cities, but some destinations may be too far away for some people to get too. Denser cities have more destinations that are within a shorter distance, but in a congested city, even nearby destinations may take a long time to get to. In practice, different cities have very different kinematics.
 
 Singapore and Dallas-Fort Worth have very different transportation networks, with very different kinematic ranges.
 
@@ -456,7 +456,7 @@ TODO: add section "Co-location won't work"
 
 ### <a name="transit_vs_cars"></a>Transit vs. cars
 
-Here in the United States, in discussions about urban planning and transporation, many people fall into one of two opposing camps:
+Here in the United States, in discussions about urban planning and transportation, many people fall into one of two opposing camps:
 
   * **pro-transit people**, who want to see
     * fewer cars on the road
@@ -468,7 +468,7 @@ Here in the United States, in discussions about urban planning and transporation
     * do now want to pay the huge costs of creating and operating public transit systems
     * do not want to take slow, inconvenient, public transit options when they could just drive
 
-In addition to the **pro-transit** camp and the **pro-status-quo** camp, there's also a third camp: people who are optimistic about new technologies for **automated, on-demand transporation**, like self-driving cars and delivery drones. 
+In addition to the **pro-transit** camp and the **pro-status-quo** camp, there's also a third camp: people who are optimistic about new technologies for **automated, on-demand transportation**, like self-driving cars and delivery drones. 
 
 **Proponents** of shared, self-driving cars point to advantages like the greatly reduced need for parking compared to conventional cars, yet the convenience of direct door-to-door routes.
 
@@ -479,7 +479,7 @@ In addition to the **pro-transit** camp and the **pro-status-quo** camp, there's
 
 Given what we know about the cost and throughput of cars, buses, and rail, and given what we know about the emerging new alternatives, what's the best we could possibly do?
 
-If we could plan a whole urban transporation network from scratch, what's the optimal mix of different transit modes? Which options are the most affordable, and which ones maximize personal mobility, speedy deliveries, and kinematic range?
+If we could plan a whole urban transportation network from scratch, what's the optimal mix of different transit modes? Which options are the most affordable, and which ones maximize personal mobility, speedy deliveries, and kinematic range?
 
 What follows is a design proposal for what I believe is a **simple**, **cheap**, **reliable**, **low-risk** transportation network that has **high throughput**, good **transit speed**, nearly **door-to-door** convenience, and takes up less space than roads, leaving more **land area** for parks and buildings.
 
@@ -812,7 +812,7 @@ The impossible design does not depend on a particular climate, or on particular 
 > "If you build a new city you don't have to relocate or work 
 > around existing roads or rivers or factories or houses. 
 > You also don’t have to work around existing political processes, 
-> community groups, civic organisations ... or even existing 
+> community groups, civic organizations ... or even existing 
 > regulations and rules."[^growth]
 > &mdash; John Macomber, senior lecturer, Harvard Business School.
 
@@ -906,7 +906,7 @@ Because of their size, all of those 175 cities will probably suffer from kinemat
 
 In the San Francisco Bay Area, the total residential and commercial real estate is worth about $2.6 trillion. 
 
-The total value of all real estate, worldwide, was about $280 trillion at the end of 2017. Of that total, most is residential real estate, at $220 trillion, with just $33 trillion of commercial real estate and $27 trillion of agricultural real estate. Worldwide, residential real estate is worth more than all of the equaties & debt securities combined. [^savills]
+The total value of all real estate, worldwide, was about $280 trillion at the end of 2017. Of that total, most is residential real estate, at $220 trillion, with just $33 trillion of commercial real estate and $27 trillion of agricultural real estate. Worldwide, residential real estate is worth more than all of the equities & debt securities combined. [^savills]
 
 Historically, real estate value has increased at roughly the same pace as GNP. By 2050, total worldwide real estate might be worth about $560 trillion.
 
@@ -956,7 +956,7 @@ These new urban development designs could be built in a few different types of l
 
 * **Infill in existing cities** and/or rebuilding portions of cities
   - Retrofitting infrastructure in existing city can be several times more expensive than building new infrastructure in new sites.[^haas]
-  - Land is much more expensive to aquire in existing cities than in remote areas.
+  - Land is much more expensive to acquire in existing cities than in remote areas.
   - Opportunities for buying large parcels of land are rare.
   - There are no easy ways to integrate the new impossible neighborhood's transportation network into the city's existing transportation network(s). (See [network effect problems](#network-effect) below.)
   - Neighbors frequently oppose developments that increase density.
@@ -967,7 +967,7 @@ These new urban development designs could be built in a few different types of l
   - Large parcels are rare.
   - Connections between the new suburb's impossible-style transportation network and the city's existing transportation network(s) will require people to transfer between vehicles mid-trip, and will decrease mobility and kinematic range. (See [network effect problems](#network-effect) below.)
 * **Greenfield cities** and/or "new city" developments
-  - Before starting construction, the new city project will need to pre-purchase (or otherwise reserve), all of the adjacent land that the city may someday need to grow into. Starting with anything less than 100 square miles of land may mean the new development is restricted from ever growing to bcome a "megacity" urban agglomeration, in which case it will fail to realize its kinematic windfall potential.
+  - Before starting construction, the new city project will need to pre-purchase (or otherwise reserve), all of the adjacent land that the city may someday need to grow into. Starting with anything less than 100 square miles of land may mean the new development is restricted from ever growing to become a "megacity" urban agglomeration, in which case it will fail to realize its kinematic windfall potential.
   - Starting from scratch, a new greenfield city will start off with almost no population initially. Even if there were immediate and uninterrupted exponential population growth from then on, it will still take decades for the new city to become a "megacity", by which time the window of opportunity has already passed.
   - Good greenfield sites are hard to find. A good site should have:
     - enough land
@@ -994,10 +994,10 @@ These new urban development designs could be built in a few different types of l
 Depending where construction happens, the impossible cities design faces one of two different network effect problems.
 
 * **Population growth network effects** &mdash; for new greenfield city sites
-  * People move to cities because of the opportunties there, or because they know people there. The bigger the city, the more draw it has. Once a major city has become established, and has a critical mass, it's not difficult to find people who want to move there. Kids are born and raised in existing cities, not in greenfield city sites. If a new town is founded from scratch, with a small population, in a remote place, then it probably doesn't have enough critical mass to draw people to come live there. It's a chicken-and-egg problem: in order to attract a lot of people, a city has to be big, but before it can become big, it has to have attracted a lot of people.
+  * People move to cities because of the opportunities there, or because they know people there. The bigger the city, the more draw it has. Once a major city has become established, and has a critical mass, it's not difficult to find people who want to move there. Kids are born and raised in existing cities, not in greenfield city sites. If a new town is founded from scratch, with a small population, in a remote place, then it probably doesn't have enough critical mass to draw people to come live there. It's a chicken-and-egg problem: in order to attract a lot of people, a city has to be big, but before it can become big, it has to have attracted a lot of people.
   * A small-scale impossible city would work just fine, and it would have some advantages over a similarly sized car-centric or transit-centric city. Lower transportation costs might be the largest single selling point. But the advantages may not be large enough to matter to anyone. For small-scale cities, car-centric designs actually work reasonably well, as do designs based on buses and bus rapid transit. The car & bus system only starts to break down once a city gets large enough to have serious traffic congestion problems, and it's only at that scale that the kinematic city design starts to really outshine the other options.
 
-* **Transporation system network effects** &mdash; for infill and suburb/satellite sites
+* **Transportation system network effects** &mdash; for infill and suburb/satellite sites
   * Different transportation systems tend not to be complementary. 
   * Dallas-Fort Worth is a car-based city. Cars work fairly well there, allowing millions of people to reach each other in under 30 minutes. Dallas-Fort Worth does also have a light rail system, DART, but it has less than 100,000 daily riders, because it only has 4 lines, with 64 stations, which means it doesn't effectively connect any two points in the city. The network of car-based streets **does** connect any two points in the city. Free parking is available at more than half of the DART stations, but if you already have a car, and you're already in your car, it may be faster and more convenient to just drive to your final destination, rather than drive to the DART station, park, wait for a train, pay a fare, ride the train, and then walk from from the station to your destination.
   * New York City, by contrast, has a subway system with 5 million daily riders, using 36 lines with 470 stations. In New York, the subway system works well because it has achieved critical mass, effectively connecting most points in the city. Cars also work in New York, but street congestion makes cars slow, and parking is problem. In general, the car network & the subway network tend to be alternatives to each other, rather than being a unified system. The subway stations generally don't have parking lots or taxi stands, and a trip will take longer if it involves both a car leg and a subway leg.
@@ -1009,12 +1009,12 @@ Depending where construction happens, the impossible cities design faces one of 
 Constructing even small buildings is expensive. Constructing entire neighborhoods or entire cities requires not just building housing and office space, but also building all the transportation infrastructure for roads, street lights, traffic lights, bus shelters, subway stops, and more. Plus all of the utility infrastructure, including sewers, water supply, power lines, telephone lines, and the rest.
 
 * **Low cost** vs. **high cost** locations
-  * An impossible city could be built in a high-cost location, such as California, or in a lower-cost location in a higher-growth area in India or Africa, like somewhere near the new Bagamoyo port and special economic zone, near Dar es Salaam, Tanzania. Starting in a lower-cost location is almost certainly a more promising approach, but it means that the benefits will be correspondingly lower. A 15% kinematic increase in wages & GDP is less dramatic if the wages & GDP were low to begin with, even if higher population growth and GDP-per-capita growth is expected.
+  * An impossible city could be built in a high-cost location, such as California, or in a lower-cost location in a higher-growth area in India or Africa, like somewhere near the new Bagamoyo port and special economic zone, near Dar es Salaam, Tanzania. Starting in a lower-cost location is almost certainly a more promising approach, but it means that the benefits will be correspondingly lower. A 15% kinematic increase in wages & GDP is less dramatic if the wages & GDP were low to begin with, even if higher population growth and GDP per capita growth is expected.
   * In a place like San Francisco or New York, average construction costs are about $350 per square foot, so new apartments can cost over $400,000 per unit to build.[^li]<sup>,</sup>[^reid]
   * Even in the lowest-income countries, where construction labor is least expensive, the basic costs of steel and concrete amount to about $50 per square foot, so even a very small single-room apartment can cost $5,000 to $10,000 in construction materials alone.[^bertaud]
 * **Coordinated funding** vs. **parallel funding**
-  * Real estate development projects have traditionally happened on the scale of one building at a time, or one small housing complex or office park at a time. A booming city may have hundreds or thousands of building projects going on in parallel, each with their own different land owner, general contractor, bank loan, and prospective tenant, and each with their own zoning and planning department approval. That arrangement lowers the bar for any single project, and enables lots of projects to move forward simultaniously, each at their own pace, without needing to coordinate tens of billions of dollars of funding and spending. Each project can be tuned to the needs of the particular parties involved, resulting a vibrant diversity of approaches and results, rather than the less successful giant mono-culture developments sometimes found in planned economies.
-  * In recent decades, the largest development projects in the world have been growing larger. Projects on the scale of $10 to $20 billion are now fairly common. Some of those are transporation infrastructure projects, such as the Chunnel, the Gotthard Base Tunnel, the Riyadh Metro, and the New York 2nd Avenue subway project. Others are more focused on creating large amounts of leasable square footage, such as Masdar City, or the Hudson Yards project in New York. However, when a single project has a $20 billion price tag, funding is still typically be coordinated from multiple sources, usually with significant public funding in the mix. Notable exceptions are privately funded projects like the Apple Park campus in Cupertino, at $5 billion, or the City Center project in Las Vegas, at $11 billion, the largest privately funded construction project in the history of the United States.[^wiki_citycenter] Any privately funded new city project would almost certainly need to have initial completion costs of no more than $10 or $20 billion.
+  * Real estate development projects have traditionally happened on the scale of one building at a time, or one small housing complex or office park at a time. A booming city may have hundreds or thousands of building projects going on in parallel, each with their own different land owner, general contractor, bank loan, and prospective tenant, and each with their own zoning and planning department approval. That arrangement lowers the bar for any single project, and enables lots of projects to move forward simultaneously, each at their own pace, without needing to coordinate tens of billions of dollars of funding and spending. Each project can be tuned to the needs of the particular parties involved, resulting a vibrant diversity of approaches and results, rather than the less successful giant mono-culture developments sometimes found in planned economies.
+  * In recent decades, the largest development projects in the world have been growing larger. Projects on the scale of $10 to $20 billion are now fairly common. Some of those are transportation infrastructure projects, such as the Chunnel, the Gotthard Base Tunnel, the Riyadh Metro, and the New York 2nd Avenue subway project. Others are more focused on creating large amounts of leasable square footage, such as Masdar City, or the Hudson Yards project in New York. However, when a single project has a $20 billion price tag, funding is still typically be coordinated from multiple sources, usually with significant public funding in the mix. Notable exceptions are privately funded projects like the Apple Park campus in Cupertino, at $5 billion, or the City Center project in Las Vegas, at $11 billion, the largest privately funded construction project in the history of the United States.[^wiki_citycenter] Any privately funded new city project would almost certainly need to have initial completion costs of no more than $10 or $20 billion.
 * **Upfront costs** vs. **ongoing costs**
   * Getting a new city started would be more feasible if it were possible to minimize the upfront costs, so that substantial costs only start to occur later, once people have already moved in, value is being created, and revenue opportunities are available. Unfortunately, the impossible city design doesn't lend itself to minimizing upfront costs. Because of the [network effect](#network-effect) problems, there's not much incentive to try starting a small project; a more promising approach would be to try to scale up as quickly as possible, but that would require raising funds from speculative investors, rather than funding growth on revenue from the value created.
 
@@ -1033,8 +1033,8 @@ Building even a small seed of a kinematic city would take a long time and lot of
     - it needs to be fairly empty, yet not remote
     - it needs to be clear of conservation restrictions and legal show-stoppers
   + existing local construction companies
-  + whole-hearted support from existing county & state governments
-  + whole-hearted support among the neighbors
+  + wholehearted support from existing county & state governments
+  + wholehearted support among the neighbors
   + a big anchor employer (like Amazon, or the Indonesian Government)
   + a pent-up demand of people eager to move into new housing as it is completed
   + a pent-up demand of companies eager to move into new office space as it is completed
@@ -1043,7 +1043,7 @@ Building even a small seed of a kinematic city would take a long time and lot of
     - billions of dollars (in Africa)
     - or tens of billions (in the US)
     - existing construction firms & hundreds of experienced construction teams
-    - reliable supplies for millions of pounds of steel, concrete, and pre-fab parts
+    - reliable supplies for millions of pounds of steel, concrete, and prefabricated parts
   + a few years of time, for initial construction work, to build:
     - enough housing and office space for tens of thousand of people
     - covered laneways for vehicle circulation
@@ -1215,7 +1215,7 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2744810
 
   * **As supply increases, consumption goes up.**
     * The <a name="jevons"></a>**Jevons paradox**, or Jevons effect, says that if it becomes possible to use a resource more and more efficiently, then instead of using less of the resource, people actually use more. Total consumption increases because demand increases as efficiency drives the costs down.
-    * <a name="induced-demand"></a>**Induced demand** says that as the supply of a resource increases, more of it will be consumed. If you add a new lane to a congested highway, it does not result in reduced congestion and faster trips, but instead results in an increase in the total number of trips made. Induced demand might be better described as **latent demand**. The demand was actually there all along, there was just a lack of supply to meet the demand. The concept of induced demand is often used as an argument against increasing roadway traffic capacity. I think this is misguided. The existance of latent demand is a sign that we should be striving to increase the supply of transportation capacity, and increase [Kinematic Range](#kinematic-range).[^wiki_induced_demand]
+    * <a name="induced-demand"></a>**Induced demand** says that as the supply of a resource increases, more of it will be consumed. If you add a new lane to a congested highway, it does not result in reduced congestion and faster trips, but instead results in an increase in the total number of trips made. Induced demand might be better described as **latent demand**. The demand was actually there all along, there was just a lack of supply to meet the demand. The concept of induced demand is often used as an argument against increasing roadway traffic capacity. I think this is misguided. The existence of latent demand is a sign that we should be striving to increase the supply of transportation capacity, and increase [Kinematic Range](#kinematic-range).[^wiki_induced_demand]
 
 
   * **Some aspects of a city scale linearly.**
@@ -1226,7 +1226,7 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2744810
     * If a city doubles in population size, meaning it grows by 100%, parts of the supporting infrastructure tend to only grow by 85%. This is tends to be true for networks of roads, electrical cables, and municipal sewers and water pipes.
 
   * **Some aspects of a city scale super-linearly.**
-    * <a name="superlinear"></a>**15% superlinear scaling** is the phenomenon where if a city population grows by 100% (meaning it doubles in population size), then the economy of the city tends to grow by about 115% (meaning it **more than doubles** in size), so that there is effectively a 15% "bonus" in per-capita economic output for everyone in the city.[^scale] This 15% superlinear growth seems to apply to the whole physical and social metabolism of the city, rather than just the economic aspects of the city. The 15% surplus shows up in statistics about:
+    * <a name="superlinear"></a>**15% superlinear scaling** is the phenomenon where if a city population grows by 100% (meaning it doubles in population size), then the economy of the city tends to grow by about 115% (meaning it **more than doubles** in size), so that there is effectively a 15% "bonus" in per capita economic output for everyone in the city.[^scale] This 15% superlinear growth seems to apply to the whole physical and social metabolism of the city, rather than just the economic aspects of the city. The 15% surplus shows up in statistics about:
       * wages
       * wealth
       * patents
@@ -1376,6 +1376,9 @@ TODO: important? consider moving into one of the chapters above?
 
 * **global compact on safe, orderly and regular migration (GCM)<a name="glossary:GCM"></a>**
   * a 2018 United Nations agreement about international migration [^wiki_gcm]
+
+* **High Line<a name="glossary:high-line"></a>**
+  * an greenway park in New York City, built as a rails-to-trails conversion of a section of elevated railway, inspired by the Promenade plantée in Paris
 
 * **housing cooperative** or **housing co-op<a name="glossary:housing-co-op"></a>**
   * A group of households in a multi-family building, where each household owns a share of the whole building co-op and has the right to occupy a single unit, rather than owning that unit outright. An elected board makes decisions. [^schneider_2019-04-29]
@@ -2061,6 +2064,8 @@ There are established public-sector mechanisms for funding development projects,
 
 [^mccasland]: ["Cities Foster Equity by Improving Urban Mobility for Women"](https://newcities.org/the-big-picture-cities-foster-equity-by-improving-urban-mobility-for-women/). Hannah McCasland, _NewCities_. 8 March 2019.
 
+[^new-clark]: ["Resilient Growth: Building a Resilient City in the Philippines"](https://newcities.org/the-big-picture-resilient-growth-building-resilient-city-philippines/). _NewCities_. 2019.
+
 
 
 
@@ -2154,6 +2159,28 @@ There are established public-sector mechanisms for funding development projects,
 [^xu]: ["Under What Circumstances Will Land Value Capture Work to Finance Public Transit?"](https://academiccommons.columbia.edu/doi/10.7916/D8DF6QC4). Yidan Xu, _Columbia University Libraries, Academic Commons_. May 2015.
 
 
+
+
+<!-- References, Density -->
+
+[^crawford]: _[Carfree Cities](http://www.carfree.com/book/)_, by J.H. Crawford
+
+[^densityatlas]: ["Manhattan, Grand Street Neighborhood"](http://densityatlas.org/casestudies/profile.php?id=121). _Density Atlas_.
+
+[^wiki_manhattan]: ["Manhattan"](https://en.wikipedia.org/wiki/Manhattan). _Wikipedia_.
+
+[^wiki_new_york_city]: ["New York City"](https://en.wikipedia.org/wiki/New_York_City). _Wikipedia_.
+
+[^wiki_paris]: ["Paris"](https://en.wikipedia.org/wiki/Paris). _Wikipedia_.
+
+[^wiki_san_francisco]: ["San Francisco"](https://en.wikipedia.org/wiki/San_Francisco). _Wikipedia_.
+
+
+
+
+<!-- References, Rules of thumb -->
+
+[^florida]: ["Why U.S. Tech Inventors Are So Highly Clustered"](https://www.citylab.com/life/2019/10/technology-inventions-where-work-patents-agglomeration-data/599089/). Richard Florida, _CityLab_. 1 October 2019.
 
 
 
