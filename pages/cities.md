@@ -837,6 +837,13 @@ Perhaps existing cities will absorb nearly all of the 2.5 billion additional peo
 
 Existing cities are **too few and too small**, by a factor of two, for everyone who will live in them by 2050. To handle the influx, cities will build another **2.5 trillion square feet** of new buildings. These numbers can be hard to believe at first. For different projects by different authors, see the [notes about urban growth](#growth) below.
 
+This wave of construction is going to happen no matter what, whether we prepare for it or not. People will build housing for themselves, even if they can't do it legally, in slums and informal settlements like those in Kibera, Dharavi, Neza, and Orangi Town. If we could muster more planning, forethought, and funding, then these new developments could end up with infrastructure like comprehensive sewer systems and high kinematic-range transportation networks. 
+
+> "If we stick to business as usual most of it is going to be 
+> disorderly and less functional than the stuff we already have."[^growth]
+> &mdash; Paul Romer, Nobel prize-winning economist, New York University.
+
+
 
 ### <a name="megacities"></a>"Megacity" urban agglomerations
 
