@@ -650,16 +650,13 @@ By striving for simplicity, these new designs avoid using lots of "fragile" tech
 
 ### <a name="economic-prosperity"></a>Economic prosperity
 
-A city should provide for a good life for the people who live in it and work in it. 
+A city should provide for a good life for the people who live in it and work in it. As described in [chapter 2](#2), the impossible design strives to maximize mobility and kinematic range, with the goal of harvesting a 15% windfall in wages, wealth, patents, land value, etc. The design is intended to create cities that **thrive economically** compared to similarly-sized typical cities, with more prosperity, and greener prosperity.
 
 * **Prosperous**
   - When I say "prosperous", I don't mean Wall Street bankers with vacation homes in the Hamptons. I mean prosperity in the sense of kids who get to go to good schools, teachers who have the books they need, parks with playgrounds and basketball courts, libraries with books & wifi, parents with jobs and health insurance, and jobs with safety standards and protective equipment. These are things that are common in places like rich European countries, and that can become more and more common everywhere in the world. 
 
 * **Green growth**
   - Global poverty is a serious problem, and economic growth is a force for good, so long as the economic growth is "green growth" and so long as GDP growth goes up while carbon footprint goes down, habitat restoration use goes up, and Gini coefficients go down.
-
-* **Kinematic windfall**
-  - The impossible city design is intended to create cities that **thrive economically** compared to similarly-sized typical cities. The impossible design strives to maximize mobility and kinematic range, with the goal of harvesting a 15% windfall in wages, wealth, patents, land value, etc. See [chapter 2](#2).
 
 > Prud'homme and Lee's paper, titled "Size, Sprawl, Speed and the Efficiency of Cities," shows that productivity per worker is closely correlated to the average number of jobs per worker that are reachable in less than 60 minutes. In Korean cities, a 10 percent increase in the number of jobs accessible per worker corresponds to a 2.4 percent increase in workers' productivity.[^bertaud]
 
