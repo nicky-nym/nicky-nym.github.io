@@ -6,8 +6,6 @@ permalink: /economics/
 
 ## New York land value
 
-* from 1950 to 2015, the value of Manhattan land grew at an annual rate of 5.5 percent beyond inflation[^manhattan]
-
 > "Corner lots are significantly more valuable than mid-block lots, according to the study, and lots in close proximity to Broadway, which runs the length of the island, also have higher values."[^manhattan]
 
 
