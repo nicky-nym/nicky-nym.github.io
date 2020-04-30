@@ -1106,28 +1106,17 @@ Building good urban infrastructure, including transportation infrastructure, is 
 existing big cities, but those are the places where all the land is already privately owned, it's difficult to do much land value capture, and so it's hard fund transportation infrastructure improvements. To add insult to injury, these existing big cities are also the places where transporation projects are the most expensive to do, working in tight spaces on complicated projects, with high labor costs and high real estate costs.
 
 
+* **Hong Kong**
+  * Hong Kong stands out as a great example of successful land value capture and successful urban transportation investment. Hong Kong is a rare example of a city where public transport actually runs at a profit. [^xu]
+  * Hong Kong is unusual, in that all land in the Hong Kong Special Administrative Region is state property (with the exception of St. John's Cathedral), and has been since 1843. The land is available for use only through leasehold, not private ownership. The government is responsible for land management, development, and the leases to private parties. Private developers bid on an open market to lease parcels of land, typically with 50 years lease terms. [^xu]
+  * The government-owned Mass Transit Railway (MTR) Corporation acts as the master planner. It manages the whole real estate development cycle, all the way from drawing up plans, monitoring work quality, and managing the lease of completed projects.
+  
+    > "One reason that projects like Tsing Yi Station come into success is that the land use integration is evaluated at the master planning stage by MTR."[^xu]
 
-**Hong Kong**
+    > "Hong Kong's strategy can be applied in cities where government owns the land."[^xu]
 
-In practice, there are interesting examples of places that have somewhat Georgist financial systems, with good connections between transportation costs and the value they create.
 
-Hong Kong is a great example. All the land within the Hong Kong Special Administrative Region, with the single exception of St. John’s Cathedral, is owned by the government, and has been since 1843.
-
-> "Hong Kong’s public transit development method, which is well known as a distinctive example of transit value capture. ... Hong Kong is one of the few cities in the world where public transport makes a profit."[^xu]
-
-> "In terms of land attribute, all land in Hong Kong is state property and the only land tenure is leasehold. The government of Hong Kong is responsible for land management, development, and its lease to private entities, based on China’s Basic Law passed in 1990. Private developers bid to lease land with a general 50 years term."[^xu]
-
-> "The state leasehold system captures value from four major aspects: initial land auction, lease modification, lease renewal, and land rent collection. Among the four, initial land auction has been the major source of lease revenue, accounting for about 75 percent of government’s total land income (Hong, 1998)."[^xu]
-
-> "During the whole process, MTR is functioning as the master planner. It creates a development layout plan, monitors development quality, and manages the lease and sales of completed properties. It is a bridge between the government and developers. It sets clear rules to multiple stakeholders, making the partnership smooth and efficient."[^xu]
-
-> "One reason that projects like Tsing Yi Station come into success is that the land use integration is evaluated at the master planning stage by MTR (Tang, Chiang, Baldwin & Yeung, 2004). This magnifies the interaction between railway and property development."[^xu]
-
-> "Hong Kong's strategy can be applied in cities where government owns the land."[^xu]
-
-> "Thirdly, the planning of public transportation requires multiple levels of government and agencies to work together. It is important to form a good collaboration between the different development stages, including land acquisition, planning, construction, operation, and property management. In Hong Kong, for example, MTR as a single agency is responsible for the whole development cycle. The process is more efficient, because it saves additional administrative cost, and there is only one principle from beginning to end. For New York, however, as MTA is only responsible for railway construction and operation, and it has no right of land use, the capability of capturing land value is to some extent undermined."[^xu]
-
-> "With the right framework, astonishing prosperity is possible. The independent city of Singapore overtook the world’s GDP per capita in less than 30 years, and that of the USA in less than 50 years." [^free-private-cities]
+  
 
 
 
@@ -1138,6 +1127,8 @@ TODO: incorporate ideas from:
 
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2744810
 ```
+> "With the right framework, astonishing prosperity is possible. The independent city of Singapore overtook the world’s GDP per capita in less than 30 years, and that of the USA in less than 50 years." [^free-private-cities]
+
 
 
 **TODO:** harvest material from [my old notes](economics)
@@ -2022,6 +2013,21 @@ There are established public-sector mechanisms for funding development projects,
 
 > "despite this potential ... value capture ... doesn't work in areas that are 
 > already developed. ... undeveloped area provide the most room for growth."[^jaffe]
+
+
+> "Hong Kong’s public transit development method, which is well known as a distinctive example of transit value capture. ... Hong Kong is one of the few cities in the world where public transport makes a profit."[^xu]
+
+> "In terms of land attribute, all land in Hong Kong is state property and the only land tenure is leasehold. The government of Hong Kong is responsible for land management, development, and its lease to private entities, based on China’s Basic Law passed in 1990. Private developers bid to lease land with a general 50 years term."[^xu]
+
+> "The state leasehold system captures value from four major aspects: initial land auction, lease modification, lease renewal, and land rent collection. Among the four, initial land auction has been the major source of lease revenue, accounting for about 75 percent of government's total land income (Hong, 1998)."[^xu]
+
+> "During the whole process, MTR is functioning as the master planner. It creates a development layout plan, monitors development quality, and manages the lease and sales of completed properties. It is a bridge between the government and developers. It sets clear rules to multiple stakeholders, making the partnership smooth and efficient."[^xu]
+
+> "One reason that projects like Tsing Yi Station come into success is that the land use integration is evaluated at the master planning stage by MTR (Tang, Chiang, Baldwin & Yeung, 2004). This magnifies the interaction between railway and property development."[^xu]
+
+> "Hong Kong's strategy can be applied in cities where government owns the land."[^xu]
+
+> "Thirdly, the planning of public transportation requires multiple levels of government and agencies to work together. It is important to form a good collaboration between the different development stages, including land acquisition, planning, construction, operation, and property management. In Hong Kong, for example, MTR as a single agency is responsible for the whole development cycle. The process is more efficient, because it saves additional administrative cost, and there is only one principle from beginning to end. For New York, however, as MTA is only responsible for railway construction and operation, and it has no right of land use, the capability of capturing land value is to some extent undermined."[^xu]
 
 
 
