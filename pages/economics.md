@@ -2,13 +2,6 @@
 permalink: /economics/
 ---
 
-# Land Value
-
-## New York land value
-
-> "Corner lots are significantly more valuable than mid-block lots, according to the study, and lots in close proximity to Broadway, which runs the length of the island, also have higher values."[^manhattan]
-
-
 ## Economic potential
 
 If you're building a new city, or if you have a city that's likely to grow to have 10 million people, then the real estate in the city will end up being worth a lot of money. The investors and real estate developers will want to maximize what that real estate ends up being worth.
@@ -42,14 +35,6 @@ There would be:
   + etc.
 
 
-
-## <a name="references"></a>References
-
-[^bertaud]: _[Order without Design](https://mitpress.mit.edu/books/order-without-design): How Markets Shape Cities_, by Alain Bertaud
-
-[^manhattan]: ["What's Manhattan's Land Worth? Try 'Canada's Entire GDP'"](https://www.citylab.com/life/2018/04/what-manhattans-land-is-worth/558776/). Richard Florida, _CityLab_. 24 April 2018.
-
-[^metrocosm]: ["A Striking Perspective on New York City Property Values"](http://metrocosm.com/new-york-city-property-values-in-perspective/). _Metrocosm_. 24 June 2015.
 
 
 
