@@ -1589,7 +1589,7 @@ Alternatively, instead of looking at locations in places like California, it mig
 The best locations might be ones that are close to the cities that are expected to grow the most dramatically in the coming decades and have very large populations by 2050:
 
   |---
-  | City | 25-year<br>growth<br>projection | 25-year<br>growth % | 2050 population<br>projection [^ontariotech] [^wiki_projections_of_population_growth] | 2025 population<br>projection [^wiki_projections_of_population_growth]
+  | City | 25-year<br>growth<br>projection | 25-year<br>growth % | 2050 population<br>projection [^ontariotech]<sup>,</sup>[^wiki_projections_of_population_growth] | 2025 population<br>projection [^wiki_projections_of_population_growth]
   |:-|:-:|:-:|:-:|:-:
   | Kinshasa, DRC           | 18 million | 109% | 35 million | 17 million
   | Lagos, Nigeria          | 17 million | 107% | 33 million | 16 million
