@@ -982,18 +982,18 @@ These new urban development designs could be built in a few different types of l
     - proximity to existing cities that are thriving
     - proximity to ports and airports
 
-> "We are at the beginning of the next wave of urbanization — a period of 
-> rapid growth in both area and population... The next wave of urbanization 
-> will also be defined by its sheer size — a tripling of land cover in the 
-> first half of this century alone. While the carrying capacity of existing 
-> cities is under increasing strain, unsustainable urban growth threatens to 
-> outstrip any mitigation efforts in our urban cores. The result is a need 
-> for new sites of politics, housing, commerce, industry, and energy. One 
-> solution is the accelerating development of greenfield cities around the world. 
-> Building new cities from the ground up is a bold (and monumentally difficult) 
-> attempt to relieve the strain on our currently overloaded urban systems. It 
-> promises to build energy efficiency, sustainability, and resilience in to the core of a place."[^caspar]
-> &mdash; Caspar Herzberg, Schneider Electric
+    > "We are at the beginning of the next wave of urbanization — a period of 
+    > rapid growth in both area and population... The next wave of urbanization 
+    > will also be defined by its sheer size — a tripling of land cover in the 
+    > first half of this century alone. While the carrying capacity of existing 
+    > cities is under increasing strain, unsustainable urban growth threatens to 
+    > outstrip any mitigation efforts in our urban cores. The result is a need 
+    > for new sites of politics, housing, commerce, industry, and energy. One 
+    > solution is the accelerating development of greenfield cities around the world. 
+    > Building new cities from the ground up is a bold (and monumentally difficult) 
+    > attempt to relieve the strain on our currently overloaded urban systems. It 
+    > promises to build energy efficiency, sustainability, and resilience in to the core of a place."[^caspar]
+    > &mdash; Caspar Herzberg, Schneider Electric
 
 
 
@@ -1077,8 +1077,8 @@ Building good urban infrastructure, including transportation infrastructure, is 
     > will decrease by 1% if the distance from a transport station is increased by 10% 
     > (Cervero & Murakami, 2009)."[^xu]
 
-  > "In most studies, proximity to transport stations has a positive correlation to land value. 
-  > They can generate property value premiums ranging from 3% to 40% in different conditions 
+    > "In most studies, proximity to transport stations has a positive correlation to land value. 
+    > They can generate property value premiums ranging from 3% to 40% in different conditions 
   > (Medda, 2012)."[^xu]
 
 
