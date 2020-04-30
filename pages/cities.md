@@ -916,7 +916,7 @@ In the San Francisco Bay Area, the total residential and commercial real estate 
 
 The total value of all real estate, worldwide, was about $280 trillion at the end of 2017. Of that total, most is residential real estate, at $220 trillion, with just $33 trillion of commercial real estate and $27 trillion of agricultural real estate. Worldwide, residential real estate is worth more than all of the equities & debt securities combined. [^savills]
 
-Historically, real estate value has increased at roughly the same pace as GNP. By 2050, total worldwide real estate might be worth about $560 trillion.
+In Manhattan, land value grew at an annual rate of 5.5 percent beyond inflation 1950 to 2015.[^manhattan] That's an unusually good return, but in general real estate value has increased at roughly the same pace as GNP. By 2050, total worldwide real estate might be worth about $560 trillion.
 
 By 2050, the world's 175 largest cities will have residential real estate worth more than $100 trillion. If we could double the kinematic range in those cities, we could expect to yield a 15% kinematic windfall, for maybe a **$15 trillion** increase in residential real estate value.
 
@@ -1916,6 +1916,7 @@ More than **120 new cities** are currently being built in 40 nations around the 
 
 > "The developable land in Manhattan—excluding parks, roads, and highways—was worth between $1.54 and $1.95 trillion, for an average of $1.74 trillion"[^manhattan]
 
+* From 1950 to 2015, the value of Manhattan land grew at an annual rate of 5.5 percent beyond inflation[^manhattan]
 
 
 
