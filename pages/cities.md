@@ -1600,7 +1600,7 @@ The best locations might be ones that are close to the cities that are expected 
   | Kolkata (Calcutta), India | 12 million | 61% | 33 million | 21 million
   | Dar es Salaam, Tanzania | 10 million | 181% | 16 million | 6 million
   | Kabul, Afghanistan      | 10 million | 138% | 17 million | 7 million
-  | Manila, Philippines     | 9 million | 59%  24 million | 15 million
+  | Manila, Philippines     | 9 million | 59% | 24 million | 15 million
   | Cairo, Egypt            | 8 million | 54% | 24 million | 16 million
   | Nairobi, Kenya          | 8 million | 143% | 14 million | 6 million
   | Khartoum, Sudan         | 8 million | 102% | 16 million | 8 million
