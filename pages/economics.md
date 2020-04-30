@@ -1,14 +1,10 @@
 ---
 permalink: /economics/
 ---
-# Construction costs & land value capture
 
+# Land Value
 
----
-
-## Land Value
-
-### New York land value
+## New York land value
 
 > "At 305 square miles, New York City makes up only 0.008% of the total land area of the U.S., yet its $1.5tr of housing value is about 5% of the Nation-wide total. Only four states are worth more than New York City, one of which is New York State."[^metrocosm]
 
@@ -54,20 +50,6 @@ There would be:
   + **state governments**, getting new income tax revenue
   + **local airports**, getting new flights & additional passenger revenue
   + etc.
-
-They're projecting that 2.5 billion people will be moving to cities in the next 30 years. Over the next 40 years, the newly built floor area in the world is expected to double. There may or may not be trillions of dollars of value to capture, but there probably will be hundreds of billions.
-
-
-## The "big bet" approach vs. incrementalism
-
-You don't actually have to build a huge new city over night. You just have to:
-  * buy a huge amount of land on day one, and 
-  * zone it all so that it can grow in a kinematic shape (without getting clogged up with junk like traffic lights), and 
-  * find an "anchor employer" (like Amazon or Apple) to open their new headquarters there, or convince a government to build their new capital there.
-
-
-
-
 
 
 
