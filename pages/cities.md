@@ -188,7 +188,7 @@ h3 {
           <li><a href="#network-effect">Network effect problems</a></li>
           <li><a href="#cost">Cost problems</a></li>
           <li><a href="#bootstrapping">Bootstrapping problems</a></li>
-          <li><a href="#land-value-capture">Land value capture problems</a></li>
+          <li><a href="#land-value-capture-problems">Land value capture problems</a></li>
           <li><a href="#summary">Summary</a></li>
         </ul>
       </details>
@@ -954,7 +954,7 @@ Unfortunately, actually building cities this way is probably impossible, because
 * **<a href="#network-effect">Network effect problems</a>**
 * **<a href="#cost">Cost problems</a>**
 * **<a href="#bootstrapping">Bootstrapping problems</a>**
-* **<a href="#land-value-capture">Land value capture problems</a>**
+* **<a href="#land-value-capture-problems">Land value capture problems</a>**
 
 
 
@@ -1062,7 +1062,7 @@ Building even a small seed of a kinematic city would take a long time and lot of
 
 
 
-### <a name="land-value-capture"></a>Land value capture problems
+### <a name="land-value-capture-problems"></a>Land value capture problems
 
 Building good urban infrastructure, including transportation infrastructure, is extremely expensive. But in a city with good transportation infrastructure, the value created by the transportation infrastructure far exceeds the cost of the infrastructure. 
 
