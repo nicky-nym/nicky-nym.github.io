@@ -1139,10 +1139,6 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2744810
 
 
 
-**TODO:** harvest material from [my old notes](economics)
-
-
-
 
 
 ### <a name="summary"></a>Summary
