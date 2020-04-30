@@ -2029,6 +2029,15 @@ There are established public-sector mechanisms for funding development projects,
 
 > "Thirdly, the planning of public transportation requires multiple levels of government and agencies to work together. It is important to form a good collaboration between the different development stages, including land acquisition, planning, construction, operation, and property management. In Hong Kong, for example, MTR as a single agency is responsible for the whole development cycle. The process is more efficient, because it saves additional administrative cost, and there is only one principle from beginning to end. For New York, however, as MTA is only responsible for railway construction and operation, and it has no right of land use, the capability of capturing land value is to some extent undermined."[^xu]
 
+"Bartholomew and Ewing’s (2010) study indicates transit accessibility, walkability, and environment quality can be capitalized into real estate prices. The existence of high walkability and mixed land use types are likely to increase land values independent of transit accessibility."[^xu]
+
+"Other factors related to the value generated from public transportation include the service quality, the extent of network, and the ticket price. Andersson (2010) conducted a research about the high speed rail in Taiwan, and finds out that it has little impact on land values due to the high ticket price (A monthly ticket can take up to 70% of the median monthly wage in Taiwan). It is difficult to capitalize expensive services into land values."[^xu]
+
+"Hong Kong is a small island city with an area of 1104 square kilometers. To date, the city has a population of 7.1 million, and is projected to reach 8.6 million by 2026 (HK Census and Statistics Department, 2014)."[^xu]
+
+"Zoning regulations allow special FARs in key station areas to attract private investments and comprehensive development."[^xu]
+
+
 
 
 
