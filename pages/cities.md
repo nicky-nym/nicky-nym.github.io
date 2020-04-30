@@ -188,7 +188,7 @@ h3 {
           <li><a href="#network-effect">Network effect problems</a></li>
           <li><a href="#cost">Cost problems</a></li>
           <li><a href="#bootstrapping">Bootstrapping problems</a></li>
-          <li><a href="#land-value-capture">Land value capture & fiscal framework problems</a></li>
+          <li><a href="#land-value-capture">Land value capture problems</a></li>
           <li><a href="#summary">Summary</a></li>
         </ul>
       </details>
@@ -950,11 +950,11 @@ We know that:
 * For new urban areas, we could design new 21st century transportation networks that would work far better for poeple than the default 20th century designs. (See chapters <a href="#1">1</a>, <a href="#2">2</a> & <a href="#3">3</a>)
 
 Unfortunately, actually building cities this way is probably impossible, because of:
-* <a href="#location">Location problems</a>
-* <a href="#network-effect">Network effect problems</a>
-* <a href="#cost">Cost problems</a>
-* <a href="#bootstrapping">Bootstrapping problems</a>
-* <a href="#land-value-capture">Land value capture & fiscal framework problems</a>
+* **<a href="#location">Location problems</a>**
+* **<a href="#network-effect">Network effect problems</a>**
+* **<a href="#cost">Cost problems</a>**
+* **<a href="#bootstrapping">Bootstrapping problems</a>**
+* **<a href="#land-value-capture">Land value capture problems</a>**
 
 
 
@@ -1062,23 +1062,26 @@ Building even a small seed of a kinematic city would take a long time and lot of
 
 
 
-### <a name="land-value-capture"></a>Land value capture & fiscal framework problems
+### <a name="land-value-capture"></a>Land value capture problems
 
 Building good urban infrastructure, including transportation infrastructure, is extremely expensive. But in a city with good transportation infrastructure, the value created by the transportation infrastructure far exceeds the cost of the infrastructure. 
 
 
 **Value created**
 
+Real estate values are higher in parts of the city that are closer to transit stations, and when new tranist stations open the real estate values nearby rise. 
+
+For example, when the new 2nd Avenue subway line in New York was built, property values along the subway corrider rose by 10% relative to the rest of the Upper East Side. It is estimated that total value of all that residential and commercial real estate rose by an additional $7 billion as a result of the subway line being built.[^jaffe]
+
+When the San Francisco Bay Area BART system built their Fremont extension, home values near the new station outpaced home values further away by a margin of about 9% to 15%, which amounted to an additional windfall of about $100,000 to $200,000 per home for all the homes within 2 miles of the new station, for an aggregate value of about $1.7 billion.
+
 ```
 TODO: incorporate ideas from:
-https://medium.com/sidewalk-talk/why-more-big-cities-should-give-value-capture-a-chance-b9c4cfac9768
 
-(That article gives examples in New York and California. It quantifies a lot of *value created*, 
-and talks less about "value capture", which perhaps is the harder part of the problem.
 
 One of the interesting things the article does mention is that "despite this potential ... 
 value capture ... doesn't work in areas that are already developed. ... undeveloped area 
-provide the most room for growth."  
+provide the most room for growth."[^jaffe]
 
 That seems to get a the crux of the problem: the place we really need better mobility is in 
 existing big cities, but those are the places where all the land is already privately owned.
@@ -2229,6 +2232,8 @@ There are established public-sector mechanisms for funding development projects,
 [^khan]: ["Goldman Sachs released a 34-page analysis of the effects of climate change. And the results are terrifying."](https://markets.businessinsider.com/news/stocks/goldman-sachs-climate-change-threatens-new-york-tokyo-lagos-cities-2019-9-1028552494). Yusuf Khan, _Markets Insider_. 25 September 2019.
 
 [^free-private-cities]: [Free Private Cities](https://freeprivatecities.com/en/concept/)
+
+[^jaffe]: ["Why more big cities should give value capture a chance"](https://medium.com/sidewalk-talk/why-more-big-cities-should-give-value-capture-a-chance-b9c4cfac9768). Eric Jaffe, Sidewalk Talk. March 6, 2020.
 
 [^xu]: ["Under What Circumstances Will Land Value Capture Work to Finance Public Transit?"](https://academiccommons.columbia.edu/doi/10.7916/D8DF6QC4). Yidan Xu, _Columbia University Libraries, Academic Commons_. May 2015.
 
