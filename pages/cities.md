@@ -883,7 +883,7 @@ If we could just improve your travel times, we could quadruple your KR<sub>30</s
 
 **GDP.** The San Francisco Bay Area GDP was about $535 billion in 2019.[^facc]  A 30% annual increase would be an **additional $160 billion annual GDP**.
 
-**Real estate.** The San Francisco Bay Area has about $1.3 trillion of residential real estate. A 30% increase in value would be a $400 billion increase, just for the residential portion of the real estate. Commercial real estate would be roughly another $400 billion. There would also be additional floor space in the roadway buildings, which might amount to another $200 billion, for a total of about $1 trillion of additional real estate value. San Francisco is one of just a few cities in the United States that has a market value higher than the $1 trillion Apple Inc. value.[^hoeven]
+**Real estate.** The San Francisco Bay Area has about $1.3 trillion of residential real estate. A 30% increase in value would be a $400 billion increase, just for the residential portion of the real estate. Commercial real estate would be roughly another $400 billion. There would also be additional floor space in the roadway buildings, which might amount to another $200 billion, for a total of about $1 trillion of additional real estate value. San Francisco is one of just a few cities in the United States that has a market value higher than the $1 trillion Apple Inc. value.[^hoeven] In New York City, the housing alone is worth $1.5 trillion. In the Upper East Side, housing value has reached $100 billion per square mile.[^metrocosm]
 
 **Hope?** Is it conceivable that the Bay Area could be re-engineered to quadruple travel ranges? Yes, but it would require a lot of changes: maybe a hyperloop, or a lot of Boring Company tunnels. It would be expensive, and it would take decades. The Bay Area has already calcified, and for all practical purposes, big changes now are a pipe dreams. For context, here are a few examples of the giant cost of modest mobility improvements:
   * the 2013 Bay Bridge Eastern Span, from San Francisco to Oakland, took over a decade to build and cost $7 billion
@@ -1905,6 +1905,16 @@ More than **120 new cities** are currently being built in 40 nations around the 
 
 > "Forest City is a $100 billion new city development which will house 700,000 residents when completed. Forest city is a 5600-acre development."[^lutter]
 
+
+### New York land value
+
+> "At 305 square miles, New York City makes up only 0.008% of the total land area of the U.S., yet its $1.5tr of housing value is about 5% of the Nation-wide total. Only four states are worth more than New York City, one of which is New York State."[^metrocosm]
+
+> "Manhattan‘s housing alone is worth about $733bn, which would make it the 14th most valuable state in the country. Manhattan measures only about 20 square miles, 7.5% of New York City."[^metrocosm]
+
+> "What I found most striking of all was the value of some Manhattan neighborhoods. The Upper East Side, which occupies less than one square mile, has an astounding $96bn of housing value. That places it above Staten Island and the Bronx as well as above six states: New Hampshire, North Dakota, South Dakota, Vermont, Wyoming, and Alaska."[^metrocosm]
+
+> "The developable land in Manhattan—excluding parks, roads, and highways—was worth between $1.54 and $1.95 trillion, for an average of $1.74 trillion"[^manhattan]
 
 
 
