@@ -1571,6 +1571,8 @@ There are other similar sites up the California coast, like in the Eureka area, 
 The Northern California Coast is one of a number of unusual places in the world. For some sorts of development projects, it might prove to be a "goldilocks" location, with a rare collection of attributes:
 * coastal location that could have sea ports
 * within a couple hundred miles of the established, thriving, high-GDP urban agglomeration (the San Franciso Bay Area), which has significant unmet demand for housing, office space, and manufacturing space
+* low population density, with large, empty counties that average just a few dozen people per square mile across thousands of square miles
+* low land prices
 * enjoys a moderate, Mediterranean climate (no need for air conditioning, only mild needs for heating, and no need to protect plumbing from winter freezes)
 * projected to still have a moderate climate even in 2050 or 2100, after significant global warming makes many other places either too hot, too dry, or too prone to severe storms and flooding
 * latitude within 45 degrees of the equator, with adequate sunshine and non-extreme seasonable variation in daylight hours
@@ -1580,7 +1582,39 @@ The Northern California Coast is one of a number of unusual places in the world.
 
 ### Greenfield locations
 
-Alternatively, instead of looking at infill locations in places like California, it might be easier, faster, and more fruitful to work with people who are already in the process of planning large new developments on open greenfield sites, the way people are doing in Asia, Africa, and the Middle East.
+Alternatively, instead of looking at locations in places like California, it might be easier, faster, and more fruitful to work with people who are already in the process of planning large new developments on open greenfield sites, the way people are doing in Asia, Africa, and the Middle East.
+
+### Fast-growing locations
+
+The best locations might be ones that are close to the cities that are expected to grow the most dramatically in the coming decades and have very large populations by 2050:
+
+  |---
+  | City | 2050 population<br>projection [^ontariotech]
+  |:-|:-
+  | Mumbai, India | 26 | 42 million | 
+  | Delhi, India  | 36 million
+  | Dhaka, Bangladesh | 35
+  | Kinshasa, DRC | 35
+  | Kolkata (Calcutta), India | 33
+  | Lagos, Nigeria | 33
+  | Tokyo, Japan | 33
+  | Karachi, Pakistan |  32
+  | New York City-Newark, USA | 25
+  | Mexico City, Mexico | 24
+  | Cairo, Egypt | 24
+  | Manila, Philippines | 24
+  | Sao Paulo, Brazil | 23
+  | Shanghai, China | 21
+  | Lahore, Pakistan | 17
+  | Kabul, Afghanistan | 17
+  | Los Angeles-Long Beach-Santa Ana, USA | 16
+  | Chennai (Madras), India | 16
+  | Khartoum, Sudan | 16
+  | Dar es Salaam, Tanzania | 16
+  |---
+
+
+
 
 
 
