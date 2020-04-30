@@ -1077,6 +1077,7 @@ Building good urban infrastructure, including transportation infrastructure, is 
   * Real estate values are higher in parts of the city that are closer to transit stations, and when new tranist stations open the real estate values nearby rise. 
   * For example, when the new 2nd Avenue subway line in New York was built, property values along the subway corrider rose by 10% relative to the rest of the Upper East Side. It is estimated that total value of all that residential and commercial real estate rose by an additional $7 billion as a result of the subway line being built.[^jaffe]
   * When the San Francisco Bay Area BART system built their Fremont extension, home values near the new station outpaced home values further away by a margin of about 9% to 15%, which amounted to an additional windfall of about $100,000 to $200,000 per home for all the homes within 2 miles of the new station, for an aggregate value of about $1.7 billion.
+  * This is true not just for transit stations, but for any sort of access to transportation. For example, in Manhattan, corner lots are significantly more valuable than mid-block lots, and lots close proximity to Broadway also have higher values.[^manhattan]
 
     > "Based on the studies in Asian countries including China, Singapore and South Korea, 
     > public transportation generally has a positive impact on property values, and the 
@@ -2054,6 +2055,8 @@ There are established public-sector mechanisms for funding development projects,
 "Hong Kong is a small island city with an area of 1104 square kilometers. To date, the city has a population of 7.1 million, and is projected to reach 8.6 million by 2026 (HK Census and Statistics Department, 2014)."[^xu]
 
 "Zoning regulations allow special FARs in key station areas to attract private investments and comprehensive development."[^xu]
+
+> "Corner lots are significantly more valuable than mid-block lots, according to the study, and lots in close proximity to Broadway, which runs the length of the island, also have higher values."[^manhattan]
 
 
 
