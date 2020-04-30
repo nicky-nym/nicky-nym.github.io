@@ -1066,14 +1066,10 @@ Building even a small seed of a kinematic city would take a long time and lot of
 
 Building good urban infrastructure, including transportation infrastructure, is extremely expensive. But in a city with good transportation infrastructure, the value created by the transportation infrastructure far exceeds the cost of the infrastructure. 
 
-
-**Value created**
-
-Real estate values are higher in parts of the city that are closer to transit stations, and when new tranist stations open the real estate values nearby rise. 
-
-For example, when the new 2nd Avenue subway line in New York was built, property values along the subway corrider rose by 10% relative to the rest of the Upper East Side. It is estimated that total value of all that residential and commercial real estate rose by an additional $7 billion as a result of the subway line being built.[^jaffe]
-
-When the San Francisco Bay Area BART system built their Fremont extension, home values near the new station outpaced home values further away by a margin of about 9% to 15%, which amounted to an additional windfall of about $100,000 to $200,000 per home for all the homes within 2 miles of the new station, for an aggregate value of about $1.7 billion.
+* **Value created**
+  * Real estate values are higher in parts of the city that are closer to transit stations, and when new tranist stations open the real estate values nearby rise. 
+  * For example, when the new 2nd Avenue subway line in New York was built, property values along the subway corrider rose by 10% relative to the rest of the Upper East Side. It is estimated that total value of all that residential and commercial real estate rose by an additional $7 billion as a result of the subway line being built.[^jaffe]
+  * When the San Francisco Bay Area BART system built their Fremont extension, home values near the new station outpaced home values further away by a margin of about 9% to 15%, which amounted to an additional windfall of about $100,000 to $200,000 per home for all the homes within 2 miles of the new station, for an aggregate value of about $1.7 billion.
 
 > "Based on the studies in Asian countries including China, Singapore and South Korea, 
 > public transportation generally has a positive impact on property values, and the 
@@ -1086,42 +1082,28 @@ When the San Francisco Bay Area BART system built their Fremont extension, home 
 > (Medda, 2012)."[^xu]
 
 
-**Privatized gains and socialized costs**
-
-Unfortunately, the problem is, the cost of the transportation infrastructure development is generally paid by governments, using public funds, while the value create is harvested by private property owners. This is similar to the problem of "privatized gains and socialized losses". As a result, governments generally can't afford to invest as much in transportation infrastructure as would make sense to. Because of the disconnect between the investment costs and the return on investment, cities end up under-investing in mobility and kinematic range.
-
-The solution to this underinvestment problem is to structure the financial system to better connect the investment costs with the return on investment. This is not a new idea. For example, the **Georgism** movement dates back to the 1870s, when Henry George's wrote his best-selling _Progress and Poverty_. One of the central ideas of Georgism is to tax land value, rather than tax labor.
+* **Privatized gains and socialized costs**
+  * Unfortunately, the problem is, the cost of the transportation infrastructure development is generally paid by governments, using public funds, while the value create is harvested by private property owners. This is similar to the problem of "privatized gains and socialized losses". As a result, governments generally can't afford to invest as much in transportation infrastructure as it would make sense to. Because of the disconnect between the investment costs and the return on investment, cities end up under-investing in mobility and kinematic range.
+  * The solution to this underinvestment problem is to structure the financial system to better connect the investment costs with the return on investment. This is not a new idea. For example, the **Georgism** movement dates back to the 1870s, when Henry George's wrote his best-selling _Progress and Poverty_. One of the central ideas of Georgism is to tax land value, rather than tax labor.
 
 
-**Land value capture**
-
-> "Value capture is a way to generate revenue by recouping a portion of the gains 
-> in the value of land that result from improvements of public transportation. ...
-> Common value capture mechanisms include:"[^xu]
-> ~ Leasing development rights or selling land. (e.g. Hong Kong)
-> ~ Land Value Tax.
-> ~ Tax Increment Financing (TIF). (e.g. New York)
+* **Land value capture**
+  * With "value capture" or "land value capture", the idea is to somehow set things up to recoup a big portion of the actual observed gain in land value that's created by a given investment in transporation.[^xu]<sup>,</sup>[^jaffe] Different cities around the world have tried different approaches to land value capture, including:
+    - simple property taxes or land value taxes (which may fail to capture much of the value created)
+    - tax increment financing (TIF), in places like New York
+    - leasing development rights to land, in places like Hong Kong
 
 
-> "To conclude from the above literatures, value capture models are applicable 
-> to cities that have a good coordination of land use, city planning and 
-> economic development."[^xu]
+* **Effective capture**
+  * Some land value capture approaches are **much** less effective than others. The most effective approaches all have a few things in common:
+    - they tend to rely on good coordination of land use, city planning and economic development [^xu]
+    - they don't work as well in developed areas, and work better in undeveloped areas that have more room to grow [^jaffe]
+    - they work in situations where the transportation developer can purchase land at a reasonable price[^xu]
 
 
-> "Second, it should be able to acquire land at a favorable price, which will 
-> minimize the cost and maximize the profit from future land transition."[^xu]
-
-```
-TODO: incorporate ideas from:
-
-
-One of the interesting things the article does mention is that "despite this potential ... 
-value capture ... doesn't work in areas that are already developed. ... undeveloped area 
-provide the most room for growth."[^jaffe]
-
-That seems to get a the crux of the problem: the place we really need better mobility is in 
-existing big cities, but those are the places where all the land is already privately owned.
-```
+* **Catch-22**
+  * That crux of the problem is that the place we really need better mobility is in 
+existing big cities, but those are the places where all the land is already privately owned, it's difficult to do much land value capture, and so it's hard fund transportation infrastructure improvements. To add insult to injury, these existing big cities are also the places where transporation projects are the most expensive to do, working in tight spaces on complicated projects, with high labor costs and high real estate costs.
 
 
 
@@ -2011,13 +1993,35 @@ Banks, real estate developers, and the construction industry are now operating a
 
 In the 2020s and 2030s, is will not be crazy to propose a $20 billion privately funded construction project. The project just needs to pencil out well, be low risk, and meet the needs of customers.
 
-### Public-sector funding mechanisms
+
+
+### Land value capture
 
 There are established public-sector mechanisms for funding development projects, such as Tax Increment Financing (TIF).
 
 > "Portland, Oregon, currently dedicates about 40 percent of its TIF revenues to affordable housing. Over nine years, the program generated nearly **a quarter of a billion dollars for affordable housing**..."[^schneider]
 
 > "The $6 billion Lincoln Yards development in Chicago ... stands to receive **$1.3 billion in TIF funding**"[^schneider]
+
+
+
+> "Value capture is a way to generate revenue by recouping a portion of the gains 
+> in the value of land that result from improvements of public transportation. ...
+> Common value capture mechanisms include:"[^xu]
+> ~ Leasing development rights or selling land. (e.g. Hong Kong)
+> ~ Land Value Tax.
+> ~ Tax Increment Financing (TIF). (e.g. New York)
+
+> "To conclude from the above literatures, value capture models are applicable 
+> to cities that have a good coordination of land use, city planning and 
+> economic development."[^xu]
+
+> "Second, it should be able to acquire land at a favorable price, which will 
+> minimize the cost and maximize the profit from future land transition."[^xu]
+
+
+> "despite this potential ... value capture ... doesn't work in areas that are 
+> already developed. ... undeveloped area provide the most room for growth."[^jaffe]
 
 
 
