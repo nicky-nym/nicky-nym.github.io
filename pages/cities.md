@@ -1030,7 +1030,14 @@ Constructing even small buildings is expensive. Constructing entire neighborhood
 
 ### <a name="bootstrapping"></a>Bootstrapping problems
 
-The problem of how to minimize upfront costs comes down to a bootstrapping problem, and amounts to a chicken-and-egg problem. How do create a minimum viable seed that's large enough to spin up enough economic activity to propagate its own growth?
+The problem of how to minimize upfront costs comes down to a bootstrapping problem, and amounts to a chicken-and-egg problem. A new city project doesn't actually have to build a huge new city over night, but how do they create a minimum viable seed that's large enough to spin up enough economic activity to propagate its own growth?
+
+At a minimum, it seems like the project founders would need to:
+  * buy a huge amount of land on day one 
+  * zone it all so that it can grow in a kinematic shape (without getting clogged up with junk like traffic lights and parking garages) 
+  * find "anchor employers" to build majors project there, such as a port, a corporate headquarters, or a government capital
+
+
 
 Building even a small seed of a kinematic city would take a long time and lot of resources. A minimum viable start might need:
 
@@ -1043,7 +1050,7 @@ Building even a small seed of a kinematic city would take a long time and lot of
   + existing local construction companies
   + wholehearted support from existing county & state governments
   + wholehearted support among the neighbors
-  + a big anchor employer (like Amazon, or the Indonesian Government)
+  + big "anchor employers" (like Amazon, or the Indonesian Government)
   + a pent-up demand of people eager to move into new housing as it is completed
   + a pent-up demand of companies eager to move into new office space as it is completed
   + an existing airport, port, and interstate highway not too far away
