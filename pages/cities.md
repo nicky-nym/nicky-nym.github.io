@@ -1589,28 +1589,27 @@ Alternatively, instead of looking at locations in places like California, it mig
 The best locations might be ones that are close to the cities that are expected to grow the most dramatically in the coming decades and have very large populations by 2050:
 
   |---
-  | City | 2050 population<br>projection [^ontariotech]
-  |:-|:-
-  | Mumbai, India | 26 | 42 million | 
-  | Delhi, India  | 36 million
-  | Dhaka, Bangladesh | 35
-  | Kinshasa, DRC | 35
-  | Kolkata (Calcutta), India | 33
-  | Lagos, Nigeria | 33
-  | Tokyo, Japan | 33
-  | Karachi, Pakistan |  32
-  | New York City-Newark, USA | 25
-  | Mexico City, Mexico | 24
-  | Cairo, Egypt | 24
-  | Manila, Philippines | 24
-  | Sao Paulo, Brazil | 23
-  | Shanghai, China | 21
-  | Lahore, Pakistan | 17
-  | Kabul, Afghanistan | 17
-  | Los Angeles-Long Beach-Santa Ana, USA | 16
-  | Chennai (Madras), India | 16
-  | Khartoum, Sudan | 16
-  | Dar es Salaam, Tanzania | 16
+  | City | 25-year<br>growth<br>projection | 25-year<br>growth % | 2050 population<br>projection [^ontariotech] | 2025 population<br>projection [^ontariotech]
+  |:-|:-:|:-:|:-:|:-:
+  | Kinshasa, DRC           | 18 million | 109% | 35 million | 17 million
+  | Lagos, Nigeria          | 17 million | 107% | 33 million | 16 million
+  | Mumbai, India           | 16 million | 61% | 42 million | 26 million
+  | Delhi, India            | 14 million | 61% | 36 million | 23 million
+  | Dhaka, Bangladesh       | 13 million | 60% | 35 million | 22 million
+  | Karachi, Pakistan       | 13 million | 66% | 32 million | 19 million
+  | Kolkata (Calcutta), India | 12 million | 61% | 33 million | 21 million
+  | Dar es Salaam, Tanzania | 10 million | 181% | 16 million | 6 million
+  | Kabul, Afghanistan      | 10 million | 138% | 17 million | 7 million
+  | Manila, Philippines     | 9 million | 59%  24 million | 15 million
+  | Cairo, Egypt            | 8 million | 54% | 24 million | 16 million
+  | Nairobi, Kenya          | 8 million | 143% | 14 million | 6 million
+  | Khartoum, Sudan         | 8 million | 102% | 16 million | 8 million
+  | Baghdad                 | 7 million | 87% | 15 million | 8 million
+  | Chennai (Madras), India | 6 million | 61% | 16 million | 10 million
+  | Lahore, Pakistan        | 6 million | 53% | 17 million | 11 million
+  | Luanda                  | 6 million | 74% | 14 million | 8 million
+  | Bangalore               | 6 million | 61% | 16 million | 10 million
+  | Hyderabad               | 6 million | 61% | 15 million | 9 million
   |---
 
 
