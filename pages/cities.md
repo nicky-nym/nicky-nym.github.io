@@ -1568,9 +1568,19 @@ Further afield, there's the Sea Ranch. It has more land area than the Stanford C
 
 There are other similar sites up the California coast, like in the Eureka area, with similar pros and cons. Or the area around the Little River Airport by Mendocino, if the State of California suddenly decided to allow development in the State Park property.
 
+The Northern California Coast is one of a number of unusual places in the world. For some sorts of development projects, it might prove to be a "goldilocks" location, with a rare collection of attributes:
+* coastal location that could have sea ports
+* within a couple hundred miles of the established, thriving, high-GDP urban agglomeration (the San Franciso Bay Area), which has significant unmet demand for housing, office space, and manufacturing space
+* enjoys a moderate, Mediterranean climate (no need for air conditioning, only mild needs for heating, and no need to protect plumbing from winter freezes)
+* projected to still have a moderate climate even in 2050 or 2100, after significant global warming makes many other places either too hot, too dry, or too prone to severe storms and flooding
+* latitude within 45 degrees of the equator, with adequate sunshine and non-extreme seasonable variation in daylight hours
+* stable legal environment with fairly predictable rule of law
+
+
+
 ### Greenfield locations
 
-Instead of looking at infill locations in places like California, it might be easier, faster, and more fruitful to work with people who are already in the process of planning large new developments on open greenfield sites, the way people are doing in Asia, Africa, and the Middle East.
+Alternatively, instead of looking at infill locations in places like California, it might be easier, faster, and more fruitful to work with people who are already in the process of planning large new developments on open greenfield sites, the way people are doing in Asia, Africa, and the Middle East.
 
 
 
