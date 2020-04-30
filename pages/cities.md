@@ -1075,18 +1075,6 @@ For example, when the new 2nd Avenue subway line in New York was built, property
 
 When the San Francisco Bay Area BART system built their Fremont extension, home values near the new station outpaced home values further away by a margin of about 9% to 15%, which amounted to an additional windfall of about $100,000 to $200,000 per home for all the homes within 2 miles of the new station, for an aggregate value of about $1.7 billion.
 
-```
-TODO: incorporate ideas from:
-
-
-One of the interesting things the article does mention is that "despite this potential ... 
-value capture ... doesn't work in areas that are already developed. ... undeveloped area 
-provide the most room for growth."[^jaffe]
-
-That seems to get a the crux of the problem: the place we really need better mobility is in 
-existing big cities, but those are the places where all the land is already privately owned.
-```
-
 > "Based on the studies in Asian countries including China, Singapore and South Korea, 
 > public transportation generally has a positive impact on property values, and the 
 > impact is closely related with distance to the station. On average, property value 
@@ -1098,16 +1086,11 @@ existing big cities, but those are the places where all the land is already priv
 > (Medda, 2012)."[^xu]
 
 
-
-
 **Privatized gains and socialized costs**
 
-The problem is, the cost of the transportation infrastructure development is generally paid by governments, using public funds, while the value create is harvested by private property owners. This is similar to the problem of "privatized gains and socialized losses". As a result, governments generally can't afford to invest as much in transportation infrastructure as would make sense to. Because of the disconnect between the investment costs and the return on investment, cities end up under-investing in mobility and kinematic range.
+Unfortunately, the problem is, the cost of the transportation infrastructure development is generally paid by governments, using public funds, while the value create is harvested by private property owners. This is similar to the problem of "privatized gains and socialized losses". As a result, governments generally can't afford to invest as much in transportation infrastructure as would make sense to. Because of the disconnect between the investment costs and the return on investment, cities end up under-investing in mobility and kinematic range.
 
-
-**Georgism**
-
-The solution to this underinvestment problem is to structure the financial system to better connect the investment costs with the return on investment. This is not a new idea. For example, the Georgism movement dates back to the 1870s, when Henry George's wrote his best-selling _Progress and Poverty_. One of the central ideas of Georgism is to tax land value, rather than tax labor.
+The solution to this underinvestment problem is to structure the financial system to better connect the investment costs with the return on investment. This is not a new idea. For example, the **Georgism** movement dates back to the 1870s, when Henry George's wrote his best-selling _Progress and Poverty_. One of the central ideas of Georgism is to tax land value, rather than tax labor.
 
 
 **Land value capture**
@@ -1127,6 +1110,18 @@ The solution to this underinvestment problem is to structure the financial syste
 
 > "Second, it should be able to acquire land at a favorable price, which will 
 > minimize the cost and maximize the profit from future land transition."[^xu]
+
+```
+TODO: incorporate ideas from:
+
+
+One of the interesting things the article does mention is that "despite this potential ... 
+value capture ... doesn't work in areas that are already developed. ... undeveloped area 
+provide the most room for growth."[^jaffe]
+
+That seems to get a the crux of the problem: the place we really need better mobility is in 
+existing big cities, but those are the places where all the land is already privately owned.
+```
 
 
 
