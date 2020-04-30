@@ -1071,15 +1071,15 @@ Building good urban infrastructure, including transportation infrastructure, is 
   * For example, when the new 2nd Avenue subway line in New York was built, property values along the subway corrider rose by 10% relative to the rest of the Upper East Side. It is estimated that total value of all that residential and commercial real estate rose by an additional $7 billion as a result of the subway line being built.[^jaffe]
   * When the San Francisco Bay Area BART system built their Fremont extension, home values near the new station outpaced home values further away by a margin of about 9% to 15%, which amounted to an additional windfall of about $100,000 to $200,000 per home for all the homes within 2 miles of the new station, for an aggregate value of about $1.7 billion.
 
-> "Based on the studies in Asian countries including China, Singapore and South Korea, 
-> public transportation generally has a positive impact on property values, and the 
-> impact is closely related with distance to the station. On average, property value 
-> will decrease by 1% if the distance from a transport station is increased by 10% 
-> (Cervero & Murakami, 2009)."[^xu]
+    > "Based on the studies in Asian countries including China, Singapore and South Korea, 
+    > public transportation generally has a positive impact on property values, and the 
+    > impact is closely related with distance to the station. On average, property value 
+    > will decrease by 1% if the distance from a transport station is increased by 10% 
+    > (Cervero & Murakami, 2009)."[^xu]
 
-> "In most studies, proximity to transport stations has a positive correlation to land value. 
-> They can generate property value premiums ranging from 3% to 40% in different conditions 
-> (Medda, 2012)."[^xu]
+  > "In most studies, proximity to transport stations has a positive correlation to land value. 
+  > They can generate property value premiums ranging from 3% to 40% in different conditions 
+  > (Medda, 2012)."[^xu]
 
 
 * **Privatized gains and socialized costs**
