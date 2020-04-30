@@ -1604,12 +1604,12 @@ The best locations might be ones that are close to the cities that are expected 
   | Cairo, Egypt            | 8 million | 54% | 24 million | 16 million
   | Nairobi, Kenya          | 8 million | 143% | 14 million | 6 million
   | Khartoum, Sudan         | 8 million | 102% | 16 million | 8 million
-  | Baghdad                 | 7 million | 87% | 15 million | 8 million
+  | Baghdad, Iraq           | 7 million | 87% | 15 million | 8 million
   | Chennai (Madras), India | 6 million | 61% | 16 million | 10 million
   | Lahore, Pakistan        | 6 million | 53% | 17 million | 11 million
-  | Luanda                  | 6 million | 74% | 14 million | 8 million
-  | Bangalore               | 6 million | 61% | 16 million | 10 million
-  | Hyderabad               | 6 million | 61% | 15 million | 9 million
+  | Luanda, Angola          | 6 million | 74% | 14 million | 8 million
+  | Bangalore, India        | 6 million | 61% | 16 million | 10 million
+  | Hyderabad, India        | 6 million | 61% | 15 million | 9 million
   |---
 
 
