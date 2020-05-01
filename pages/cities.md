@@ -1223,7 +1223,7 @@ existing big cities, but those are the places where all the land is already priv
 
 
   * **Some aspects of a city scale linearly.**
-    * If a city doubles in population size, many measurable characteristics of the city, such as the number of businesses, also double in size. Around the world, from small towns to big cities, regardless of the size of city, there's always about one business establishment per 22 people, and an average of about 8 employees for each establishment.
+    * If a city doubles in population size, many measurable characteristics of the city, such as the number of businesses, also double in size. Around the world, from small towns to big cities, regardless of the size of city, there's always about one business establishment per 22 people, and an average of about 8 employees for each establishment.[^scale] 
 
   * **Some aspects of a city scale sub-linearly.**
     * There are often economies of scale in the infrastructure of big cities (or at least, economies of density). 
@@ -2085,6 +2085,9 @@ There are established public-sector mechanisms for funding development projects,
 
 
 ## <span class="chapter">Source material, additional</span>
+
+  > "Double the size of a city and on average you'll find twice as many businesses. The proportionality constant is 21.6, meaning that there is approximately one establishment for about every 22 people in a city, regardless of the city size. Or to put it slightly differently, on average a new workplace is created each time the population of a city increases by just 22 people. ... on average, there are only about 8 employees for every establishment, again regardless of the size of city."[^scale] &mdash; Geoffrey West
+
 
 ### <a name="pricing"></a>Congestion pricing
 
