@@ -201,6 +201,7 @@ h3 {
           <li><a href="#further-reading">Books and software</a></li>
           <li><a href="#glossary">Glossary</a></li>
           <li><a href="#hypothetical-locations">Hypothetical locations</a></li>
+          <li><a href="#design-summary">Impossible city design summary</a></li>
           <li><a href="#source-material">Source material</a></li>
           <li><a href="#references">References</a></li>
         </ul>
@@ -1195,9 +1196,9 @@ existing big cities, but those are the places where all the land is already priv
 * [Books and software](#further-reading)
 * [Glossary](#glossary)
 * [Hypothetical locations](#hypothetical-locations)
+* [Impossible city design summary](#design-summary)
 * [Source material](#source-material)
 * [References](#references)
-
 
 
 
@@ -1607,6 +1608,157 @@ The best locations might be ones that are close to the cities that are expected 
   | Bangalore, India        | 6 million | 61% | 16 million | 10 million
   | Hyderabad, India        | 6 million | 61% | 15 million | 9 million
   |---
+
+
+
+
+
+
+
+
+
+
+<div class="hr"><a name="1"></a></div>
+
+## <a name="design-summary"></a><span class="chapter">Impossible city design summary</span>
+
+### <a name="transportation"></a>Transportation
+
+The impossible city design calls for:
+  * **no cars** within city limits
+    * no private cars
+    * no taxis
+    * no ubers, lyfts
+    * no waymos and self-driving cars
+  * **no rail** within city limits
+    * no subways
+    * no light rail
+    * no trollies or trams
+  * **nothing airborne** within city limits
+    * no delivery drones
+    * no helicopters
+    * no gondolas
+  * **nothing big**
+    * no buses or bus rapid transit (BRT)
+    * no trucks
+    * no mass transit
+  * **no gas engines** in vehicles
+    * no motorcycles
+  * **nothing fast**
+    * no motorcycles
+  * **no stops** &mdash; keep traffic flowing
+    * no traffic lights
+    * no stop signs
+    * no large intersections
+    * no personal rapid transit, pods, people movers, or things with fixed stops
+  * **no freeways**, and no free roads
+
+Instead, the design has:
+  * <a name="bikeish"></a>**bike-sized vehicles**
+    * mixed-use vehicles
+      * Some people may own their own bikes, wheelchairs, or other vehicles, which they can park at home or in parking spaces at their destination.
+      * Some people may choose not to own their own vehicles, and instead use vehicle rental services such as Mobike, Lime, Motivate, or JUMP Bikes.
+      * Some people may choose to travel in pedicabs or other small vehicles that have a human driver or are self-driving.
+    * Innovation is NOT REQUIRED
+      * A kinematic city could be built today using off-the-shelf bikes and other vehicles purchased from amazon.com.
+    * Innovation IS POSSIBLE &mdash; a kinematic city can incorporate new products as they emerge on the market, sush as
+      * new models of electric bikes, scooters, etc.
+      * scooters and bicycles that can autonomously reposition themselves from where they are left to where they are needed. (Companies like Tortoise and Uber are working on autonomous scooters.[^dickey])
+      * small vehicles that are fully self-driving, like self-driving wheelchairs, go-karts, or other single-person vehicles
+      * wireless charging stations at public parking spaces
+      * automated congestion pricing
+      * battery swapping services
+  * **covered laneways**
+    * rain-sheltered pedestrian sidewalks
+    * rain-sheltered bike-sized lanes &mdash; 5-foot wide lanes, not 10' or 12' wide car lines
+  * **laneway tolls** & **parking tolls**
+    * no tolls on laneways that aren't congested
+    * highest tolls at rush-hour, or on busy laneways
+    * tolls are per-minute, not per-mile (to prevent slow "street blimp" advertising vehicles)
+    * free parking when space is ample
+    * highest parking tolls in congested areas
+  * common-carrier **delivery lockers**[^quirk]
+    * package-delivery lockers, located along the laneways
+    * shared by Amazon, FedEx, UPS, USPS, and anyone else who would like to use them
+
+### <a name="spatial-layout"></a>Spatial layout proposal
+
+A impossible city design has:
+  * **no highways**
+  * **no roads** with lanes wide enough for cars and trucks
+  * **no empty rooftops**
+  * **no single-story buildings** such as ranch houses &mdash; (don't squander land area)
+  * **no skyscrapers** and no high-rise residential buildings &mdash; (keep construction costs down)
+  * **no private suburban lawns** 
+
+Instead, it has: 
+  * mid-rise buildings of about **six stories, similar to Paris**
+  * **row-houses** and "walk-up" apartments
+  * buildings spaced to avoid dark areas that would be far from windows and skylights &mdash; (keep lighting costs down)
+  * buildings with ventilation chimneys &mdash; (keep HVAC costs down)
+  * buildings with windows that open
+  * a grid of **bike-sized boulevards**
+    * rain-sheltered boulevards, each with four narrow bike-sized lanes, each 5 feet wide, plus shoulders
+    * grade-separated intersections, so your entire commute has no stop signs or traffic lights
+    * a grid of highline trails above the bike boulevards
+  * city blocks of about 660 feet by 660 feet
+  * about one iconic **landmark structure** per million people, inspired by examples such as:
+    * the Eiffel Tower in Paris
+    * St. Basil's Cathedral in Moscow
+    * Big Ben and the tower from the Palace of Westminster in London
+    * the leaning tower of Pisa
+    * the Space Needle in Seattle
+    * the Tower Bridge in London
+    * the Makkah Royal Clock Tower in Mecca
+    * the Gateway Arch in St. Louis
+    * Potola Palace in Lhasa, Tibet
+    * Westminster Abbey in London
+    * Le Mont-Saint Michel
+    * the pyramids of Giza
+    * Chateau Frontenac in Quebec
+
+
+### <a name="ramp"></a>Ramp proposal
+
+Optionally, an impossible city could have:
+  * **no stairways**, no stairs, and no steps &mdash; (don't squander floor space)
+  * **no elevators** &mdash; (at $100,000 or more each)
+  * **no escalators**
+
+In this scenario, the only way to go "upstairs" or "downstairs" in an impossible city would be by using:
+  * flights of **wheelchair ramps**
+  * hallway ramps
+  * sidewalk ramps
+  * bike path ramps
+
+
+### <a name="safety"></a>Safety proposal
+
+An impossible city could have:
+  * **no gas lines**
+  * **no telephone poles**
+  * **no overhead power lines**
+
+Instead, it would have: 
+  * **underground power lines**
+  * **underground telephone lines**
+
+
+#### Innovation NOT REQUIRED for emergency response
+
+The city boulevards are wide enough to accommodate standard fire engines, ambulances, and other emergency vehicles. The city boulevards are painted with lane markings for narrow 5-foot lanes for bike-sized vehicles, but the boulevards themselves are always 4 lanes wide, plus shoulders. The bikeways have an unobstructed width of about 30 feet, and unobstructed height clearance of 14 feet. The entrance and exit ramps are single-lane, but are still wide enough for standard emergency vehicles. 
+
+#### Innovation IS POSSIBLE for emergency response
+
+Although traditional fire engines can use the boulevards, they may not be necessary. It may be possible for the city to have a larger number of smaller fire-fighting vehicles for different sorts of cargos:
+* tender vehicles for hauling water
+* pump engines for pumping from sources like canals
+* rescue vehicles for hauling floodlights, hydraulic rescue tools, etc.
+* hazardous materials vehicles with hazmat suits, etc.
+
+Ideally the kinematic city buildings would all be built with standpipes and fire sprinkler systems, so pump engines and tender vehicles may be less important in a kinematic city, allowing the city to instead have more ambulances, hazmat vehicles and rescue vehicles.
+
+
 
 
 
