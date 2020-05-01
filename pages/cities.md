@@ -728,6 +728,9 @@ An impossible city should be **safer** and more fun to live in.
   - faster 911 response time
   - freedom from harassment on buses & subways
 
+    > below 18 mph "pedestrians are more likely to survive being hit by a car than die, while at higher speeds the reverse is true" [^levinson]
+
+    > "Small changes in speed have big impacts on fatality rates: a person is 70 percent more likely to be killed by a car moving at 30 mph versus 25 mph." [^ng]
 
 
 
@@ -2184,6 +2187,10 @@ There are established public-sector mechanisms for funding development projects,
 [^new-clark]: ["Resilient Growth: Building a Resilient City in the Philippines"](https://newcities.org/the-big-picture-resilient-growth-building-resilient-city-philippines/). _NewCities_. 2019.
 
 [^macdonald]: ["Urban living makes us miserable. This city is trying to change that"](https://mosaicscience.com/story/urban-living-city-mental-health-glasgow-cities-happiness-regeneration/). Fleur Macdonald, _Mosaic_. 15 October 2019.
+
+[^levinson]: ["21 Solutions to Road Deaths"](https://transportist.org/2019/10/02/21-solutions-to-road-deaths/). David Levinson, _Transportist_. 2 Oct 2019.
+
+[^ng]: ["We ran traffic simulations on our people-first street designs. Here’s what we found"](https://medium.com/sidewalk-talk/https-medium-com-sidewalk-talk-street-sim-33da7e1a8ffb). Willa Ng, _Sidewalk Labs_. 9 September 2019.
 
 
 
