@@ -875,17 +875,19 @@ As the world adds more and more large cities and megacities, kinematic lag becom
 
 Take the **San Francisco Bay Area** as an example. The Bay Area is a conurbation that encompasses major cities like San Francisco and San Jose, as well as lots of smaller cities, like Oakland, Berkeley, and Mountain View. The entire population is about 8 million people, depending where you draw the boundaries. 
 
-If you estimate floorspace at about 600 square feet per person, that means there's about 5 billion square feet of floorspace in the Bay Area. Your [**KR<sub>30</sub>**](#glossary:KR30) would be **5 billion square feet**, if you could magically get from any point in the area to any other point in under 30 minutes. But you can't.
+If you estimate floorspace at about 600 square feet per person, that means there's about 5 billion square feet of floorspace in the Bay Area. Your thirty-minute kinematic range [(**KR<sub>30</sub>**)](#glossary:KR30) would be **5 billion square feet**, if you could magically get from any point in the area to any other point in under 30 minutes. But you can't.
 
 As a rough estimate, let's say that from any room in any random building in the Bay Area, within 30 minutes you can reach about one quarter of the other buildings in the Bay Area. That means your actual **KR<sub>30</sub>** would be about **1.25 billion square feet**.
 
-If we could just improve your travel times, we could quadruple your KR<sub>30</sub> range. If kinematic range is in fact what drives the [15% superlinear scaling](#superlinear) effect, then doubling the KR<sub>30</sub> for the Bay Area would yield a 15% windfall in average hourly wages, patents per capita, GDP, etc. Doubling KR<sub>30</sub> gets you a 15% windfall, and quadrupling gets you **a 30% windfall** (actually more like 32%, because 1.15<sup>^2</sup> is 1.3225).
+If we could just improve your travel times enough, we could quadruple your KR<sub>30</sub> range. If kinematic range is in fact what drives the [15% superlinear scaling](#superlinear) effect, then doubling the KR<sub>30</sub> for the Bay Area would yield a 15% windfall in average hourly wages, patents per capita, GDP, etc. Doubling KR<sub>30</sub> gets you a 15% windfall, and quadrupling gets you **a 30% windfall** (actually more like 32%, because 1.15<sup>^2</sup> is 1.3225).
 
 **GDP.** The San Francisco Bay Area GDP was about $535 billion in 2019.[^facc]  A 30% annual increase would be an **additional $160 billion annual GDP**.
 
 **Real estate.** The San Francisco Bay Area has about $1.3 trillion of residential real estate. A 30% increase in value would be a $400 billion increase, just for the residential portion of the real estate. Commercial real estate would be roughly another $400 billion. There would also be additional floor space in the roadway buildings, which might amount to another $200 billion, for a total of about $1 trillion of additional real estate value. San Francisco is one of just a few cities in the United States that has a market value higher than the $1 trillion Apple Inc. value.[^hoeven] But other cities have even higher real estate values. In New York City, the housing alone is worth $1.5 trillion. In the Upper East Side, housing value has reached $100 billion per square mile.[^metrocosm]
 
-**Hope?** Is it conceivable that the Bay Area could be re-engineered to quadruple travel ranges? Yes, but it would require a lot of changes: maybe a hyperloop, or a lot of Boring Company tunnels. It would be expensive, and it would take decades. The Bay Area has already calcified, and for all practical purposes, big changes now are a pipe dreams. For context, here are a few examples of the giant cost of modest mobility improvements:
+**Hope?** I’m not suggesting that anyone could somehow re-build the San Francisco Bay Area to quadruple kinematic range, but I am saying that hypothetically, if the Bay Area had been built kinematically to begin with, then the real estate would be worth $1 trillion more than it now. In the case of the Bay Area, that's $1 trillion in real estate value that somehow got left on the table: value that was lost just because of past choices about streets, geometry, and buildings. 
+
+Is it conceivable that the Bay Area could be re-engineered to quadruple travel ranges? Yes, but it would require a lot of changes: maybe a hyperloop, or a lot of Boring Company tunnels. It would be expensive, and it would take decades. The Bay Area has already calcified, and for all practical purposes, big changes now are a pipe dreams. For context, here are a few examples of the giant cost of modest mobility improvements:
   * the 2013 Bay Bridge Eastern Span, from San Francisco to Oakland, took over a decade to build and cost $7 billion
   * the 1976 BART system was a comparable amount, if measured in today's dollars
   * the 2006 Big Dig in Boston cost $21 billion
@@ -910,6 +912,7 @@ Because of their size, all of those 175 cities will probably suffer from kinemat
 > &mdash; Paul Musembwa, CEO of Warp Developments
 
 
+
 ### <a name="current-opportunities"></a>Current opportunities, land value
 
 In the San Francisco Bay Area, the total residential and commercial real estate is worth about $2.6 trillion. 
@@ -925,6 +928,23 @@ Unfortunately, trying to double the kinematic range of even a single city is pro
 ![kinematic lag](../images/kinematic_lag_2.jpg "Kinematic lag")
 
 
+In a world where another 2.5 billion people moving into cities in the next 30 years, we should think twice about how much prosperity we want to leave on the table. Real estate developers who care about the value of their land should care about building kinematically. And it's not just real estate. It's also hourly wages, GDP per capita, and patents per capita. Our current cities are sub-optimal to the extent that theress hundred of billions of dollars of lost value per major city. Anyone, or any coalition, who can optimize on that can begin to harvest that windfall. In practice, the windfall would get split up between lots of different parties, with enough incentives to go around.
+
+There would be:
+
+  + **company founders**, with early equity stakes in the companies involved
+  + **inventors**, getting royalties on patents for, say, new spatial layouts
+  + **architects** getting licensing fees on blueprints & construction specs
+  + **property managers**, getting lease and rent income
+  + previous **land-owners**, profiting on the sale of land to the new city
+  + **real estate developers**, getting property value appreciation
+  + **anchor employers**, getting tax incentives & incentive investments
+  + **new employees**, getting big relocation bonuses & brand new housing
+  + **early homeowners**, getting in the ground floor on property values
+  + **county governments**, getting new property tax revenue
+  + **state governments**, getting new income tax revenue
+  + **local airports**, getting new flights & additional passenger revenue
+  + etc.
 
 
 
