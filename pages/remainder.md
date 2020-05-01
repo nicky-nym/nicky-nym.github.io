@@ -44,22 +44,6 @@ A kinematic city could have a traditional city government structure, or it could
 
 ### <a name="spatial-layout-notes"></a>Geometry and spatial layout
 
-> "Above six storeys, significant extra costs are incurred in sprinkler systems, and after ten storeys, the need for enhanced fire escape provision means that the extra costs can only be recouped if storey heights push up above 15 storeys."[^roaf] &mdash; Susan Roaf
-
-> "For five Melbourne office buildings of the following heights: 3, 7, 15, 42 and 52 storeys, the two high-rise buildings were found to have approximately 60 per cent more energy embodied per unit gross floor area (GFA) in their materials than the low-rise buildings."[^roaf] &mdash; Susan Roaf
-
-|---
-| Height<br>in stories | GJ per square meter<br>gross floor area[^roaf] |
-|-:|-:|
-|  3 | 10.7
-|  7 | 11.9
-| 15 | 16.1
-| 42 | 18.0
-| 52 | 18.4
-|---
-
-> "In addition, there are higher operation and maintenance costs in taller buildings..."[^roaf] &mdash; Susan Roaf
-
 
 
 ### HVAC
@@ -85,8 +69,6 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 [^bliss]: ["Navigation Apps Changed the Politics of Traffic"](https://www.citylab.com/transportation/2019/11/future-of-transportation-traffic-navigation-apps-google-maps/601684/). Laura Bliss, _City Lab_. 12 November 2019.
 
 [^dodoo]: ["Effects of Climate Change for Thermal Comfort and Energy Performance of Residential Buildings in a Sub-Saharan African Climate"](https://www.mdpi.com/2075-5309/9/10/215). Ambrose Dodoo and Joshua Ayarkwa, _Linnaeus University_ and _Kwame Nkrumah University of Science and Technology_. 4 October 2019.
-
-[^roaf]: ["The Sustainability of High Density"](), by Susan Roaf, Chapter 3 of ["Designing High-Density Cities"](), edited by Edward Ng.
 
 [^stouhi]: ["Winners of UED's Architecture Competition Imagine the City of the Future"](https://www.archdaily.com/927619/winners-of-ueds-architecture-competition-imagine-the-city-of-the-future). Dima Stouhi, _ArchDaily_. 1 Nov 2019.
 
