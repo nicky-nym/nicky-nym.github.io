@@ -738,6 +738,7 @@ An impossible city should be **safer** and more fun to live in.
 
     > "Small changes in speed have big impacts on fatality rates: a person is 70 percent more likely to be killed by a car moving at 30 mph versus 25 mph." [^ng]
 
+    > "Improvements in response time and medicine are responsible for about one-third of the reduction in fatality rates from crashes in the UK."[^levinson]
 
 
 
