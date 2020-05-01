@@ -2375,6 +2375,8 @@ There are established public-sector mechanisms for funding development projects,
 
 [^velotopia]: [_Velotopia_](https://www.nai010.com/en/publicaties/velotopia/130528), by Steven Fleming. 2017
 
+[^wiki_pentagon]: ["The Pentagon"](https://en.wikipedia.org/wiki/The_Pentagon). _Wikipedia_.
+
 
 
 
@@ -2509,8 +2511,7 @@ There are established public-sector mechanisms for funding development projects,
 
 <!-- References, Hypothetical locations -->
 
-[^wiki_projections_of_population_growth]: ["Projections of population growth
-"](https://en.wikipedia.org/wiki/Projections_of_population_growth). _Wikipedia_.
+[^wiki_projections_of_population_growth]: ["Projections of population growth"](https://en.wikipedia.org/wiki/Projections_of_population_growth). _Wikipedia_.
 
 
 
