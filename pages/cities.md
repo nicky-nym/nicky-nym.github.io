@@ -434,7 +434,7 @@ Singapore and Dallas-Fort Worth have very different transportation networks, wit
 
 ### <a name="improvements"></a>Improving existing cities
 
-Existing cities, all over the world, have serious traffic congestion problems, despite spending billions on transit projects and on widening roads, in efforts to incrementally improve mobility and kinematic range. As cities grow and economies grow, the congestion problems just get worse.
+Existing cities, all over the world, have serious traffic congestion problems[^turbot]<sup>,</sup>[^bliss], despite spending billions on transit projects and on widening roads, in efforts to incrementally improve mobility and kinematic range. As cities grow and economies grow, the congestion problems just get worse.
 
 Cities can improve kinematic range by **moving more people** or **moving people faster**
   * **public transit projects**
@@ -2047,6 +2047,12 @@ TODO: display as graph instead of table?
   * In the **US Pentagon building**, it is possible to walk between any two points in less than seven minutes. The Pentagon has 6.6 million square feet of floorspace, so that's a **KR<sub>7</sub>** of **6.6 million square feet**.[^wiki_pentagon] 
 
 
+### Congestion
+
+> "In a study last year, Inrix estimated that the cost of congestion in the United States alone was $305 billion (USD)" [^turbot]
+
+> "In L.A., nothing concerns locals more than traffic—not personal safety, the cost of living, or even the housing market—according to a 2016 poll by the Los Angeles Times. Drivers there spend an average of 80 hours in gridlock every year, according to a report by Texas A&M University."[^bliss]
+
 
 
 
@@ -2449,6 +2455,11 @@ There are established public-sector mechanisms for funding development projects,
 [^velotopia]: [_Velotopia_](https://www.nai010.com/en/publicaties/velotopia/130528), by Steven Fleming. 2017
 
 [^wiki_pentagon]: ["The Pentagon"](https://en.wikipedia.org/wiki/The_Pentagon). _Wikipedia_.
+
+[^bliss]: ["Navigation Apps Changed the Politics of Traffic"](https://www.citylab.com/transportation/2019/11/future-of-transportation-traffic-navigation-apps-google-maps/601684/). Laura Bliss, _City Lab_. 12 November 2019.
+
+[^turbot]: ["Living Together, Happier Together"](https://newcities.org/blog-living-together-happier-together/). Sébastien Turbot, _NewCities_. 20 March 2019.
+
 
 
 
