@@ -198,6 +198,7 @@ h3 {
         <summary><a href="#appendixes">Appendixes</a></summary>
         <ul>
           <li><a href="#rules-of-thumb">Rules of thumb</a></li>
+          <li><a href="#effective-altruism">Effective altruism</a></li>
           <li><a href="#further-reading">Books and software</a></li>
           <li><a href="#glossary">Glossary</a></li>
           <li><a href="#hypothetical-locations">Hypothetical locations</a></li>
@@ -1199,12 +1200,16 @@ existing big cities, but those are the places where all the land is already priv
 ## <span class="chapter">_Appendixes_</span>
 
 * [Rules of thumb](#rules-of-thumb)
+* [Effective altruism](#effective-altruism)
 * [Books and software](#further-reading)
 * [Glossary](#glossary)
 * [Hypothetical locations](#hypothetical-locations)
 * [Impossible city design summary](#design-summary)
 * [Source material](#source-material)
 * [References](#references)
+
+
+
 
 
 
@@ -1296,6 +1301,46 @@ TODO: important? consider moving into one of the chapters above?
 
   > City clusters already exist of course, like the Randstad in the Netherlands, which links Amsterdam, Rotterdam, The Hague, and Utrecht. The urban development around San Francisco Bay could also be considered a city cluster. What is different with the Chinese concept of cluster is their scale. The Randstad connects only 7 million people, while San Francisco Bay (including Silicon Valley) has only 6.2 million people. By contrast, the urban cluster of the Pearl River Delta already had 65 million people in 2010, larger than the entire population of the United Kingdom but concentrated on less than 10,000 square kilometers! The recent urban cluster including Beijing-Tianjin-Hebei links together more than 105 million people.[^bertaud]
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="hr"><a name="1"></a></div>
+
+## <a name="effective-altruism"></a><span class="chapter">Effective altruism</span>
+
+Effective altruism is the idea of trying to direct money and resources towards the most cost-effective interventions for improving global wellbeing.
+
+Non-profit research organizations like [GiveWell](https://www.givewell.org/) work hard to evaluate wide arrays of possible interventions and try to find the most effective ones. Private foundations like the Gates Foundation have similar internal research departments.
+
+The idea of building Impossible Cities might be worth studying as a candidate intervention for effective altruism. Building cities far more expensive than most philanthropic interventions, but it also has the potential for unusually large positive outcomes.
+
+* **Basic housing**
+  + TODO: 
+
+* **Climate change intervention**
+  + TODO: For people who believe climate change is a serious problem...
+
+* **Poverty intervention**
+  + TODO: 
+
+* **Disaster relief**
+  + TODO: 
+
+* **Women's rights**
+  + TODO: ...helps provide equal access to mobility, increased access to jobs and educational opportunities...  ...urban-rural education gap and urban-rural fertility gaps...
+
+* **Family planning intervention**
+  + TODO: For people who believe overpopulation is a serious problem...
 
 
 
