@@ -1345,6 +1345,11 @@ The idea of building Impossible Cities might be worth studying as a candidate in
 
 
 
+> "More recent data, however, reveal substantial urban‐rural fertility gaps (i.e. of one child or more per woman) that tend to be wider at more advanced stages of the fertility transition" [^lerch]
+
+> "In the full sample of countries, rural fertility is almost 20 percent higher than the urban level on average in the pre‐transitional cohorts. ... The ratio increases sharply in the first 20 transition cohorts to 40 percent, stabilizing at this level in the subsequent 10 cohorts. After 30 cohort years have elapsed since the transition onset, the average rural‐urban ratio has dropped monotonically down to 1.23 (in the 55th transition cohort)." [^lerch]
+
+
 
 
 
