@@ -1,7 +1,7 @@
 ---
 permalink: /cities/
 ---
-# <a name="0"></a>Impossible cities
+# <a name="0"></a>Impossible Cities
 
 This paper outlines a summer 2020 design proposal for building car-free cities.
 
@@ -125,7 +125,7 @@ h3 {
     <p>&nbsp;</p>
     <div>
       <details>
-        <summary><a href="#0">Impossible cities</a></summary>
+        <summary><a href="#0">Impossible Cities</a></summary>
         <ul>
           <li><a href="#0">Summary</a></li>
         </ul>
@@ -149,7 +149,7 @@ h3 {
           <li><a href="#why-does-it-matter">Why does kinematic range matter?</a></li>
           <li><a href="#windfall">Kinematic windfall</a></li>
           <li><a href="#existing-cities">The kinematics of existing cities</a></li>
-          <li><a href="#impossible">The "Impossible city" design proposal</a></li>
+          <li><a href="#impossible">The "Impossible City" design proposal</a></li>
        </ul>
       </details>
     </div>
@@ -202,7 +202,7 @@ h3 {
           <li><a href="#further-reading">Books and software</a></li>
           <li><a href="#glossary">Glossary</a></li>
           <li><a href="#hypothetical-locations">Hypothetical locations</a></li>
-          <li><a href="#design-summary">Impossible city design summary</a></li>
+          <li><a href="#design-summary">Impossible City design summary</a></li>
           <li><a href="#source-material">Source material</a></li>
           <li><a href="#references">References</a></li>
         </ul>
@@ -268,7 +268,7 @@ The result is:
   | **actual speed**<br>average | 7.1 mph for cars[^nycdot]<sup>,</sup>[^haag] <br> 7.5 mph for buses[^nycdot] | 15 mph 
   | **vehicle<br>throughput** | 1 bus lane at about 6,000 people per hour (+/- 2,000)<br> 4 car lanes at about 1,000 people per hour each (+/- 400)<br>1 parking & delivery lane at 0 people per hour<br>**total:** about 11,000 people per hour | 8 bike lanes at about 3,500 people per hour per bike lane each (+/- 250 per hour)<br>**total:** about 28,000 people per hour
   | **sidewalk<br>throughput** | about 10,000 people per hour | about 10,000 people per hour
-  | **bottom line** | less than half as many people as impossible design<br>each moving half as fast | twice as many people as Manhattan<br>each moving twice as fast
+  | **bottom line** | less than half as many people as Impossible City design<br>each moving half as fast | twice as many people as Manhattan<br>each moving twice as fast
   |  | <a name="costs"></a><span class="h3">Costs</span> | 
   | **traffic fatalities** | 23 fatalities per million people per year | 1 fatality per million per year
   | **CO2 footprint<br>for transportation**<br>kg per person per year | 1,000 kg | 1 kg
@@ -482,7 +482,7 @@ In addition to the **pro-transit** camp and the **pro-status-quo** camp, there's
 **Opponents** of self-driving cars point to inherently low throughput-per-lane numbers for cars vs. buses and trains, and the real-world congestion problems that we're already seeing from on-demand car-share services like Lyft and Uber.
 
 
-### <a name="impossible"></a>The "Impossible city" design proposal
+### <a name="impossible"></a>The "Impossible City" design proposal
 
 Given what we know about the cost and throughput of cars, buses, and rail, and given what we know about the emerging new alternatives, what's the best we could possibly do?
 
@@ -490,7 +490,7 @@ If we could plan a whole urban transportation network from scratch, what's the o
 
 What follows is a design proposal for what I believe is a **simple**, **cheap**, **reliable**, **low-risk** transportation network that has **high throughput**, good **transit speed**, nearly **door-to-door** convenience, and takes up less space than roads, leaving more **land area** for parks and buildings.
 
-The **Impossible city** is just one simple design for a more Kinematic city. I'm not suggesting that this is the best design; rather, I'm putting it out as a *straw-man* proposal, in hopes that it might be a step in the right direction, and that it might spark conversation that leads to better ideas.
+The **Impossible City** is just one simple design for a more kinematic city. I'm not suggesting that this is the best design; rather, I'm putting it out as a *straw-man* proposal, in hopes that it might be a step in the right direction, and that it might spark conversation that leads to better ideas.
 
 The Impossible design calls for:
 
@@ -594,25 +594,25 @@ If you're building from scratch, then with a few good design choices it's possib
 There's no point in designing a new urban development that is too expensive to build, and no point in building a new urban development that is too expensive for people to afford to move to.
 
 * **Affordable to build**
-  - The impossible street design uses conventional construction techniques and avoids the most expensive transportation options: 
+  - The Impossible street design uses conventional construction techniques and avoids the most expensive transportation options: 
     * no buses (at $500,000 each, or $8,000+ per passenger seat)
     * no subway cars (at $10,000+ per passenger seat)
     * no subway tunnels (at $100,000,000+ per mile)
     * no automobiles (at $20,000+ each)
     * no multi-story parking garage structures (at $20,000 per parking space)[^carl_walker]
     * no sprawling suburban road network
-  - The design lends itself to mid-rise density neighborhoods. Mid-rise housing, for example in buildings with "4-over-1" podium construction, is less expensive to build than skyscrapers, and less expensive than even ten-story buildings with concrete service cores. Mid-rise housing is also less expensive than detached single family housing. The impossible street design also offers an optional extra feature that could replace ordinary sidewalks with inclined ramps, which would offer additional cost savings by conserving usable floorspace square-footage (vs. circulation overhead) while entirely obviating the need for elevators, escalators, and stairs. 
+  - The design lends itself to mid-rise density neighborhoods. Mid-rise housing, for example in buildings with "4-over-1" podium construction, is less expensive to build than skyscrapers, and less expensive than even ten-story buildings with concrete service cores. Mid-rise housing is also less expensive than detached single family housing. The Impossible street design also offers an optional extra feature that could replace ordinary sidewalks with inclined ramps, which would offer additional cost savings by conserving usable floorspace square-footage (vs. circulation overhead) while entirely obviating the need for elevators, escalators, and stairs. 
 
   - For new developments built on greenfield sites, land should cost less than what it would cost in an established city. For new developments that are large, the development may gain economies of scale in land acquisition, regulatory approval for planning and permitting, financing, and construction costs & timelines.
 
 * **Affordable to operate**
-  - The impossible street design avoids all the costs of running public transit systems (bus driver salaries, rail car maintenance, etc.) and avoids the costs of private car ownership (insurance, car payments, fuel, new tires, etc.).
+  - The Impossible street design avoids all the costs of running public transit systems (bus driver salaries, rail car maintenance, etc.) and avoids the costs of private car ownership (insurance, car payments, fuel, new tires, etc.).
 
 * **Affordable to live in**
   - Ideally, the lower costs to build and operate the city will mean that it is more affordable to live in.
     * With lower government transportation subsidies, there is an opportunity to have lower taxes & lower vehicle registration fees.
     * With lower housing construction costs, new housing doesn't need to be as expensive.
-    * With a higher-capacity transporation system in place, the impossible design can support more units of housing before congestion sets in, creating the opportunity for denser zoning and land use plans, more housing construction, and less of the exclusionary zoning supply-side shortages that lead to high housing costs in places like the San Francisco Bay Area.
+    * With a higher-capacity transporation system in place, the Impossible design can support more units of housing before congestion sets in, creating the opportunity for denser zoning and land use plans, more housing construction, and less of the exclusionary zoning supply-side shortages that lead to high housing costs in places like the San Francisco Bay Area.
     * With more units of housing within kinematic range of any given workplace, renters have more choices, landlords face more market competition, and there should be more market efficiency, without artificially inflated prices. Hopefully this will result in market-rate housing that is naturally affordable, without the government having to impose rent control or subsidize affordable housing. Hopefully this might lead to less homelessness, which in turn could lead to lower government spending.
     
 
@@ -644,7 +644,7 @@ Significantly increased mobility & kinematic range means that it's easier to go 
 By striving for simplicity, these new designs avoid using lots of "fragile" technologies, like elevators and traffic lights. 
 
 * **Durable** & **reliable** 
-  - The impossible design is a more reliable design, because it has fewer parts that can break, and fewer parts that need power sources. It has a transportation system that can be run by human power alone, if necessary. That's one of the advantages of getting rid of all the traffic lights, buses, subway cars, automobiles, taxis, elevators, escalators, delivery drones, etc.
+  - The Impossible design is a more reliable design, because it has fewer parts that can break, and fewer parts that need power sources. It has a transportation system that can be run by human power alone, if necessary. That's one of the advantages of getting rid of all the traffic lights, buses, subway cars, automobiles, taxis, elevators, escalators, delivery drones, etc.
 
   > "even when a [New York City subway] station has an elevator, workers have struggled to keep them working properly. Only about 94 percent of elevators were available in August, according to the transit agency. The rate is worse for escalators -- 87 percent were working." [^fitzsimmons]
 
@@ -657,7 +657,7 @@ By striving for simplicity, these new designs avoid using lots of "fragile" tech
 
 ### <a name="economic-prosperity"></a>Economic prosperity
 
-A city should provide for a good life for the people who live in it and work in it. As described in [chapter 2](#2), the impossible design strives to maximize mobility and kinematic range, with the goal of harvesting a 15% windfall in wages, wealth, patents, land value, etc. The design is intended to create cities that **thrive economically** compared to similarly-sized typical cities, with more prosperity, and greener prosperity.
+A city should provide for a good life for the people who live in it and work in it. As described in [chapter 2](#2), the Impossible design strives to maximize mobility and kinematic range, with the goal of harvesting a 15% windfall in wages, wealth, patents, land value, etc. The design is intended to create cities that **thrive economically** compared to similarly-sized typical cities, with more prosperity, and greener prosperity.
 
 * **Prosperous**
   - When I say "prosperous", I don't mean Wall Street bankers with vacation homes in the Hamptons. I mean prosperity in the sense of kids who get to go to good schools, teachers who have the books they need, parks with playgrounds and basketball courts, libraries with books & wifi, parents with jobs and health insurance, and jobs with safety standards and protective equipment. These are things that are common in places like rich European countries, and that can become more and more common everywhere in the world. 
@@ -671,7 +671,7 @@ A city should provide for a good life for the people who live in it and work in 
 
 ### <a name="freedom"></a>Freedom & independence
 
-A city design should not inadvertantly restrict people's freedoms, limit people's independence, or obstruct fair access. The impossible design offers more:
+A city design should not inadvertantly restrict people's freedoms, limit people's independence, or obstruct fair access. The Impossible design offers more:
 
 * **Freedom & independence**
   - freedom of movement for everyone in the community 
@@ -709,7 +709,7 @@ A city design should not inadvertantly restrict people's freedoms, limit people'
 
 ### <a name="sustainability"></a>Green sustainability
 
-Compared to a conventional city, the impossible design should provide:
+Compared to a conventional city, the Impossible design should provide:
 
 * **Lower carbon footprint** per capita
   - lower-energy commutes in smaller, more efficient vehicles
@@ -728,7 +728,7 @@ Compared to a conventional city, the impossible design should provide:
 
 ### <a name="health"></a>Health & safety
 
-An impossible city should be **safer** and more fun to live in.
+An Impossible City should be **safer** and more fun to live in.
 
 * **Healthier**
   - more opportunity to exercise while commuting
@@ -826,7 +826,7 @@ These questions, about how to design better cities, are especially important rig
 
 There's no way to cheaply or practically re-build existing cities, or move people _en masse_ from existing cities to new cities, but, when new cities, new suburbs, and new satellite developments are being planned and built from scratch, it would be slightly crazy to fail to try designing them as "kinematic cities". Building from scratch has its own challenges, and is also crazy expensive, but it does have the advantage that it can be done much more quickly. 
 
-The impossible design does not depend on a particular climate, or on particular building materials. It's an anywhere-in-the world city, not just a European city, an African city, or an Arctic city. It could be built on the outskirts of an existing city, or it could be built in a brand new "greenfield" site.
+The Impossible design does not depend on a particular climate, or on particular building materials. It's an anywhere-in-the world city, not just a European city, an African city, or an Arctic city. It could be built on the outskirts of an existing city, or it could be built in a brand new "greenfield" site.
 
 > "If you build a new city you don't have to relocate or work 
 > around existing roads or rivers or factories or houses. 
@@ -849,7 +849,7 @@ In the next 30 years, **by 2050**, we expect urban population to grow by 60%, wi
   | 2050 | 68% | 6.7 billion
   |---
 
-Perhaps existing cities will absorb nearly all of the 2.5 billion additional people who will live in cities by 2050, but in doing so some of their suburbs will essentially develop into big satellite cities of their own right, so the Impossible city ideas are relevant for how new developments in those satellite cities are designed. If 4% of the people did move to entirely new urban developments, that would be 100 million people in new urban developments. 
+Perhaps existing cities will absorb nearly all of the 2.5 billion additional people who will live in cities by 2050, but in doing so some of their suburbs will essentially develop into big satellite cities of their own right, so the Impossible City ideas are relevant for how new developments in those satellite cities are designed. If 4% of the people did move to entirely new urban developments, that would be 100 million people in new urban developments. 
 
 ### <a name="construction-boom"></a>Urban construction boom
 
@@ -874,9 +874,9 @@ Currently, the world has about 33 "megacities", where a megacity is defined as a
 
 As a city grows, at first, kinematic range increases as population increases, perhaps in a roughly linear relationship. Unfortunately, as cities get too big, they start to sprawl and suffer from traffic congestion. Eventually, there's a **kinematic lag**, where the kinematic range stops its 1-to-1 tracking of population growth, and begins to lag behind.
 
-This whole impossible cities proposal is all about trying to reduce that kinematic lag in larger cities. The proposed impossible city design is an attempt to keep increasing a city's kinematic range even as its population grows in the multi-millions. 
+This whole Impossible Cities proposal is all about trying to reduce that kinematic lag in larger cities. The proposed Impossible City design is an attempt to keep increasing a city's kinematic range even as its population grows in the multi-millions. 
 
-As the world adds more and more large cities and megacities, kinematic lag becomes a bigger and bigger problem, kinematic range becomes more important, and design ideas like the impossible city design become more important.
+As the world adds more and more large cities and megacities, kinematic lag becomes a bigger and bigger problem, kinematic range becomes more important, and design ideas like the Impossible City design become more important.
 
 > "Contrary to common perception, megacities have not been driving global
 > growth for the past 15 years. In fact, many have not grown faster than their host
@@ -1004,14 +1004,14 @@ These new urban development designs could be built in a few different types of l
   - Retrofitting infrastructure in existing city can be several times more expensive than building new infrastructure in new sites.[^haas]
   - Land is much more expensive to acquire in existing cities than in remote areas.
   - Opportunities for buying large parcels of land are rare.
-  - There are no easy ways to integrate the new impossible neighborhood's transportation network into the city's existing transportation network(s). (See [network effect problems](#network-effect) below.)
+  - There are no easy ways to integrate the new Impossible neighborhood's transportation network into the city's existing transportation network(s). (See [network effect problems](#network-effect) below.)
   - Neighbors frequently oppose developments that increase density.
   - Zoning restrictions typically restrict changes in land use and density.
     - Tor example, 75% of residential land in Los Angeles is restricted to single-family homes, and 94% of land in San Jose[^buhayar]
 * **New suburbs** and/or satellite cities around existing cities
   - Land anywhere **near** large cities is expensive
   - Large parcels are rare.
-  - Connections between the new suburb's impossible-style transportation network and the city's existing transportation network(s) will require people to transfer between vehicles mid-trip, and will decrease mobility and kinematic range. (See [network effect problems](#network-effect) below.)
+  - Connections between the new suburb's Impossible-style transportation network and the city's existing transportation network(s) will require people to transfer between vehicles mid-trip, and will decrease mobility and kinematic range. (See [network effect problems](#network-effect) below.)
 * **Greenfield cities** and/or "new city" developments
   - Before starting construction, the new city project will need to pre-purchase (or otherwise reserve), all of the adjacent land that the city may someday need to grow into. Starting with anything less than 100 square miles of land may mean the new development is restricted from ever growing to become a "megacity" urban agglomeration, in which case it will fail to realize its kinematic windfall potential.
   - Starting from scratch, a new greenfield city will start off with almost no population initially. Even if there were immediate and uninterrupted exponential population growth from then on, it will still take decades for the new city to become a "megacity", by which time the window of opportunity has already passed.
@@ -1037,32 +1037,32 @@ These new urban development designs could be built in a few different types of l
 
 ### <a name="network-effect"></a>Network effect problems
 
-Depending where construction happens, the impossible cities design faces one of two different network effect problems.
+Depending where construction happens, the Impossible Cities design faces one of two different network effect problems.
 
 * **Population growth network effects** &mdash; for new greenfield city sites
   * People move to cities because of the opportunities there, or because they know people there. The bigger the city, the more draw it has. Once a major city has become established, and has a critical mass, it's not difficult to find people who want to move there. Kids are born and raised in existing cities, not in greenfield city sites. If a new town is founded from scratch, with a small population, in a remote place, then it probably doesn't have enough critical mass to draw people to come live there. It's a chicken-and-egg problem: in order to attract a lot of people, a city has to be big, but before it can become big, it has to have attracted a lot of people.
-  * A small-scale impossible city would work just fine, and it would have some advantages over a similarly sized car-centric or transit-centric city. Lower transportation costs might be the largest single selling point. But the advantages may not be large enough to matter to anyone. For small-scale cities, car-centric designs actually work reasonably well, as do designs based on buses and bus rapid transit. The car & bus system only starts to break down once a city gets large enough to have serious traffic congestion problems, and it's only at that scale that the kinematic city design starts to really outshine the other options.
+  * A small-scale Impossible City would work just fine, and it would have some advantages over a similarly sized car-centric or transit-centric city. Lower transportation costs might be the largest single selling point. But the advantages may not be large enough to matter to anyone. For small-scale cities, car-centric designs actually work reasonably well, as do designs based on buses and bus rapid transit. The car & bus system only starts to break down once a city gets large enough to have serious traffic congestion problems, and it's only at that scale that the kinematic city design starts to really outshine the other options.
 
 * **Transportation system network effects** &mdash; for infill and suburb/satellite sites
   * Different transportation systems tend not to be complementary. 
   * Dallas-Fort Worth is a car-based city. Cars work fairly well there, allowing millions of people to reach each other in under 30 minutes. Dallas-Fort Worth does also have a light rail system, DART, but it has less than 100,000 daily riders, because it only has 4 lines, with 64 stations, which means it doesn't effectively connect any two points in the city. The network of car-based streets **does** connect any two points in the city. Free parking is available at more than half of the DART stations, but if you already have a car, and you're already in your car, it may be faster and more convenient to just drive to your final destination, rather than drive to the DART station, park, wait for a train, pay a fare, ride the train, and then walk from from the station to your destination.
   * New York City, by contrast, has a subway system with 5 million daily riders, using 36 lines with 470 stations. In New York, the subway system works well because it has achieved critical mass, effectively connecting most points in the city. Cars also work in New York, but street congestion makes cars slow, and parking is problem. In general, the car network & the subway network tend to be alternatives to each other, rather than being a unified system. The subway stations generally don't have parking lots or taxi stands, and a trip will take longer if it involves both a car leg and a subway leg.
-  * An impossible city design could be used to build a small-scale neighborhood in, or near, an existing car-centric city, either in an infill site or as a new suburb or satellite city. The problem with that scenario is that it may be the worst of both worlds: outside of the new neighborhood you have to use a car to get around, but within the new neighborhood there are no roads and no parking, so you can't use a car. The impossible bikeways would work well for trips **within** the new neighborhood, but for any trips back and forth **between** the new neighborhood and the rest of the city, you still need a car, and you still fight urban traffic congestion, but then you can't drive right up to your office, and instead have to park somewhere at the edge of the kinematic neighborhood and then switch to foot or small vehicle to get the last distance. That means the trips would take *longer* because people would have to have both a car leg and a bikeway leg, with the need for parking and a transfer in between. In this situation, in terms of mobility and kinematic range, people would actually have been better off if the new neighborhood had been built to match the transportation system of the rest of the city, rather than introducing a new design.
-  * A more natural pairing would be small-scale impossible neighborhoods centered on train stations for either subway trains, or light rail, or commuter trains like the San Francisco Bay Area Caltrain. That's a workable design, but there may not be much opportunity for it in existing cities. In existing cities, the area around subway stops and train stations is typically already very developed, with expensive real estate, and expensive existing buildings, and lots of land reserved for streets, so that the remaining parcels are separated into islands. It would take a lot of time and money to try to rebuild a few square miles of that into a kinematic neighborhood.
+  * An Impossible City design could be used to build a small-scale neighborhood in, or near, an existing car-centric city, either in an infill site or as a new suburb or satellite city. The problem with that scenario is that it may be the worst of both worlds: outside of the new neighborhood you have to use a car to get around, but within the new neighborhood there are no roads and no parking, so you can't use a car. The Impossible bikeways would work well for trips **within** the new neighborhood, but for any trips back and forth **between** the new neighborhood and the rest of the city, you still need a car, and you still fight urban traffic congestion, but then you can't drive right up to your office, and instead have to park somewhere at the edge of the kinematic neighborhood and then switch to foot or small vehicle to get the last distance. That means the trips would take *longer* because people would have to have both a car leg and a bikeway leg, with the need for parking and a transfer in between. In this situation, in terms of mobility and kinematic range, people would actually have been better off if the new neighborhood had been built to match the transportation system of the rest of the city, rather than introducing a new design.
+  * A more natural pairing would be small-scale Impossible neighborhoods centered on train stations for either subway trains, or light rail, or commuter trains like the San Francisco Bay Area Caltrain. That's a workable design, but there may not be much opportunity for it in existing cities. In existing cities, the area around subway stops and train stations is typically already very developed, with expensive real estate, and expensive existing buildings, and lots of land reserved for streets, so that the remaining parcels are separated into islands. It would take a lot of time and money to try to rebuild a few square miles of that into a kinematic neighborhood.
 
 ### <a name="cost"></a>Cost problems
 
 Constructing even small buildings is expensive. Constructing entire neighborhoods or entire cities requires not just building housing and office space, but also building all the transportation infrastructure for roads, street lights, traffic lights, bus shelters, subway stops, and more. Plus all of the utility infrastructure, including sewers, water supply, power lines, telephone lines, and the rest.
 
 * **Low cost** vs. **high cost** locations
-  * An impossible city could be built in a high-cost location, such as California, or in a lower-cost location in a higher-growth area in India or Africa, like somewhere near the new Bagamoyo port and special economic zone, near Dar es Salaam, Tanzania. Starting in a lower-cost location is almost certainly a more promising approach, but it means that the benefits will be correspondingly lower. A 15% kinematic increase in wages & GDP is less dramatic if the wages & GDP were low to begin with, even if higher population growth and GDP per capita growth is expected.
+  * An Impossible City could be built in a high-cost location, such as California, or in a lower-cost location in a higher-growth area in India or Africa, like somewhere near the new Bagamoyo port and special economic zone, near Dar es Salaam, Tanzania. Starting in a lower-cost location is almost certainly a more promising approach, but it means that the benefits will be correspondingly lower. A 15% kinematic increase in wages & GDP is less dramatic if the wages & GDP were low to begin with, even if higher population growth and GDP per capita growth is expected.
   * In a place like San Francisco or New York, average construction costs are about $350 per square foot, so new apartments can cost over $400,000 per unit to build.[^li]<sup>,</sup>[^reid]
   * Even in the lowest-income countries, where construction labor is least expensive, the basic costs of steel and concrete amount to about $50 per square foot, so even a very small single-room apartment can cost $5,000 to $10,000 in construction materials alone.[^bertaud]
 * **Coordinated funding** vs. **parallel funding**
   * Real estate development projects have traditionally happened on the scale of one building at a time, or one small housing complex or office park at a time. A booming city may have hundreds or thousands of building projects going on in parallel, each with their own different land owner, general contractor, bank loan, and prospective tenant, and each with their own zoning and planning department approval. That arrangement lowers the bar for any single project, and enables lots of projects to move forward simultaneously, each at their own pace, without needing to coordinate tens of billions of dollars of funding and spending. Each project can be tuned to the needs of the particular parties involved, resulting a vibrant diversity of approaches and results, rather than the less successful giant mono-culture developments sometimes found in planned economies.
   * In recent decades, the largest development projects in the world have been growing larger. Projects on the scale of $10 to $20 billion are now fairly common. Some of those are transportation infrastructure projects, such as the Chunnel, the Gotthard Base Tunnel, the Riyadh Metro, and the New York 2nd Avenue subway project. Others are more focused on creating large amounts of leasable square footage, such as Masdar City, or the Hudson Yards project in New York. However, when a single project has a $20 billion price tag, funding is still typically be coordinated from multiple sources, usually with significant public funding in the mix. Notable exceptions are privately funded projects like the Apple Park campus in Cupertino, at $5 billion, or the City Center project in Las Vegas, at $11 billion, the largest privately funded construction project in the history of the United States.[^wiki_citycenter] Any privately funded new city project would almost certainly need to have initial completion costs of no more than $10 or $20 billion.
 * **Upfront costs** vs. **ongoing costs**
-  * Getting a new city started would be more feasible if it were possible to minimize the upfront costs, so that substantial costs only start to occur later, once people have already moved in, value is being created, and revenue opportunities are available. Unfortunately, the impossible city design doesn't lend itself to minimizing upfront costs. Because of the [network effect](#network-effect) problems, there's not much incentive to try starting a small project; a more promising approach would be to try to scale up as quickly as possible, but that would require raising funds from speculative investors, rather than funding growth on revenue from the value created.
+  * Getting a new city started would be more feasible if it were possible to minimize the upfront costs, so that substantial costs only start to occur later, once people have already moved in, value is being created, and revenue opportunities are available. Unfortunately, the Impossible City design doesn't lend itself to minimizing upfront costs. Because of the [network effect](#network-effect) problems, there's not much incentive to try starting a small project; a more promising approach would be to try to scale up as quickly as possible, but that would require raising funds from speculative investors, rather than funding growth on revenue from the value created.
 
 
 
@@ -1204,7 +1204,7 @@ existing big cities, but those are the places where all the land is already priv
 * [Books and software](#further-reading)
 * [Glossary](#glossary)
 * [Hypothetical locations](#hypothetical-locations)
-* [Impossible city design summary](#design-summary)
+* [Impossible City design summary](#design-summary)
 * [Source material](#source-material)
 * [References](#references)
 
@@ -1582,7 +1582,7 @@ Just as a thought experiment, it can be interesting to look at regions of existi
 
 ### Treasure Island, near San Francisco
 
-**Question:** Would a site like Treasure Island (including Yerba Buena Island) be a suitable test site for a new neighborhood with an impossible city design? It's about 2.5 square kilometers, but currently only has a population of about 2,500?
+**Question:** Would a site like Treasure Island (including Yerba Buena Island) be a suitable test site for a new neighborhood with an Impossible City design? It's about 2.5 square kilometers, but currently only has a population of about 2,500?
 
 **Answer:** No, Treasure Island is too small. Also too remote -- being entirely surrounded by water is a loss in terms of commute times and ranges. Ferries are slow. Cars are subject to all the existing traffic congestion. A BART extension would cost billions, and perhaps tens of billions. Potentially that BART extension alone would be more expensive than an entire seed neighborhood on a 50-square mile greenfield site.
 
@@ -1600,7 +1600,7 @@ Brisbane Baylands already has a private land owner and private developer that wa
 
 ### Standford University, California
 
-The Standford University campus, at 13 square miles, is more than an order of magnitude larger than Treasure Island and would be a candidate for a new impossible city district. It's also already situated in a developed urban area, with good connectivity to highways 101 and 280, Caltrain, and two existing international airports. And, unlike Treasure Island, it's not surrounded by water, which means all the area immediately around it falls into its kinematic range.
+The Standford University campus, at 13 square miles, is more than an order of magnitude larger than Treasure Island and would be a candidate for a new Impossible City district. It's also already situated in a developed urban area, with good connectivity to highways 101 and 280, Caltrain, and two existing international airports. And, unlike Treasure Island, it's not surrounded by water, which means all the area immediately around it falls into its kinematic range.
 
 But for Stanford to work as a location, people would have to be willing to tear down some of what's already built there. And the whole project would only be possible in some very like scenario where the city of Palo Alto were willing welcome hundreds of thousands of new neighbors, with all the strain that would bring on already congested highways, airports, and train lines.
 
@@ -1671,11 +1671,11 @@ The best locations might be ones that are close to the cities that are expected 
 
 <div class="hr"><a name="1"></a></div>
 
-## <a name="design-summary"></a><span class="chapter">Impossible city design summary</span>
+## <a name="design-summary"></a><span class="chapter">Impossible City design summary</span>
 
 ### <a name="transportation"></a>Transportation
 
-The impossible city design calls for:
+The Impossible City design calls for:
   * **no cars** within city limits
     * no private cars
     * no taxis
@@ -1734,7 +1734,7 @@ Instead, the design has:
 
 ### <a name="spatial-layout"></a>Spatial layout proposal
 
-A impossible city design has:
+A Impossible City design has:
   * **no highways**
   * **no roads** with lanes wide enough for cars and trucks
   * **no empty rooftops**
@@ -1771,12 +1771,12 @@ Instead, it has:
 
 ### <a name="ramp"></a>Ramp proposal
 
-Optionally, an impossible city could have:
+Optionally, an Impossible City could have:
   * **no stairways**, no stairs, and no steps &mdash; (don't squander floor space)
   * **no elevators** &mdash; (at $100,000 or more each)
   * **no escalators**
 
-In this scenario, the only way to go "upstairs" or "downstairs" in an impossible city would be by using:
+In this scenario, the only way to go "upstairs" or "downstairs" in an Impossible City would be by using:
   * flights of **wheelchair ramps**
   * hallway ramps
   * sidewalk ramps
@@ -1806,7 +1806,7 @@ The kinematic city **ramp-only** design:
 
 ### <a name="safety"></a>Safety proposal
 
-An impossible city could have:
+An Impossible City could have:
   * **no gas lines**
   * **no telephone poles**
   * **no overhead power lines**
@@ -2561,7 +2561,7 @@ There are established public-sector mechanisms for funding development projects,
 
 
 
-<!-- References, Impossible city design summary -->
+<!-- References, Impossible City design summary -->
 
 [^dickey]: ["Ex-Uber exec launches startup to autonomously reposition electric scooters and bikes"](https://techcrunch.com/2019/10/15/ex-uber-exec-launches-startup-to-autonomously-reposition-electric-scooters-and-bikes/). Megan Rose Dickey, _TechCrunch_. 15 October 2019.
 
