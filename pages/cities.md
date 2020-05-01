@@ -1143,18 +1143,9 @@ existing big cities, but those are the places where all the land is already priv
 
     > "Hong Kong's strategy can be applied in cities where government owns the land."[^xu]
 
+* **Depreciating licenses**
+  * Hong Kong serves as an outstanding real world example, and in theory it should be possible to craft even more successful mechanisms for land value capture and urban transportation investment. There are many of avenues worth exploring here, and that's beyond the scope of this paper. But, just as a single example, one promising idea for land value capture is the use of **depreciating licenses**, which can help to improve allocative efficiency. [^weyl]
 
-  
-
-
-
-**Depreciating licenses**
-
-```
-TODO: incorporate ideas from:
-
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2744810
-```
 > "With the right framework, astonishing prosperity is possible. The independent city of Singapore overtook the world’s GDP per capita in less than 30 years, and that of the USA in less than 50 years." [^free-private-cities]
 
 
@@ -2290,6 +2281,9 @@ There are established public-sector mechanisms for funding development projects,
 [^jaffe]: ["Why more big cities should give value capture a chance"](https://medium.com/sidewalk-talk/why-more-big-cities-should-give-value-capture-a-chance-b9c4cfac9768). Eric Jaffe, Sidewalk Talk. March 6, 2020.
 
 [^xu]: ["Under What Circumstances Will Land Value Capture Work to Finance Public Transit?"](https://academiccommons.columbia.edu/doi/10.7916/D8DF6QC4). Yidan Xu, _Columbia University Libraries, Academic Commons_. May 2015.
+
+[^weyl]: ["Depreciating licenses"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2744810). E. Glen Weyl & Anthony Lee Zhang. 24 January 2018.
+
 
 
 
