@@ -146,8 +146,6 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 
 [^perez]: ["Apple commits $2.5 billion to address California’s housing crisis and homelessness issues"](https://techcrunch.com/2019/11/04/apple-commits-2-5-billion-to-address-californias-housing-crisis-and-homelessness-issues/). Sarah Perez, _TechCrunch_. 4 November 2019.
 
-[^road-safety]: ["HELPING TO SAVE LIVES THROUGH PROVEN INTERVENTIONS THAT REDUCE ROAD TRAFFIC FATALITIES"](https://www.bloomberg.org/program/public-health/road-safety/). _Bloomberg Philanthropies_
-
 [^roaf]: ["The Sustainability of High Density"](), by Susan Roaf, Chapter 3 of ["Designing High-Density Cities"](), edited by Edward Ng.
 
 [^scale]: [_Scale_](https://www.penguinrandomhouse.com/books/314049/scale-by-geoffrey-west/), by Geoffrey West. 2018.
