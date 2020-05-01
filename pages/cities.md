@@ -316,6 +316,7 @@ The <a href="#1">Impossible street design</a> replaces cars & buses with a wide 
   | **delivery robots** | <img src="https://cdn.geekwire.com/wp-content/uploads/2019/01/amazonscout-768x600.png" alt="Amazon scout" height="100"> <img src="https://techcrunch.com/wp-content/uploads/2019/04/AD03.jpg?w=730&crop=1" alt="brain OS" height="100"/> <img src="https://www.supermarketnews.com/sites/supermarketnews.com/files/styles/article_featured_retina/public/FedEx_SameDay_Bot_street_1.png?itok=Ml2UGf3F" alt="FedEx bot" height="100"/> <img src="https://wdwnt-buzzy.s3.amazonaws.com/2020/01/IMG_5441.jpg" alt="R2-D2" height="100"/>
 
 
+    > "No technology holds as much promise as the humble bicycle—especially when we include its newfangled, electrified cousins—to solve the geometry problem that is getting people short distances around a big city." We don't need no flying cars. Just give us a place to ride, and watch e-bikes eat everything. [^alter]
 
 
 
@@ -693,6 +694,11 @@ A city design should not inadvertantly restrict people's freedoms, limit people'
   - wheelchair accessible routes to every part of every building
   - predictable navigation for people with limited vision
   - frequent pathside seating for elderly people
+
+    > In 1896, Susan B. Anthony said bicycling was doing "more to emancipate women than anything else in the world." [^kamiya]
+
+    > "Nearly half of American kids walked or biked to school in 1950; today that figure is 13 percent." [^grabar]
+
 
 
 ### <a name="sustainability"></a>Green sustainability
@@ -2131,6 +2137,8 @@ There are established public-sector mechanisms for funding development projects,
 
 <!-- References, Chapter 1 -->
 
+[^alter]: ["6 month report: My e-bike ate my car"](https://www.treehugger.com/bikes/6-month-report-my-gazelle-e-bike-ate-my-car.html). Lloyd Alter, _TreeHugger_. 1 November 2019.
+
 [^bertaud]: _[Order without Design](https://mitpress.mit.edu/books/order-without-design): How Markets Shape Cities_, by Alain Bertaud
 
 [^gsdg]: ["Global Street Design Guide"](https://nacto.org/publication/global-street-design-guide/). _National Association of City Transportation Officials (NACTO)_.
@@ -2191,6 +2199,11 @@ There are established public-sector mechanisms for funding development projects,
 [^levinson]: ["21 Solutions to Road Deaths"](https://transportist.org/2019/10/02/21-solutions-to-road-deaths/). David Levinson, _Transportist_. 2 Oct 2019.
 
 [^ng]: ["We ran traffic simulations on our people-first street designs. Here’s what we found"](https://medium.com/sidewalk-talk/https-medium-com-sidewalk-talk-street-sim-33da7e1a8ffb). Willa Ng, _Sidewalk Labs_. 9 September 2019.
+
+[^grabar]: ["The Hyperloop and the Self-Driving Car Are Not the Future of Transportation"](https://slate.com/technology/2019/10/future-of-transportation-bus-bike-elevator.html). Henry Grabar, _Slate.com_. 30 Oct 2019.
+
+[^kamiya]: ["Sex and cycling: How bike craze aroused passions in 1890s San Francisco"](https://www.sfchronicle.com/bayarea/article/Sex-and-cycling-How-bike-craze-aroused-passions-14544576.php#photo-18459519). Gary Kamiya, _San Francisco Chronicle_. 18 Oct 2019.
+
 
 
 
