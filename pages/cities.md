@@ -602,7 +602,8 @@ There's no point in designing a new urban development that is too expensive to b
     * no automobiles (at $20,000+ each)
     * no multi-story parking garage structures (at $20,000 per parking space)[^carl_walker]
     * no sprawling suburban road network
-  - The design lends itself to mid-rise density neighborhoods. Mid-rise housing, for example in buildings with "4-over-1" podium construction, is less expensive to build than skyscrapers, and less expensive than even ten-story buildings with concrete service cores. Mid-rise housing is also less expensive than detached single family housing. The Impossible street design also offers an optional extra feature that could replace ordinary sidewalks with inclined ramps, which would offer additional cost savings by conserving usable floorspace square-footage (vs. circulation overhead) while entirely obviating the need for elevators, escalators, and stairs. 
+  - The design lends itself to mid-rise density neighborhoods. Mid-rise housing, for example in buildings with "4-over-1" podium construction, is less expensive to build than skyscrapers, and less expensive than even ten-story buildings with concrete service cores. Mid-rise construction also has lower initial embodied energy per square foot, and lower ongoing operating costs. Mid-rise housing is also less expensive than detached single family housing. [^roaf]
+  - The Impossible street design also offers an optional extra feature that could replace ordinary sidewalks with inclined ramps, which would offer additional cost savings by conserving usable floorspace square-footage (vs. circulation overhead) while entirely obviating the need for elevators, escalators, and stairs. 
 
   - For new developments built on greenfield sites, land should cost less than what it would cost in an established city. For new developments that are large, the development may gain economies of scale in land acquisition, regulatory approval for planning and permitting, financing, and construction costs & timelines.
 
@@ -2057,6 +2058,27 @@ TODO: display as graph instead of table?
 
 ## <span class="chapter">Source material, chaper 3</span>
 
+### Affordability
+
+> "Above six storeys, significant extra costs are incurred in sprinkler systems, and after ten storeys, the need for enhanced fire escape provision means that the extra costs can only be recouped if storey heights push up above 15 storeys."[^roaf] &mdash; Susan Roaf
+
+> "For five Melbourne office buildings of the following heights: 3, 7, 15, 42 and 52 storeys, the two high-rise buildings were found to have approximately 60 per cent more energy embodied per unit gross floor area (GFA) in their materials than the low-rise buildings."[^roaf] &mdash; Susan Roaf
+
+|---
+| Height<br>in stories | GJ per square meter<br>gross floor area[^roaf] |
+|-:|-:|
+|  3 | 10.7
+|  7 | 11.9
+| 15 | 16.1
+| 42 | 18.0
+| 52 | 18.4
+|---
+
+> "In addition, there are higher operation and maintenance costs in taller buildings..."[^roaf] &mdash; Susan Roaf
+
+
+
+
 
 ### <a name="parks"></a>Parks & trees
 
@@ -2454,6 +2476,8 @@ There are established public-sector mechanisms for funding development projects,
 [^kamiya]: ["Sex and cycling: How bike craze aroused passions in 1890s San Francisco"](https://www.sfchronicle.com/bayarea/article/Sex-and-cycling-How-bike-craze-aroused-passions-14544576.php#photo-18459519). Gary Kamiya, _San Francisco Chronicle_. 18 Oct 2019.
 
 [^road-safety]: ["HELPING TO SAVE LIVES THROUGH PROVEN INTERVENTIONS THAT REDUCE ROAD TRAFFIC FATALITIES"](https://www.bloomberg.org/program/public-health/road-safety/). _Bloomberg Philanthropies_
+
+[^roaf]: ["The Sustainability of High Density"](), by Susan Roaf, Chapter 3 of ["Designing High-Density Cities"](), edited by Edward Ng.
 
 
 
