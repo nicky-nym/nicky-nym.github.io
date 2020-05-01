@@ -739,6 +739,8 @@ An impossible city should be **safer** and more fun to live in.
   - faster 911 response time
   - freedom from harassment on buses & subways
 
+    > "over 1.35 million [traffic] deaths and up to 50 million injuries occur every year, with 90% of these fatalities occurring in low- and middle-income countries" [^road-safety]
+
     > below 18 mph "pedestrians are more likely to survive being hit by a car than die, while at higher speeds the reverse is true" [^levinson]
 
     > "Small changes in speed have big impacts on fatality rates: a person is 70 percent more likely to be killed by a car moving at 30 mph versus 25 mph." [^ng]
