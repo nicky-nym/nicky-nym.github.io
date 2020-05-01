@@ -1,7 +1,7 @@
 ---
 permalink: /remainder/
 ---
-# Left-over notes & quotes
+# Left-over notes
 
 ---
 
@@ -50,11 +50,7 @@ A kinematic city could have a traditional city government structure, or it could
 
 ---
 
-## <a name="notes"></a>(5) Notes
-
-### <a name="traffic-safety"></a>Traffic safety
-
-> "over 1.35 million [traffic] deaths and up to 50 million injuries occur every year, with 90% of these fatalities occurring in low- and middle-income countries" [^road-safety]
+## <a name="notes"></a>Notes
 
 
 ### Congestion
