@@ -2598,6 +2598,17 @@ There are established public-sector mechanisms for funding development projects,
 
 
 
+
+
+
+<!-- References, Effective altruism -->
+
+[^lerch]: ["Fertility Decline in Urban and Rural Areas of Developing Countries"](https://onlinelibrary.wiley.com/doi/full/10.1111/padr.12220). Mathias Lerch. 19 December 2018.
+
+
+
+
+
 <!-- References, Glossary -->
 
 [^wiki_gcm]: ["Global Compact for Migration"](https://en.wikipedia.org/wiki/Global_Compact_for_Migration). _Wikipedia_.
