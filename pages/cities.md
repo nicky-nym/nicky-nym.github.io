@@ -303,13 +303,6 @@ The <a href="#1">Impossible street design</a> replaces cars & buses with a wide 
   |---
 
 
-> No technology holds as much promise as the humble bicycle—especially 
-> when we include its newfangled, electrified cousins—to solve the 
-> geometry problem that is getting people short distances around a big city...
-> We don't need no flying cars. Just give us a place to ride, and watch 
-> e-bikes eat everything. [^alter]
-
-
   |---
   |  | <span class="h3">Examples</span> | 
   |:-:|:-|:-
@@ -326,6 +319,13 @@ The <a href="#1">Impossible street design</a> replaces cars & buses with a wide 
   | **hoverboards<br>segways<br>ninebots<br>electric skateboards<br>etc.** | <a href="https://cdn.thisiswhyimbroke.com/images/segway-mini-300x250.jpg"><img src="../images/thumbnails/segway-mini-300x250.jpg" alt="Ninebot Mini Pro" height="100"/></a> <a href="https://ninebot.com.sg/wp-content/uploads/2018/03/Ninebot_ONE-S2-rider-url-1000x1000.jpg"><img src="../images/thumbnails/Ninebot_ONE-S2-rider-url-1000x1000.jpg" alt="Ninebot ONE S2" height="100"/></a> <a href="https://electrek.co/wp-content/uploads/sites/3/2019/03/DSC_1248-copy.jpg?quality=82&strip=all&w=678"><img src="../images/thumbnails/DSC_1248-copy.jpg" alt="Kiwano KO1+" height="100"/></a>
   | **delivery robots** | <a href="https://cdn.geekwire.com/wp-content/uploads/2019/01/amazonscout-768x600.png"><img src="../images/thumbnails/amazonscout-768x600.jpg" alt="Amazon scout" height="100"/></a> <a href="https://techcrunch.com/wp-content/uploads/2019/04/AD03.jpg?w=730&crop=1"><img src="../images/thumbnails/AD03.jpg" alt="brain OS" height="100"/></a> <a href="https://www.supermarketnews.com/sites/supermarketnews.com/files/styles/article_featured_retina/public/FedEx_SameDay_Bot_street_1.png?itok=Ml2UGf3F"><img src="../images/thumbnails/FedEx_SameDay_Bot_street_1.jpg" alt="FedEx bot" height="100"/></a> <a href="https://wdwnt-buzzy.s3.amazonaws.com/2020/01/IMG_5441.jpg"><img src="../images/thumbnails/IMG_5441.jpg" alt="R2-D2" height="100"/></a>
   |---
+
+
+> No technology holds as much promise as the humble bicycle—especially 
+> when we include its newfangled, electrified cousins—to solve the 
+> geometry problem that is getting people short distances around a big city...
+> We don't need no flying cars. Just give us a place to ride, and watch 
+> e-bikes eat everything. [^alter]
 
 
 
