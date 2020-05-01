@@ -2387,6 +2387,9 @@ There are established public-sector mechanisms for funding development projects,
 
 [^kamiya]: ["Sex and cycling: How bike craze aroused passions in 1890s San Francisco"](https://www.sfchronicle.com/bayarea/article/Sex-and-cycling-How-bike-craze-aroused-passions-14544576.php#photo-18459519). Gary Kamiya, _San Francisco Chronicle_. 18 Oct 2019.
 
+[^road-safety]: ["HELPING TO SAVE LIVES THROUGH PROVEN INTERVENTIONS THAT REDUCE ROAD TRAFFIC FATALITIES"](https://www.bloomberg.org/program/public-health/road-safety/). _Bloomberg Philanthropies_
+
+
 
 
 
