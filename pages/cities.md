@@ -317,7 +317,11 @@ The <a href="#1">Impossible street design</a> replaces cars & buses with a wide 
   | **delivery robots** | <img src="https://cdn.geekwire.com/wp-content/uploads/2019/01/amazonscout-768x600.png" alt="Amazon scout" height="100"> <img src="https://techcrunch.com/wp-content/uploads/2019/04/AD03.jpg?w=730&crop=1" alt="brain OS" height="100"/> <img src="https://www.supermarketnews.com/sites/supermarketnews.com/files/styles/article_featured_retina/public/FedEx_SameDay_Bot_street_1.png?itok=Ml2UGf3F" alt="FedEx bot" height="100"/> <img src="https://wdwnt-buzzy.s3.amazonaws.com/2020/01/IMG_5441.jpg" alt="R2-D2" height="100"/>
 
 
-    > "No technology holds as much promise as the humble bicycle—especially when we include its newfangled, electrified cousins—to solve the geometry problem that is getting people short distances around a big city." We don't need no flying cars. Just give us a place to ride, and watch e-bikes eat everything. [^alter]
+    > No technology holds as much promise as the humble bicycle—especially 
+    > when we include its newfangled, electrified cousins—to solve the 
+    > geometry problem that is getting people short distances around a big city...
+    > We don't need no flying cars. Just give us a place to ride, and watch 
+    > e-bikes eat everything. [^alter]
 
 
 
@@ -2468,6 +2472,15 @@ There are established public-sector mechanisms for funding development projects,
 
 [^wiki_projections_of_population_growth]: ["Projections of population growth
 "](https://en.wikipedia.org/wiki/Projections_of_population_growth). _Wikipedia_.
+
+
+
+
+<!-- References, Impossible city design summary -->
+
+[^dickey]: ["Ex-Uber exec launches startup to autonomously reposition electric scooters and bikes"](https://techcrunch.com/2019/10/15/ex-uber-exec-launches-startup-to-autonomously-reposition-electric-scooters-and-bikes/). Megan Rose Dickey, _TechCrunch_. 15 October 2019.
+
+[^quirk]: ["Outside the box truck: Innovations in delivery that could change our cities"](https://medium.com/sidewalk-talk/outside-the-box-truck-innovations-in-delivery-that-could-change-our-cities-a7c2170d8f9b). Vanessa Quirk, _Sidewalk Talk_. 13 Sept 2018.
 
 
 
