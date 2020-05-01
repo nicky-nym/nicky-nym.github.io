@@ -35,15 +35,16 @@ A kinematic city could have a traditional city government structure, or it could
 ## <a name="notes"></a>Notes
 
 
+### Freight
+
+> "urban planners historically focused on residential travel and personal behavior, failing to integrate the movement of goods into their planning." [^wenzel]
+
+
 ### Congestion
 
 > "In a study last year, Inrix estimated that the cost of congestion in the United States alone was $305 billion (USD)" [^turbot]
 
 > "In L.A., nothing concerns locals more than traffic—not personal safety, the cost of living, or even the housing market—according to a 2016 poll by the Los Angeles Times. Drivers there spend an average of 80 hours in gridlock every year, according to a report by Texas A&M University."[^bliss]
-
-
-### <a name="spatial-layout-notes"></a>Geometry and spatial layout
-
 
 
 ### HVAC
@@ -53,11 +54,6 @@ A kinematic city could have a traditional city government structure, or it could
 ### Competitions
 
 _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning and Design Competition – Xingdong New Area Urban Design International Master Competition_ [^stouhi]
-
-
-### Freight
-
-> "urban planners historically focused on residential travel and personal behavior, failing to integrate the movement of goods into their planning." [^wenzel]
 
 
 
