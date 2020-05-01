@@ -125,8 +125,7 @@ A kinematic city has:
 
 Instead, we have: 
   * **underground power lines**
-  * **911 call response times averaging 3 to 4 minutes**
-    > "Improvements in response time and medicine are responsible for about one-third of the reduction in fatality rates from crashes in the UK."[^levinson]
+
 
 #### Innovation NOT REQUIRED for emergency response
 
