@@ -809,20 +809,20 @@ An Impossible City should be **safer** and more fun to live in.
 
 ## <span class="chapter">_Chapter 4_ &mdash; Why this matters now</span>
 
-These questions, about how to design better cities, are especially important right now, at this moment in history, for a few reasons.
+Figuring out how to design better cities is especially important right now, at this moment in history, for a few reasons.
 
 * **[The urban population boom](#population-boom)**
   - Urban population is about to increase by 60%, with **2.5 billion more people** incoming by 2050.
 * **[The urban construction boom](#construction-boom)** 
-  - There is a projected **doubling of total built space** by 2050.
+  - There is projected to be a **doubling of total built space** by 2050.
 * **[The rise of "megacity" urban agglomerations](#megacities)**
   - By 2050, we will have 175 cities with populations between 4 million and 40 million.
 * **[The onset of kinematic lag](#kinematic-lag)**
   - Large cities are increasingly suffering from congestion and kinematic lag.
 * **[The mounting lost opportunities](#lost-opportunities)**
-  - Kinematic lag is already a problem that artificially depresses global GDP by trillions of dollars per year, slowing the rise from poverty of billions of people.
+  - Kinematic lag is already a problem that artificially depresses global GDP by trillions of dollars per year, slowing the rise out of poverty of billions of people.
 * **[The rising current opportunities](#current-opportunities)**
-  - If we could start doing better city design now, in the next few decades **we could prevent additional losses** from kinematic lag on the order of **$5 trillion dollars per year**, as well as seeing a windfall of **$15 trillion** in residential real estate value. Unfortunately, in practice, that will be impossible.
+  - If we could get better at city design now, then in the next few decades **we could prevent additional losses** from kinematic lag on the order of **$5 trillion dollars per year**, as well as seeing a windfall of **$15 trillion** in residential real estate value. Unfortunately, in practice, that will be impossible.
 
 There's no way to cheaply or practically re-build existing cities, or move people _en masse_ from existing cities to new cities, but, when new cities, new suburbs, and new satellite developments are being planned and built from scratch, it would be slightly crazy to fail to try designing them as "kinematic cities". Building from scratch has its own challenges, and is also crazy expensive, but it does have the advantage that it can be done much more quickly. 
 
@@ -839,7 +839,7 @@ The Impossible design does not depend on a particular climate, or on particular 
 
 ### <a name="population-boom"></a>Urban population boom
 
-In the next 30 years, **by 2050**, we expect urban population to grow by 60%, with another **2.5 billion more people** living in cities.[^growth]
+In the next 30 years, **by 2050**, urban population is expected to grow by 60%, with another **2.5 billion more people** living in cities.[^growth]
 
   |---
   | Year | Urban<br>portion<br>of world | Total urban population[^un-desa] |
@@ -849,7 +849,7 @@ In the next 30 years, **by 2050**, we expect urban population to grow by 60%, wi
   | 2050 | 68% | 6.7 billion
   |---
 
-Perhaps existing cities will absorb nearly all of the 2.5 billion additional people who will live in cities by 2050, but in doing so some of their suburbs will essentially develop into big satellite cities of their own right, so the Impossible City ideas are relevant for how new developments in those satellite cities are designed. If 4% of the people did move to entirely new urban developments, that would be 100 million people in new urban developments. 
+Perhaps existing cities will absorb nearly all of the 2.5 billion additional people who will live in cities by 2050, but in doing so some of their suburbs will essentially develop into big satellite cities of their own right. The Impossible City ideas are relevant for how new developments in those satellite cities are designed. If 4% of those 2.5 billion additional people did move to entirely new urban developments, that would be 100 million people in new urban developments. 
 
 ### <a name="construction-boom"></a>Urban construction boom
 
@@ -865,7 +865,7 @@ This wave of construction is going to happen no matter what, whether we prepare 
 
 ### <a name="megacities"></a>"Megacity" urban agglomerations
 
-Currently, the world has about 33 "megacities", where a megacity is defined as an urban agglomerations with more than 10 million inhabitants. The world is projected to have 43 megacities by 2030, and about **50 megacities by 2050**, with an additional 125 large-but-not-mega cities in that land in the range between 4 million and 10 million inhabitants.[^ontariotech]
+Currently, the world has about 33 "megacities", where a megacity is defined as an urban agglomerations with more than 10 million inhabitants. The world is projected to have 43 megacities by 2030, and about **50 megacities by 2050**, with an additional 125 large-but-not-mega cities that land in the range between 4 million and 10 million inhabitants.[^ontariotech]
 
 
 ### <a name="kinematic-lag"></a>Kinematic lag
@@ -946,7 +946,7 @@ Unfortunately, trying to double the kinematic range of even a single city is pro
 ![kinematic lag](../images/kinematic_lag_2.jpg "Kinematic lag")
 
 
-In a world where another 2.5 billion people moving into cities in the next 30 years, we should think twice about how much prosperity we want to leave on the table. Real estate developers who care about the value of their land should care about building kinematically. And it's not just real estate. It's also hourly wages, GDP per capita, and patents per capita. Our current cities are sub-optimal to the extent that there are hundred of billions of dollars of lost value per major city. Anyone, or any coalition, who can optimize on that can begin to harvest that windfall. In practice, the windfall would get split up between lots of different parties, with enough incentives to go around.
+In a world where another 2.5 billion people will be moving into cities in the next 30 years, we should think twice about how much prosperity we want to leave on the table. Real estate developers who care about the value of their land should care about building kinematically. And it's not just real estate. It's also hourly wages, GDP per capita, and patents per capita. Our current cities are sub-optimal to the extent that there are hundred of billions of dollars of lost value per major city. Anyone, or any coalition, who can optimize on that can begin to harvest that windfall. In practice, the windfall would get split up between lots of different parties, with enough incentives to go around.
 
 There would be:
 
