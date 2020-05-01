@@ -147,15 +147,6 @@ Ideally the kinematic city buildings would all be built with standpipes and fire
 ## <a name="how-cities-work"></a>(4) How cities work
 
 
-### <a name="rules-of-thumb"></a>(4.1) Rules of thumb
-
-
-* <a name="linear"></a>**Linear scaling** says that if a city doubles in size, many measurable characteristics of the city, such as the number of businesses, also double in size.
-
-  > "Double the size of a city and on average you'll find twice as many businesses. The proportionality constant is 21.6, meaning that there is approximately one establishment for about every 22 people in a city, regardless of the city size. Or to put it slightly differently, on average a new workplace is created each time the population of a city increases by just 22 people. ... on average, there are only about 8 employees for every establishment, again regardless of the size of city."[^scale] &mdash; Geoffrey West
-
-
-
 
 ### <a name="kinematic-range"></a>(4.3) Kinematic range
 
