@@ -4,24 +4,6 @@ permalink: /remainder/
 # Left-over notes
 
 ---
-
-### <a name="kinematic-range"></a>Kinematic range
-
-
-  * In **Haxby, Montana**, with a car, in 30 minutes you can probably reach about a half dozen homes, with perhaps 10,000 square feet of floorspace, so that means your 30-minute Kinematic Range, **KR<sub>30</sub>**, is about **10,000 square feet**.
-  
-  * In **San Francisco**, if you are able-bodied and travel by bicycle or public transit, but you do not use a car, then in 30 minutes you can probably get from almost any building in the city to almost any room in any other building in the city. But without a car, there are fairly few places you can get to outside the city limits within 30 minutes. The buildings in San Franicsco have a total of about 540 million square feet of floorspace, and your **KR<sub>30</sub>** might be about **450 million square feet**, which is about 50-thousand-fold higher than your range in Haxby.
-  
-  * **Wurster Hall** is a building on the campus of the University of California, Berkeley. It's a fairly typical mid-rise building, with a normal mix of offices, meeting rooms (classrooms), and open plan work spaces. Most of the floorspace is in the wider base in the first three floors, but there's a narrower tower that's ten stories tall. The building has a total of about 225,000 square feet of floorspace, and within 2 minutes you can go between almost any two points in the building, so that's a 2-minute Kinematic Range, **KR<sub>2</sub>**, of **225,000 square feet**.
-  
-  * On the **UC Berkeley campus**, traveling by foot, it takes about 25 minutes to walk between two buildings at opposite ends of the main campus. If it takes another 2 minutes to get from the lobby door of a building to a top-floor room, and vice-versa, that means any two rooms on the whole campus are within a 29-minute range. If the campus has about 10 million square feet of floorspace<sup>[citation needed]</sup>, then your **KR<sub>30</sub>** would be about **10 million square feet**.  
-
-  * In the **US Pentagon building**, it is possible to walk between any two points in less than seven minutes. The Pentagon has 6.6 million square feet of floorspace, so that's a **KR<sub>7</sub>** of **6.6 million square feet**.[^wiki_pentagon] 
-
-
-
-
----
 ## <a name="faq"></a>FAQ: Frequently Asked Questions
 
 
