@@ -272,30 +272,17 @@ The kinematic city **ramp-only** design:
 
 _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning and Design Competition – Xingdong New Area Urban Design International Master Competition_ [^stouhi]
 
-### Bicycles
-
-> In 1896, Susan B. Anthony said bicycling was doing "more to emancipate women than anything else in the world." [^kamiya]
-
-> "No technology holds as much promise as the humble bicycle—especially when we include its newfangled, electrified cousins—to solve the geometry problem that is getting people short distances around a big city." We don't need no flying cars. Just give us a place to ride, and watch e-bikes eat everything. [^alter]
-
-> "Nearly half of American kids walked or biked to school in 1950; today that figure is 13 percent." [^grabar]
 
 ### Freight
 
 > "urban planners historically focused on residential travel and personal behavior, failing to integrate the movement of goods into their planning." [^wenzel]
 
 
----
-
 
 ---
 
 
 ## <a name="references"></a>References
-
-[^alter]: ["6 month report: My e-bike ate my car"](https://www.treehugger.com/bikes/6-month-report-my-gazelle-e-bike-ate-my-car.html). Lloyd Alter, _TreeHugger_. 1 November 2019.
-
-[^bertaud]: _[Order without Design](https://mitpress.mit.edu/books/order-without-design): How Markets Shape Cities_, by Alain Bertaud
 
 [^bienkowski]: ["We're building the equivalent of Paris every week. That's a problem."](https://www.dailyclimate.org/building-industry-climate-change-carbon-footprint-2516418302.html). Brian Bienkowski, _The Daily Climate_. 11 Dec 2017.
 
@@ -323,13 +310,9 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 
 [^gopal]: ["Affordable Housing"](https://www.bloomberg.com/quicktake/affordable-housing). Prashant Gopal and Rob Urban, _Bloomberg_. 21 Oct 2019.
 
-[^grabar]: ["The Hyperloop and the Self-Driving Car Are Not the Future of Transportation"](https://slate.com/technology/2019/10/future-of-transportation-bus-bike-elevator.html). Henry Grabar, _Slate.com_. 30 Oct 2019.
-
 [^growth]: ["Should we build cities from scratch?"](https://www.theguardian.com/cities/2019/jul/10/should-we-build-cities-from-scratch). _The Guardian_. 10 July 2019.
 
 [^haas]: ["African countries keep building new cities to meet rapid urbanization even if people won’t live in them"](https://qz.com/africa/1740068/african-countries-keep-building-cities-to-meet-rapid-urbanization/). Astrid R.N. Haas, _International Growth Centre_. 31 October 2019.
-
-[^kamiya]: ["Sex and cycling: How bike craze aroused passions in 1890s San Francisco"](https://www.sfchronicle.com/bayarea/article/Sex-and-cycling-How-bike-craze-aroused-passions-14544576.php#photo-18459519). Gary Kamiya, _San Francisco Chronicle_. 18 Oct 2019.
 
 [^lerch]: ["Fertility Decline in Urban and Rural Areas of Developing Countries"](https://onlinelibrary.wiley.com/doi/full/10.1111/padr.12220). Mathias Lerch. 19 December 2018.
 
