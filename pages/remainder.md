@@ -82,27 +82,6 @@ A kinematic city could have a traditional city government structure, or it could
 
 > "In addition, there are higher operation and maintenance costs in taller buildings..."[^roaf] &mdash; Susan Roaf
 
-### <a name="ramp-notes"></a>Ramps vs. stairs
-
-The idea of having **no stairs** and **no elevators** sounds crazy to most people when they first hear it, because it's so different from all the normal buildings and cities that we're used to.
-
-However, if you run the numbers, and run simulations, it turns out that getting rid of elevators and stairs works out just fine. Instead of making it harder to get places, having no elevators makes it **faster** to get between any two random locations. 
-
-The kinematic city **ramp-only** design:
-* is faster and more convenient for people in wheelchairs, and people with strollers
-* is faster for everybody else too
-* works better for delivery robots
-* works better after a natural disaster
-* takes up less space in the building
-  > In the Seagram building (which has 38 floors), the area used for elevators and utility shafts occupies 31 percent of the area of a typical floor.[^bertaud]
-
-* can be built more quickly
-* is less expensive to build
-* is less expensive to operate
-* is less expensive to maintain
-* has a smaller carbon footprint
-  > "Lifts also use a large amount of energy to run. For buildings that are largely served by lifts, you can add a rough figure of 5 to 15 per cent onto building energy running costs."[^roaf] &mdash; Susan Roaf
-
 
 
 ### Population
