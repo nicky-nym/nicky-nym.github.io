@@ -62,12 +62,6 @@ A kinematic city could have a traditional city government structure, or it could
 
 
 
-### Population
-
-> "More recent data, however, reveal substantial urban‐rural fertility gaps (i.e. of one child or more per woman) that tend to be wider at more advanced stages of the fertility transition" [^lerch]
-
-> "In the full sample of countries, rural fertility is almost 20 percent higher than the urban level on average in the pre‐transitional cohorts. ... The ratio increases sharply in the first 20 transition cohorts to 40 percent, stabilizing at this level in the subsequent 10 cohorts. After 30 cohort years have elapsed since the transition onset, the average rural‐urban ratio has dropped monotonically down to 1.23 (in the 55th transition cohort)." [^lerch]
-
 ### HVAC
 
 > "The simulations show that the cooling energy demand of the analyzed building in the Greater Accra region is 113.9 kWh/m2 for the recent climate, and this increases by 31% and 50% for the projected climates for 2030 and 2050, respectively. For the analyzed building in the Ashanti region, the cooling energy demand is 104.4 kWh/m2 for the recent climate, and this increases by 6% and 15% for the 2030 and 2050 climates, respectively." [^dodoo]
@@ -91,8 +85,6 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 [^bliss]: ["Navigation Apps Changed the Politics of Traffic"](https://www.citylab.com/transportation/2019/11/future-of-transportation-traffic-navigation-apps-google-maps/601684/). Laura Bliss, _City Lab_. 12 November 2019.
 
 [^dodoo]: ["Effects of Climate Change for Thermal Comfort and Energy Performance of Residential Buildings in a Sub-Saharan African Climate"](https://www.mdpi.com/2075-5309/9/10/215). Ambrose Dodoo and Joshua Ayarkwa, _Linnaeus University_ and _Kwame Nkrumah University of Science and Technology_. 4 October 2019.
-
-[^lerch]: ["Fertility Decline in Urban and Rural Areas of Developing Countries"](https://onlinelibrary.wiley.com/doi/full/10.1111/padr.12220). Mathias Lerch. 19 December 2018.
 
 [^roaf]: ["The Sustainability of High Density"](), by Susan Roaf, Chapter 3 of ["Designing High-Density Cities"](), edited by Edward Ng.
 
