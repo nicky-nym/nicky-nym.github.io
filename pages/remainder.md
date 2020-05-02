@@ -27,18 +27,9 @@ A kinematic city could have a traditional city government structure, or it could
 
 
 
-
-  
-
 ---
 
 ## <a name="notes"></a>Notes
-
-
-### Freight
-
-> "urban planners historically focused on residential travel and personal behavior, failing to integrate the movement of goods into their planning." [^wenzel]
-
 
 
 ### HVAC
@@ -59,8 +50,6 @@ _Urban Environment Design_ (UED) Magazine's _Hebei International Urban Planning 
 [^dodoo]: ["Effects of Climate Change for Thermal Comfort and Energy Performance of Residential Buildings in a Sub-Saharan African Climate"](https://www.mdpi.com/2075-5309/9/10/215). Ambrose Dodoo and Joshua Ayarkwa, _Linnaeus University_ and _Kwame Nkrumah University of Science and Technology_. 4 October 2019.
 
 [^stouhi]: ["Winners of UED's Architecture Competition Imagine the City of the Future"](https://www.archdaily.com/927619/winners-of-ueds-architecture-competition-imagine-the-city-of-the-future). Dima Stouhi, _ArchDaily_. 1 Nov 2019.
-
-[^wenzel]: ["How the Urban Freight Lab seeks to fix the last 50 feet of shipping"](https://www.greenbiz.com/article/how-urban-freight-lab-seeks-fix-last-50-feet-shipping). Elsa Wenzel, _GreenBiz Group_. 15 October 2019.
 
 [^west]: ["The Origins of Scaling in Cities"](), by Luis Bettencourt & Geoffrey West at the Santa Fe Institute. _Science (volume 340, issue 6139, page 1438)_. 21 June 2013.
 
