@@ -137,7 +137,7 @@ h3 {
         <ul>
           <li><a href="#comparison">2nd Ave vs. Impossible Street</a></li>
           <li><a href="#intersection">Impossible intersection design</a></li>
-          <li><a href="#bike-sized">Bike-sized vehicles</a></li>freight
+          <li><a href="#bike-sized">Bike-sized vehicles</a></li>
           <li><a href="#freight">Freight</a></li>
           <li><a href="#emergency-vehicles">Emergency vehicles</a></li>
         </ul>
@@ -197,9 +197,17 @@ h3 {
     </div>
     <div>
       <details>
+        <summary><a href="#faq-etc">FAQ, etc.</a></summary>
+        <ul>
+          <li><a href="#faq">FAQ</a></li>
+          <li><a href="#rules-of-thumb">Rules of thumb</a></li>
+        </ul>
+      </details>
+    </div>
+    <div>
+      <details>
         <summary><a href="#appendixes">Appendixes</a></summary>
         <ul>
-          <li><a href="#rules-of-thumb">Rules of thumb</a></li>
           <li><a href="#effective-altruism">Effective altruism</a></li>
           <li><a href="#further-reading">Books and software</a></li>
           <li><a href="#glossary">Glossary</a></li>
@@ -340,7 +348,7 @@ The design constraints for cargo mobility have a lot in common with the design c
 
 On the bikeway streets, almost all cargo and packages would be carried in narrow, bike-sized vehicles. Cargo vehicles would include human-powered [cargo trikes](#cargo-trikes), electric-assist trikes, and fully electric [cargo vans](#cargo-vans), in both 3-wheel and 4-wheel flavors. Self-driving [delivery robots](#delivery-robots) could also work well, once that technology becomes reliable and cost-effective.
 
-Cargo trikes and cargo vans are fine for small package delivery, and for tasks involving lots of small items, such as keeping grocery stores and retail stores stocked. Even items as large as sofas and refridgerators are appropriate for small cargo vans. But, for larger items, the city needs other alternatives. The Impossible streets are intentionally designed to be large enough to accomodate objects such as standard 40-foot intermodal shipping containers, or the modular mast segments of a convential construction site tower crane. These wide loads would be the exception, not the rule, because they would take up two or three side-by-side lanes of the bikeway streets, which would inconvenience ordinary commuter traffic. If necessary, the Impossible streets are also large enough to accomodate full-sized city busses, or conventional full-sized trucks, all the way up to 18-wheeler tractor trailers.
+Cargo trikes and cargo vans are fine for small package delivery, and for tasks involving lots of small items, such as keeping grocery stores and retail stores stocked. Even items as large as sofas and refridgerators are appropriate for small cargo vans. But, for larger items, the city needs other alternatives. The Impossible streets are intentionally designed to be large enough to accomodate objects such as standard 40-foot intermodal shipping containers, or the modular mast segments of a convential construction site tower crane. These wide loads would be the exception, not the rule, because they would take up two or three side-by-side lanes of the bikeway streets, which would inconvenience ordinary commuter traffic. If necessary, the Impossible streets are also large enough to accomodate full-sized city buses, or conventional full-sized trucks, all the way up to 18-wheeler tractor trailers.
 
 
 
@@ -1215,18 +1223,52 @@ existing big cities, but those are the places where all the land is already priv
 
 
 
-<div class="hr"><a name="appendixes"></a></div>
 
-## <span class="chapter">_Appendixes_</span>
 
+
+
+
+
+
+<div class="hr"><a name="faq-etc"></a></div>
+
+## <span class="chapter">_FAQ, etc._</span>
+
+* [FAQ](#faq)
 * [Rules of thumb](#rules-of-thumb)
-* [Effective altruism](#effective-altruism)
-* [Books and software](#further-reading)
-* [Glossary](#glossary)
-* [Hypothetical locations](#hypothetical-locations)
-* [Impossible City design summary](#design-summary)
-* [Source material](#source-material)
-* [References](#references)
+
+
+
+
+
+
+
+
+
+
+<div class="hr"><a name="1"></a></div>
+
+## <a name="faq"></a><span class="chapter">FAQ: Frequently Asked Questions</span>
+
+### <a name="could-we-build"></a>Could we build a kinematic city?
+
+**Yes.** The kinematic city plans are designed with existing technology in mind, and with an eye toward simple, affordable technologies. It's about bicycles and water pipes, not about floating ocean domes and orbital towers.
+
+### <a name="could-we-transform"></a>Could we turn London or Paris into kinematic cities?
+
+**No.** Existing cities have a lot of physical infrastructure that's expensive to change. People can make incremental changes, like adding new roads or bridges, but it's not practical to change the fundamental layout of an existing city.
+
+### <a name="could-ideas-trickle-down"></a>Could kinematic ideas trickle down to existing cities? 
+
+**Yes.** Over time people in existing cities like New York and San Francisco could adopt some of the ideas in the kinematic city designs, and make their cities incrementally more kinematic, even if they can't change the fundamental layouts.
+
+### <a name="do-ideas-impact-democracy"></a>Do kinematic ideas impact democracy and governance?
+
+**No.** The kinematic city designs are politically neutral. The designs are just about transportation systems and about the physical, spatial layout of the buildings in the city.
+
+A kinematic city could have a traditional city government structure, or it could experiment with less conventional structures. That's a big topic, and one for another author. Suffice it to say, the questions of governance are largely orthogonal to the ideas presented here about the physical layout of a city, the transportation choices, etc. An authoritarian government could build a kinematic city, or a utopian libertarian collective could build a kinematic city, and they would both be kinematic cities.
+
+
 
 
 
@@ -1321,6 +1363,52 @@ TODO: important? consider moving into one of the chapters above?
 
   > City clusters already exist of course, like the Randstad in the Netherlands, which links Amsterdam, Rotterdam, The Hague, and Utrecht. The urban development around San Francisco Bay could also be considered a city cluster. What is different with the Chinese concept of cluster is their scale. The Randstad connects only 7 million people, while San Francisco Bay (including Silicon Valley) has only 6.2 million people. By contrast, the urban cluster of the Pearl River Delta already had 65 million people in 2010, larger than the entire population of the United Kingdom but concentrated on less than 10,000 square kilometers! The recent urban cluster including Beijing-Tianjin-Hebei links together more than 105 million people.[^bertaud]
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="hr"><a name="appendixes"></a></div>
+
+## <span class="chapter">_Appendixes_</span>
+
+* [Effective altruism](#effective-altruism)
+* [Books and software](#further-reading)
+* [Glossary](#glossary)
+* [Hypothetical locations](#hypothetical-locations)
+* [Impossible City design summary](#design-summary)
+* [Source material](#source-material)
+* [References](#references)
 
 
 
