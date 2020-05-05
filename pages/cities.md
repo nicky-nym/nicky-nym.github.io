@@ -1514,6 +1514,9 @@ The idea of building Impossible Cities might be worth studying as a candidate in
 * **architectural, engineering and construction (AEC)<a name="glossary:AEC"></a>**
   * the entire industry of companies and people who build structures
   
+* **build-operate-transfer (BOT) agreement<a name="glossary:BOT"></a>**
+  * an agreement where a private company or consortium builds and operates some new project or facility (such as an airport or a sewer system) for a set amount of time (such as 30 years), after which ownership of the whole facility is transferred back to the government
+
 * **building information modeling (BIM)<a name="glossary:BIM"></a>**
   * instead of old 2D paper blueprints for architectural designs, BIM uses digital models of buildings, where the models include not only the 3D geometry of the building, but also information about specific part numbers for components, costs, sustainability analysis information, etc.
   
@@ -1545,6 +1548,9 @@ The idea of building Impossible Cities might be worth studying as a candidate in
 
 * **global compact on safe, orderly and regular migration (GCM)<a name="glossary:GCM"></a>**
   * a 2018 United Nations agreement about international migration [^wiki_gcm]
+
+* **Harberger tax<a name="glossary:harberger-tax"></a>**
+  * a property tax system in which a property owner declares a self-assessed value for their own property, pays tax as a percentage of that value, and agrees to immediately sell the property to any buyer who offers the self-assessed value 
 
 * **High Line<a name="glossary:high-line"></a>**
   * an greenway park in New York City, built as a rails-to-trails conversion of a section of elevated railway, inspired by the Promenade plantée in Paris
