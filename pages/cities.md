@@ -1444,26 +1444,31 @@ TODO: important? consider moving into one of the chapters above?
 
 ## <a name="effective-altruism"></a><span class="chapter">Effective altruism</span>
 
-Effective altruism is the idea of trying to direct money and resources towards the most cost-effective interventions for improving global wellbeing.
+Effective altruism is the idea of trying to find the most cost-effective interventions for improving global wellbeing, and then directing money and resources towards those efforts. Non-profit research organizations like GiveWell<sup>([link](https://www.givewell.org/))</sup> work hard to evaluate wide arrays of possible interventions and try to find the most effective ones. Private foundations like the Gates Foundation have similar internal research departments.
 
-Non-profit research organizations like [GiveWell](https://www.givewell.org/) work hard to evaluate wide arrays of possible interventions and try to find the most effective ones. Private foundations like the Gates Foundation have similar internal research departments.
-
-The idea of building Impossible Cities might be worth studying as a candidate intervention for effective altruism. Building cities far more expensive than most philanthropic interventions, but it also has the potential for unusually large positive outcomes.
+The idea of building Impossible Cities might be worth studying as a candidate intervention for effective altruism. Building cities is far more expensive than most philanthropic interventions, but it also has the potential for a variety of simultanious large-scale positive outcomes.
 
 * **Basic housing**
-  + Housing is a basic human need. Non-profits like Habitat for Humanity focus on housing construction, while other non-profits run homeless shelters, promote "Housing First" housing, provide affordable housing & emergency housing, set up refugee camps, etc. An Impossible City project could serve as a large-scale intervention to provide basic housing to a large population, while also providing market-rate housing as well. For example, an Impossible City built on the outskirts of Dar es Salaam would serve a population where one-third of the people are malnourished and two-thirds of are living below a poverty level of $1.25 per day.
+  + Housing is a basic human need. Non-profits like Habitat for Humanity focus on housing construction. Other non-profits run homeless shelters, promote "Housing First" housing, provide affordable housing & emergency housing, set up refugee camps, etc. An Impossible City project could serve as a large-scale intervention to provide basic housing to a population in need, while also providing market-rate housing as well. For example, an Impossible City built on the outskirts of Dar es Salaam would serve a population where one-third of the people are malnourished and two-thirds of are living below a poverty level of $1.25 per day.
 
 * **Sewer & water systems**
-  + More than half the world's population lacks adquate access to clean water, toilets, and decent sanitation systems. Inadequate sanitation is estimated to kill hundreds of thousands of people per year. Organizations like the Gates Foundation are working hard on providing sanitation, and they report that every dollar spent on sanitation is estimated to provide at least five dollars in economic return. For a new Impossible City built for underserved populations, the sewer and sanitation system alone would be a significant philanthropic intervention.
+  + More than half the world's population lacks adquate access to clean water, toilets, and good sanitation systems. Inadequate sanitation is estimated to kill hundreds of thousands of people per year. Organizations like the Gates Foundation are working hard on providing sanitation, and they report that every dollar spent on sanitation is estimated to provide at least five dollars in economic return. For a new Impossible City built for underserved populations, the city's sewer and sanitation system alone would be a significant philanthropic intervention.
 
-* **Climate change intervention**
-  + For people who believe climate change is a serious problem, the Impossible City design offers a low-carbon approach to large-scale 21st century development. Building even a single, small-scale Impossible neighborhood could serve as a proof-of-concept and study model for further developements. Early funding for an initial model development might have a disproportionately high impact, in the same way that successful research & development efforts can sometimes have high impact per dollar invested.
-  
 * **Poverty intervention**
   + If the Impossible City design does prove to help reduce kinematic lag, and if a new Impossible City is seeded in a location where it will grow large, then the kinematics of the design itself should serve as a powerful anti-poverty intervention. The Impossible City construction should be slightly less expensive than traditional urban housing & transportation systems, so the kinematic benefits come essentially "for free", simply as a result of the geometry of the streets and buildings.
 
+* **Climate change intervention**
+  + The Impossible City design offers a low-carbon approach to large-scale 21st century development. Building even a single, small-scale Impossible neighborhood could serve as a proof-of-concept and study model for further developements. Early funding for an initial prototype development might have a disproportionately high impact, in the same way that successful research & development efforts can sometimes have high impact per dollar invested.
+  
 * **Disaster relief**
-  + TODO: 
+  + The Impossible City design lends itself to being built quickly, because of the simplicity of the design. If necessary, an Impossible City could be completely built and fully functional even without any traffic lights, elevators, buses, HVAC systems, windows, or central power grid. Better still would be to already have some excess capacity of half-built cities on hand before disaster strikes.
+  + In the decades to come large-scale disasters will come more frequently, as cities get bigger, weather events get more severe, and sea levels rise. The disasters will increasingly require large-scale refugee housing on short notice.  In addition to natural earthquakes and tsunamis, there will be an increasing number of climate-related disasters:
+    - wildfires, like the 2018 California fires and the 2019-2020 Australian Black summer bushfire
+    - flooding events, like the 2013 and 2016 Indian floods
+    - levee failures, like the 2005 New Orleans flood wall failures
+    - typhoons, like China's 1975 Typhoon Nina
+    - mud-slides, like Venezuela's 1999 Vargas mud-slide
+    - heat waves, like the 2003 and 2006 European heat waves
 
 * **Women's rights**
   + TODO: ...helps provide equal access to mobility, increased access to jobs and educational opportunities...  ...urban-rural education gap and urban-rural fertility gaps...
