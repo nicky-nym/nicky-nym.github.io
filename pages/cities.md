@@ -1451,7 +1451,10 @@ Non-profit research organizations like [GiveWell](https://www.givewell.org/) wor
 The idea of building Impossible Cities might be worth studying as a candidate intervention for effective altruism. Building cities far more expensive than most philanthropic interventions, but it also has the potential for unusually large positive outcomes.
 
 * **Basic housing**
-  + TODO: 
+  + Housing is a basic human need. Non-profits like Habitat for Humanity focus on housing construction, while other non-profits run homeless shelters, promote "Housing First" housing, provide affordable housing & emergency housing, set up refugee camps, etc. An Impossible City project could serve as a large-scale intervention to provide basic housing to a large population, while also providing market-rate housing as well. For example, an Impossible City built on the outskirts of Dar es Salaam would serve a population where one-third of the people are malnourished and two-thirds of are living below a poverty level of $1.25 per day.
+
+* **Sewer & water systems**
+  + More than half the world's population lacks adquate access to clean water, toilets, and decent sanitation systems. Inadequate sanitation is estimated to kill hundreds of thousands of people per year. Organizations like the Gates Foundation...
 
 * **Climate change intervention**
   + TODO: For people who believe climate change is a serious problem...
