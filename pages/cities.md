@@ -1417,11 +1417,9 @@ TODO: important? consider moving into one of the chapters above?
 
 
 
-<div class="hr"><a name="appendixes"></a></div>
+<div class="hr"><a name="effective-altruism"></a></div>
 
-<div class="hr"><a name="1"></a></div>
-
-## <a name="effective-altruism"></a><span class="chapter">Effective altruism</span>
+## <span class="chapter">Effective altruism</span>
 
 Effective altruism is the idea of trying to find the most cost-effective interventions for improving global wellbeing, and then directing money and resources towards those efforts. Non-profit research organizations like GiveWell<sup>([link](https://www.givewell.org/))</sup> work hard to evaluate wide arrays of possible interventions and try to find the most effective ones. Private foundations like the Gates Foundation have similar internal research departments.
 
@@ -1472,6 +1470,8 @@ The idea of building Impossible Cities might be worth studying as a candidate in
 
 
 
+
+<div class="hr"><a name="appendixes"></a></div>
 
 ## <span class="chapter">_Appendixes_</span>
 
