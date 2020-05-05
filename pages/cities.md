@@ -362,9 +362,15 @@ Some oversize items, such as heavy industrial equipment, may be too large to put
 
 ### <a name="emergency-vehicles"></a>Emergency vehicles
 
-```
-TODO:
-```
+The Impossible streets are intentionally designed to be large enough to accomodate ordinary ambulances and fire trucks, if necessary, although they would take up two or three side-by-side lanes of the bikeway streets. That may be necessary, for a large-scale fire or other disaster. 
+
+For day-to-day emergency response, a variety of smaller vehicles can be used. These types of vehicles are uncommon here in the United States, but are not a new invention, and are in use elsewhere in the world in places with narrow streets. Examples include 
+* motorcycle ambulances<sup>[link](https://en.wikipedia.org/wiki/Motorcycle_ambulance)</sup>
+* nontransporting emergency medical service vehicles<sup>[link](https://en.wikipedia.org/wiki/Nontransporting_EMS_vehicle)</sup>
+* compact firetrucks, like these: [Cherry Grove](http://www.unyquefiretrucks.com/Under_The_Boardwalk_files/li_cherrygrove_5-26-2dsrear.jpg), [Tropos/Panasonic](https://www.autoblog.com/2020/01/07/panasonic-tropos-motors-fire-truck-cargo-vehicles/), [SPV](https://www.spv-vehicle.com/company-news/civic-utility-truck/spv-recently-promotes-mini-changan-fire-truck-quick-attack-fire-truck-150.html), [1500L Foton](https://www.alibaba.com/product-detail/1500L-foton-mini-fire-truck_60793504463.html).
+
+
+
 
 
 
