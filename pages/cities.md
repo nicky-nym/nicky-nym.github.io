@@ -362,9 +362,17 @@ Some oversize items, such as heavy industrial equipment, may be too large to put
 
 ### <a name="emergency-vehicles"></a>Emergency vehicles
 
-The Impossible streets are intentionally designed to be large enough to accommodate ordinary ambulances and fire trucks, if necessary, although they would take up two or three side-by-side lanes of the bikeway streets. That may be necessary, for a large-scale fire or other disaster. 
+The Impossible streets are intentionally designed to be large enough to accommodate ordinary fire engines, ambulances, and other emergency vehicles. The city boulevards are painted with lane markings for narrow 6-foot lanes for bike-sized vehicles, but the boulevards themselves are always 4 lanes wide, plus shoulders. The bikeways have an unobstructed width of about 30 feet, and unobstructed height clearance of 14 feet. The entrance and exit ramps are single-lane, but have intentionally been designed to be wide enough for standard emergency vehicles. 
 
-For day-to-day emergency response, a variety of smaller vehicles can be used. These types of vehicles are uncommon here in the United States, but are not a new invention, and are in use elsewhere in the world in places with narrow streets. Examples include 
+Although traditional fire engines can use the boulevards, they may not be necessary. It may be possible for the city to have a larger number of smaller fire-fighting vehicles for different sorts of cargo:
+* tender vehicles for hauling water
+* pump engines for pumping from sources like canals
+* rescue vehicles for hauling floodlights, hydraulic rescue tools, etc.
+* hazardous materials vehicles with hazmat suits, etc.
+
+Ideally the Impossible City buildings would all be built with standpipes and fire sprinkler systems, so pump engines and tender vehicles may be less important in a kinematic city, allowing the city to instead have more ambulances, hazmat vehicles and rescue vehicles.
+
+A variety of small vehicles can be used be used for different types of emergency response. These types of vehicles are uncommon here in the United States, but are not a new invention, and are in use elsewhere in the world in places with narrow streets. Examples include 
 * motorcycle ambulances<sup>([link](https://en.wikipedia.org/wiki/Motorcycle_ambulance))</sup>
 * nontransporting emergency medical service vehicles<sup>([link](https://en.wikipedia.org/wiki/Nontransporting_EMS_vehicle))</sup>
 * compact firetrucks, like these: 
@@ -372,7 +380,6 @@ For day-to-day emergency response, a variety of smaller vehicles can be used. Th
   + [Cherry Grove](http://www.unyquefiretrucks.com/Under_The_Boardwalk_files/li_cherrygrove_5-26-2dsrear.jpg)
   + [SPV](https://www.spv-vehicle.com/company-news/civic-utility-truck/spv-recently-promotes-mini-changan-fire-truck-quick-attack-fire-truck-150.html)
   + [1500L Foton](https://www.alibaba.com/product-detail/1500L-foton-mini-fire-truck_60793504463.html).
-
 
 
 
@@ -717,7 +724,7 @@ A city should provide for a good life for the people who live in it and work in 
 
 ### <a name="freedom"></a>Freedom & independence
 
-A city design should not inadvertantly restrict people's freedoms, limit people's independence, or obstruct fair access. The Impossible design offers more:
+A city design should not inadvertently restrict people's freedoms, limit people's independence, or obstruct fair access. The Impossible design offers more:
 
 * **Freedom & independence**
   - freedom of movement for everyone in the community 
@@ -1031,7 +1038,7 @@ There would be:
 
 We know that:
 * The world is rapidly building more cities & bigger cities. (See <a href="#4">chapter 4</a>)
-* For new urban areas, we could design new 21st century transportation networks that would work far better for poeple than the default 20th century designs. (See chapters <a href="#1">1</a>, <a href="#2">2</a> & <a href="#3">3</a>)
+* For new urban areas, we could design new 21st century transportation networks that would work far better for people than the default 20th century designs. (See chapters <a href="#1">1</a>, <a href="#2">2</a> & <a href="#3">3</a>)
 
 Unfortunately, actually building cities this way is probably impossible, because of:
 * **<a href="#location">Location problems</a>**
@@ -1158,8 +1165,8 @@ Building even a small seed of a kinematic city would take a long time and lot of
 Building good urban infrastructure, including transportation infrastructure, is extremely expensive. But in a city with good transportation infrastructure, the value created by the transportation infrastructure far exceeds the cost of the infrastructure. 
 
 * **Value created**
-  * Real estate values are higher in parts of the city that are closer to transit stations, and when new tranist stations open the real estate values nearby rise. 
-  * For example, when the new 2nd Avenue subway line in New York was built, property values along the subway corrider rose by 10% relative to the rest of the Upper East Side. It is estimated that total value of all that residential and commercial real estate rose by an additional $7 billion as a result of the subway line being built.[^jaffe]
+  * Real estate values are higher in parts of the city that are closer to transit stations, and when new transit stations open the real estate values nearby rise. 
+  * For example, when the new 2nd Avenue subway line in New York was built, property values along the subway corridor rose by 10% relative to the rest of the Upper East Side. It is estimated that total value of all that residential and commercial real estate rose by an additional $7 billion as a result of the subway line being built.[^jaffe]
   * When the San Francisco Bay Area BART system built their Fremont extension, home values near the new station outpaced home values further away by a margin of about 9% to 15%, which amounted to an additional windfall of about $100,000 to $200,000 per home for all the homes within 2 miles of the new station, for an aggregate value of about $1.7 billion.
   * This is true not just for transit stations, but for any sort of access to transportation. For example, in Manhattan, corner lots are significantly more valuable than mid-block lots, and lots close proximity to Broadway also have higher values.[^manhattan]
 
@@ -1180,7 +1187,7 @@ Building good urban infrastructure, including transportation infrastructure, is 
 
 
 * **Land value capture**
-  * With "value capture" or "land value capture", the idea is to somehow set things up to recoup a big portion of the actual observed gain in land value that's created by a given investment in transporation.[^xu]<sup>,</sup>[^jaffe] Different cities around the world have tried different approaches to land value capture, including:
+  * With "value capture" or "land value capture", the idea is to somehow set things up to recoup a big portion of the actual observed gain in land value that's created by a given investment in transportation.[^xu]<sup>,</sup>[^jaffe] Different cities around the world have tried different approaches to land value capture, including:
     - simple property taxes or land value taxes (which may fail to capture much of the value created)
     - tax increment financing (TIF), in places like New York
     - leasing development rights to land, in places like Hong Kong
@@ -1195,7 +1202,7 @@ Building good urban infrastructure, including transportation infrastructure, is 
 
 * **Catch-22**
   * That crux of the problem is that the place we really need better mobility is in 
-existing big cities, but those are the places where all the land is already privately owned, it's difficult to do much land value capture, and so it's hard fund transportation infrastructure improvements. To add insult to injury, these existing big cities are also the places where transporation projects are the most expensive to do, working in tight spaces on complicated projects, with high labor costs and high real estate costs.
+existing big cities, but those are the places where all the land is already privately owned, it's difficult to do much land value capture, and so it's hard fund transportation infrastructure improvements. To add insult to injury, these existing big cities are also the places where transportation projects are the most expensive to do, working in tight spaces on complicated projects, with high labor costs and high real estate costs.
 
 
 * **Hong Kong**
@@ -1332,7 +1339,7 @@ A kinematic city could have a traditional city government structure, or it could
       * restaurants
       * variety of business services available (meaning, how long the "long tail" of the city is)
 
-  > "... it's illuminating to ask how many different types of businesses there are in a city. ... The data confirm that diversity systematically increases with poplution size. ... an extrapolation of the data strongly suggests that if we could measure diversity to the finest possible resolution it would scale logarithmically with city size."[^scale] &mdash; Geoffrey West
+  > "... it's illuminating to ask how many different types of businesses there are in a city. ... The data confirm that diversity systematically increases with population size. ... an extrapolation of the data strongly suggests that if we could measure diversity to the finest possible resolution it would scale logarithmically with city size."[^scale] &mdash; Geoffrey West
 
 ```
 TODO: label this as an example, not as observed data!
@@ -1421,21 +1428,21 @@ TODO: important? consider moving into one of the chapters above?
 
 ## <span class="chapter">Effective altruism</span>
 
-Effective altruism is the idea of trying to find the most cost-effective interventions for improving global wellbeing, and then directing money and resources towards those efforts. Non-profit research organizations like GiveWell<sup>([link](https://www.givewell.org/))</sup> work hard to evaluate wide arrays of possible interventions and try to find the most effective ones. Private foundations like the Gates Foundation have similar internal research departments.
+Effective altruism is the idea of trying to find the most cost-effective interventions for improving global well-being, and then directing money and resources towards those efforts. Non-profit research organizations like GiveWell<sup>([link](https://www.givewell.org/))</sup> work hard to evaluate wide arrays of possible interventions and try to find the most effective ones. Private foundations like the Gates Foundation have similar internal research departments.
 
-The idea of building Impossible Cities might be worth studying as a candidate intervention for effective altruism. Building cities is far more expensive than most philanthropic interventions, but it also has the potential for a variety of simultanious large-scale positive outcomes.
+The idea of building Impossible Cities might be worth studying as a candidate intervention for effective altruism. Building cities is far more expensive than most philanthropic interventions, but it also has the potential for a variety of simultaneous large-scale positive outcomes.
 
 * **Basic housing**
   + Housing is a basic human need. Non-profits like Habitat for Humanity focus on housing construction. Other non-profits run homeless shelters, promote "Housing First" housing, provide affordable housing & emergency housing, set up refugee camps, etc. An Impossible City project could serve as a large-scale intervention to provide basic housing to a population in need, while also providing market-rate housing as well. For example, an Impossible City built on the outskirts of Dar es Salaam would serve a population where one-third of the people are malnourished and two-thirds of are living below a poverty level of $1.25 per day.
 
 * **Sewer & water systems**
-  + More than half the world's population lacks adquate access to clean water, toilets, and good sanitation systems. Inadequate sanitation is estimated to kill hundreds of thousands of people per year. Organizations like the Gates Foundation are working hard on providing sanitation, and they report that every dollar spent on sanitation is estimated to provide at least five dollars in economic return. For a new Impossible City built for underserved populations, the city's sewer and sanitation system alone would be a significant philanthropic intervention.
+  + More than half the world's population lacks adequate access to clean water, toilets, and good sanitation systems. Inadequate sanitation is estimated to kill hundreds of thousands of people per year. Organizations like the Gates Foundation are working hard on providing sanitation, and they report that every dollar spent on sanitation is estimated to provide at least five dollars in economic return. For a new Impossible City built for underserved populations, the city's sewer and sanitation system alone would be a significant philanthropic intervention.
 
 * **Poverty intervention**
   + If the Impossible City design does prove to help reduce kinematic lag, and if a new Impossible City is seeded in a location where it will grow large, then the kinematics of the design itself should serve as a powerful anti-poverty intervention. The Impossible City construction should be slightly less expensive than traditional urban housing & transportation systems, so the kinematic benefits come essentially "for free", simply as a result of the geometry of the streets and buildings.
 
 * **Climate change intervention**
-  + The Impossible City design offers a low-carbon approach to large-scale 21st century development. Building even a single, small-scale Impossible neighborhood could serve as a proof-of-concept and study model for further developements. Early funding for an initial prototype development might have a disproportionately high impact, in the same way that successful research & development efforts can sometimes have high impact per dollar invested.
+  + The Impossible City design offers a low-carbon approach to large-scale 21st century development. Building even a single, small-scale Impossible neighborhood could serve as a proof-of-concept and study model for further developments. Early funding for an initial prototype development might have a disproportionately high impact, in the same way that successful research & development efforts can sometimes have high impact per dollar invested.
   
 * **Disaster relief**
   + The Impossible City design lends itself to being built quickly, because of the simplicity of the design. If necessary, an Impossible City could be completely built and fully functional even without any traffic lights, elevators, buses, HVAC systems, windows, or central power grid. Better still would be to already have some excess capacity of half-built cities on hand before disaster strikes.
@@ -1634,7 +1641,7 @@ The idea of building Impossible Cities might be worth studying as a candidate in
 
   > In the United States in 2013, commuting trips represented only 20 percent of weekday urban trips, 28 percent of vehicle kilometers traveled, and 39 percent of public transport passenger-kilometer traveled.[^bertaud]
   
-  The one-hour number seems to be surprizingly consistent across different cities in different centuries, different cultures, and different continents, regardless of the different modes of travel used to commute. The one-hour constant is believed to have held true in:
+  The one-hour number seems to be surprisingly consistent across different cities in different centuries, different cultures, and different continents, regardless of the different modes of travel used to commute. The one-hour constant is believed to have held true in:
   + Ancient Rome
   + Medieval Paris
   + Victorian London — steam train
@@ -1662,7 +1669,7 @@ The idea of building Impossible Cities might be worth studying as a candidate in
 
   * **kinematic range<sub>t=30_minutes</sub><a name="glossary:KR30"></a>** &mdash; the total amount of [occupied floor area](#glossary:occupied-floor-area) a person could possibly get to in [30 minutes](#marchetti).
 
-  * **kinematic range (KR)<a name="glossary:KR"></a>** &mdash; the total amount of [occupied floor area](#glossary:occupied-floor-area) a person could possibly get to in some fixed amount of time. KR is a measure of **mobility**, and a measure of the capactiy and efficiency of a transportation network. The KR measure serves a proxy represents the range of destinations that a person can get to. In the real world, a destination would be something like your friend's house, your dentist's office, or a library or coffee shop.
+  * **kinematic range (KR)<a name="glossary:KR"></a>** &mdash; the total amount of [occupied floor area](#glossary:occupied-floor-area) a person could possibly get to in some fixed amount of time. KR is a measure of **mobility**, and a measure of the capacity and efficiency of a transportation network. The KR measure serves a proxy represents the range of destinations that a person can get to. In the real world, a destination would be something like your friend's house, your dentist's office, or a library or coffee shop.
     * **factors:** kinematic range is a function of lots of different factors:
       * **_starting location_** &mdash; are you starting at the center of town, or out at the edge?
       * **_urban density_** &mdash; how many destinations are there per square mile?
@@ -1762,9 +1769,9 @@ Further afield, there's the Sea Ranch. It has more land area than the Stanford C
 
 There are other similar sites up the California coast, like in the Eureka area, with similar pros and cons. Or the area around the Little River Airport by Mendocino, if the State of California suddenly decided to allow development in the State Park property.
 
-The Northern California Coast is one of a number of unusual places in the world. For some sorts of development projects, it might prove to be a "goldilocks" location, with a rare collection of attributes:
+The Northern California Coast is one of a number of unusual places in the world. For some sorts of development projects, it might prove to be a "Goldilocks" location, with a rare collection of attributes:
 * coastal location that could have sea ports
-* within a couple hundred miles of the established, thriving, high-GDP urban agglomeration (the San Franciso Bay Area), which has significant unmet demand for housing, office space, and manufacturing space
+* within a couple hundred miles of the established, thriving, high-GDP urban agglomeration (the San Francisco Bay Area), which has significant unmet demand for housing, office space, and manufacturing space
 * low population density, with large, empty counties that average just a few dozen people per square mile across thousands of square miles
 * low land prices
 * enjoys a moderate, Mediterranean climate (no need for air conditioning, only mild needs for heating, and no need to protect plumbing from winter freezes)
@@ -1858,7 +1865,7 @@ Instead, the design has:
       * Some people may choose to travel in pedicabs or other small vehicles that have a human driver or are self-driving.
     * Innovation is NOT REQUIRED
       * A kinematic city could be built today using off-the-shelf bikes and other vehicles purchased from amazon.com.
-    * Innovation IS POSSIBLE &mdash; a kinematic city can incorporate new products as they emerge on the market, sush as
+    * Innovation IS POSSIBLE &mdash; a kinematic city can incorporate new products as they emerge on the market, such as
       * new models of electric bikes, scooters, etc.
       * scooters and bicycles that can autonomously reposition themselves from where they are left to where they are needed. (Companies like Tortoise and Uber are working on autonomous scooters.[^dickey])
       * small vehicles that are fully self-driving, like self-driving wheelchairs, go-karts, or other single-person vehicles
@@ -1962,19 +1969,6 @@ Instead, it would have:
   * **underground telephone lines**
 
 
-#### Innovation NOT REQUIRED for emergency response
-
-The city boulevards are wide enough to accommodate standard fire engines, ambulances, and other emergency vehicles. The city boulevards are painted with lane markings for narrow 5-foot lanes for bike-sized vehicles, but the boulevards themselves are always 4 lanes wide, plus shoulders. The bikeways have an unobstructed width of about 30 feet, and unobstructed height clearance of 14 feet. The entrance and exit ramps are single-lane, but are still wide enough for standard emergency vehicles. 
-
-#### Innovation IS POSSIBLE for emergency response
-
-Although traditional fire engines can use the boulevards, they may not be necessary. It may be possible for the city to have a larger number of smaller fire-fighting vehicles for different sorts of cargos:
-* tender vehicles for hauling water
-* pump engines for pumping from sources like canals
-* rescue vehicles for hauling floodlights, hydraulic rescue tools, etc.
-* hazardous materials vehicles with hazmat suits, etc.
-
-Ideally the kinematic city buildings would all be built with standpipes and fire sprinkler systems, so pump engines and tender vehicles may be less important in a kinematic city, allowing the city to instead have more ambulances, hazmat vehicles and rescue vehicles.
 
 
 
