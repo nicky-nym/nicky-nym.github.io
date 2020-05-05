@@ -1454,13 +1454,13 @@ The idea of building Impossible Cities might be worth studying as a candidate in
   + Housing is a basic human need. Non-profits like Habitat for Humanity focus on housing construction, while other non-profits run homeless shelters, promote "Housing First" housing, provide affordable housing & emergency housing, set up refugee camps, etc. An Impossible City project could serve as a large-scale intervention to provide basic housing to a large population, while also providing market-rate housing as well. For example, an Impossible City built on the outskirts of Dar es Salaam would serve a population where one-third of the people are malnourished and two-thirds of are living below a poverty level of $1.25 per day.
 
 * **Sewer & water systems**
-  + More than half the world's population lacks adquate access to clean water, toilets, and decent sanitation systems. Inadequate sanitation is estimated to kill hundreds of thousands of people per year. Organizations like the Gates Foundation...
+  + More than half the world's population lacks adquate access to clean water, toilets, and decent sanitation systems. Inadequate sanitation is estimated to kill hundreds of thousands of people per year. Organizations like the Gates Foundation are working hard on providing sanitation, and they report that every dollar spent on sanitation is estimated to provide at least five dollars in economic return. For a new Impossible City built for underserved populations, the sewer and sanitation system alone would be a significant philanthropic intervention.
 
 * **Climate change intervention**
-  + TODO: For people who believe climate change is a serious problem...
-
+  + For people who believe climate change is a serious problem, the Impossible City design offers a low-carbon approach to large-scale 21st century development. Building even a single, small-scale Impossible neighborhood could serve as a proof-of-concept and study model for further developements. Early funding for an initial model development might have a disproportionately high impact, in the same way that successful research & development efforts can sometimes have high impact per dollar invested.
+  
 * **Poverty intervention**
-  + TODO: 
+  + If the Impossible City design does prove to help reduce kinematic lag, and if a new Impossible City is seeded in a location where it will grow large, then the kinematics of the design itself should serve as a powerful anti-poverty intervention. The Impossible City construction should be slightly less expensive than traditional urban housing & transportation systems, so the kinematic benefits come essentially "for free", simply as a result of the geometry of the streets and buildings.
 
 * **Disaster relief**
   + TODO: 
