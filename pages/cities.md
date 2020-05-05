@@ -201,6 +201,7 @@ h3 {
         <ul>
           <li><a href="#faq">FAQ</a></li>
           <li><a href="#rules-of-thumb">Rules of thumb</a></li>
+          <li><a href="#effective-altruism">Effective altruism</a></li>
         </ul>
       </details>
     </div>
@@ -208,7 +209,6 @@ h3 {
       <details>
         <summary><a href="#appendixes">Appendixes</a></summary>
         <ul>
-          <li><a href="#effective-altruism">Effective altruism</a></li>
           <li><a href="#further-reading">Books and software</a></li>
           <li><a href="#glossary">Glossary</a></li>
           <li><a href="#hypothetical-locations">Hypothetical locations</a></li>
@@ -1254,6 +1254,7 @@ existing big cities, but those are the places where all the land is already priv
 
 * **[FAQ](#faq)**
 * **[Rules of thumb](#rules-of-thumb)**
+* **[Effective altruism](#effective-altruism)**
 
 
 
@@ -1418,28 +1419,6 @@ TODO: important? consider moving into one of the chapters above?
 
 <div class="hr"><a name="appendixes"></a></div>
 
-## <span class="chapter">_Appendixes_</span>
-
-* **[Effective altruism](#effective-altruism)**
-* **[Books and software](#further-reading)**
-* **[Glossary](#glossary)**
-* **[Hypothetical locations](#hypothetical-locations)**
-* **[Impossible City design summary](#design-summary)**
-* **[Source material](#source-material)**
-* **[References](#references)**
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div class="hr"><a name="1"></a></div>
 
 ## <a name="effective-altruism"></a><span class="chapter">Effective altruism</span>
@@ -1470,17 +1449,39 @@ The idea of building Impossible Cities might be worth studying as a candidate in
     - mud-slides, like Venezuela's 1999 Vargas mud-slide
     - heat waves, like the 2003 and 2006 European heat waves
 
+* **Education**
+  + There are significant urban-vs-rural disparities in the quality of education that kids receive. Non-profits and governments try to address that problem as best they can, by, for example, incentivising teachers to move to rural villages. But that only goes so far. Rural kids will still, on average, be further away from a school, have fewer school & class choices, and have less exposure to large pool of educated, literate adults working in a variety of professions (for example: doctors, nurses, clergy, mechanics, and engineers).
+  + By making urban housing more affordable, the Impossible City design would help enable more people to move from rural to urban settings, and result in more kids having the advantages and opportunities of an urban environment.
+  
+  provide equal access to mobility, increased access to jobs and educational opportunities...  ...urban-rural education gap and urban-rural fertility gaps...
+
 * **Women's rights**
-  + TODO: ...helps provide equal access to mobility, increased access to jobs and educational opportunities...  ...urban-rural education gap and urban-rural fertility gaps...
-
+  + There are also significant urban-vs-rural disparities in women's rights. The UN reports that, with few exceptions, rural women fare worse than urban women for each of the Millennium Development Goal (MDG) indicators. Women and girls in urban settings have more access to education, health care, and family planning services, and more access to jobs and support services.
+  + The Impossible City design goes a step further than conventional cities, by decreasing barriers to mobility. There's no silver bullet for preventing sexual assault and harassment, but the Impossible City design can enable people, including women & girls, to travel through a significantly larger chunk of city without having to wait at night at bus stops, walk through subway tunnels, or ride in taxis or Uber cars. The Impossible City design helps provide equal access to mobility and kinematic range, which in turn helps provide equal access to all the opportunities that fall within that kinematic range.
+  
 * **Family planning intervention**
-  + TODO: For people who believe overpopulation is a serious problem...
+  + There are significant urban-vs-rural disparities in women's ability to choose how many children to have. Across a range of countries, rural fertility levels are significantly higher than urban levels. Part of the urban-rural fertility gap can be attributed to demographic differences, for things like income levels and education levels. But even after adjusting for demographic differences, a significant portion of the fertility gap appears to be attributable to the setting itself, urban vs. rural. Rural fertility is almost 20 percent higher than urban fertility, for matched cohorts.[^lerch]
 
 
 
-> "More recent data, however, reveal substantial urban‐rural fertility gaps (i.e. of one child or more per woman) that tend to be wider at more advanced stages of the fertility transition" [^lerch]
 
-> "In the full sample of countries, rural fertility is almost 20 percent higher than the urban level on average in the pre‐transitional cohorts. ... The ratio increases sharply in the first 20 transition cohorts to 40 percent, stabilizing at this level in the subsequent 10 cohorts. After 30 cohort years have elapsed since the transition onset, the average rural‐urban ratio has dropped monotonically down to 1.23 (in the 55th transition cohort)." [^lerch]
+
+
+
+
+
+
+
+
+## <span class="chapter">_Appendixes_</span>
+
+* **[Books and software](#further-reading)**
+* **[Glossary](#glossary)**
+* **[Hypothetical locations](#hypothetical-locations)**
+* **[Impossible City design summary](#design-summary)**
+* **[Source material](#source-material)**
+* **[References](#references)**
+
 
 
 
@@ -2498,6 +2499,11 @@ There are established public-sector mechanisms for funding development projects,
 
 
 ## <span class="chapter">Source material, additional</span>
+
+
+> "More recent data, however, reveal substantial urban‐rural fertility gaps (i.e. of one child or more per woman) that tend to be wider at more advanced stages of the fertility transition" [^lerch]
+
+> "In the full sample of countries, rural fertility is almost 20 percent higher than the urban level on average in the pre‐transitional cohorts. ... The ratio increases sharply in the first 20 transition cohorts to 40 percent, stabilizing at this level in the subsequent 10 cohorts. After 30 cohort years have elapsed since the transition onset, the average rural‐urban ratio has dropped monotonically down to 1.23 (in the 55th transition cohort)." [^lerch]
 
   > "Double the size of a city and on average you'll find twice as many businesses. The proportionality constant is 21.6, meaning that there is approximately one establishment for about every 22 people in a city, regardless of the city size. Or to put it slightly differently, on average a new workplace is created each time the population of a city increases by just 22 people. ... on average, there are only about 8 employees for every establishment, again regardless of the size of city."[^scale] &mdash; Geoffrey West
 
