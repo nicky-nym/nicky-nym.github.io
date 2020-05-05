@@ -348,8 +348,16 @@ The design constraints for cargo mobility have a lot in common with the design c
 
 On the bikeway streets, almost all cargo and packages would be carried in narrow, bike-sized vehicles. Cargo vehicles would include human-powered [cargo trikes](#cargo-trikes), electric-assist trikes, and fully electric [cargo vans](#cargo-vans), in both 3-wheel and 4-wheel flavors. Self-driving [delivery robots](#delivery-robots) could also work well, once that technology becomes reliable and cost-effective.
 
-Cargo trikes and cargo vans are fine for small package delivery, and for tasks involving lots of small items, such as keeping grocery stores and retail stores stocked. Even items as large as sofas and refridgerators are appropriate for small cargo vans. But, for larger items, the city needs other alternatives. The Impossible streets are intentionally designed to be large enough to accomodate objects such as standard 40-foot intermodal shipping containers, or the modular mast segments of a convential construction site tower crane. These wide loads would be the exception, not the rule, because they would take up two or three side-by-side lanes of the bikeway streets, which would inconvenience ordinary commuter traffic. If necessary, the Impossible streets are also large enough to accomodate full-sized city buses, or conventional full-sized trucks, all the way up to 18-wheeler tractor trailers.
+Cargo trikes and cargo vans are fine for small package delivery, and for tasks involving lots of small items, such as keeping grocery stores and retail stores stocked. Even items as large as sofas and refridgerators are appropriate for small cargo vans. 
 
+For larger items, the city needs other alternatives. The Impossible streets are intentionally designed to be large enough to accomodate objects such as standard 40-foot intermodal shipping containers, or the modular mast segments of a convential construction site tower crane <sup>(see [video](https://www.youtube.com/watch?v=vx5Qt7_ECEE))</sup>. These wide loads would be the exception, not the rule, because they would take up two or three side-by-side lanes of the bikeway streets, which would inconvenience ordinary commuter traffic. If necessary, the bikeways are also large enough for conventional buses, panel vans, and box trucks.
+
+  |---
+  |  |  | 
+  |:-:|:-|
+  | **shipping container** | <a href="https://commons.wikimedia.org/wiki/File:Container_01_KMJ.jpg"><img src="../images/thumbnails/Container_01_KMJ.jpg" alt="shipping container" height="100"/></a><br><span class="minor">(Copyright [KMJ](https://de.wikipedia.org/wiki/Benutzer:KMJ), licensesd under the [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) license and GNU Free Documentation License.)</span>
+
+Some oversize items, such as heavy industrial equipment, may be too large to put in shipping containers or box trucks. These items can be transported on ground surface right-of-ways, rather than on the elevated bikeways. The Impossible City design has fewer ground surface right-of-ways, at a wider spacing, and even the ground surface right-of-ways will have a 16' vertical clearance, identical to the U.S. Interstate Highway standard 16' clearance. 
 
 
 ### <a name="emergency-vehicles"></a>Emergency vehicles
