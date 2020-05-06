@@ -344,7 +344,7 @@ The <a href="#1">Impossible street design</a> replaces cars & buses with a wide 
 
 The Impossible City design strives for good urban mobility not just for people, but also for freight shipments and package delivery.
 
-The design constraints for cargo mobility have a lot in common with the design constraints for human mobility, and there's considerable overlap in terms what good solutions look like. In the Impossible City design, most packages and cargo would travel on the same elevated bikeway streets that commuters use. 
+The design constraints for cargo mobility have a lot in common with the design constraints for human mobility, and there's considerable overlap in terms of what good solutions look like. In the Impossible City design, most packages and cargo would travel on the same elevated bikeway streets that commuters use. 
 
 On the bikeway streets, almost all cargo and packages would be carried in narrow, bike-sized vehicles. Cargo vehicles would include human-powered [cargo trikes](#cargo-trikes), electric-assist trikes, and fully electric [cargo vans](#cargo-vans), in both 3-wheel and 4-wheel flavors. Self-driving [delivery robots](#delivery-robots) could also work well, once that technology becomes reliable and cost-effective.
 
@@ -372,7 +372,7 @@ Although traditional fire engines can use the boulevards, they may not be necess
 
 Ideally the Impossible City buildings would all be built with standpipes and fire sprinkler systems, so pump engines and tender vehicles may be less important in a kinematic city, allowing the city to instead have more ambulances, hazmat vehicles and rescue vehicles.
 
-A variety of small vehicles can be used be used for different types of emergency response. These types of vehicles are uncommon here in the United States, but are not a new invention, and are in use elsewhere in the world in places with narrow streets. Examples include 
+A variety of small vehicles can be used for different types of emergency response. These types of vehicles are uncommon here in the United States, but are not a new invention, and are in use elsewhere in the world in places with narrow streets. Examples include: 
 * motorcycle ambulances<sup>([link](https://en.wikipedia.org/wiki/Motorcycle_ambulance))</sup>
 * nontransporting emergency medical service vehicles<sup>([link](https://en.wikipedia.org/wiki/Nontransporting_EMS_vehicle))</sup>
 * compact firetrucks, like these: 
@@ -1433,7 +1433,7 @@ Effective altruism is the idea of trying to find the most cost-effective interve
 The idea of building Impossible Cities might be worth studying as a candidate intervention for effective altruism. Building cities is far more expensive than most philanthropic interventions, but it also has the potential for a variety of simultaneous large-scale positive outcomes.
 
 * **Basic housing**
-  + Housing is a basic human need. Non-profits like Habitat for Humanity focus on housing construction. Other non-profits run homeless shelters, promote "Housing First" housing, provide affordable housing & emergency housing, set up refugee camps, etc. An Impossible City project could serve as a large-scale intervention to provide basic housing to a population in need, while also providing market-rate housing as well. For example, an Impossible City built on the outskirts of Dar es Salaam would serve a population where one-third of the people are malnourished and two-thirds of are living below a poverty level of $1.25 per day.
+  + Housing is a basic human need. Non-profits like Habitat for Humanity focus on housing construction. Other non-profits run homeless shelters, promote "Housing First" housing, provide affordable housing & emergency housing, set up refugee camps, etc. An Impossible City built on the outskirts of Dar es Salaam, for example, would be in the midst of a population where one-third of the people are malnourished and two-thirds of are living below a poverty level of $1.25 per day. An Impossible City project like this could serve as a large-scale intervention to provide basic housing to a population in need, while also providing a large amount of market-rate housing. 
 
 * **Sewer & water systems**
   + More than half the world's population lacks adequate access to clean water, toilets, and good sanitation systems. Inadequate sanitation is estimated to kill hundreds of thousands of people per year. Organizations like the Gates Foundation are working hard on providing sanitation, and they report that every dollar spent on sanitation is estimated to provide at least five dollars in economic return. For a new Impossible City built for underserved populations, the city's sewer and sanitation system alone would be a significant philanthropic intervention.
@@ -1447,7 +1447,7 @@ The idea of building Impossible Cities might be worth studying as a candidate in
 * **Disaster relief**
   + The Impossible City design lends itself to being built quickly, because of the simplicity of the design. If necessary, an Impossible City could be completely built and fully functional even without any traffic lights, elevators, buses, HVAC systems, windows, or central power grid. Better still would be to already have some excess capacity of half-built cities on hand before disaster strikes.
   + In the decades to come large-scale disasters will come more frequently, as cities get bigger, weather events get more severe, and sea levels rise. The disasters will increasingly require large-scale refugee housing on short notice.  In addition to natural earthquakes and tsunamis, there will be an increasing number of climate-related disasters:
-    - wildfires, like the 2018 California fires and the 2019-2020 Australian Black summer bushfire
+    - wildfires, like the 2018 California fires and the 2019-2020 Australian Black Summer bushfires
     - flooding events, like the 2013 and 2016 Indian floods
     - levee failures, like the 2005 New Orleans flood wall failures
     - typhoons, like China's 1975 Typhoon Nina
@@ -1457,15 +1457,14 @@ The idea of building Impossible Cities might be worth studying as a candidate in
 * **Education**
   + There are significant urban-vs-rural disparities in the quality of education that kids receive. Non-profits and governments try to address that problem as best they can, by, for example, incentivising teachers to move to rural villages. But that only goes so far. Rural kids will still, on average, be further away from a school, have fewer school & class choices, and have less exposure to large pool of educated, literate adults working in a variety of professions (for example: doctors, nurses, clergy, mechanics, and engineers).
   + By making urban housing more affordable, the Impossible City design would help enable more people to move from rural to urban settings, and result in more kids having the advantages and opportunities of an urban environment.
-  
-  provide equal access to mobility, increased access to jobs and educational opportunities...  ...urban-rural education gap and urban-rural fertility gaps...
 
 * **Women's rights**
   + There are also significant urban-vs-rural disparities in women's rights. The UN reports that, with few exceptions, rural women fare worse than urban women for each of the Millennium Development Goal (MDG) indicators. Women and girls in urban settings have more access to education, health care, and family planning services, and more access to jobs and support services.
   + The Impossible City design goes a step further than conventional cities, by decreasing barriers to mobility. There's no silver bullet for preventing sexual assault and harassment, but the Impossible City design can enable people, including women & girls, to travel through a significantly larger chunk of city without having to wait at night at bus stops, walk through subway tunnels, or ride in taxis or Uber cars. The Impossible City design helps provide equal access to mobility and kinematic range, which in turn helps provide equal access to all the opportunities that fall within that kinematic range.
   
 * **Family planning intervention**
-  + There are significant urban-vs-rural disparities in women's ability to choose how many children to have. Across a range of countries, rural fertility levels are significantly higher than urban levels. Part of the urban-rural fertility gap can be attributed to demographic differences, for things like income levels and education levels. But even after adjusting for demographic differences, a significant portion of the fertility gap appears to be attributable to the setting itself, urban vs. rural. Rural fertility is almost 20 percent higher than urban fertility, for matched cohorts.[^lerch]
+  + There are significant urban-vs-rural disparities in women's ability to choose how many children to have. Across a range of countries, rural fertility levels are significantly higher than urban levels. Part of the urban-rural fertility gap can be attributed to demographic differences in things like income levels and education levels. But even after adjusting for demographic differences, a significant portion of the fertility gap appears to be attributable to the setting itself, urban vs. rural. Rural fertility is almost 20 percent higher than urban fertility, for matched cohorts.[^lerch]
+  + An Impossible City project would add to the supply of urban space, help meet unmet demand for urban housing, and by accelerating the ongoing urban-rural demographic transition, would help provide more individual choice in family planning decisions while also helping to reduce the population pressure that we collectively are putting on the planet, as the global human population swells from the current 7.8 billion up to something like 9.7 or 9.8 billion by 2050.
 
 
 
