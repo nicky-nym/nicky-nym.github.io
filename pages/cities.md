@@ -1234,7 +1234,7 @@ existing big cities, but those are the places where all the land is already priv
 | **[Network effect problems](#network-effect)**  | | <object width="30" height="40" data="../favicon.svg"></object> 
 | **[Cost problems](#cost)**  | | <object width="30" height="40" data="../favicon.svg"></object> 
 | **[Bootstrapping problems](#bootstrapping)**  | | <object width="30" height="40" data="../favicon.svg"></object> 
-| **[Land value capture problems](#land-value-capture)**  | | <object width="30" height="40" data="../favicon.svg"></object> 
+| **[Land value capture problems](#land-value-capture-problems)**  | | <object width="30" height="40" data="../favicon.svg"></object> 
 |---
 
 
