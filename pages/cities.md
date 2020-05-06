@@ -1109,11 +1109,11 @@ Constructing even small buildings is expensive. Constructing entire neighborhood
 
 * **Low cost** vs. **high cost** locations
   * An Impossible City could be built in a high-cost location, such as California, or in a lower-cost location in a higher-growth area in India or Africa, like somewhere near the new Bagamoyo port and special economic zone, near Dar es Salaam, Tanzania. Starting in a lower-cost location is almost certainly a more promising approach, but it means that the benefits will be correspondingly lower. A 15% kinematic increase in wages & GDP is less dramatic if the wages & GDP were low to begin with, even if higher population growth and GDP per capita growth is expected.
-  * In a place like San Francisco or New York, average construction costs are about $350 per square foot, so new apartments can cost over $400,000 per unit to build.[^li]<sup>,</sup>[^reid]
-  * Even in the lowest-income countries, where construction labor is least expensive, the basic costs of steel and concrete amount to about $50 per square foot, so even a very small single-room apartment can cost $5,000 to $10,000 in construction materials alone.[^bertaud]
+  * In a place like San Francisco or New York, average construction costs are about $350 per square foot. That means, for example, that new apartments can cost over $400,000 per unit to build.[^li]<sup>,</sup>[^reid]
+  * Even in the lowest-income countries, where construction labor is least expensive, the basic costs of steel and concrete amount to about $50 per square foot. That means even a very small single-room apartment can cost $5,000 to $10,000 in construction materials alone.[^bertaud]
 * **Coordinated funding** vs. **parallel funding**
-  * Real estate development projects have traditionally happened on the scale of one building at a time, or one small housing complex or office park at a time. A booming city may have hundreds or thousands of building projects going on in parallel, each with their own different land owner, general contractor, bank loan, and prospective tenant, and each with their own zoning and planning department approval. That arrangement lowers the bar for any single project, and enables lots of projects to move forward simultaneously, each at their own pace, without needing to coordinate tens of billions of dollars of funding and spending. Each project can be tuned to the needs of the particular parties involved, resulting a vibrant diversity of approaches and results, rather than the less successful giant mono-culture developments sometimes found in planned economies.
-  * In recent decades, the largest development projects in the world have been growing larger. Projects on the scale of $10 to $20 billion are now fairly common. Some of those are transportation infrastructure projects, such as the Chunnel, the Gotthard Base Tunnel, the Riyadh Metro, and the New York 2nd Avenue subway project. Others are more focused on creating large amounts of leasable square footage, such as Masdar City, or the Hudson Yards project in New York. However, when a single project has a $20 billion price tag, funding is still typically be coordinated from multiple sources, usually with significant public funding in the mix. Notable exceptions are privately funded projects like the Apple Park campus in Cupertino, at $5 billion, or the City Center project in Las Vegas, at $11 billion, the largest privately funded construction project in the history of the United States.[^wiki_citycenter] Any privately funded new city project would almost certainly need to have initial completion costs of no more than $10 or $20 billion.
+  * Real estate development projects have traditionally happened on the scale of one building at a time, or one small housing complex or office park at a time. A booming city may have hundreds or thousands of building projects going on in parallel, each with their own different land owner, general contractor, bank loan, and prospective tenant, and each with their own zoning and planning department approval. That arrangement lowers the bar for any single project, and enables lots of projects to move forward simultaneously, each at their own pace, without needing to coordinate tens of billions of dollars of funding and spending. Each project can be tuned to the needs of the particular parties involved, resulting a vibrant diversity of approaches and results, rather than the less successful giant mono-culture developments sometimes found in planned economies. For an Impossible City project to succeed, it would be necessary to try to let as many small projects as possible play out in parallel, but that requires first establishing a coordinated overall system that establishes a framework for zoning, planning, property ownership, infrastructure development, etc. 
+  * In recent decades, the largest development projects in the world have been growing larger. Projects on the scale of $10 to $20 billion are now fairly common. Some of those are transportation infrastructure projects, such as the Chunnel, the Gotthard Base Tunnel, the Riyadh Metro, and the New York 2nd Avenue subway project. Others are more focused on creating large amounts of leasable square footage, such as Masdar City, or the Hudson Yards project in New York. However, when a single project has a $20 billion price tag, funding is still typically coordinated from multiple sources, usually with significant public funding in the mix. Notable exceptions are privately funded projects like the Apple Park campus in Cupertino, at $5 billion, or the City Center project in Las Vegas, at $11 billion, the largest privately funded construction project in the history of the United States.[^wiki_citycenter] Any privately funded new city project would almost certainly need to have initial completion costs of no more than $10 or $20 billion.
 * **Upfront costs** vs. **ongoing costs**
   * Getting a new city started would be more feasible if it were possible to minimize the upfront costs, so that substantial costs only start to occur later, once people have already moved in, value is being created, and revenue opportunities are available. Unfortunately, the Impossible City design doesn't lend itself to minimizing upfront costs. Because of the [network effect](#network-effect) problems, there's not much incentive to try starting a small project; a more promising approach would be to try to scale up as quickly as possible, but that would require raising funds from speculative investors, rather than funding growth on revenue from the value created.
 
@@ -1182,8 +1182,8 @@ Building good urban infrastructure, including transportation infrastructure, is 
 
 
 * **Privatized gains and socialized costs**
-  * Unfortunately, the problem is, the cost of the transportation infrastructure development is generally paid by governments, using public funds, while the value create is harvested by private property owners. This is similar to the problem of "privatized gains and socialized losses". As a result, governments generally can't afford to invest as much in transportation infrastructure as it would make sense to. Because of the disconnect between the investment costs and the return on investment, cities end up under-investing in mobility and kinematic range.
-  * The solution to this underinvestment problem is to structure the financial system to better connect the investment costs with the return on investment. This is not a new idea. For example, the **Georgism** movement dates back to the 1870s, when Henry George's wrote his best-selling _Progress and Poverty_. One of the central ideas of Georgism is to tax land value, rather than tax labor.
+  * Unfortunately, the cost of the transportation infrastructure development is generally paid by governments, using public funds, while the value create is harvested by private property owners. This is similar to the problem of "privatized gains and socialized losses". As a result, governments generally can't afford to invest as much in transportation infrastructure as it would make sense to. Because of the disconnect between the investment costs and the return on investment, cities end up under-investing in mobility and kinematic range.
+  * The solution to this underinvestment problem is to structure the financial system to better connect the investment costs with the return on investment. This is not a new idea. For example, the **Georgism** movement dates back to the 1870s, when Henry George wrote his best-selling _Progress and Poverty_. One of the central ideas of Georgism is to tax land value, rather than tax labor.
 
 
 * **Land value capture**
@@ -1223,19 +1223,19 @@ existing big cities, but those are the places where all the land is already priv
 
 
 
-### <a name="summary"></a>Summary
+### <a name="summary"></a>Possible vs. Impossible
 
-  |---
-  | Possible | Impossible<br>Problems | 
-  |:-:|:-:|:-
-  | <object width="30" data="../svg/logos/checkmark.svg"></object> | | **Vehicle technology (existing)**
-  | <object width="30" data="../svg/logos/checkmark.svg"></object> | | **Construction technology (existing)**
-  | | <object width="30" height="40" data="../favicon.svg"></object> | **[Location problems](#location)**
-  | | <object width="30" height="40" data="../favicon.svg"></object> | **[Network effect problems](#network-effect)**
-  | | <object width="30" height="40" data="../favicon.svg"></object> | **[Cost problems](#cost)**
-  | | <object width="30" height="40" data="../favicon.svg"></object> | **[Bootstrapping problems](#bootstrapping)**
-  | | <object width="30" height="40" data="../favicon.svg"></object> | **[Land value capture problems](#land-value-capture)**
-  |---
+|---
+| | Possible | Impossible | 
+|:-:|:-:|:-:
+| **Vehicles needed**<br>(existing) | <object width="30" data="../svg/logos/checkmark.svg"></object> | 
+| **Construction technology**<br>(existing) | <object width="30" data="../svg/logos/checkmark.svg"></object> | 
+| **[Location problems](#location)**  | | <object width="30" height="40" data="../favicon.svg"></object> 
+| **[Network effect problems](#network-effect)**  | | <object width="30" height="40" data="../favicon.svg"></object> 
+| **[Cost problems](#cost)**  | | <object width="30" height="40" data="../favicon.svg"></object> 
+| **[Bootstrapping problems](#bootstrapping)**  | | <object width="30" height="40" data="../favicon.svg"></object> 
+| **[Land value capture problems](#land-value-capture)**  | | <object width="30" height="40" data="../favicon.svg"></object> 
+|---
 
 
 
