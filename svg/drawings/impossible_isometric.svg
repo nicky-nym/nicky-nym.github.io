@@ -697,12 +697,14 @@
   <use id="eastbound_tuk_tuk_1" href="#tuk_tuk_side" transform="translate(64,140) scale(-1,1) skewY(-30)"/>
   <use id="eastbound_bike_2" href="#bike_side" transform="translate(58,143) scale(-1,1) skewY(-30)"/>
   <use id="eastbound_bike_3" href="#bike_side" transform="translate(52,147) scale(-1,1) skewY(-30)"/>
-  <use id="eastbound_bike_4" href="#bike_side" transform="translate(46,151) scale(-1,1) skewY(-30)"/>
+  <!--
+    <use id="eastbound_bike_4" href="#bike_side" transform="translate(46,151) scale(-1,1) skewY(-30)"/>
+  -->
 
   <use id="eastbound_motor_scooter_2" href="#motor_scooter_side" transform="translate(58,143) scale(-1,1) skewY(-30)"/>
   <use id="eastbound_robot_cart_3" href="#robot_cart" transform="translate(52,147) scale(-1,1) skewY(-30)"/>
   <use id="eastbound_robot_pod_4" href="#robot_pod" transform="translate(46,151) scale(-1,1) skewY(-30)"/>
-   <use id="eastbound_r2d2_4" href="#r2d2" transform="translate(52,147) scale(-1,1) skewY(-30)"/>
+   <use id="eastbound_r2d2_4" href="#r2d2" transform="translate(46,151) scale(-1,1) skewY(-30)"/>
  <g id="eastbound_kick_scooter_4">
     <use href="#kick_scooter_side" transform="translate(46,151) scale(-1,1) skewY(-30)"/>
     <use href="../items/people/person_reaching.svg#1px:1ft" 
