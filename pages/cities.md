@@ -1522,6 +1522,10 @@ The idea of building Impossible Cities might be worth studying as a candidate in
 
 ### Software Tools
 
+* [Brookings: metropolitan area "nearby jobs" maps](https://c24215cec6c97b637db6-9c0895f07c3474f6636f95b6bf3db172.ssl.cf1.rackcdn.com/framed/2015/jobproximity-110.html): An interactive web page with maps showing heat-maps of the number of nearby jobs in different United States metropolitan areas. See also: ["The growing distance between people and jobs in metropolitan America"](https://www.brookings.edu/research/the-growing-distance-between-people-and-jobs-in-metropolitan-america/).
+
+* [OnTheMap](https://onthemap.ces.census.gov/): An interactive web page with maps showing information about workplaces, jobs, and commute distances for any the United States city, county, census track, or user-defined area.
+
 * [Sidewalk Widths NCY](https://www.sidewalkwidths.nyc/): An interactive web page with a map showing the width of the sidewalk of each city block in New York.
 
 * [Streetmix](https://streetmix.net/): An interactive web page where you can design and redesign different street layouts, making different choices for street & lane widths, lane-use types, sidewalks, parking, etc.
