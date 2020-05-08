@@ -653,9 +653,8 @@ There's no point in designing a new urban development that is too expensive to b
     * no automobiles (at $20,000+ each)
     * no multi-story parking garage structures (at $20,000 per parking space)[^carl_walker]
     * no sprawling suburban road network
-  - The design lends itself to mid-rise density neighborhoods. Mid-rise housing, for example in buildings with "4-over-1" podium construction, is less expensive to build than skyscrapers, and less expensive than even ten-story buildings with concrete service cores. Mid-rise construction also has lower initial embodied energy per square foot, and lower ongoing operating costs. Mid-rise housing is also less expensive than detached single family housing. [^roaf]
+  - The design lends itself to mid-rise density neighborhoods. Mid-rise housing, for example in buildings with "4-over-1" podium construction, is less expensive to build than skyscrapers, and less expensive than even ten-story buildings with concrete service cores. Mid-rise construction also has lower initial embodied energy per square foot, and lower ongoing operating costs. Mid-rise housing is also less expensive than detached single family housing. [^roaf]<sup>,</sup>[^hoyt]
   - The Impossible street design also offers an optional extra feature that could replace ordinary sidewalks with inclined ramps, which would offer additional cost savings by conserving usable floorspace square-footage (vs. circulation overhead) while entirely obviating the need for elevators, escalators, and stairs. 
-
   - For new developments built on greenfield sites, land should cost less than what it would cost in an established city. For new developments that are large, the development may gain economies of scale in land acquisition, regulatory approval for planning and permitting, financing, and construction costs & timelines.
 
 * **Affordable to operate**
@@ -1711,6 +1710,9 @@ The idea of building Impossible Cities might be worth studying as a candidate in
 * **tax increment financing (TIF)<a name="glossary:TIF"></a>**
   * special tax districts around targeted redevelopment areas, where future tax revenues are diverted to finance infrastructure improvements or development [^schneider]
 
+* **transportation poverty<a name="glossary:transportation-poverty"></a>**
+  * poor access to transportation, which can result from a variety of contributing factors, such as: areas where most housing is far from a bus or railway line, areas where housing is far from goods and services, and areas where average incomes make it expensive to own and operate a car
+
 * **urban consolidation center (UCC)<a name="glossary:UCC"></a>**
   * neighborhood-level freight hubs, place around the edge of a town, where trucks or large vehicles drop off packages to be loaded into small vehicles, like electric cargo bikes, for last-mile delivery
 
@@ -2734,13 +2736,13 @@ There are established public-sector mechanisms for funding development projects,
 
 [^free-private-cities]: [Free Private Cities](https://freeprivatecities.com/en/concept/)
 
-[^jaffe]: ["Why more big cities should give value capture a chance"](https://medium.com/sidewalk-talk/why-more-big-cities-should-give-value-capture-a-chance-b9c4cfac9768). Eric Jaffe, Sidewalk Talk. March 6, 2020.
+[^jaffe]: ["Why more big cities should give value capture a chance"](https://medium.com/sidewalk-talk/why-more-big-cities-should-give-value-capture-a-chance-b9c4cfac9768). Eric Jaffe, _Sidewalk Talk_. 6 March, 2020.
 
 [^xu]: ["Under What Circumstances Will Land Value Capture Work to Finance Public Transit?"](https://academiccommons.columbia.edu/doi/10.7916/D8DF6QC4). Yidan Xu, _Columbia University Libraries, Academic Commons_. May 2015.
 
 [^weyl]: ["Depreciating licenses"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2744810). E. Glen Weyl & Anthony Lee Zhang. 24 January 2018.
 
-[^hoyt]: ["Making apartments more affordable starts with understanding the costs of building them"](https://www.brookings.edu/research/making-apartments-more-affordable-starts-with-understanding-the-costs-of-building-them/). Hannah Hoyt and Jenny Schuetz, Brookings.edu 5 May 2020
+[^hoyt]: ["Making apartments more affordable starts with understanding the costs of building them"](https://www.brookings.edu/research/making-apartments-more-affordable-starts-with-understanding-the-costs-of-building-them/). Hannah Hoyt and Jenny Schuetz, _Brookings.edu_. 5 May 2020
   
 
 
