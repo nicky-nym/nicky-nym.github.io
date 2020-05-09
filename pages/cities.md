@@ -379,9 +379,9 @@ A variety of small vehicles can be used for different types of emergency respons
   + [Tropos/Panasonic](https://www.autoblog.com/2020/01/07/panasonic-tropos-motors-fire-truck-cargo-vehicles/)
   + [Cherry Grove](http://www.unyquefiretrucks.com/Under_The_Boardwalk_files/li_cherrygrove_5-26-2dsrear.jpg)
   + [SPV](https://www.spv-vehicle.com/company-news/civic-utility-truck/spv-recently-promotes-mini-changan-fire-truck-quick-attack-fire-truck-150.html)
-  + [1500L Foton](https://www.alibaba.com/product-detail/1500L-foton-mini-fire-truck_60793504463.html).
+  + [Foton 1500L water tank fire truck](https://www.alibaba.com/product-detail/1500L-foton-mini-fire-truck_60793504463.html)
 
-
+<img src="../images/thumbnails/Foton.jpg" alt="Foton water tank fire truck" height="100"/>
 
 
 
