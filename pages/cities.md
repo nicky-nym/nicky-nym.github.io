@@ -412,9 +412,10 @@ In practice, the result of faster travel times is not shorter commute times for 
     * In **Haxby, Montana**, there's not any traffic congestion, but there also aren't many places to go. With a car, in 30 minutes you can probably reach a total of about **a half dozen homes**, with perhaps **10,000 square feet of floorspace**.
     * In **San Francisco**, there are lots of places to go, but there's a lot of congestion. In 30 minutes you can reach hundreds of thousands of homes, offices, and stores, with perhaps **500,000,000 square feet of floorspace**.  San Francisco has a kinematic range that's about 50 thousand times larger than Haxby, Montana.
 
-```
-TODO: add a diagram showing different ranges?
-```
+
+<object width="1200" height="700" data="../svg/graphs/kinematic_range.svg"></object>
+
+ 
 
 <!--
 ### Congestion vs. kinematic range
