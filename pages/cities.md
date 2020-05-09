@@ -463,10 +463,10 @@ This 15% superlinear growth seems to apply to the whole physical and social meta
   * **restaurants**
   * **diversity of business services** available (meaning, how long the "[long tail](#glossary:long-tail)" of the city is)
 
-```
-TODO: add a graph illustrating 15% doubling
-```
 
+<object width="1200" height="700" data="../svg/graphs/superlinear.svg"></object>
+
+ 
 
 
 ### <a name="existing-cities"></a>The kinematics of existing cities
