@@ -61,7 +61,7 @@
       fill: none;
     }
     .additions {
-      /* display: none; */
+      display: none;
     }
   </style>
 
