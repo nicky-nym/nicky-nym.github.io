@@ -939,8 +939,14 @@ As the world adds more and more large cities and megacities, kinematic lag becom
 > today's megacities. Worldwide, we will see 13 middleweight cities become 
 > megacities by 2025."[^mgi]
 
+<!--
 ![kinematic lag](../images/kinematic_lag_1.jpg "Kinematic lag")
+-->
 
+<object width="800" data="../svg/graphs/kinematic_lag.svg"></object>
+
+ 
+ 
 ### <a name="lost-opportunities"></a>Lost opportunities
 
 Take the **San Francisco Bay Area** as an example. The Bay Area is a conurbation that encompasses major cities like San Francisco and San Jose, as well as lots of smaller cities, like Oakland, Berkeley, and Mountain View. The entire population is about 8 million people, depending where you draw the boundaries. 
