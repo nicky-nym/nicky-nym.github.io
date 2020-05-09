@@ -1,0 +1,141 @@
+<svg
+  version="1.1"
+  viewBox="0 -160 360 340"
+  xmlns="http://www.w3.org/2000/svg">
+  <metadata data-license="http://creativecommons.org/licenses/publicdomain/"/>
+  <style type="text/css">
+    .axis-label {
+      font-family: sans-serif;
+      font-size: 48px;
+      fill: black;
+      text-anchor: middle;
+    }
+    .axis-line {
+      stroke: black;
+      fill: none;
+    }
+    .city-label {
+      font-family: sans-serif;
+      font-size: 28px;
+      fill: grey;
+      stroke: none;
+    }
+    .trend-label {
+      stroke: none;
+      font-family: sans-serif;
+      font-size: 48px;
+      fill: green;
+    }
+    .trend-minor-label {
+      stroke: none;
+      font-family: sans-serif;
+      font-size: 36px;
+      fill: green;
+    }
+    .trend-line {
+      stroke: blue;
+      fill: none;
+    }
+  </style>
+
+  <defs>
+    <linearGradient id="goodness" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="30%" style="stop-color:#ffffff" />
+      <stop offset="100%" style="stop-color:#aaddaa" />
+    </linearGradient>
+  </defs>
+
+  <g id="1px:1ft" transform="scale(0.2) translate(0,300)">
+
+    <!-- green background gradient -->
+    <g transform="translate(0,-1060) scale(1,-1)">
+      <path class="additions" stroke="none" fill="url(#goodness)" d="M0-160 l0-740 l1900-0 l0,740z"/>
+    </g>
+
+    <!-- x-axis -->
+    <polyline class="axis-line" points="0 -0, 1900 -0" stroke-width="3"/>
+    <text x="950" y="60" class="axis-label">City Population Size</text>
+
+    <!-- y-axis -->
+    <polyline class="axis-line" points="0 0, 0 -900" stroke-width="3"/>
+    <text y="-600" class="axis-label">
+      <tspan x="-200">Wages per capita</tspan>
+      <tspan x="-200" dy="80" font-size="32">as well as:</tspan>
+      <tspan x="-200" dy="60" font-size="32">GDP per capita</tspan>
+      <tspan x="-200" dy="40" font-size="32">patents per capita</tspan>
+      <tspan x="-200" dy="40" font-size="32">restaurants per capita</tspan>
+      <tspan x="-200" dy="40" font-size="32">crime per capita</tspan>
+      <tspan x="-200" dy="40" font-size="32">AIDS cases capita</tspan>
+    </text>
+
+    <!-- super-linear 15% trend line -->
+    <path class="trend-line" stroke-width="2"
+      d="M0-160
+          L1-160
+          L2-184
+          L4-211.6
+          L8-243.34
+          L16-279.841
+          L32-321.81715
+          L64-370.09
+          L128-425.6
+          L256-489.44
+          L512-562.86
+          L1024-647.29
+          L1900-730.36
+          "/>
+    <g transform="translate(0,-310)">
+      <text class="trend-label" x="1150" y="-270" transform="rotate(-5)">15% super-linear scaling</text>
+      <text class="trend-minor-label" x="1250" y="-210" transform="rotate(-5)">per capita growth of</text>
+      <text class="trend-minor-label" x="1000" y="-160" transform="rotate(-5)">wages, GDP, patents, restaurants, crime, AIDS cases</text>
+    </g>
+
+    <!-- linear scaling -->
+    <g transform="translate(0,-160)">
+      <polyline class="trend-line" points="0 0, 1900 0" stroke-width="2"/>
+      <text x="1250" y="-20" class="trend-label">vs. linear scaling</text>
+      <text x="1150" y="+40" class="trend-minor-label">such as number of business per capita</text>
+    </g>
+
+    <!-- typical cities -->
+    <g>
+      <g transform="translate(1890,-730)">
+        <circle r="5" fill="black"/>
+        <text class="city-label" dx="-125" dy="-9">New York</text>
+      </g>
+
+      <g transform="translate(946,-636)">
+        <circle r="5" fill="black"/>
+        <text class="city-label" dx="-110" dy="-6">Chicago</text>
+      </g>
+
+      <g transform="translate(597,-577)">
+        <circle r="5" fill="black"/>
+        <text class="city-label" dx="9" dy="28">Philadelphia</text>
+      </g>
+
+      <g transform="translate(333,-512)">
+        <circle r="5" fill="black"/>
+        <text class="city-label" dx="9" dy="24">Minneapolis</text>
+      </g>
+
+      <g transform="translate(214,-468)">
+        <circle r="5" fill="black"/>
+        <text class="city-label" dx="9" dy="18">San Antonio</text>
+      </g>
+
+      <g transform="translate(62,-365)">
+        <circle r="5" fill="black"/>
+        <text class="city-label" dx="9" dy="18">Boise Idaho</text>
+      </g>
+
+      <g transform="translate(0,-160)">
+        <circle r="5" fill="black"/>
+        <text class="city-label" dx="6" dy="-6">Haxby Montana</text>
+      </g>
+
+    </g>
+
+  </g>
+
+</svg>
