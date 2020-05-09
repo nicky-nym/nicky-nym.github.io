@@ -943,7 +943,7 @@ As the world adds more and more large cities and megacities, kinematic lag becom
 ![kinematic lag](../images/kinematic_lag_1.jpg "Kinematic lag")
 -->
 
-<object width="1200" data="../svg/graphs/kinematic_lag.svg"></object>
+<object width="1200" height="800" data="../svg/graphs/kinematic_lag.svg"></object>
 
  
  
