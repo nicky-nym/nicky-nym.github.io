@@ -510,9 +510,13 @@ Someday, in the future, cities might also be able to improve kinematic range by 
   * **flying cars**
 
 
-```
-TODO: add section "Co-location won't work"
-```
+
+### <a name="colocation"></a>Co-location won't work
+
+"Co-location" is one tempting approach for trying to improve urban traffic congestion problems. The idea is to try to arrange things in the city so that people are naturally close to where they want to be, so that they don't have to go as far to get to the places they want to go. For instance, if housing is built...
+
+
+
 
 ### <a name="transit_vs_cars"></a>Transit vs. cars
 
