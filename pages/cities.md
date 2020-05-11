@@ -513,7 +513,9 @@ Someday, in the future, cities might also be able to improve kinematic range by 
 
 ### <a name="colocation"></a>Co-location won't work
 
-"Co-location" is one tempting approach for trying to improve urban traffic congestion problems. The idea is to try to arrange things in the city so that people are naturally close to where they want to be, so that they don't have to go as far to get to the places they want to go. For instance, if housing is built...
+"Co-location" is one tempting approach for trying to improve urban traffic congestion problems. The idea is to try to arrange things in the city so that people are naturally close to where they want to be, so that they don't have to go as far to get to the places they want to go. For example, with mixed-use zoning, new developments can include a mix of housing, retail, and office space. People, could, in theory, live right next to where they work.
+
+This idea comes up surprisingly often in essays about new urbanism. Unfortuntely, in practice, co-location doesn't actually work.
 
 
 
