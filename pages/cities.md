@@ -466,7 +466,24 @@ This superlinear growth seems to apply to the whole physical and social metaboli
 
 <object width="1200" height="700" data="../svg/graphs/superlinear.svg"></object>
 
- 
+
+    > "The study finds that when inventors move from a smaller to a large cluster, 
+    > they experience increases in both the number of patents they generate and 
+    > the impact of those patents, based on their subsequent citations. For example, 
+    > a computer scientist who moves from the median cluster to a cluster at the 
+    > 75th percentile in size would experience a 12 percent increase in productivity, 
+    > while an inventor in biology and chemistry doing the same would see an 8.4 
+    > percent productivity gain. Overall, a just a 10 percent increase in the size 
+    > of a cluster leads to a 0.66 percent increase in the number of patents produced 
+    > by a top inventor each year."[^florida]
+
+    > "Third, the clustering of high-tech inventors brings real benefits to the American 
+    > economy as a whole. ... [Enrico Moretti] estimates that the U.S. would produce 
+    > about 11 percent fewer patents each year under such a scenario. The country would 
+    > see a roughly 15 percent annual decline in semiconductor patents, a 13 percent 
+    > decline in computer science, and a 10 percent decline in biology and chemistry, 
+    > if the geography of inventors was more equal."[^florida]
+
 
 
 ### <a name="existing-cities"></a>The kinematics of existing cities
@@ -1375,15 +1392,6 @@ A kinematic city could have a traditional city government structure, or it could
 
     > "High-tech invention is extraordinarily concentrated in just a handful of cities. ... The top 10 city-regions account for nearly 60 percent of inventors in biology, chemistry and medicine, with greater New York and the San Francisco Bay Area accounting for more than 10 percent each. Seventy percent of inventors in computer science are in the top 10 regions; the Bay Area alone has more than one-quarter of them. And the top 10 regions account for almost 80 percent of inventors in semiconductors, with one-quarter again in the Bay Area and another 15 percent in greater New York." ... "This clustering of inventors has only increased over time, growing by about five percentage points for biology, chemistry, and medicine, 15 percentage points for computer science, and about 20 percentage points for semiconductors between 1971 and 2007."[^florida]
 
-```
-TODO: important? consider moving into one of the chapters above?
-```
-  > "The study finds that when inventors move from a smaller to a large cluster, they experience increases in both the number of patents they generate and the impact of those patents, based on their subsequent citations. For example, a computer scientist who moves from the median cluster to a cluster at the 75th percentile in size would experience a 12 percent increase in productivity, while an inventor in biology and chemistry doing the same would see an 8.4 percent productivity gain. Overall, a just a 10 percent increase in the size of a cluster leads to a 0.66 percent increase in the number of patents produced by a top inventor each year."[^florida]
-
-```
-TODO: important? consider moving into one of the chapters above?
-```
-  > "Third, the clustering of high-tech inventors brings real benefits to the American economy as a whole. ... [Enrico Moretti] estimates that the U.S. would produce about 11 percent fewer patents each year under such a scenario. The country would see a roughly 15 percent annual decline in semiconductor patents, a 13 percent decline in computer science, and a 10 percent decline in biology and chemistry, if the geography of inventors was more equal."[^florida]
 
 
   
