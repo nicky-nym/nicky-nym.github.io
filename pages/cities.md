@@ -1000,12 +1000,7 @@ The total value of all real estate, worldwide, was about $280 trillion at the en
 
 In Manhattan, land value grew at an annual rate of 5.5 percent beyond inflation 1950 to 2015.[^manhattan] That's an unusually good return, but in general real estate value has increased at roughly the same pace as GNP. By 2050, total worldwide real estate might be worth about $560 trillion.
 
-By 2050, the world's 175 largest cities will have residential real estate worth more than $100 trillion. If we could double the kinematic range in those cities, we could expect to yield a 15% kinematic windfall, for maybe a **$15 trillion** increase in residential real estate value.
-
-Unfortunately, trying to double the kinematic range of even a single city is probably impossible.
-
-![kinematic lag](../images/kinematic_lag_2.jpg "Kinematic lag")
-
+By 2050, the world's 175 largest cities will have residential real estate worth more than $100 trillion. If we could double the kinematic range in those cities, we could expect to yield a 15% kinematic windfall, for maybe a **$15 trillion** increase in residential real estate value. Unfortunately, trying to double the kinematic range of even a single city is probably impossible.
 
 In a world where another 2.5 billion people will be moving into cities in the next 30 years, we should think twice about how much prosperity we want to leave on the table. Real estate developers who care about the value of their land should care about building kinematically. And it's not just real estate. It's also hourly wages, GDP per capita, and patents per capita. Our current cities are sub-optimal to the extent that there are hundred of billions of dollars of lost value per major city. Anyone, or any coalition, who can optimize on that can begin to harvest that windfall. In practice, the windfall would get split up between lots of different parties, with enough incentives to go around.
 
