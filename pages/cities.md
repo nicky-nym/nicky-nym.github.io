@@ -949,6 +949,8 @@ This wave of construction is going to happen no matter what, whether we prepare 
 
 Currently, the world has about 33 "megacities", where a megacity is defined as an urban agglomerations with more than 10 million inhabitants. The world is projected to have 43 megacities by 2030, and about **50 megacities by 2050**, with an additional 125 large-but-not-mega cities that land in the range between 4 million and 10 million inhabitants.[^ontariotech]
 
+  > City clusters already exist of course, like the Randstad in the Netherlands, which links Amsterdam, Rotterdam, The Hague, and Utrecht. The urban development around San Francisco Bay could also be considered a city cluster. What is different with the Chinese concept of cluster is their scale. The Randstad connects only 7 million people, while San Francisco Bay (including Silicon Valley) has only 6.2 million people. By contrast, the urban cluster of the Pearl River Delta already had 65 million people in 2010, larger than the entire population of the United Kingdom but concentrated on less than 10,000 square kilometers! The recent urban cluster including Beijing-Tianjin-Hebei links together more than 105 million people.[^bertaud]
+
 
 ### <a name="kinematic-lag"></a>Kinematic lag
 
@@ -1408,10 +1410,6 @@ A kinematic city could have a traditional city government structure, or it could
   > "Once one starts to think about (the causes of economic growth),
   > it is hard to think about anything else."
   > &mdash; Robert Lucas, Nobel laureate in Economics 
-
-* <a name="zoning"></a>**TODO: need a name for these notes on zoning, scale, etc.** 
-
-  > City clusters already exist of course, like the Randstad in the Netherlands, which links Amsterdam, Rotterdam, The Hague, and Utrecht. The urban development around San Francisco Bay could also be considered a city cluster. What is different with the Chinese concept of cluster is their scale. The Randstad connects only 7 million people, while San Francisco Bay (including Silicon Valley) has only 6.2 million people. By contrast, the urban cluster of the Pearl River Delta already had 65 million people in 2010, larger than the entire population of the United Kingdom but concentrated on less than 10,000 square kilometers! The recent urban cluster including Beijing-Tianjin-Hebei links together more than 105 million people.[^bertaud]
 
 
 
