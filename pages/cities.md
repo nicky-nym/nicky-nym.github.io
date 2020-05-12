@@ -511,11 +511,17 @@ Someday, in the future, cities might also be able to improve kinematic range by 
 
 
 
-### <a name="colocation"></a>Co-location won't work
+### <a name="colocation"></a>Co-location in not the answer
 
-"Co-location" is one tempting approach for trying to improve urban traffic congestion problems. The idea is to try to arrange things in the city so that people are naturally close to where they want to be, so that they don't have to go as far to get to the places they want to go. For example, with mixed-use zoning, new developments can include a mix of housing, retail, and office space. People, could, in theory, live right next to where they work.
+"Co-location" is one tempting approach for trying to improve urban traffic congestion problems. Co-location is the idea arranging places in the city so that people are naturally close to where they want to be, to make it so that they don't have to go as far to get to the places they want to go. 
 
-This idea comes up surprisingly often in essays about new urbanism. Unfortuntely, in practice, co-location doesn't actually work.
+A real-world example of co-location would be a university or boarding school, where dorms, classrooms, cafeterias, and health-care services have all been place on a single campus, so that students can do most of the things they need to do without ever needing to leave campus.
+
+In a city with mixed-use zoning, new developments could include a mix of housing, retail, offices, and light industrial space. People, could, in theory, live right next to where they work.
+
+This idea comes up surprisingly often in essays about new urbanism. Unfortuntely, co-location doesn't isn't actually practical in big cities. It would be practical, if each person only wanted to be connected to one "thing". If all you want is to be at university, then living at the university is practical. Or, if all you want to do in life is go to your job, then living near your office is practical. But in reality, most people are a lot more multi-faceted: they don't just have a job, they also have outside interests like book clubs & sports teams, and they have people in their life that they want to live with or see often, including parents, children, spouses, partners & friends. Most of these people are connected to other places: their own offices, schools, churches, etc. And each of these people has their own set of connected people, branching into a giant social network. Without severing these connections, there is no practical way to "sort" all the people into geographic regions, so that each person is always living near the places they want to get to.
+
+Co-location in not the answer. Co-location is no substitute for mobility.
 
 
 
