@@ -1351,15 +1351,13 @@ A kinematic city could have a traditional city government structure, or it could
       * restaurants
       * variety of business services available (meaning, how long the "long tail" of the city is)
 
-  > "... it's illuminating to ask how many different types of businesses there are in a city. ... The data confirm that diversity systematically increases with population size. ... an extrapolation of the data strongly suggests that if we could measure diversity to the finest possible resolution it would scale logarithmically with city size."[^scale] &mdash; Geoffrey West
-
-```
-TODO: label this as an example, not as observed data!
-TODO: display this as a graph instead of a table?
-```
+    > "... it's illuminating to ask how many different types of businesses there are in a city. ...
+    > The data confirm that diversity systematically increases with population size. ... 
+    > an extrapolation of the data strongly suggests that if we could measure diversity to 
+    > the finest possible resolution it would scale logarithmically with city size."[^scale] &mdash; Geoffrey West
 
   |---
-  | City Population | Average Hourly Wage | Superlinear Scale Factor |
+  | City Population | Average Hourly Wage<br>(this is not actual observed data,<br>just example numbers) | Superlinear Scale Factor |
   |-:|:-:|:-:
   | 40,000 | $16 | (-15%)^4 below $28
   | 80,000 | $18 | (-15%)^3 below $28
@@ -1372,10 +1370,10 @@ TODO: display this as a graph instead of a table?
   | 10 million | $49 | (+15%)^4 above $28
   |---
 
-  > Economic literature linking the wealth of cities to spatial concentrations is quite abundant and is no longer controversial in academic circles. ... The 2009 World Bank Development Report "Reshaping Economic Geography," and the report of the Commission on Growth and Development "Urbanization and Growth" (published the same year) exhaustively summarize and document the theoretical and empirical arguments justifying the economic advantage provided by the spatial concentration of economic activities in large cities.[^bertaud]
-  > &mdash; Alain Bertaud
+    > Economic literature linking the wealth of cities to spatial concentrations is quite abundant and is no longer controversial in academic circles. ... The 2009 World Bank Development Report "Reshaping Economic Geography," and the report of the Commission on Growth and Development "Urbanization and Growth" (published the same year) exhaustively summarize and document the theoretical and empirical arguments justifying the economic advantage provided by the spatial concentration of economic activities in large cities.[^bertaud]
+    > &mdash; Alain Bertaud
 
-  > "High-tech invention is extraordinarily concentrated in just a handful of cities. ... The top 10 city-regions account for nearly 60 percent of inventors in biology, chemistry and medicine, with greater New York and the San Francisco Bay Area accounting for more than 10 percent each. Seventy percent of inventors in computer science are in the top 10 regions; the Bay Area alone has more than one-quarter of them. And the top 10 regions account for almost 80 percent of inventors in semiconductors, with one-quarter again in the Bay Area and another 15 percent in greater New York." ... "This clustering of inventors has only increased over time, growing by about five percentage points for biology, chemistry, and medicine, 15 percentage points for computer science, and about 20 percentage points for semiconductors between 1971 and 2007."[^florida]
+    > "High-tech invention is extraordinarily concentrated in just a handful of cities. ... The top 10 city-regions account for nearly 60 percent of inventors in biology, chemistry and medicine, with greater New York and the San Francisco Bay Area accounting for more than 10 percent each. Seventy percent of inventors in computer science are in the top 10 regions; the Bay Area alone has more than one-quarter of them. And the top 10 regions account for almost 80 percent of inventors in semiconductors, with one-quarter again in the Bay Area and another 15 percent in greater New York." ... "This clustering of inventors has only increased over time, growing by about five percentage points for biology, chemistry, and medicine, 15 percentage points for computer science, and about 20 percentage points for semiconductors between 1971 and 2007."[^florida]
 
 ```
 TODO: important? consider moving into one of the chapters above?
