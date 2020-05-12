@@ -1009,9 +1009,17 @@ Because of their size, all of those 175 cities will probably suffer from kinemat
 > Africa has 54 countries. Altogether they do not build 1 million homes a year. 
 > The gap is the opportunity. 40 million modest homes require an investment of 
 > more than $1 trillion every year. The multiplier effects would add $10 trillion 
-> to annual GDP. That is 5 times current GDP. Closing Africa’s housing gap can 
+> to annual GDP. That is 5 times current GDP. Closing Africa's housing gap can 
 > generate 5 times current GDP!"
 > &mdash; Paul Musembwa, CEO of Warp Developments
+
+> In a paper published in 2015, the economists Chang-Tai Hsieh and Enrico Moretti 
+> found that, between 1964 and 2009, the high cost of housing in some US cities 
+> relative to wages had lowered aggregate US GDP by 13.5 percent: "Most of the 
+> loss was likely caused by increased constraints to housing supply in high 
+> productivity cities like New York, San Francisco and San Jose. Lowering 
+> regulatory constraints in these cities to the level of the median city would 
+> expand their work force and increase U.S. GDP by 9.5%.[^bertaud]
 
 
 
@@ -1402,8 +1410,6 @@ A kinematic city could have a traditional city government structure, or it could
   > &mdash; Robert Lucas, Nobel laureate in Economics 
 
 * <a name="zoning"></a>**TODO: need a name for these notes on zoning, scale, etc.** 
-
-  > In a paper published in 2015, the economists Chang-Tai Hsieh and Enrico Moretti found that, between 1964 and 2009, the high cost of housing in some US cities relative to wages had lowered aggregate US GDP by 13.5 percent: "Most of the loss was likely caused by increased constraints to housing supply in high productivity cities like New York, San Francisco and San Jose. Lowering regulatory constraints in these cities to the level of the median city would expand their work force and increase U.S. GDP by 9.5%.[^bertaud]
 
   > City clusters already exist of course, like the Randstad in the Netherlands, which links Amsterdam, Rotterdam, The Hague, and Utrecht. The urban development around San Francisco Bay could also be considered a city cluster. What is different with the Chinese concept of cluster is their scale. The Randstad connects only 7 million people, while San Francisco Bay (including Silicon Valley) has only 6.2 million people. By contrast, the urban cluster of the Pearl River Delta already had 65 million people in 2010, larger than the entire population of the United Kingdom but concentrated on less than 10,000 square kilometers! The recent urban cluster including Beijing-Tianjin-Hebei links together more than 105 million people.[^bertaud]
 
