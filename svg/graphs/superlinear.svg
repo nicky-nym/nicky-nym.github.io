@@ -1,6 +1,6 @@
 <svg
   version="1.1"
-  viewBox="0 -160 360 340"
+  viewBox="-85 -160 500 170"
   xmlns="http://www.w3.org/2000/svg">
   <metadata data-license="http://creativecommons.org/licenses/publicdomain/"/>
   <style type="text/css">
@@ -20,6 +20,23 @@
       fill: grey;
       stroke: none;
     }
+    .number-label {
+      font-family: sans-serif;
+      font-size: 28px;
+      fill: grey;
+      stroke: none;
+      text-anchor: middle;
+    }
+    .stair-line {
+      stroke: grey;
+      fill: none;
+    }
+    .stair-label {
+      stroke: none;
+      font-family: sans-serif;
+      font-size: 28px;
+      fill: grey;
+    }
     .trend-label {
       stroke: none;
       font-family: sans-serif;
@@ -36,69 +53,154 @@
       stroke: blue;
       fill: none;
     }
+    .windfall-label {
+      stroke: none;
+      font-family: sans-serif;
+      font-size: 260px;
+      fill: #ffffff;
+    }
   </style>
 
   <defs>
-    <linearGradient id="goodness" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="goodness" x1="0%" y1="80%" x2="100%" y2="100%" gradientTransform="rotate(75)">
+      <stop offset="0%" style="stop-color:#aaddaa" />
+      <stop offset="90%" style="stop-color:#ffffff" />
+    </linearGradient>
+
+    <g id="gradient">
+      <!-- green background gradient -->
+      <g transform="translate(0) scale(1)">
+        <path class="additions" stroke="none" fill="url(#goodness)" 
+        d="M0-160
+            L1-160
+            L2-184
+            L4-211.6
+            L8-243.34
+            L16-279.841
+            L32-321.81715
+            L64-370.09
+            L128-425.6
+            L256-489.44
+            L512-562.86
+            L1024-647.29
+            L2048-744.3835
+            L2048-160z"/>
+      </g>
+    </g>
+
+    <g id="chart">
+
+      <!-- x-axis -->
+      <polyline class="axis-line" points="0 -0, 2048 -0" stroke-width="3"/>
+      <text x="1424" y="60" class="axis-label">City Population Size</text>
+
+      <!-- y-axis -->
+      <polyline class="axis-line" points="0 0, 0 -900" stroke-width="3"/>
+      <text y="-740" class="axis-label">
+        <tspan x="-240">Wages</tspan>
+        <tspan x="-240" dy="65">per capita</tspan>
+        <tspan x="-240" dy="120" font-size="32">as well as:</tspan>
+        <tspan x="-240" dy="60" font-size="32">GDP per capita</tspan>
+        <tspan x="-240" dy="40" font-size="32">patents per capita</tspan>
+        <tspan x="-240" dy="40" font-size="32">restaurants per capita</tspan>
+        <tspan x="-240" dy="40" font-size="32">crime per capita</tspan>
+        <tspan x="-240" dy="40" font-size="32">AIDS cases capita</tspan>
+      </text>
+      <text class="number-label" x="-20" y="-160" dy="9">$</text>
+      <text class="number-label" x="-27" y="-320" dy="9">$$</text>
+      <text class="number-label" x="-34" y="-480" dy="9">$$$</text>
+      <text class="number-label" x="-41" y="-640" dy="9">$$$$</text>
+      <text class="number-label" x="-48" y="-800" dy="9">$$$$$</text>
+
+      <!-- linear scaling -->
+      <g transform="translate(0,-160)">
+        <polyline class="trend-line" points="0 0, 2048 0" stroke-width="2"/>
+        <text x="1250" y="-16" class="trend-label">vs. Linear scaling</text>
+        <text x="1100" y="36" class="trend-minor-label">(such as number of business per capita)</text>
+      </g>
+
+      <!-- super-linear 15% trend line -->
+      <!-- 
+      <path class="trend-line" stroke-width="2"
+        d="M0-160
+            L1-160
+            L2-184
+            L4-211.6
+            L8-243.34
+            L16-279.841
+            L32-321.81715
+            L64-370.09
+            L128-425.6
+            L256-489.44
+            L512-562.86
+            L1024-647.29
+            L1900-730.36
+            "/>
+      -->
+      <path class="trend-line" stroke-width="2"
+        d="M0-160
+            L1-160
+            L2-184
+            L4-211.6
+            L8-243.34
+            L16-279.841
+            L32-321.81715
+            L64-370.09
+            L128-425.6
+            L256-489.44
+            L512-562.86
+            L1024-647.29
+            L2048-744.3835
+            "/>
+    </g>
+
+    <g id="superlinear-label" transform="translate(0,-310)">
+      <text class="trend-label" x="1200" y="-270">Superlinear scaling</text>
+      <text class="trend-minor-label" x="1270" y="-210">wages per capita</text>
+      <text class="trend-minor-label" x="1000" y="-160">per capita GDP, patents, restaurants, crime, AIDS cases</text>
+    </g>
+
+    <g id="windfall" transform="translate(0,-310)">
+      <text class="windfall-label" x="980" y="-0">windfall</text>
+    </g>
+
+    <!--
+    <linearGradient id="goodness-old" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="30%" style="stop-color:#ffffff" />
       <stop offset="100%" style="stop-color:#aaddaa" />
     </linearGradient>
-  </defs>
 
-  <g id="1px:1ft" transform="scale(0.2) translate(0,300)">
-
-    <!-- green background gradient -->
-    <g transform="translate(0,-1060) scale(1,-1)">
-      <path class="additions" stroke="none" fill="url(#goodness)" d="M0-160 l0-740 l1900-0 l0,740z"/>
+    <g id="gradient-old">
+      <g transform="translate(0,-1060) scale(1,-1)">
+        <path class="additions" stroke="none" fill="url(#goodness-old)" d="M0-160 l0-740 l2048-0 l0,740z"/>
+      </g>
     </g>
 
-    <!-- x-axis -->
-    <polyline class="axis-line" points="0 -0, 1900 -0" stroke-width="3"/>
-    <text x="950" y="60" class="axis-label">City Population Size</text>
+    <g id="stairsteps">
+      <path class="stair-line" d="M1024-647.29, L2048-647.29, L2048-744.3835" stroke-width="1"/>
+      <text class="stair-label" x="2048" y="-647.29" dx="-80" dy="-35">+15%</text>
+      <text class="stair-label" x="1024" y="-647.29" dx="470" dy="30">population doubling</text>
 
-    <!-- y-axis -->
-    <polyline class="axis-line" points="0 0, 0 -900" stroke-width="3"/>
-    <text y="-600" class="axis-label">
-      <tspan x="-200">Wages per capita</tspan>
-      <tspan x="-200" dy="80" font-size="32">as well as:</tspan>
-      <tspan x="-200" dy="60" font-size="32">GDP per capita</tspan>
-      <tspan x="-200" dy="40" font-size="32">patents per capita</tspan>
-      <tspan x="-200" dy="40" font-size="32">restaurants per capita</tspan>
-      <tspan x="-200" dy="40" font-size="32">crime per capita</tspan>
-      <tspan x="-200" dy="40" font-size="32">AIDS cases capita</tspan>
-    </text>
+      <path class="stair-line" d="M512-562.86, L1024-562.86, L1024-647.29" stroke-width="1"/>
+      <text class="stair-label" x="1024" y="-562.86" dx="5" dy="-30">+15%</text>
+      <text class="stair-label" x="512" y="-562.86" dx="180" dy="30">population doubling</text>
 
-    <!-- super-linear 15% trend line -->
-    <path class="trend-line" stroke-width="2"
-      d="M0-160
-          L1-160
-          L2-184
-          L4-211.6
-          L8-243.34
-          L16-279.841
-          L32-321.81715
-          L64-370.09
-          L128-425.6
-          L256-489.44
-          L512-562.86
-          L1024-647.29
-          L1900-730.36
-          "/>
-    <g transform="translate(0,-310)">
-      <text class="trend-label" x="1150" y="-270" transform="rotate(-5)">15% super-linear scaling</text>
-      <text class="trend-minor-label" x="1250" y="-210" transform="rotate(-5)">per capita growth of</text>
-      <text class="trend-minor-label" x="1000" y="-160" transform="rotate(-5)">wages, GDP, patents, restaurants, crime, AIDS cases</text>
+      <path class="stair-line" d="M256-489.44, L512-489.44, L512-562.86" stroke-width="1"/>
+      <text class="stair-label" x="512" y="-489.44" dx="5" dy="-24">+15%</text>
+      <text class="stair-label" x="256" y="-489.44" dx="110" dy="30">doubling</text>
+
+      <path class="stair-line" d="M128-425.6, L256-425.6, L256-489.44" stroke-width="1"/>
+      <text class="stair-label" x="256" y="-425.6" dx="5" dy="-20">+15%</text>
+
+      <path class="stair-line" d="M64-370.09, L128-370.09, L128-425.6" stroke-width="1"/>
+      <text class="stair-label" x="128" y="-370.09" dx="5" dy="-18">+15%</text>
+
+      <path class="stair-line" d="M32-321.81715, L64-321.81715, L64-370.09" stroke-width="1"/>
+      <path class="stair-line" d="M16-279.841, L32-279.841, L32-321.81715" stroke-width="1"/>
+      <path class="stair-line" d="M8-243.34, L16-243.34, L16-279.841" stroke-width="1"/>
     </g>
 
-    <!-- linear scaling -->
-    <g transform="translate(0,-160)">
-      <polyline class="trend-line" points="0 0, 1900 0" stroke-width="2"/>
-      <text x="1250" y="-20" class="trend-label">vs. linear scaling</text>
-      <text x="1150" y="+40" class="trend-minor-label">such as number of business per capita</text>
-    </g>
-
-    <!-- typical cities -->
-    <g>
+    <g id="cities-horizontal">
       <g transform="translate(1890,-730)">
         <circle r="5" fill="black"/>
         <text class="city-label" dx="-125" dy="-9">New York</text>
@@ -133,9 +235,97 @@
         <circle r="5" fill="black"/>
         <text class="city-label" dx="6" dy="-6">Haxby Montana</text>
       </g>
+    </g>
+    -->
 
+    <!-- typical cities -->
+    <g id="cities-slanted">
+      <g transform="translate(1890,-730) rotate(-45)">
+        <circle r="5" fill="black"/>
+        <text class="city-label" dx="11" dy="7">New York</text>
+      </g>
+
+      <g transform="translate(946,-636) rotate(-45)">
+        <circle r="5" fill="black"/>
+        <text class="city-label" dx="11" dy="6">Chicago</text>
+      </g>
+
+      <g transform="translate(597,-577) rotate(-45)">
+        <circle r="5" fill="black"/>
+        <text class="city-label" dx="11" dy="5">Philadelphia</text>
+      </g>
+
+      <g transform="translate(333,-512) rotate(-45)">
+        <circle r="5" fill="black"/>
+        <text class="city-label" dx="11" dy="4">Minneapolis</text>
+      </g>
+
+      <g transform="translate(214,-468) rotate(-45)">
+        <circle r="5" fill="black"/>
+        <text class="city-label" dx="11" dy="2">San Antonio</text>
+      </g>
+
+      <g transform="translate(62,-365) rotate(-45)">
+        <circle r="5" fill="black"/>
+        <text class="city-label" dx="11" dy="-4">Boise Idaho</text>
+      </g>
+
+      <g transform="translate(0,-160)">
+        <circle r="5" fill="black"/>
+        <text class="city-label" dx="6" dy="-6">Haxby Montana</text>
+      </g>
     </g>
 
+    <!-- city-droplines -->
+    <g id="city-droplines">
+      <path class="stair-line" d="M1890-0, l0-730" stroke-width="1"/>
+      <text class="number-label" x="1890" dy="40">19 million</text>
+
+      <path class="stair-line" d="M946-0, l0-636" stroke-width="1"/>
+      <text class="number-label" x="946" dy="40">9.5 million</text>
+
+      <path class="stair-line" d="M597-0, l0-577" stroke-width="1"/>
+      <text class="number-label" x="597" dy="40">6 million</text>
+
+      <path class="stair-line" d="M333-0, l0-512" stroke-width="1"/>
+      <text class="number-label" x="333" dy="40">3.3 million</text>
+
+      <path class="stair-line" d="M214 48, L214-468" stroke-width="1"/>
+      <text class="number-label" x="214" dy="80">2.1 million</text>
+
+      <path class="stair-line" d="M62-0, l0-365" stroke-width="1"/>
+      <text class="number-label" x="62" dx="20" dy="40">620,000</text>
+
+      <path class="stair-line" d="M1 48, L1-160" stroke-width="1"/>
+      <text class="number-label" x="1" dy="80">16</text>
+   </g>
+
+  </defs>
+
+  <!--
+  <g transform="translate(0 -210)">
+    <use href="#gradient-old"/>
+    <use href="#chart"/>
+    <use href="#cities-horizontal"/>
+    <use href="#superlinear-label" transform="rotate(-5)"/>
+ </g>
+
+  <g transform="translate(0 20)">
+    <use href="#gradient-old"/>
+    <use href="#chart"/>
+    <use href="#stairsteps"/>
+    <use href="#cities-slanted"/>
+    <use href="#superlinear-label" transform="translate(0, -54)"/>
+  </g>
+  -->
+
+  <g transform="scale(0.2) translate(0,0)">
+    <use href="#gradient"/>
+    <use href="#chart"/>
+    <use href="#windfall"/>
+    <use href="#cities-slanted"/>
+    <use href="#city-droplines"/>
+    <use href="#superlinear-label" transform="translate(0, 0) rotate(-5)"/>
   </g>
 
 </svg>
