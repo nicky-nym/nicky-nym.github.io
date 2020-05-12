@@ -163,7 +163,7 @@ h3 {
           <li><a href="#convenience">Conviviality & convenience</a></li>
           <li><a href="#durability">Durability, reliability & resilience</a></li>
           <li><a href="#economic-prosperity">Economic prosperity</a></li>
-          <li><a href="#freedom">Freedom & independence</a></li>
+          <li><a href="#freedom">Freedom, independence & agency</a></li>
           <li><a href="#sustainability">Green sustainability</a></li>
           <li><a href="#health">Health & safety</a></li>
         </ul>
@@ -454,7 +454,7 @@ Around the world, larger cities, with their larger kinematic ranges, tend to hav
 
 As city size increases, when the number of people (and destinations) in the city grows by 100% (meaning a doubling in size), then the economy of the city tends to grow by about 115% (meaning it more than doubles in size), so that there is effectively a 15% "bonus" in per capita economic output for everyone in the city.[^scale]
 
-This 15% superlinear growth seems to apply to the whole physical and social metabolism of the city, rather than just the economic aspects of the city. The 15% surplus shows up in statistics about:
+This superlinear growth seems to apply to the whole physical and social metabolism of the city, rather than just the economic aspects of the city. The windfall shows up in statistics about:
   * **wages**
   * **wealth**
   * **patents**
@@ -640,7 +640,7 @@ If you're building from scratch, then with a few good design choices it's possib
  
   <span class="minor">(E)</span> **[Economic prosperity](#economic-prosperity)**
 
-  <span class="minor">(F)</span> **[Freedom & independence](#freedom)**
+  <span class="minor">(F)</span> **[Freedom, independence & agency](#freedom)**
 
   <span class="minor">(G)</span> **[Green sustainability](#sustainability)**
 
@@ -716,7 +716,7 @@ By striving for simplicity, these new designs avoid using lots of "fragile" tech
 
 ### <a name="economic-prosperity"></a>Economic prosperity
 
-A city should provide for a good life for the people who live in it and work in it. As described in [chapter 2](#2), the Impossible design strives to maximize mobility and kinematic range, with the goal of harvesting a 15% windfall in wages, wealth, patents, land value, etc. The design is intended to create cities that **thrive economically** compared to similarly-sized typical cities, with more prosperity, and greener prosperity.
+A city should provide for a good life for the people who live in it and work in it. As described in [chapter 2](#2), the Impossible design strives to maximize mobility and kinematic range, with the goal of harvesting a superlinear windfall in wages, wealth, patents, land value, etc. The design is intended to create cities that **thrive economically** compared to similarly-sized typical cities, with more prosperity, and greener prosperity.
 
 * **Prosperous**
   - When I say "prosperous", I don't mean Wall Street bankers with vacation homes in the Hamptons. I mean prosperity in the sense of kids who get to go to good schools, teachers who have the books they need, parks with playgrounds and basketball courts, libraries with books & wifi, parents with jobs and health insurance, and jobs with safety standards and protective equipment. These are things that are common in places like rich European countries, and that can become more and more common everywhere in the world. 
@@ -728,11 +728,11 @@ A city should provide for a good life for the people who live in it and work in 
 
 
 
-### <a name="freedom"></a>Freedom & independence
+### <a name="freedom"></a>Freedom, independence & agency
 
 A city design should not inadvertently restrict people's freedoms, limit people's independence, or obstruct fair access. The Impossible design offers more:
 
-* **Freedom & independence**
+* **Freedom, independence & agency**
   - freedom of movement for everyone in the community 
   
   - freedom to travel without being asked for a license & registration
@@ -929,7 +929,7 @@ Currently, the world has about 33 "megacities", where a megacity is defined as a
 
 ### <a name="kinematic-lag"></a>Kinematic lag
 
-[Kinematic range](#kinematic-range) generally increases as cities get bigger. I believe that increase in kinematic range is what drives the [15% superlinear scaling](#superlinear) effect.
+[Kinematic range](#kinematic-range) generally increases as cities get bigger. I believe that increase in kinematic range is what drives the [superlinear scaling](#superlinear) effect.
 
 As a city grows, at first, kinematic range increases as population increases, perhaps in a roughly linear relationship. Unfortunately, as cities get too big, they start to sprawl and suffer from traffic congestion. Eventually, there's a **kinematic lag**, where the kinematic range stops its 1-to-1 tracking of population growth, and begins to lag behind.
 
@@ -956,9 +956,9 @@ Take the **San Francisco Bay Area** as an example. The Bay Area is a conurbation
 
 If you estimate floorspace at about 600 square feet per person, that means there's about 5 billion square feet of floorspace in the Bay Area. Your thirty-minute kinematic range [(**KR<sub>30</sub>**)](#glossary:KR30) would be **5 billion square feet**, if you could magically get from any point in the area to any other point in under 30 minutes. But you can't.
 
-As a rough estimate, let's say that from any room in any random building in the Bay Area, within 30 minutes you can reach about one quarter of the other buildings in the Bay Area. That means your actual **KR<sub>30</sub>** would be about **1.25 billion square feet**.
+As a rough estimate, let's say that from any room in any random building in the Bay Area, within 30 minutes you can reach about one quarter of the other buildings in the Bay Area. That means your actual 30-minute range would be about **1.25 billion square feet**.
 
-If we could just improve your travel times enough, we could quadruple your KR<sub>30</sub> range. If kinematic range is in fact what drives the [15% superlinear scaling](#superlinear) effect, then doubling the KR<sub>30</sub> for the Bay Area would yield a 15% windfall in average hourly wages, patents per capita, GDP, etc. Doubling KR<sub>30</sub> gets you a 15% windfall, and quadrupling gets you **a 30% windfall** (actually more like 32%, because 1.15<sup>^2</sup> is 1.3225).
+If we could just improve your travel times enough, we could quadruple your KR<sub>30</sub> range. If kinematic range is in fact what drives the [superlinear scaling](#superlinear) effect, then doubling the 30-minute range for the Bay Area would yield a 15% windfall in average hourly wages, patents per capita, GDP, etc. Doubling the 30-minute range gets you a 15% windfall, and quadrupling gets you **a 30% windfall** (actually more like 32%, because 1.15<sup>^2</sup> is 1.3225).
 
 **GDP.** The San Francisco Bay Area GDP was about $535 billion in 2019.[^facc]  A 30% annual increase would be an **additional $160 billion annual GDP**.
 
@@ -1336,7 +1336,7 @@ A kinematic city could have a traditional city government structure, or it could
     * If a city doubles in population size, meaning it grows by 100%, parts of the supporting infrastructure tend to only grow by 85%. This is tends to be true for networks of roads, electrical cables, and municipal sewers and water pipes.
 
   * **Some aspects of a city scale super-linearly.**
-    * <a name="superlinear"></a>**15% superlinear scaling** is the phenomenon where if a city population grows by 100% (meaning it doubles in population size), then the economy of the city tends to grow by about 115% (meaning it **more than doubles** in size), so that there is effectively a 15% "bonus" in per capita economic output for everyone in the city.[^scale] This 15% superlinear growth seems to apply to the whole physical and social metabolism of the city, rather than just the economic aspects of the city. The 15% surplus shows up in statistics about:
+    * <a name="superlinear"></a>**Superlinear scaling** is the phenomenon where if a city population grows by 100% (meaning it doubles in population size), then the economy of the city tends to grow by about 115% (meaning it **more than doubles** in size), so that there is effectively a 15% "bonus" in per capita economic output for everyone in the city.[^scale] This 15% superlinear growth seems to apply to the whole physical and social metabolism of the city, rather than just the economic aspects of the city. The 15% surplus shows up in statistics about:
       * wages
       * wealth
       * patents
@@ -1383,7 +1383,7 @@ TODO: important? consider moving into one of the chapters above?
 
 
   
-* <a name="sublinear"></a>**15% economies of scale** is the phenomenon where if a city population grows by 100% (meaning it doubles in population size), then the network of roads, electrical cables, and other supporting infrastructure of the city tends to grow by about 85% (meaning it **less than doubles** in size), so that there is effectively a 15% "bonus" economy of scale, both economically and environmentally.[^scale] 
+* <a name="sublinear"></a>**Sublinear growth (economies of scale)** is the phenomenon where if a city population grows by 100% (meaning it doubles in population size), then the network of roads, electrical cables, and other supporting infrastructure of the city tends to grow by about 85% (meaning it **less than doubles** in size), so that there is effectively a 15% "bonus" economy of scale, both economically and environmentally.[^scale] 
 
   > "Once one starts to think about (the causes of economic growth),
   > it is hard to think about anything else."
