@@ -371,7 +371,7 @@ Although traditional fire engines can use the boulevards, they may not be necess
 * rescue vehicles for hauling floodlights, hydraulic rescue tools, etc.
 * hazardous materials vehicles with hazmat suits, etc.
 
-Ideally the Impossible City buildings would all be built with standpipes and fire sprinkler systems, so pump engines and tender vehicles may be less important in a kinematic city, allowing the city to instead have more ambulances, hazmat vehicles and rescue vehicles.
+Ideally the Impossible City buildings would all be built with standpipes and fire sprinkler systems, so pump engines and tender vehicles may be less important in an impossible city, allowing the city to instead have more ambulances, hazmat vehicles and rescue vehicles.
 
 A variety of small vehicles can be used for different types of emergency response. These types of vehicles are uncommon here in the United States, but are not a new invention, and are in use elsewhere in the world in places with narrow streets. Examples include: 
 * motorcycle ambulances<sup>([link](https://en.wikipedia.org/wiki/Motorcycle_ambulance))</sup>
@@ -863,7 +863,7 @@ An Impossible City should be **safer** and more fun to live in.
 ### <a name="comparison"></a>How would it compare?
 
 |---
-|  | Proposed Kinematic City | San Francisco | New York |
+|  | Proposed Impossible City | San Francisco | New York |
 |-:|:-:|:-:|:-:|:-:
 | **Trips**<br>annual, per million people | 1.2 billion | 1.2 billion[^google_eie] |  |
 | **Commute time**<br>minutes per day<br>(average per commuter) | 60 minutes | 60 minutes | 76 minutes |
@@ -1154,7 +1154,7 @@ Depending where construction happens, the Impossible Cities design faces one of 
 
 * **Population growth network effects** &mdash; for new greenfield city sites
   * People move to cities because of the opportunities there, or because they know people there. The bigger the city, the more draw it has. Once a major city has become established, and has a critical mass, it's not difficult to find people who want to move there. Kids are born and raised in existing cities, not in greenfield city sites. If a new town is founded from scratch, with a small population, in a remote place, then it probably doesn't have enough critical mass to draw people to come live there. It's a chicken-and-egg problem: in order to attract a lot of people, a city has to be big, but before it can become big, it has to have attracted a lot of people.
-  * A small-scale Impossible City would work just fine, and it would have some advantages over a similarly sized car-centric or transit-centric city. Lower transportation costs might be the largest single selling point. But the advantages may not be large enough to matter to anyone. For small-scale cities, car-centric designs actually work reasonably well, as do designs based on buses and bus rapid transit. The car & bus system only starts to break down once a city gets large enough to have serious traffic congestion problems, and it's only at that scale that the kinematic city design starts to really outshine the other options.
+  * A small-scale Impossible City would work just fine, and it would have some advantages over a similarly sized car-centric or transit-centric city. Lower transportation costs might be the largest single selling point. But the advantages may not be large enough to matter to anyone. For small-scale cities, car-centric designs actually work reasonably well, as do designs based on buses and bus rapid transit. The car & bus system only starts to break down once a city gets large enough to have serious traffic congestion problems, and it's only at that scale that the Impossible City design starts to really outshine the other options.
 
 * **Transportation system network effects** &mdash; for infill and suburb/satellite sites
   * Different transportation systems tend not to be complementary. 
@@ -1193,7 +1193,7 @@ At a minimum, it seems like the project founders would need to:
 
 
 
-Building even a small seed of a kinematic city would take a long time and lot of resources. A minimum viable start might need:
+Building even a small seed of an Impossible City would take a long time and lot of resources. A minimum viable start might need:
 
   + a city charter (the legal documents)
   + an independent city government
@@ -1339,23 +1339,23 @@ existing big cities, but those are the places where all the land is already priv
 
 ## <a name="faq"></a><span class="chapter">FAQ: Frequently Asked Questions</span>
 
-### <a name="could-we-build"></a>Could we build a kinematic city?
+### <a name="could-we-build"></a>Could we build an Impossible City?
 
-**Yes.** The kinematic city plans are designed with existing technology in mind, and with an eye toward simple, affordable technologies. It's about bicycles and water pipes, not about floating ocean domes and orbital towers.
+**Yes.** The Impossible City plans are designed with existing technology in mind, and with an eye toward simple, affordable technologies. It's about bicycles and water pipes, not about floating ocean domes and orbital towers.
 
-### <a name="could-we-transform"></a>Could we turn London or Paris into kinematic cities?
+### <a name="could-we-transform"></a>Could we turn London or Paris into an Impossible City?
 
-**No.** Existing cities have a lot of physical infrastructure that's expensive to change. People can make incremental changes, like adding new roads or bridges, but it's not practical to change the fundamental layout of an existing city.
+**No.** Existing cities have a lot of physical infrastructure that's expensive to change. People can make incremental changes, like adding new roads or bridges, but it's not practical to change the fundamental layout and transportation network of an existing city.
 
-### <a name="could-ideas-trickle-down"></a>Could kinematic ideas trickle down to existing cities? 
+### <a name="could-ideas-trickle-down"></a>Could Impossible City ideas trickle down to existing cities? 
 
-**Yes.** Over time people in existing cities like New York and San Francisco could adopt some of the ideas in the kinematic city designs, and make their cities incrementally more kinematic, even if they can't change the fundamental layouts.
+**Yes.** Over time people in existing cities like New York and San Francisco could adopt some of the ideas in the Impossible City designs, and make their cities incrementally more kinematic, even if they can't change the fundamental layouts. One "simple" change would be re-stripe some of the lanes on some of the roads so as to split an existing automobile lane (at, say, 12 feet wide), into two side-by-side bicycle-sized vehicle lanes (at, say 6 feet wide each).
 
-### <a name="do-ideas-impact-democracy"></a>Do kinematic ideas impact democracy and governance?
+### <a name="do-ideas-impact-democracy"></a>Do Impossible City ideas impact democracy and governance?
 
-**No.** The kinematic city designs are politically neutral. The designs are just about transportation systems and about the physical, spatial layout of the buildings in the city.
+**No.** The Impossible City designs are politically neutral. The designs are only about transportation systems and about the physical, spatial layout of the buildings in the city.
 
-A kinematic city could have a traditional city government structure, or it could experiment with less conventional structures. That's a big topic, and one for another author. Suffice it to say, the questions of governance are largely orthogonal to the ideas presented here about the physical layout of a city, the transportation choices, etc. An authoritarian government could build a kinematic city, or a utopian libertarian collective could build a kinematic city, and they would both be kinematic cities.
+An Impossible City could have a traditional city government structure, or it could experiment with less conventional structures. That's a big topic, and one for another author. Suffice it to say, the questions of governance are largely orthogonal to the ideas presented here about the physical layout of a city, the transportation choices, etc. An authoritarian government could build an Impossible City, or a utopian libertarian collective could build an Impossible City, and they would both be Impossible Cities.
 
 
 
@@ -1802,7 +1802,7 @@ In contrast, buying 50 square miles in a satellite location on the outskirts of 
 
 ### Brisbane, California
 
-Brisbane Baylands would be a better site than Treasure Island. The city of Brisbane, just south of San Francisco, does have a large undeveloped parcel that would be big enough to build a bit of a Kinematic City in.
+Brisbane Baylands would be a better site than Treasure Island. The city of Brisbane, just south of San Francisco, does have a large undeveloped parcel that would be big enough to build a bit of an Impossible City in.
 
 Brisbane Baylands has slightly more land area than Treasure Island, and there's no new construction work already underway like Treasure Island has. Plus the Caltrain commuter train and highway 101 run right through Brisbane Baylands, and a Muni light rail station is there. It's also immediately adjacent to San Francisco, with no bridge crossing or ferry required.
 
@@ -1921,8 +1921,8 @@ Instead, the design has:
       * Some people may choose not to own their own vehicles, and instead use vehicle rental services such as Mobike, Lime, Motivate, or JUMP Bikes.
       * Some people may choose to travel in pedicabs or other small vehicles that have a human driver or are self-driving.
     * Innovation is NOT REQUIRED
-      * A kinematic city could be built today using off-the-shelf bikes and other vehicles purchased from amazon.com.
-    * Innovation IS POSSIBLE &mdash; a kinematic city can incorporate new products as they emerge on the market, such as
+      * An Impossible City could be built today using off-the-shelf bikes and other vehicles purchased from amazon.com.
+    * Innovation IS POSSIBLE &mdash; an Impossible City can incorporate new products as they emerge on the market, such as
       * new models of electric bikes, scooters, etc.
       * scooters and bicycles that can autonomously reposition themselves from where they are left to where they are needed. (Companies like Tortoise and Uber are working on autonomous scooters.[^dickey])
       * small vehicles that are fully self-driving, like self-driving wheelchairs, go-karts, or other single-person vehicles
@@ -1996,7 +1996,7 @@ The idea of having **no stairs** and **no elevators** sounds crazy to most peopl
 
 However, if you run the numbers, and run simulations, it turns out that getting rid of elevators and stairs works out just fine. Instead of making it harder to get places, having no elevators makes it **faster** to get between any two random locations. 
 
-The kinematic city **ramp-only** design:
+The Impossible City **ramp-only** design:
 * is faster and more convenient for people in wheelchairs, and people with strollers
 * is faster for everybody else too
 * works better for delivery robots
@@ -2154,7 +2154,7 @@ tan(27 degrees) = 0.51 => 51% grade = 51 foot rise per 100 foot run
   | People per<br>square mile | City | Land area<br>square feet<br>per person 
   |-:|:-|-:|
   |  85,829 | Central Paris[^crawford]                  |   325 | 
-  | **78,874** | **Kinematic City Proposal**<br>(density of city districts, sans greenbelt)    |   353 |
+  | **78,874** | **Impossible City Proposal**<br>(density of city districts, sans greenbelt)    |   353 |
   |  71,340 | Manhattan, New York[^wiki_manhattan]      |   391 | 
   |  68,376 | J.H.Crawford's _Carfree Cities_ Reference Design<br>(density of city districts, sans greenbelt)[^crawford]  |   408 | 
   |  52,593 | Paris[^wiki_paris]                        |   530 | 
@@ -2190,7 +2190,7 @@ tan(27 degrees) = 0.51 => 51% grade = 51 foot rise per 100 foot run
   |-:|-:|:-
   |     0.3[^bertaud] |        | US suburbs
   |                   |   0.41 | San Francisco
-  |                ~  |    1.7 | Proposed kinematic city
+  |                ~  |    1.7 | Proposed Impossible City
   |     3.5[^bertaud] |        | Historical Paris
   | 4 to 10[^bertaud] | 3 to 7[^densityatlas] | Manhattan residential
   |      15[^bertaud] |     10 | Manhattan office buildings
@@ -2573,7 +2573,7 @@ There are established public-sector mechanisms for funding development projects,
 
 ### <a name="notes"></a>Notes
 
-**TODO:** include on this web page some animated images of traffic simulations for the kinematic city design, maybe somewhat like the SUMO simulation output images on this page:
+**TODO:** include on this web page some animated images of traffic simulations for the Impossible City design, maybe somewhat like the SUMO simulation output images on this page:
 [sidewalk-talk](https://medium.com/sidewalk-talk/https-medium-com-sidewalk-talk-street-sim-33da7e1a8ffb)
 
 
