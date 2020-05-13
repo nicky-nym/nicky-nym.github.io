@@ -2171,10 +2171,6 @@ TODO: display as graph instead of table?
 
 ### <a name="far"></a>Floor area ratio
 
-```
-TODO: display as graph instead of table?
-```
-
   |---
   | FAR<sub>parcel</sub> | FAR<sub>overall</sub> | Place
   |-:|-:|:-
