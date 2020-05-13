@@ -1343,9 +1343,37 @@ existing big cities, but those are the places where all the land is already priv
 
 **Yes.** The Impossible City plans are designed with existing technology in mind, and with an eye toward simple, affordable technologies. It's about bicycles and water pipes, not about floating ocean domes and orbital towers.
 
+
+### <a name="where-could-we-build"></a>Where could we build an Impossible City?
+
+**Anywhere.** The Impossible City design would work equally well in either low-income countries or high-income countries. The design would also work in any of the wide range of climates where existing cities are located. Here are some ideas about [Hypothetical locations](#hypothetical-locations).
+
+
+### <a name="what-would-it-cost-to-build"></a>How much would it cost to build an Impossible City?
+
+**A fortune.** In a high-income country, building construction costs might be something like $300 per square foot, with perhaps 600 square feet per person. So that's about $200,000 per person, just for the construction of buildings, not counting land purchase costs, and not counting construction costs for infrastructure like sewers, dams, reservoirs, water treatment plants, airports, etc. Even in a low-income country, mid-rise building construction costs are likely to be at least $30 to $50 per square foot, with perhaps 150 square feet per person. That comes to at least $7,500 per person just for the construction of homes, shops and workplaces, not including land purchase and infrastructure construction.
+
+
+### <a name="how-many-people"></a>How many people would live in an Impossible City?
+
+**Anywhere from 50 thousand to 50 million people.** The Impossible City would work fine for a wide range of city sizes. The design does **not** make sense for small towns or villages, because the transportation system overhead is overkill for a town without any traffic problems. For cities of 50,000 or more the Impossible City design might offer some advantages over conventional designs. The Impossible City design begins to shine for cities of 4 million or more, offering better kinematic ranges than conventional cities. Impossible Cities with tens of millions of people would work well too, although they would need to also include subway systems or light rail systems.
+
+
+### <a name="how-much-indoor-space"></a>How much indoor space would people have?
+
+**A normal amount, but not cavernous mansions.** An Impossible City in California could have about the same amount of space per person as does a city like San Francisco, at roughly 600 square feet per person. An Impossible City in India could have an amount of space typical for that region, perhaps 150 square feet per person. But an Impossible City could **not** have a lot of cavernous mansions with thousands of square feet per person, because the transportation system would not work at those low population densities.
+
+
+
+### <a name="how-much-green-space"></a>How much green space would people have?
+
+**A typical city amount, but not a typical suburban amount.** An Impossible City in California could have about as much green space as does a city like San Francisco. But an Impossible City would **not** have single family houses each with their own front and back yards.
+
+
 ### <a name="could-we-transform"></a>Could we turn London or Paris into an Impossible City?
 
 **No.** Existing cities have a lot of physical infrastructure that's expensive to change. People can make incremental changes, like adding new roads or bridges, but it's not practical to change the fundamental layout and transportation network of an existing city.
+
 
 ### <a name="could-ideas-trickle-down"></a>Could Impossible City ideas trickle down to existing cities? 
 
