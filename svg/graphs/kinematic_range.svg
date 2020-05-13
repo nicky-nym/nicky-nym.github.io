@@ -299,7 +299,7 @@
         <text class="city-label" dx="-12" dy="28">Haxby Montana</text>
       </g>
 
-      <g transform="translate(600,-210)">
+      <g transform="translate(600,-160)">
         <circle r="5" fill="black"/>
         <text class="city-label" dx="9" dy="9">Singapore</text>
       </g>
