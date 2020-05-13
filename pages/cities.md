@@ -431,7 +431,7 @@ In practice, the result of faster travel times is not shorter commute times for 
 Good mobility is more important than it sounds. It's not just about making rush-hour traffic a little less tiresome. Beyond just convenience, better mobility and kinematic range bring serious changes to the entire metabolism of a city, and to the amount of **opportunity** and **prosperity** available to people.
 
 **For people**, having more destinations within reach means:
-  * more **job offers** that are close enough to commute to
+  * more **job offers** that are close enough to commute to &mdash; people are statistically more likely to work if they live closer to jobs, and they also have faster job searches and shorter stretches of joblessness[^kneebone]
   * more **friends** & **family** who are actually close enough to drop by
   * more **schools** to choose from, and more **special classes**
   * more **doctors** to choose from, and a wider variety of **specialists** available
@@ -2626,6 +2626,8 @@ There are established public-sector mechanisms for funding development projects,
 [^bliss]: ["Navigation Apps Changed the Politics of Traffic"](https://www.citylab.com/transportation/2019/11/future-of-transportation-traffic-navigation-apps-google-maps/601684/). Laura Bliss, _City Lab_. 12 November 2019.
 
 [^turbot]: ["Living Together, Happier Together"](https://newcities.org/blog-living-together-happier-together/). Sébastien Turbot, _NewCities_. 20 March 2019.
+
+[^kneebone]: ["The growing distance between people and jobs in metropolitan America"](https://www.brookings.edu/wp-content/uploads/2016/07/Srvy_JobsProximity.pdf). Elizabeth Kneebone and Natalie Holmes, _Metropolitan Policy Program at Brookings_. July 2016.
 
 
 
