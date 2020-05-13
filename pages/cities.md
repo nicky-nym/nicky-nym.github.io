@@ -506,12 +506,13 @@ Larger cities have more total destinations than smaller cities, but some destina
 Singapore and Dallas-Fort Worth have very different transportation networks, with very different kinematic ranges.
 
   |---
-  | Singapore |  | Dallas-Fort Worth
-  |:-:|:-:|:-:
-  | roughly 6 million | **population** | roughly 6 million
-  | 20,000<br>per square mile | **density** | 600<br>per square mile
-  | public transit | **main mode of<br>transportation** | cars
-  | 60 minutes | **time it takes<br>for two people<br>on opposite ends<br>to meet in the middle**[^velotopia] | 30 minutes 
+  | | Singapore  | Dallas-Fort Worth
+  | -:|:-:|:-:
+  | **population** | roughly 6 million | roughly 6 million
+  | **density** | 20,000<br>per square mile | 600<br>per square mile
+  | **main mode of<br>transportation** | mostly public transit | mostly cars
+  | **time it takes for two people on opposite ends to meet in the middle**[^velotopia] | 60 minutes | 30 minutes 
+  | **estimated 30-minute kinematic range** | 25%<br>of all city<br>destinations | 75%<br>of all city<br>destinations 
 
 
 
