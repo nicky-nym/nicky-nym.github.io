@@ -150,7 +150,7 @@ h3 {
           <li><a href="#kinematic_range">Kinematic range</a></li>
           <li><a href="#why-does-it-matter">Why does kinematic range matter?</a></li>
           <li><a href="#windfall">Kinematic windfall</a></li>
-          <li><a href="#density">Density & kinematic range</a></li>
+          <li><a href="#density-and-range">Density & kinematic range</a></li>
           <li><a href="#existing-cities">The kinematics of existing cities</a></li>
           <li><a href="#impossible">The "Impossible City" design proposal</a></li>
        </ul>
@@ -489,7 +489,7 @@ This superlinear growth seems to apply to the whole physical and social metaboli
 
 
 
-### <a name="density"></a>Density & kinematic range
+### <a name="density-and-range"></a>Density & kinematic range
 
 In low-density cities, there are fewer destinations within a given distance, so you have to travel farther to have the same kinematic range as you would in a high-density city. In theory, the low-density city could be less congested, so traffic might flow more smoothly, allowing faster speeds and longer distances in a given amount of time. In some cases it does work out that way, but there's a lot of variation, and low-density cities may or may not have good kinematic ranges. 
 
