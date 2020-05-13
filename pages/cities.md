@@ -150,6 +150,7 @@ h3 {
           <li><a href="#kinematic_range">Kinematic range</a></li>
           <li><a href="#why-does-it-matter">Why does kinematic range matter?</a></li>
           <li><a href="#windfall">Kinematic windfall</a></li>
+          <li><a href="#density">Density & kinematic range</a></li>
           <li><a href="#existing-cities">The kinematics of existing cities</a></li>
           <li><a href="#impossible">The "Impossible City" design proposal</a></li>
        </ul>
@@ -486,6 +487,16 @@ This superlinear growth seems to apply to the whole physical and social metaboli
 
 
 
+### <a name="density"></a>Density & kinematic range
+
+In low-density cities, there are fewer destinations within a given distance, so you have to travel farther to have the same kinematic range as you would in a high-density city. In theory, the low-density city could be less congested, so traffic might flow more smoothly, allowing faster speeds and longer distances in a given amount of time. In some cases it does work out that way, but there's a lot of variation, and low-density cities may or may not have good kinematic ranges. 
+
+Low density cities are susceptible to unfortunate feedback loops. Lower density means more suburban sprawl and longer travel distances, which means more total miles of car trips per day, which means that as the city density decreases, the total number of miles of road (and square footage of road) actually increases. If destinations are no longer close enough to have shared parking, then each destination needs it own parking lot, which takes up more space, which in turn leads to more pressure for even lower density further from the city center, which in turn creates more circulation overhead, more miles of road, and so on.
+
+Cities with high population density may or may not have better kinematic range than cities with lower population densities. If you're in a city with a high population, that means there are lots of people within a short distance of you, and lots of destinations within a short distance. But kinematic range is about time, not distance. Some very dense cities suffer from serious congestion, resulting in poor kinematic ranges.
+
+
+
 ### <a name="existing-cities"></a>The kinematics of existing cities
 
 Larger cities have more total destinations than smaller cities, but some destinations may be too far away for some people to get too. Denser cities have more destinations that are within a shorter distance, but in a congested city, even nearby destinations may take a long time to get to. In practice, different cities have very different kinematics.
@@ -499,6 +510,13 @@ Singapore and Dallas-Fort Worth have very different transportation networks, wit
   | 20,000<br>per square mile | **density** | 600<br>per square mile
   | public transit | **main mode of<br>transportation** | cars
   | 60 minutes | **time it takes<br>for two people<br>on opposite ends<br>to meet in the middle**[^velotopia] | 30 minutes 
+
+
+
+
+
+
+
 
 
 ### <a name="improvements"></a>Improving existing cities
@@ -609,17 +627,6 @@ It **seems** impossible, because cars **seem** like fast, long-range vehicles, a
 Cars **truly are** fast when they're on highways, but in cities cars are hugely inefficient and ineffective, requiring huge amounts of lane space per car, and traveling with high burst speeds but poor average speeds.
 
 Buses and trains **truly are** high-capacity and high-throughput when everyone on them is going from point A to point B. If you have a group of 50 people who are all gathered together (e.g., at a hotel) and who all need to go to the exact same place (e.g., an office or work site) at the same time, then a bus is a wonderfully efficient and effective choice. But in a city, if people are starting from a variety of different places (different apartment buildings on different blocks), and going to a variety of different places (schools, stores, offices), then buses turn out to have quite poor average throughput.
-
-```
-TODO:
-* <a name="feedback-loops"></a>**Feedback loops** will cause either vicious cycles and virtuous cycles in the amount of land area required for roads or other transportation networks.
-  * Suburban vicious cycle
-    * Suburban sprawl  ➔  longer roads  ➔  more circulation overhead
-  * Urban virtuous cycle
-    * Dense urban core  ➔  shorter distances  ➔  less overhead
-```
-
-
 
 
 
@@ -2562,12 +2569,6 @@ There are established public-sector mechanisms for funding development projects,
 
 
 
-
-
-### <a name="size"></a>Size & density
-
-  * **Bigger may not be better.** Big cities, with more people, have more destinations to go to, and have a wider variety of destinatations. But, if there's too much congestion, it may take too long to get to the other side of town, so that limits your kinematic range. Your range doesn't cover the whole city, just the region of the city that's within 30 minutes of you.
-  * **Denser may not be better.** New York is much denser than Los Angeles, so there are more destinations per square mile in New York than there are in Los Angeles. But it takes longer to travel 10 miles in New York than in does in Los Angeles, so Los Angeles actually has a larger kinematic range than New York.
 
 
 
