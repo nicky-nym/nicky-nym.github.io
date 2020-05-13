@@ -2131,11 +2131,6 @@ tan(27 degrees) = 0.51 => 51% grade = 51 foot rise per 100 foot run
 
 ### <a name="density"></a>Density
 
-
-```
-TODO: display as graph instead of table?
-```
-
   |---
   | People per<br>square mile | City | Land area<br>square feet<br>per person 
   |-:|:-|-:|
