@@ -468,22 +468,24 @@ This superlinear growth seems to apply to the whole physical and social metaboli
 <object width="1200" height="700" data="../svg/graphs/superlinear.svg"></object>
 
 
-    > "The study finds that when inventors move from a smaller to a large cluster, 
-    > they experience increases in both the number of patents they generate and 
-    > the impact of those patents, based on their subsequent citations. For example, 
-    > a computer scientist who moves from the median cluster to a cluster at the 
-    > 75th percentile in size would experience a 12 percent increase in productivity, 
-    > while an inventor in biology and chemistry doing the same would see an 8.4 
-    > percent productivity gain. Overall, a just a 10 percent increase in the size 
-    > of a cluster leads to a 0.66 percent increase in the number of patents produced 
-    > by a top inventor each year."[^florida]
+  > "The study finds that when inventors move from a smaller to a large cluster, 
+  > they experience increases in both the number of patents they generate and 
+  > the impact of those patents, based on their subsequent citations. For example, 
+  > a computer scientist who moves from the median cluster to a cluster at the 
+  > 75th percentile in size would experience a 12 percent increase in productivity, 
+  > while an inventor in biology and chemistry doing the same would see an 8.4 
+  > percent productivity gain. Overall, a just a 10 percent increase in the size 
+  > of a cluster leads to a 0.66 percent increase in the number of patents produced 
+  > by a top inventor each year."[^florida]
 
-    > "Third, the clustering of high-tech inventors brings real benefits to the American 
-    > economy as a whole. ... [Enrico Moretti] estimates that the U.S. would produce 
-    > about 11 percent fewer patents each year under such a scenario. The country would 
-    > see a roughly 15 percent annual decline in semiconductor patents, a 13 percent 
-    > decline in computer science, and a 10 percent decline in biology and chemistry, 
-    > if the geography of inventors was more equal."[^florida]
+
+
+  > "Third, the clustering of high-tech inventors brings real benefits to the American 
+  > economy as a whole. ... [Enrico Moretti] estimates that the U.S. would produce 
+  > about 11 percent fewer patents each year under such a scenario. The country would 
+  > see a roughly 15 percent annual decline in semiconductor patents, a 13 percent 
+  > decline in computer science, and a 10 percent decline in biology and chemistry, 
+  > if the geography of inventors was more equal."[^florida]
 
 
 
@@ -756,6 +758,21 @@ A city should provide for a good life for the people who live in it and work in 
 
 > Prud'homme and Lee's paper, titled "Size, Sprawl, Speed and the Efficiency of Cities," shows that productivity per worker is closely correlated to the average number of jobs per worker that are reachable in less than 60 minutes. In Korean cities, a 10 percent increase in the number of jobs accessible per worker corresponds to a 2.4 percent increase in workers' productivity.[^bertaud]
 
+
+> People who live closer to jobs are more likely to work. They also
+> face shorter job searches and spells of joblessness.
+> Proximity to employment proves particularly important to certain kinds 
+> of workers and residents. For instance, the duration of joblessness among black, 
+> female, and older workers tends to be more sensitive to job accessibility than 
+> it is for other kinds of workers. For poor residents, living closer to
+> jobs increases the likelihood of working and leaving welfare.
+> Proximity matters for lower-income, lower-skill workers in particular because 
+> they tend to be more constrained by the cost of housing and commuting. 
+> They are more likely to face spatial barriers to employment, thus their job 
+> search areas tend to be smaller and commute distances shorter.10 In contrast, 
+> higher-income, higher-skill workers, who can afford to commute by car and 
+> exercise more choice in where they work and live, have more prospects than 
+> just the jobs near their neighborhoods and commute longer distances on average.[^kneebone]
 
 
 ### <a name="freedom"></a>Freedom, independence & agency
