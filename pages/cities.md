@@ -1639,16 +1639,16 @@ The idea of building Impossible Cities might be worth studying as a candidate in
   * concerned with the motion of bodies, and their range of motion
 
 * **kinematic range (KR)<a name="glossary:kinematic-range"></a>**
-  * TODO: 
+  * as a measure of urban mobility, the number of destinations (jobs, schools, friends) that you can get to in a given amount of time
 
 * **kinematic range<sub>30-minute</sub> (KR<sub>30</sub>)<a name="glossary:KR30"></a>**
-  * TODO: 
+  * the number of destinations you can get to in 30 minutes of travel time
 
 * **land value capture<a name="glossary:land-value-capture"></a>**
-  * TODO: ???
+  * any method whereby a city or other community arranges to fund infrasucture development (such as a subway system) by recovering and reinvesting the increases in land value that result from public investment
 
 * **limited equity housing co-op<a name="glossary:limited-equity-housing-co-op"></a>**
-  * TODO: ???
+  * a type of co-op building, owned collectively by the residents, available only to low-income or moderate-income buyers, at below-market buy-in prices, and with restrictions on resale that limit the profit that members can make when they sell
 
 * **long tail<a name="glossary:long-tail"></a>**
   * On Amazon, some popular books, like Harry Potter books, sell lots of copies. An obscure book may sell almost no copies, but there are **lots** of different obscure books, and togther the obscure titles sell more copies than the popular ones. Some statistical distributions, like the one that describes Amazon book sales, have a "long tail", which means that the uncommon items, when taken together, end up being just as significant as the common items, or more so. If a book seller sold **all** the popular titles but no unpopular ones, they would be failing to meet **most** of the demand for books. Similarly, if the city bus routes go to all of the popular destinations, but nowhere else, then they fail to meet most of the demand for mobility. <span class="minor">(Picture by <a href="http://www.haykranen.nl/">Hay Kranen</a>.)</span>
