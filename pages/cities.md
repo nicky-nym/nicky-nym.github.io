@@ -3,7 +3,7 @@ permalink: /cities/
 ---
 # <a name="0"></a>Impossible Cities
 
-This paper outlines a summer 2020 design proposal for building car-free cities.
+This paper outlines a design proposal for building car-free cities, circa 2020.
 
 1. **Streets designed for mobility &mdash; better design choices** 
   * This proposal hinges on a re-design of what a city street looks like, to try to get less congestion, twice the average speed, and twice the total throughput (compared to, say, Manhattan New York). See <a href="#1">chapter 1</a>.
@@ -474,18 +474,10 @@ This superlinear growth seems to apply to the whole physical and social metaboli
   > a computer scientist who moves from the median cluster to a cluster at the 
   > 75th percentile in size would experience a 12 percent increase in productivity, 
   > while an inventor in biology and chemistry doing the same would see an 8.4 
-  > percent productivity gain. Overall, a just a 10 percent increase in the size 
+  > percent productivity gain. Overall, just a 10 percent increase in the size 
   > of a cluster leads to a 0.66 percent increase in the number of patents produced 
   > by a top inventor each year."[^florida]
 
-
-
-  > "Third, the clustering of high-tech inventors brings real benefits to the American 
-  > economy as a whole. ... [Enrico Moretti] estimates that the U.S. would produce 
-  > about 11 percent fewer patents each year under such a scenario. The country would 
-  > see a roughly 15 percent annual decline in semiconductor patents, a 13 percent 
-  > decline in computer science, and a 10 percent decline in biology and chemistry, 
-  > if the geography of inventors was more equal."[^florida]
 
 
 
@@ -549,15 +541,15 @@ Someday, in the future, cities might also be able to improve kinematic range by 
 
 
 
-### <a name="colocation"></a>Co-location in not the answer
+### <a name="colocation"></a>Co-location is not the answer
 
 "Co-location" is one tempting approach for trying to improve urban traffic congestion problems. Co-location is the idea arranging places in the city so that people are naturally close to where they want to be, to make it so that they don't have to go as far to get to the places they want to go. 
 
-A real-world example of co-location would be a university or boarding school, where dorms, classrooms, cafeterias, and health-care services have all been place on a single campus, so that students can do most of the things they need to do without ever needing to leave campus.
+A real-world example of co-location would be a university or boarding school, where dorms, classrooms, cafeterias, and health-care services have all been placed on a single campus, so that students can do most of the things they need to do without ever needing to leave campus.
 
 In a city with mixed-use zoning, new developments could include a mix of housing, retail, offices, and light industrial space. People, could, in theory, live right next to where they work.
 
-This idea comes up surprisingly often in essays about new urbanism. Unfortuntely, co-location doesn't isn't actually practical in big cities. It would be practical, if each person only wanted to be connected to one "thing". If all you want is to be at university, then living at the university is practical. Or, if all you want to do in life is go to your job, then living near your office is practical. But in reality, most people are a lot more multi-faceted: they don't just have a job, they also have outside interests like book clubs & sports teams, and they have people in their life that they want to live with or see often, including parents, children, spouses, partners & friends. Most of these people are connected to other places: their own offices, schools, churches, etc. And each of these people has their own set of connected people, branching into a giant social network. Without severing these connections, there is no practical way to "sort" all the people into geographic regions, so that each person is always living near the places they want to get to.
+This idea comes up surprisingly often in essays about new urbanism. Unfortuntely, co-location isn't actually practical in big cities. It would be practical, if each person only wanted to be connected to one "thing". If all you want is to be at university, then living at the university is practical. Or, if all you want to do in life is go to your job, then living near your office is practical. But in reality, most people are a lot more multi-faceted: they don't just have a job, they also have outside interests like book clubs & sports teams, and they have people in their life that they want to live with or see often, including parents, children, spouses, partners & friends. Most of these people are connected to other places: their own offices, schools, churches, etc. And each of these people has their own set of connected people, branching into a giant social network. Without severing these connections, there is no practical way to "sort" all the people into geographic regions, so that each person is always living near the places they want to get to.
 
 Co-location in not the answer. Co-location is no substitute for mobility.
 
@@ -591,9 +583,9 @@ Given what we know about the cost and throughput of cars, buses, and rail, and g
 
 If we could plan a whole urban transportation network from scratch, what's the optimal mix of different transit modes? Which options are the most affordable, and which ones maximize personal mobility, speedy deliveries, and kinematic range?
 
-What follows is a design proposal for what I believe is a **simple**, **cheap**, **reliable**, **low-risk** transportation network that has **high throughput**, good **transit speed**, nearly **door-to-door** convenience, and takes up less space than roads, leaving more **land area** for parks and buildings.
+What follows is a design proposal for what I believe is a **simple**, **cheap**, **reliable**, **low-risk** city transportation network that has **high throughput**, good **transit speed**, nearly **door-to-door** convenience, and takes up less space than roads, leaving more **land area** for parks and buildings.
 
-The **Impossible City** is just one simple design for a more kinematic city. I'm not suggesting that this is the best design; rather, I'm putting it out as a *straw-man* proposal, in hopes that it might be a step in the right direction, and that it might spark conversation that leads to better ideas.
+The **Impossible City** is just one simple design for a more kinematic city and its transportation network. I'm not suggesting that this is the best design; rather, I'm putting it out as a *straw-man* proposal, in hopes that it might be a step in the right direction, and that it might spark conversation that leads to better ideas.
 
 The Impossible design calls for:
 
@@ -738,7 +730,7 @@ By striving for simplicity, these new designs avoid using lots of "fragile" tech
 * **Durable** & **reliable** 
   - The Impossible design is a more reliable design, because it has fewer parts that can break, and fewer parts that need power sources. It has a transportation system that can be run by human power alone, if necessary. That's one of the advantages of getting rid of all the traffic lights, buses, subway cars, automobiles, taxis, elevators, escalators, delivery drones, etc.
 
-  > "even when a [New York City subway] station has an elevator, workers have struggled to keep them working properly. Only about 94 percent of elevators were available in August, according to the transit agency. The rate is worse for escalators -- 87 percent were working." [^fitzsimmons]
+  > "Even when a [New York City subway] station has an elevator, workers have struggled to keep them working properly. Only about 94 percent of elevators were available in August, according to the transit agency. The rate is worse for escalators -- 87 percent were working." [^fitzsimmons]
 
 
 * **Resilient** 
@@ -770,7 +762,7 @@ A city should provide for a good life for the people who live in it and work in 
 > Proximity matters for lower-income, lower-skill workers in particular because 
 > they tend to be more constrained by the cost of housing and commuting. 
 > They are more likely to face spatial barriers to employment, thus their job 
-> search areas tend to be smaller and commute distances shorter.10 In contrast, 
+> search areas tend to be smaller and commute distances shorter. In contrast, 
 > higher-income, higher-skill workers, who can afford to commute by car and 
 > exercise more choice in where they work and live, have more prospects than 
 > just the jobs near their neighborhoods and commute longer distances on average.[^kneebone]
@@ -847,9 +839,9 @@ An Impossible City should be **safer** and more fun to live in.
   - faster 911 response time
   - freedom from harassment on buses & subways
 
-    > "over 1.35 million [traffic] deaths and up to 50 million injuries occur every year, with 90% of these fatalities occurring in low- and middle-income countries" [^road-safety]
+    > "Over 1.35 million [traffic] deaths and up to 50 million injuries occur every year, with 90% of these fatalities occurring in low- and middle-income countries" [^road-safety]
 
-    > below 18 mph "pedestrians are more likely to survive being hit by a car than die, while at higher speeds the reverse is true" [^levinson]
+    > Below 18 mph "pedestrians are more likely to survive being hit by a car than die, while at higher speeds the reverse is true" [^levinson]
 
     > "Small changes in speed have big impacts on fatality rates: a person is 70 percent more likely to be killed by a car moving at 30 mph versus 25 mph." [^ng]
 
@@ -1431,7 +1423,7 @@ An Impossible City could have a traditional city government structure, or it cou
       * restaurants
       * variety of business services available (meaning, how long the "long tail" of the city is)
 
-    > "... it's illuminating to ask how many different types of businesses there are in a city. ...
+    > "It's illuminating to ask how many different types of businesses there are in a city. ...
     > The data confirm that diversity systematically increases with population size. ... 
     > an extrapolation of the data strongly suggests that if we could measure diversity to 
     > the finest possible resolution it would scale logarithmically with city size."[^scale] &mdash; Geoffrey West
@@ -1837,9 +1829,9 @@ Brisbane Baylands has slightly more land area than Treasure Island, and there's 
 
 Brisbane Baylands already has a private land owner and private developer that want to build on it. It could be a great location for a kinematic district, but only if the voters in Brisbane wanted denser development, which they don't.
 
-### Standford University, California
+### Stanford University, California
 
-The Standford University campus, at 13 square miles, is more than an order of magnitude larger than Treasure Island and would be a candidate for a new Impossible City district. It's also already situated in a developed urban area, with good connectivity to highways 101 and 280, Caltrain, and two existing international airports. And, unlike Treasure Island, it's not surrounded by water, which means all the area immediately around it falls into its kinematic range.
+The Stanford University campus, at 13 square miles, is more than an order of magnitude larger than Treasure Island and would be a candidate for a new Impossible City district. It's also already situated in a developed urban area, with good connectivity to highways 101 and 280, Caltrain, and two existing international airports. And, unlike Treasure Island, it's not surrounded by water, which means all the area immediately around it falls into its kinematic range.
 
 But for Stanford to work as a location, people would have to be willing to tear down some of what's already built there. And the whole project would only be possible in some very like scenario where the city of Palo Alto were willing welcome hundreds of thousands of new neighbors, with all the strain that would bring on already congested highways, airports, and train lines.
 
@@ -2238,6 +2230,27 @@ tan(27 degrees) = 0.51 => 51% grade = 51 foot rise per 100 foot run
 
 ## <span class="chapter">Source material, chaper 2</span>
 
+### <a name="range"></a>Kinematic range
+
+  * In **San Francisco**, if you are able-bodied and travel by bicycle or public transit, but you do not use a car, then in 30 minutes you can probably get from almost any building in the city to almost any room in any other building in the city. But without a car, there are fairly few places you can get to outside the city limits within 30 minutes. The buildings in San Franicsco have a total of about 540 million square feet of floorspace, and your **KR<sub>30</sub>** might be about **450 million square feet**, which is about 50-thousand-fold higher than your range in Haxby.
+  
+  * **Wurster Hall** is a building on the campus of the University of California, Berkeley. It's a fairly typical mid-rise building, with a normal mix of offices, meeting rooms (classrooms), and open plan work spaces. Most of the floorspace is in the wider base in the first three floors, but there's a narrower tower that's ten stories tall. The building has a total of about 225,000 square feet of floorspace, and within 2 minutes you can go between almost any two points in the building, so that's a 2-minute Kinematic Range, **KR<sub>2</sub>**, of **225,000 square feet**.
+  
+  * On the **UC Berkeley campus**, traveling by foot, it takes about 25 minutes to walk between two buildings at opposite ends of the main campus. If it takes another 2 minutes to get from the lobby door of a building to a top-floor room, and vice-versa, that means any two rooms on the whole campus are within a 29-minute range. If the campus has about 10 million square feet of floorspace<sup>[citation needed]</sup>, then your **KR<sub>30</sub>** would be about **10 million square feet**.  
+
+  * In the **US Pentagon building**, it is possible to walk between any two points in less than seven minutes. The Pentagon has 6.6 million square feet of floorspace, so that's a **KR<sub>7</sub>** of **6.6 million square feet**.[^wiki_pentagon] 
+
+
+
+### <a name="windfall"></a>Kinematic windfall
+
+  > "Third, the clustering of high-tech inventors brings real benefits to the American 
+  > economy as a whole. ... [Enrico Moretti] estimates that the U.S. would produce 
+  > about 11 percent fewer patents each year under such a scenario. The country would 
+  > see a roughly 15 percent annual decline in semiconductor patents, a 13 percent 
+  > decline in computer science, and a 10 percent decline in biology and chemistry, 
+  > if the geography of inventors was more equal."[^florida]
+
 ### <a name="bicycles"></a>Bicycles
 
 > We see that bicycles provide a much higher road capacity at speeds below 15 km/h than any other mode of transport.[^bertaud]
@@ -2249,17 +2262,6 @@ tan(27 degrees) = 0.51 => 51% grade = 51 foot rise per 100 foot run
 ### <a name="small_cars"></a>Small cars
 
 > By contrast, compared to the motorcycle, compact Smart car performance (except for energy use) in terms of road capacity is not much better than that of an ordinary car. ... The width of the vehicle, not its length, is the important parameter to consider when trying to reduce street area consumption.[^bertaud]
-
-### <a name="small_cars"></a>Kinematic range
-
-  * In **San Francisco**, if you are able-bodied and travel by bicycle or public transit, but you do not use a car, then in 30 minutes you can probably get from almost any building in the city to almost any room in any other building in the city. But without a car, there are fairly few places you can get to outside the city limits within 30 minutes. The buildings in San Franicsco have a total of about 540 million square feet of floorspace, and your **KR<sub>30</sub>** might be about **450 million square feet**, which is about 50-thousand-fold higher than your range in Haxby.
-  
-  * **Wurster Hall** is a building on the campus of the University of California, Berkeley. It's a fairly typical mid-rise building, with a normal mix of offices, meeting rooms (classrooms), and open plan work spaces. Most of the floorspace is in the wider base in the first three floors, but there's a narrower tower that's ten stories tall. The building has a total of about 225,000 square feet of floorspace, and within 2 minutes you can go between almost any two points in the building, so that's a 2-minute Kinematic Range, **KR<sub>2</sub>**, of **225,000 square feet**.
-  
-  * On the **UC Berkeley campus**, traveling by foot, it takes about 25 minutes to walk between two buildings at opposite ends of the main campus. If it takes another 2 minutes to get from the lobby door of a building to a top-floor room, and vice-versa, that means any two rooms on the whole campus are within a 29-minute range. If the campus has about 10 million square feet of floorspace<sup>[citation needed]</sup>, then your **KR<sub>30</sub>** would be about **10 million square feet**.  
-
-  * In the **US Pentagon building**, it is possible to walk between any two points in less than seven minutes. The Pentagon has 6.6 million square feet of floorspace, so that's a **KR<sub>7</sub>** of **6.6 million square feet**.[^wiki_pentagon] 
-
 
 ### Congestion
 
