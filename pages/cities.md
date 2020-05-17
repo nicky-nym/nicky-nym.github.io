@@ -414,8 +414,7 @@ In practice, the result of faster travel times is not shorter commute times for 
     * In **San Francisco**, there are lots of places to go, but there's a lot of congestion. In 30 minutes you can reach hundreds of thousands of homes, offices, and stores, with perhaps **500,000,000 square feet of floorspace**.  San Francisco has a kinematic range that's about 50 thousand times larger than Haxby, Montana.
 
 
-<object width="1200" height="700" data="../svg/graphs/kinematic_range.svg"></object>
-
+<object width="1200" height="700" data="../svg/graphs/kinematic_range.svg"></object> (source: [^kneebone])
  
 
 <!--
@@ -979,7 +978,7 @@ This whole Impossible Cities proposal is all about trying to reduce that kinemat
 
 As the world adds more and more large cities and megacities, kinematic lag becomes a bigger and bigger problem, kinematic range becomes more important, and design ideas like the Impossible City design become more important.
 
-<object width="1200" height="700" data="../svg/graphs/kinematic_lag.svg"></object>
+<object width="1200" height="700" data="../svg/graphs/kinematic_lag.svg"></object> (source: [^kneebone])
 
 > "Contrary to common perception, megacities have not been driving global
 > growth for the past 15 years. In fact, many have not grown faster than their host
