@@ -6,8 +6,8 @@ permalink: /cities/
 This paper outlines a design proposal for building car-free cities, circa 2020.
 
 1. **Streets designed for mobility &mdash; better design choices** 
-  * This proposal hinges on a re-design of what a city street looks like, to try to get less congestion, twice the average speed, and twice the total throughput (compared to, say, Manhattan New York). See <a href="#1">chapter 1</a>.
-2. **Mobility for prosperity, not for speed**
+  * This proposal hinges on a re-design of what a city street looks like, to try to get less congestion, twice the average travel speed, and twice the total throughput (compared to, say, Manhattan New York). See <a href="#1">chapter 1</a>.
+2. **Mobility for prosperity, not for faster commutes**
   * The main goal of the new design is to increase urban mobility. However, non-intuitively, the benefit is **not** faster commutes, but is instead higher wages & more social opportunities, as well as higher land values & better investment return rates. See <a href="#2">chapter 2</a>.
 3. **Beyond mobility &mdash; better cities & better outcomes**
   * The main goal is better mobility, but the design has a variety of other potential upsides. Cities like this should be greener, cleaner, fairer, safer, simpler, and more reliable & resilient. See <a href="#3">chapter 3</a>.
@@ -145,7 +145,7 @@ h3 {
     </div>
     <div>
       <details>
-        <summary><a href="#2">2. Mobility for prosperity, not for speed</a></summary>
+        <summary><a href="#2">2. Mobility for prosperity, not for faster commutes</a></summary>
         <ul>
           <li><a href="#kinematic_range">Kinematic range</a></li>
           <li><a href="#why-does-it-matter">Why does kinematic range matter?</a></li>
@@ -396,7 +396,7 @@ A variety of small vehicles can be used for different types of emergency respons
 
 <div class="hr"><a name="2"></a></div>
 
-## <span class="chapter">_Chapter 2_ &mdash; Mobility for prosperity, not for speed</span>
+## <span class="chapter">_Chapter 2_ &mdash; Mobility for prosperity, not for faster commutes</span>
 
 The [impossible streets](#1) & intersections are designed to yield **faster travel times** and **higher throughput**, compared to conventional streets in cities like San Francisco or New York.
 
