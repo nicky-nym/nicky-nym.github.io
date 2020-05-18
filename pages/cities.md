@@ -416,9 +416,11 @@ In practice, the result of faster travel times is not shorter commute times for 
 
 <object width="1200" height="700" data="../svg/graphs/kinematic_range.svg"></object> 
 
+<!--
 |               |
 |:-------------:|
 | _kinematic range data_: [^kneebone] |
+-->
 
 
 <!--
@@ -984,9 +986,11 @@ As the world adds more and more large cities and megacities, kinematic lag becom
 
 <object width="1200" height="700" data="../svg/graphs/kinematic_lag.svg"></object> 
 
+<!--
 |               |
 |:-------------:|
 | _kinematic range data_: [^kneebone] |
+-->
 
 > "Contrary to common perception, megacities have not been driving global
 > growth for the past 15 years. In fact, many have not grown faster than their host
