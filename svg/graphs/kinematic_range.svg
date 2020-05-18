@@ -90,6 +90,7 @@
       <tspan x="-200" dy="40" font-size="32">destinations in</tspan>
       <tspan x="-200" dy="40" font-size="32">30-minute radius</tspan>
       <tspan x="-200" dy="40" font-size="32">(jobs, shops, people)</tspan>
+      <tspan x="-200" dy="50" font-size="32" fill="#267CB9"><a href="../../cities/#fn:kneebone">source</a></tspan>
     </text>
 
     <g class="additions">
