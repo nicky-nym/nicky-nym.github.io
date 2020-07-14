@@ -288,8 +288,8 @@ The result is:
   | **air quality** | good | _really_ good
   | **noise levels** | noisier | quieter<br><span class="minor">(see [noise](#noise))</span>
   |  | <a name="area"></a><span class="h3">Land area & real estate</span> | 
-  | **roads for cars** | 17% of land area (2,450 acres)[^manjoo] | 
-  | **off-street parking for cars** | 7% of land area (1,000 acres)[^manjoo] | 
+  | **roads for cars** | 17% of land area _(2,450 total acres in Manhattan[^manjoo])_ | 
+  | **off-street parking for cars** | 7% of land area _(1,000 total acres in Manhattan[^manjoo])_ | 
   | **floorspace** | no real estate floorspace in street | 680,000 square feet of floor space per mile
 
 
