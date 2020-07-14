@@ -287,7 +287,9 @@ The result is:
   | **private vehicle costs**<br>annual dollars per capita | $1,000<br>_mostly for cars_<br>_about 1 car per 10 people_ | $1,000<br>_mostly for bicycles, e-bikes, mopeds, scooters, etc._<br>_about 1 vehicle per person_
   | **air quality** | good | _really_ good
   | **noise levels** | noisier | quieter<br><span class="minor">(see [noise](#noise))</span>
-  |  | <a name="costs"></a><span class="h3">Real estate</span> | 
+  |  | <a name="area"></a><span class="h3">Land area & real estate</span> | 
+  | **parking for cars** | 7% of land area (1,000 acres)[^manjoo] | 
+  | **roads for cars** | 17% of land area (2,450 acres)[^manjoo] | 
   | **floorspace** | no real estate floorspace in street | 680,000 square feet of floor space per mile
 
 
@@ -2638,6 +2640,8 @@ There are established public-sector mechanisms for funding development projects,
 [^bertaud]: _[Order without Design](https://mitpress.mit.edu/books/order-without-design): How Markets Shape Cities_, by Alain Bertaud
 
 [^gsdg]: ["Global Street Design Guide"](https://nacto.org/publication/global-street-design-guide/). _National Association of City Transportation Officials (NACTO)_.
+
+[^manjoo]: ["I've Seen a Future Without Cars, and It's Amazing"](https://www.nytimes.com/2020/07/09/opinion/sunday/ban-cars-manhattan-cities.html?login=email&auth=login-email). Farhad Manjoo, _New York Times_. 9 July 2020.
 
 [^nacto]: ["Blueprint for Autonomous Urbanism"](https://nacto.org/publication/bau2/), Second Edition. _National Association of City Transportation Officials (NACTO)_.
 
